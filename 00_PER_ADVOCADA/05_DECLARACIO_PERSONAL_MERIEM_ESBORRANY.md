@@ -224,6 +224,24 @@ El que em fa especialment mal de la carta de Jordi es que no te en compte el gre
 
 **Annexos a citar:** documentacio d'assistencia psicologica nomes si l'advocada ho considera necessari i proporcional; testimonis de persones a qui Meriem va demanar ajuda o consell en aquell periode; missatges o notes que acreditin recerca de solucions, sobrecarrega o voluntat de reconduir la situacio.
 
+### 9A. Impacte Sobre L'Equip I Canvi De Dinamica
+
+Un punt que considero important explicar es que, durant molt temps, jo vaig absorbir molts dels problemes de coordinacio amb Jordi. Sovint intentava parlar-ho jo, reconduir-ho jo o adaptar-me jo, de manera que altres persones no haguessin d'entrar tant en el conflicte o en el seguiment directe. Despres de parlar amb Adam i Pablo, vaig deixar d'assumir jo sola tots aquests problemes i vaig intentar que cadascu pogues expressar directament el que veia o el que necessitava.
+
+Aixo va fer que Isa comences a intervenir mes en reunions o canals de coordinacio, no perque s'hagues creat cap consigna contra Jordi, sino perque jo vaig deixar de fer de filtre de totes les incidencies. Isa tambe estava vivint la situacio amb molt malestar: els retards, ajornaments i discussions de criteri afectaven directament la seva feina de maquetacio, muntatge de cursos i seguiment. Segons el que ella em comunicava, tambe li afectava personalment veure que sempre haviem d'acabar corrent o reorganitzant-nos per tasques que no arribaven quan tocava.
+
+Tambe em va afectar molt veure com Jordi acusa Isa pels seus comentaris, quan la meva vivencia es que ella no va començar a parlar mes fins que jo vaig deixar d'assumir tota la tensio sola. Per tant, no comparteixo la idea que les intervencions d'Isa acreditin un tracte hostil organitzat contra Jordi. Per mi, acrediten mes aviat que el problema ja no podia quedar concentrat nomes en mi i que altres persones afectades van començar a expressar el seu propi malestar operatiu.
+
+Respecte de Pablo, la meva vivencia es que ell intentava reconduir la situacio i, en certa manera, protegir o salvar la relacio amb Jordi, encara que tambe veia que moltes de les incidencies que comentavem eren reals. Tambe percebia que estava cansat que els terminis no es complissin i que l'equip ho estigues passant malament. El fet que Jordi ara el presenti negativament a la carta em resulta especialment doloros, perque jo vaig viure que Pablo intentava parlar amb ell i buscar una sortida.
+
+La situacio em va afectar fins al punt que fins i tot vaig tenir tensio personal amb Pablo per com s'estava gestionant tot. Aixo ho explico perque jo estimo i respecto molt Pablo, i si va arribar a generar-se un conflicte entre nosaltres va ser per la pressio i el desgast que la situacio amb Jordi estava provocant en l'equip. No era un problema superficial ni una simple discrepancia de feina.
+
+Arran de la carta, tambe sento una responsabilitat molt gran cap als meus companys. Em fa mal el que Jordi diu de mi, pero tambe em fa mal el que diu d'Isa, Pablo, Adam i de l'empresa. Jo puc entendre que Jordi tingues problemes personals o familiars, i que durant anys PrisMa fos per a ell un espai de desfogament, conversa i suport. Pero que la relacio canviés i que jo deixes de poder ocupar aquell lloc no significa que jo, els meus companys o l'empresa siguem responsables de tot el seu malestar.
+
+Per a mi, una part del que em costa assumir es que Jordi presenta el seu relat com si ell no hagues tingut cap responsabilitat en el deteriorament de la relacio laboral. La meva vivencia es diferent: hi havia retards, manca de resposta, discussions de criteri, ajornaments i una dificultat creixent per parlar de feina sense que tot es convertis en un greuge personal. Aixo no vol dir negar el seu malestar, pero tampoc acceptar que tota la responsabilitat recaigui sobre mi o sobre l'equip.
+
+**Annexos a citar:** testimonis d'Isa, Pablo i Adam sobre el canvi de dinamica; actes de reunions on Isa intervé mes; proves de retards/replanificacions que afecten Isa i Meriem; testimoni de Pablo sobre intents de reconduir la situacio; declaracio personal de Meriem sobre el conflicte intern generat per la pressio.
+
 ### 9B. Com He Viscut L'Acusacio De "Bully"
 
 Quan Jordi em qualifica de "bully", ho visc com una acusacio molt greu. No nomes per la paraula en si, sino perque jo he lluitat sempre contra aquest tipus de conductes i perque, en aquest cas, sento que s'esta reinterpretant tota una relacio de suport, adaptacions i intents de coordinacio com si fos una campanya de maltractament.
