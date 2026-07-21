@@ -165,6 +165,8 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 3. Adam va dir que Meriem era responsable de marketing i que Jordi havia de seguir aquests criteris?
    - Resposta recollida: si. Adam va dir que Meriem era la responsable de marketing i que Jordi havia de seguir aquests criteris en aquest ambit.
 4. Hi va haver escridassada, insults o expressions vexatories?
+   - Resposta recollida de Meriem: no hi va haver insults ni expressions vexatories. Meriem reconeix que podia parlar amb un to elevat, pero ho diferencia d'un tracte vexatori. Posteriorment, en una reunio amb Pablo i Adam, Pablo li va traslladar que Jordi havia indicat que no li agradava que Meriem parles/crides amb aquell to. Meriem indica que, a partir d'aquell moment, va controlar expressament el to i va passar a parlar mes baix.
+   - A validar amb Adam/Pablo/Isa: si recorden insults o expressions vexatories; si recorden que el problema era el to; si recorden que Meriem va modificar la manera de parlar despres.
 5. Adam va oferir a Jordi parlar en privat en alguna ocasio i Jordi va preferir fer-ho davant de Meriem i Isa?
 6. En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o pagaments en negre?
 7. Com ho va viure Adam i qui era present?

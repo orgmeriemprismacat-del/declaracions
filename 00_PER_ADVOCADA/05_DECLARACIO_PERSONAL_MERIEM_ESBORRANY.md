@@ -54,7 +54,9 @@ Quan li demanava que corregis un text respectant unes regles de SEO o marketing,
 
 En la reunio del 05/12/2024, segons el meu record, el conflicte va sorgir precisament per un mailing. Jo i Isa defensavem que el text havia de ser clar i facil de llegir, perque un mailing massa enrevessat no compleix l'objectiu comercial. Jordi insistia en un criteri de redaccio que jo no considerava adequat per a aquell canal. Finalment, Adam va aclarir que jo era la responsable de marketing i que, en aquest ambit, Jordi havia de seguir el criteri que jo marques.
 
-**Annexos a citar:** JASOM, exemples de mailing, converses de marketing, acta o testimonis del 05/12/2024 si existeixen.
+Reconec que en aquella conversa podia parlar amb un to alt. Es el meu to habitual en situacions de tensio o quan intento defensar un criteri professional, pero no vaig insultar Jordi ni vaig utilitzar expressions vexatories. Quan posteriorment Pablo i Adam em van traslladar que Jordi havia viscut negativament aquest to, vaig intentar controlar-lo expressament i parlar mes baix en les interaccions posteriors.
+
+**Annexos a citar:** JASOM, exemples de mailing, converses de marketing, acta o testimonis del 05/12/2024 si existeixen, testimoni de Pablo/Adam sobre el comentari posterior relatiu al to.
 
 ### 4B. Criteris De Correccio No Documentats
 

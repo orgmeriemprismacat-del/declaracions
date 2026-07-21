@@ -681,11 +681,15 @@ Meriem indica que va explicar que no qüestionava el criteri de correccio de Jor
 
 Resposta recollida: si. Adam va dir que Meriem era l'encarregada de marketing i que Jordi havia de seguir els criteris que ella marques en aquest ambit.
 
+Sobre si hi va haver escridassada, insults o expressions vexatories, Meriem indica que no hi va haver insults ni expressions vexatories. Si que reconeix que podia parlar amb un to elevat en una conversa tensa sobre criteris professionals. Segons Meriem, en una reunio posterior amb Pablo i Adam, Pablo li va traslladar que Jordi havia indicat que no li agradava que Meriem parles o crides amb aquell to. Meriem indica que, a partir d'aquell moment, va controlar expressament el to i va passar a parlar mes baix.
+
 **Formulacio defensable:**
 
 El conflicte del 05/12/2024 s'hauria de presentar com una discrepancia professional de criteris entre correccio lingüistica i marketing, no com un episodi de persecucio personal. El punt central no era si la redaccio de Jordi era correcta en abstracte, sino si era adequada per a un mailing comercial i per als objectius de marketing de PrisMa.
 
 La intervencio d'Adam, segons la informacio aportada, no consistia a permetre un maltractament, sino a delimitar responsabilitats: Meriem era responsable de marketing i, en aquest ambit, els criteris comercials i de SEO havien de prevaldre sobre una redaccio mes extensa o literaria.
+
+Si l'advocada considera rellevant el to de la conversa, es pot reconeixer que Meriem podia parlar amb un to elevat, pero diferenciant-ho de forma clara d'insults, expressions vexatories o desqualificacions personals. Tambe es pot aportar com a element favorable que, un cop se li va traslladar que aquest to incomodava Jordi, Meriem va intentar corregir-lo.
 
 **Proves/testimonis:**
 
@@ -693,6 +697,8 @@ La intervencio d'Adam, segons la informacio aportada, no consistia a permetre un
 - Captures del 04/12/2024 sobre el conflicte previ de xarxes i correccions.
 - Testimoni de Meriem i Isa sobre la discrepancia de criteris.
 - Confirmacio d'Adam sobre la seva presencia i sobre la instruccio final.
+- Testimoni de Pablo/Adam sobre el comentari posterior relatiu al to.
+- Testimoni de Meriem sobre el canvi posterior de conducta comunicativa.
 - Acta del 05/12/2024, si existeix.
 
 **Cautela:**
