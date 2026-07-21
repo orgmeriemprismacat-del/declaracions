@@ -291,3 +291,26 @@ Per tant, l'existencia d'autories pendents no acredita automaticament retard sal
 **Cautela:**
 
 No negar l'existencia d'autories pendents si consten. El punt defensable es separar-les de la nomina laboral i evitar que es presentin com a prova directa de discriminacio salarial sense comparar naturalesa juridica, dates de meritacio, gestio i pagament.
+
+## 16. Autories: Absencia De Situacio Comparable Amb La Resta De Treballadors
+
+**Pregunta:** La resta de treballadors tenien situacions comparables d'autoria o no?
+
+**Resposta recollida:** No.
+
+**Formulacio defensable:**
+
+Segons la informacio recollida, la resta de treballadors no tenien una situacio comparable a la de Jordi pel que fa a autories o rebuts pendents. Per tant, no es pot comparar automaticament el tractament d'aquests imports amb les nomines ordinàries de la plantilla ni utilitzar aquesta comparacio com a prova directa de discriminacio laboral.
+
+Si hi ha imports pendents d'autoria, cal revisar-los i tractar-los per la seva propia naturalesa: autoria, rebut, factura, criteri de meritacio, calendari de liquidacio o acord especific. Pero aquesta revisio ha d'anar separada del pagament de salari ordinari i de la comparativa amb treballadors que no tenien autories equivalents.
+
+**Proves/testimonis:**
+
+- Adam/comptabilitat.
+- Gestoria.
+- Registre d'autories o rebuts de Jordi.
+- Confirmacio que la resta de treballadors no tenien autories/rebuts comparables.
+
+**Cautela:**
+
+No usar aquest punt per negar imports si existeixen. El punt defensable es que la comparacio amb la resta de treballadors no es homogenea si aquests no tenien una situacio equivalent d'autoria.

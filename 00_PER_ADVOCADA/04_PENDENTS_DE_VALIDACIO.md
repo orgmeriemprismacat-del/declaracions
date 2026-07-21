@@ -33,7 +33,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Confirmar si hi ha rebuts d'autoria pendents, dates de gestio i criteris de pagament.
 - Confirmar si els rebuts/autories de Jordi gestionats al setembre de 2025 sumen aproximadament 4.000 euros i si consten fora del contracte laboral.
 - Confirmar la naturalesa juridica i comptable d'aquests imports: autoria, rebut, factura, liquidacio trimestral o una altra figura.
-- Confirmar si altres treballadors estaven en situacio comparable abans de parlar de discriminacio.
+- Segons resposta preliminar, la resta de treballadors no tenien situacions comparables d'autoria; confirmar-ho amb Adam/comptabilitat abans de parlar de discriminacio.
 - Confirmar amb comptabilitat si, quan hi va haver retards, aquests van afectar tota la plantilla i no nomes Jordi.
 - Preparar comparativa per mesos: data de pagament de Jordi i data de pagament de la resta de treballadors.
 

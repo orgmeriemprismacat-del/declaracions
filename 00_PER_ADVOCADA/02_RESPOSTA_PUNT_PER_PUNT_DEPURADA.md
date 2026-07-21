@@ -426,6 +426,8 @@ Segons la informacio recollida, si hi va haver retards en pagaments o nomines, a
 
 Pel que fa a autories o rebuts, segons la informacio recollida si que hi hauria imports pendents, gestionats per Jordi al setembre de 2025, amb un import total aproximat d'uns 4.000 euros. Aquest punt s'ha de tractar separadament de la nomina i del contracte laboral, ja que aniria vinculat a autories/rebuts fora de la relacio laboral ordinaria. Per tant, no es pot convertir automaticament en prova d'impagament salarial o tracte discriminatori sense revisar la naturalesa del deute, els documents, les dates de gestio i els criteris de pagament.
 
+Segons la informacio recollida, la resta de treballadors no tenien situacions comparables d'autoria. Això impedeix comparar automaticament els rebuts d'autoria de Jordi amb la nomina ordinaria de la resta de la plantilla. Si hi ha imports d'autoria pendents, s'han de revisar com a deute o gestio diferenciada, pero no com a indici directe de discriminacio salarial respecte de persones que no tenien autories equivalents.
+
 **Proves**
 
 - Nomines.
@@ -434,11 +436,13 @@ Pel que fa a autories o rebuts, segons la informacio recollida si que hi hauria 
 - Intranet de gestio de pagaments.
 - Extractes comptables, si escau.
 - `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
+- Confirmacio que la resta de treballadors no tenien autories/rebuts comparables.
 
 **Validacio pendent**
 
 - Adam, comptabilitat, gestoria i advocada.
 - Confirmar import exacte dels rebuts/autories pendents, data de gestio, data de venciment i si consten fora del contracte laboral.
+- Confirmar documentalment si la resta de treballadors tenien o no situacions d'autoria comparables.
 
 ## Punt 19. Acusacio De "Bully"
 

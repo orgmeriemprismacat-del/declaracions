@@ -55,6 +55,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 5. Jordi va presentar rebuts fins a 1.000 euros per feina extra? Quan? Es van pagar?
 6. Des del 2023, quins rebuts d'autoria consten gestionats, pendents o pagats?
 7. La resta de treballadors tenien situacions comparables d'autoria o no?
+   - Resposta preliminar de Meriem: no; pendent de confirmacio d'Adam/comptabilitat.
 8. Com s'hauria de respondre a l'acusacio de tracte discriminatori en pagaments?
 
 ## 5. Acomiadaments, Cristina I Decisions Empresarials
