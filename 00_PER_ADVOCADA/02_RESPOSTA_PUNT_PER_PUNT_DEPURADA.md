@@ -70,7 +70,9 @@ No queda acreditat que Adam o PrisMa donessin a Jordi una data concreta i tancad
 
 L'ampliacio de jornada tampoc es plantejava com un increment automatic sense noves funcions. Incloia la tutoritzacio del curs de CAT de Jordi, l'assumpcio de cursos de PrisMa sense autoria per reduir despesa externa, i la creacio de cursos per a Mirada Pedagogica amb l'objectiu de generar ingressos recurrents.
 
-Aquest context tambe es rellevant respecte de Meriem: segons la informacio aportada, Meriem donava suport a buscar una formula viable per ampliar la jornada de Jordi, va parlar-ne amb ell i va mirar opcions perque l'ampliacio pogues sortir a compte per a l'empresa. Aixo contradiu una lectura de persecucio o voluntat de perjudicar-lo.
+Aquest context tambe es rellevant respecte de Meriem. Segons la informacio aportada, Meriem donava suport a buscar una formula viable per ampliar la jornada de Jordi, va parlar-ne amb ell i va mirar opcions perque l'ampliacio pogues sortir a compte per a l'empresa.
+
+La imatge d'una actitud continuadament hostil per part de Meriem no resulta coherent amb aquest antecedent. Si queda confirmat per Adam/Pablo o per altres testimonis, el fet que Meriem defenses internament l'ampliacio de jornada de Jordi fins a vuit hores, coneixent la situacio economica i personal que ell exposava, contradiu la presentacio d'una voluntat sostinguda de perjudicar-lo o sotmetre'l a un tracte advers. Aquest antecedent no exclou que posteriorment hi poguessin haver discrepancies professionals, tensions o comunicacions fermes sobre terminis i tasques, pero si serveix per descartar una lectura de persecucio sostinguda.
 
 **Proves**
 
@@ -83,6 +85,7 @@ Aquest context tambe es rellevant respecte de Meriem: segons la informacio aport
 
 - Adam ha de confirmar exactament que es va prometre o no, i en quins termes.
 - Confirmar que no existeixen correus, WhatsApps o actes sobre aquestes converses.
+- Confirmar si Adam/Pablo poden validar que Meriem va defensar o recolzar internament l'ampliacio de jornada.
 
 **Cautela**
 
@@ -602,12 +605,15 @@ Jordi qualifica Meriem de "bully".
 
 Es tracta d'una acusacio greu que requereix fets concrets, dates, missatges i context. La documentacio disponible mostra comunicacions laborals sobre tasques, terminis, coordinacio, correccions i replanificacions, aixi com adaptacions i comunicacions cordials. Una relacio laboral tensionada, amb comunicacions fermes o reduccio de la proximitat informal, no equival per si sola a bullying o mobbing.
 
+Com a element contextual addicional, la imatge d'una hostilitat continuada per part de Meriem queda debilitada si es confirma que, en el periode previ, ella va defensar internament l'ampliacio de jornada de Jordi i va intentar buscar una formula viable perque aquesta ampliacio fos possible. Aixo no elimina possibles discrepancies professionals posteriors, pero no encaixa amb una voluntat sostinguda d'aillar-lo, perjudicar-lo o tractar-lo adversament.
+
 **Proves**
 
 - Comunicacions directes cordials i operatives.
 - Adaptacions de terminis.
 - Missatges on Meriem pregunta per salut, conciliacio o disponibilitat.
 - Proves de replanificacions i impacte sobre Meriem/Isa.
+- Testimoni de Meriem, Adam i Pablo sobre el suport de Meriem a l'ampliacio de jornada, si es confirma.
 
 **Cautela**
 

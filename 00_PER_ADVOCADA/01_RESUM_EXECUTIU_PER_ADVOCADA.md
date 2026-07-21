@@ -6,6 +6,8 @@ Aquest dossier prepara una resposta ordenada a la carta de Jordi, en la qual for
 
 La posicio que es proposa defensar no es negar que Jordi hagi pogut viure malestar, ansietat o dificultats personals. El punt central es que la documentacio disponible no acredita, en els termes en que ell ho formula, una conducta sistematica de maltractament psicologic, aillament o desestabilitzacio per part de Meriem, Isa, Pablo, Adam o PrisMa.
 
+Com a element contextual rellevant, segons la informacio recollida Meriem va defensar internament que es busques una formula viable per ampliar la jornada de Jordi fins a vuit hores. Si Adam/Pablo ho confirmen, aquest antecedent contradiu la presentacio d'una voluntat sostinguda de perjudicar-lo o tractar-lo adversament. No elimina possibles discrepancies professionals posteriors, pero si ajuda a diferenciar conflicte laboral i comunicacions fermes d'una conducta persecutoria.
+
 ## Linia General De Contestacio
 
 La carta de Jordi barreja fets, records, percepcions personals, judicis sobre altres companyes, discrepancies organitzatives, questions economiques, salut, baixes mediques i decisions empresarials. Moltes afirmacions son valoracions subjectives o conclusions greus sense concrecio suficient de dates, missatges, persones intervinents o documents.

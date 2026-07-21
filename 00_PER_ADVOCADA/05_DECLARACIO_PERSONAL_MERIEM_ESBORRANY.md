@@ -10,6 +10,14 @@ No pretenc valorar el seu estat de salut ni negar que ell hagi pogut sentir male
 
 ## Fets Que Puc Declarar De Primera Ma
 
+### 0. Suport A L'Ampliacio De Jornada De Jordi
+
+En relacio amb l'afirmacio que jo mantenia una actitud hostil o una voluntat de perjudicar Jordi, vull deixar constancia que aquesta percepcio no s'ajusta a la meva actuacio global. En el seu moment vaig defensar internament que se li pogues ampliar la jornada a vuit hores, coneixent les dificultats economiques i personals que ell mateix m'havia explicat i buscant opcions perque aquesta ampliacio fos viable per a PrisMa.
+
+Posteriorment hi va haver discrepancies professionals, especialment sobre terminis, organitzacio, correccions i impacte dels retards en la feina de l'equip. Pero aquestes discrepancies no responien a cap voluntat de perjudicar-lo, sino a la necessitat de garantir que les tasques sortissin dins els terminis i que la resta de persones poguessin treballar amb previsio.
+
+**Annexos a citar:** testimoni de Meriem, Adam i Pablo si confirmen aquest extrem; respostes de direccio sobre jornada completa i noves tasques; documents de Woffu/context economic si l'advocada ho considera necessari.
+
 ### 1. Comunicacio Amb Jordi
 
 No es cert que la comunicacio amb Jordi fos nomes a traves de reunions, xats grupals o correus amb copia a l'equip. Vaig mantenir comunicacions directes amb ell per Google Chat, WhatsApp, correu i canals de feina. En aquestes comunicacions hi havia avisos, consultes, correccions, replanificacions, preguntes sobre disponibilitat i tambe converses cordials o personals.

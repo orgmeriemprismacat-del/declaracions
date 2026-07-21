@@ -64,6 +64,17 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 **A validar:** seleccionar nomes captures proporcionals i necessaries.
 
+## C2. Context Sobre L'Ampliacio De Jornada I Absencia De Voluntat Hostil
+
+- Testimoni de Meriem sobre el suport intern a l'ampliacio de jornada de Jordi.
+- Confirmacio pendent d'Adam i Pablo sobre aquest suport i sobre les condicions economiques/organitzatives de l'ampliacio.
+- Respostes de direccio recollides a `00_PER_ADVOCADA/09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
+- Documents Woffu i context economic/subvencio ACOS-TICS, si l'advocada ho considera necessari.
+
+**Punts que acredita:** aquest bloc no prova per si sol totes les comunicacions posteriors, pero serveix per contradir la idea d'una voluntat sostinguda de perjudicar Jordi per part de Meriem.
+
+**A validar:** si no hi ha prova escrita, presentar-ho com a testimoni/context confirmable per Adam, Pablo i Meriem.
+
 ## D. Trello, No-Reply I Organitzacio De Correccions
 
 - Correu Meriem 06/02/2025 explicant l'automatitzacio de Trello.

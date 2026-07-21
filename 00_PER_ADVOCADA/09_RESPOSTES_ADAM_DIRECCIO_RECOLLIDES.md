@@ -176,13 +176,19 @@ Meriem no actuava contra l'ampliacio de jornada de Jordi. Al contrari, segons la
 
 **Formulacio defensable:**
 
-Aquest context contradiu una lectura segons la qual Meriem tingues una actitud de persecucio o voluntat de perjudicar Jordi. En aquest punt concret, Meriem intentava trobar una solucio favorable per a Jordi i viable per a PrisMa.
+La imatge d'una actitud continuadament hostil per part de Meriem no resulta coherent amb aquest antecedent. Si Adam/Pablo ho confirmen, el fet que Meriem defenses internament l'ampliacio de jornada de Jordi fins a vuit hores, coneixent la situacio economica i personal que ell exposava, contradiu la presentacio d'una voluntat sostinguda de perjudicar-lo o sotmetre'l a un tracte advers.
+
+Aquest antecedent no exclou que posteriorment hi poguessin haver discrepancies professionals, tensions o comunicacions fermes sobre terminis i tasques, pero si serveix per descartar una lectura de persecucio sostinguda. En aquest punt concret, Meriem intentava trobar una solucio favorable per a Jordi i viable per a PrisMa.
 
 **Proves/testimonis:**
 
 - Meriem.
 - Pablo.
 - Adam, pendent de confirmacio.
+
+**Cautela:**
+
+Si no es localitza prova escrita, formular aquest punt com a testimoni/context confirmable per Adam, Pablo i Meriem, no com a prova documental tancada.
 
 ## 11. Permis De Paternitat: No Consta Peticio Formal De Canvi Per Necessitats De L'Empresa
 
