@@ -268,6 +268,8 @@ Tambe em passa que, quan una situacio em supera, tendeixo a bloquejar o apartar 
 
 Actualment, despres de la carta de Jordi i de les acusacions formulades, he tornat a necessitar suport psicologic. Aquest fet tambe forma part de l'impacte que m'ha generat veure reinterpretada tota una relacio de suport i adaptacio com si hagues estat una conducta d'assetjament per part meva.
 
+Vull deixar constancia que prefereixo no haver d'entrar en detall sobre com m'ha afectat personalment aquesta situacio, perque no ho porto be i em resulta especialment doloros. Ho explico nomes en la mesura que l'advocada consideri necessari per contextualitzar la meva actuacio i l'impacte que la situacio tambe va tenir sobre mi. Criticar o discutir la meva feina es una cosa que puc abordar en un pla professional; entrar en el que m'ha afectat personalment, en la meva salut o en el meu patiment es una altra cosa molt diferent. Per aquest motiu, demano que aquesta informacio es tracti amb especial reserva i que nomes s'aporti externament si es imprescindible i proporcional.
+
 **Annexos a citar:** documentacio psicologica o medica nomes si l'advocada ho considera necessari i proporcional; testimonis de persones a qui Meriem va demanar ajuda; captures on Meriem dona marge, pregunta per salut/familia o escriu de manera operativa; proves de conflictes de marketing/SEO; missatges o cronologies que ajudin a reconstruir episodis bloquejats o recordats parcialment.
 
 ### 9A. Impacte Sobre L'Equip I Canvi De Dinamica
