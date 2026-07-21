@@ -276,14 +276,17 @@ Jordi afirma repetidament que les tasques eren inassumibles.
 
 Es tracta d'una valoracio subjectiva que cal contrastar amb la carrega real assignada. La documentacio disponible mostra que altres membres de l'equip assumien carrega elevada i transversal, i que diverses tasques de Jordi requerien seguiment, replanificacio o redistribucio.
 
+Per evitar una resposta simplista, convé diferenciar entre l'inventari historic de tasques de Jordi i la carrega concreta de 2025 abans de la baixa. Segons Meriem, entre 2022 i 2025, en diferents moments i pendent d'acotar per anys, Jordi corregia o revisava mailings, guies, lectures, activitats, qüestionaris, devolucions, campus, campanyes, slides, textos web, missatges comercials, articles d'Educat, curriculums, comunicats i criteris linguistics puntuals. En 2024 tambe revisava publicacions, stories i reels d'Instagram i Facebook. Aquest inventari no acredita per si sol que la carrega fos inassumible; serveix per delimitar quins blocs de feina existien i quins s'han de provar per dates.
+
 Pel 2025, el recull intern situa la feina principal de Jordi abans de la baixa en aquests blocs:
 
 - Correccio de mailings.
 - Correccio de xarxes.
 - Quatre tastets previstos, dels quals Meriem indica que nomes se n'hauria completat un.
 - Cursos TSA, MPIA i GUST.
+- Redaccio, com a novetat, dels subtitols i textos destacats dels videos de presentacio de MPIA, GUST i TSA.
 
-Sobre GUST, cal afegir que no es tractaria d'un curs creat des de zero per Jordi. Segons Meriem, GUST era un curs muntat o substancialment preparat, i les proves de campus mostren materials previs creats per l'autor. Aquesta conclusio s'ha de presentar nomes si queda validada amb Trello, actes, campus, seguiments i Woffu.
+Meriem indica que els subtitols/textos destacats d'ALBUM i CANVA els va fer ella, no Jordi. Sobre GUST, cal afegir que no es tractaria d'un curs creat des de zero per Jordi. Segons Meriem, GUST era un curs muntat o substancialment preparat, i les proves de campus mostren materials previs creats per l'autor. Aquesta conclusio s'ha de presentar nomes si queda validada amb Trello, actes, campus, seguiments i Woffu.
 
 Pel periode gener-juny de 2025, que Jordi vincula a una carrega especialment inassumible pels tres cursos, el resum Woffu preparat mostra:
 
@@ -305,6 +308,8 @@ També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. E
 - Seguiments TSA, MPIA i GUST.
 - Proves dels tastets previstos i dels tastets efectivament completats.
 - Captures de campus/materials previs de GUST.
+- Proves sobre subtitols/textos destacats dels videos MPIA, GUST, TSA, ALBUM i CANVA, per delimitar que va fer Jordi i que va fer Meriem.
+- Proves historiques 2022-2025 sobre mailings, guies, lectures, activitats, qüestionaris, devolucions, campus, campanyes, slides, textos web, missatges comercials, articles Educat, curriculums, comunicats i criteris linguistics puntuals.
 - Woffu.
 - `55_resum_woffu_semestres_2024_2025.md`.
 - Captures Woffu mensuals gener-juny 2025.
@@ -312,7 +317,9 @@ També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. E
 **Validacio pendent**
 
 - Revisar que no hi hagi altres blocs substancials no inclosos.
+- Acotar per anys exactes l'inventari historic 2022-2025.
 - Validar documentalment que els quatre tastets estaven assignats a Jordi i que nomes un consta completat.
+- Validar documentalment que Jordi va fer subtitols/textos destacats de MPIA, GUST i TSA, i que ALBUM/CANVA els va fer Meriem.
 - Validar amb campus/actes/seguiment que GUST ja estava muntat o amb materials previs de l'autor.
 - Validar amb gestoria/advocada la interpretacio de saldos administratius, vacances, absencies i hores compensades.
 

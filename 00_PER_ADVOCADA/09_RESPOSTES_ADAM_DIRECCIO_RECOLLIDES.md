@@ -532,8 +532,9 @@ Segons la informacio aportada per Meriem, abans de la baixa les tasques principa
 - Correccio de xarxes.
 - Quatre tastets que havia de fer, dels quals nomes n'hauria completat un.
 - Cursos TSA, MPIA i GUST.
+- Redaccio, com a novetat, dels subtitols i textos destacats dels videos de presentacio de MPIA, GUST i TSA.
 
-Sobre GUST, Meriem indica que era un curs muntat o substancialment preparat, no un curs creat des de zero per Jordi. Aquesta dada s'ha de relacionar amb les captures del campus/materials previs de l'autor i amb les actes en que es parla de petites correccions, calendari i replanificacions.
+Meriem indica que els subtitols/textos destacats d'ALBUM i CANVA els va fer ella. Sobre GUST, Meriem indica que era un curs muntat o substancialment preparat, no un curs creat des de zero per Jordi. Aquesta dada s'ha de relacionar amb les captures del campus/materials previs de l'autor i amb les actes en que es parla de petites correccions, calendari i replanificacions.
 
 **Formulacio defensable:**
 
@@ -549,9 +550,54 @@ El fet que GUST ja tingues materials previs o estes muntat/substancialment prepa
 - Seguiments TSA, MPIA i GUST.
 - Captures de campus i materials previs de GUST.
 - Proves dels tastets previstos i dels tastets completats.
+- Proves de subtitols i textos destacats dels videos MPIA, GUST i TSA.
+- Proves que ALBUM i CANVA els va fer Meriem.
 - Woffu gener-juny 2025.
 - Testimoni de Meriem i Isa sobre impacte de retards, replanificacions i tasques assumides posteriorment.
 
 **Cautela:**
 
 No utilitzar la frase "Jordi no va fer res mes" com a afirmacio tancada. Per a l'advocada, es millor formular-ho com a inventari documental revisat: "amb la documentacio revisada fins ara, la feina principal identificada es..." i deixar obert que direccio validi si hi havia algun altre bloc menor o puntual.
+
+## 25. Inventari Historic De Tasques 2022-2025
+
+**Pregunta:** Quines tasques havia fet Jordi en anys anteriors i com s'han d'integrar en el relat?
+
+**Resposta recollida:**
+
+Segons Meriem, entre 2022 i 2025, en diferents moments i pendent d'acotar per anys, Jordi tambe corregia o revisava:
+
+- Mailings.
+- Guies, lectures, activitats, qüestionaris, devolucions i campus.
+- Campanyes, slides, textos web i missatges comercials.
+- Articles d'Educat.
+- Curriculums, comunicats i criteris linguistics puntuals.
+
+En 2024, a mes, revisava publicacions, stories i reels d'Instagram i Facebook.
+
+En 2025, com a novetat, hauria redactat els subtitols i textos destacats dels videos de presentacio de MPIA, GUST i TSA. Meriem indica que els d'ALBUM i CANVA els va fer ella.
+
+**Formulacio defensable:**
+
+Aquest inventari historic serveix per contextualitzar que Jordi feia tasques de correccio i revisio diverses, pero no acredita per si sol que existis una carrega inassumible. Per respondre a l'acusacio de tasques inassumibles cal separar:
+
+- Quines tasques existien historicament.
+- Quines tasques tenia assignades en cada periode concret.
+- Quines es van entregar, amb quins terminis i amb quines replanificacions.
+- Quines tasques van acabar assumint altres persones.
+- Quines hores, absencies, compensacions o vacances consten en Woffu.
+
+**Proves/testimonis:**
+
+- Actes 2022-2025.
+- Trello i completades.
+- Gmail, Moodle/campus i Google Chat sobre correccions.
+- Seguiments de cursos.
+- Captures o documents de campanyes, slides, textos web, articles Educat i missatges comercials.
+- Proves de xarxes 2024.
+- Proves de videos/subtitols/textos destacats 2025.
+- Testimoni de Meriem i Isa.
+
+**Cautela:**
+
+Cal acotar l'inventari per anys exactes abans de presentar-lo. Si no es pot provar cada bloc documentalment, formular-ho com a "segons el testimoni de Meriem i pendent de validacio documental".

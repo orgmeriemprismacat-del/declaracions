@@ -139,9 +139,13 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 ## 10. Tasques Reals De Jordi Des De 2023
 
 1. Quines tasques principals tenia Jordi el 2023?
+   - Resposta preliminar de Meriem, pendent d'acotar per anys: entre 2022 i 2025, en diferents moments, correccio de mailings, guies, lectures, activitats, qüestionaris, devolucions i campus; correccio de campanyes, slides, textos web i missatges comercials; articles d'Educat; curriculums, comunicats i criteris linguistics puntuals.
 2. Quines tasques principals tenia Jordi el 2024?
+   - Resposta preliminar de Meriem: continuava fent correccions de mailings i els blocs anteriors, i el 2024 tambe revisava publicacions, stories i reels d'Instagram i Facebook.
 3. Quines tasques principals tenia Jordi el 2025 abans de la baixa?
    - Resposta preliminar de Meriem: correccio de mailings, correccio de xarxes, quatre tastets que havia de fer pero dels quals nomes n'hauria fet un, i els cursos TSA, MPIA i GUST.
+   - En 2025, com a novetat, hauria redactat els subtitols i textos destacats dels videos de presentacio de MPIA, GUST i TSA.
+   - Meriem indica que els d'ALBUM i CANVA els va fer ella.
    - GUST no s'hauria de descriure com un curs creat de zero per Jordi: segons Meriem era un curs ja muntat o substancialment preparat, pendent de correccions/organitzacio.
    - Validar amb Trello, actes, campus, seguiments i Woffu.
 4. A banda de tres cursos, xarxes/mailings i tasques puntuals, consta algun altre bloc substancial de feina el 2025?
