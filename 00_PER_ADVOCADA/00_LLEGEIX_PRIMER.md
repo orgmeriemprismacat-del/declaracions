@@ -4,6 +4,8 @@ Aquest directori recull una versio depurada del dossier per facilitar la revisio
 
 > 🟨 **EVIDÈNCIA PENDENT:** aquesta marca identifica visualment qualsevol captura, document, testimoni o comprovacio que encara s'ha d'adjuntar, localitzar o validar.
 
+**Convencio per a captures:** quan una captura ja estigui disponible, s'ha d'inserir directament al document Markdown corresponent. El peu ha d'indicar el numero de figura, la data, una descripcio breu del que acredita i el nom exacte del fitxer dins la carpeta d'adjunts. Els documents extensos o externs es poden mantenir enllaçats, amb una referencia prou precisa per localitzar-los.
+
 ## Ordre Recomanat
 
 1. `01_RESUM_EXECUTIU_PER_ADVOCADA.md`

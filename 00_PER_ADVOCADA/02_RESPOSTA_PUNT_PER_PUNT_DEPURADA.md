@@ -326,19 +326,19 @@ El compliment posterior de diverses fites no s'ha d'atribuir automaticament a l'
 
 ![Google Chat del 21 de maig de 2025: Jordi planteja un dubte sobre una lectura de l'MPIA i Meriem respon en el mateix minut.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-06_2025-05-21_mpia-lectura-imatges-replantejar.png)
 
-*Figura SD-1. Google Chat directe, 21/05/2025. Consulta de Jordi sobre la lectura i les imatges de l'MPIA i resposta de Meriem en el mateix minut.*
+*Figura SD-1. Google Chat directe, 21/05/2025. Consulta de Jordi sobre la lectura i les imatges de l'MPIA i resposta de Meriem en el mateix minut. Fitxer adjunt: `CAP-GC-DIRECTE-CURSOS-2025-06_2025-05-21_mpia-lectura-imatges-replantejar.png`.*
 
 ![Google Chat del 2 de juny de 2025: Jordi proposa parlar de les imatges i Meriem respon que quan vulgui.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-03_2025-06-02_prioritza-mpia-abans-gust.png)
 
-*Figura SD-2. Google Chat directe, 02/06/2025. Jordi planteja parlar d'algunes qüestions de les imatges i Meriem s'ofereix a fer-ho quan vulgui.*
+*Figura SD-2. Google Chat directe, 02/06/2025. Jordi planteja parlar d'algunes qüestions de les imatges i Meriem s'ofereix a fer-ho quan vulgui. Fitxer adjunt: `CAP-GC-DIRECTE-CURSOS-2025-03_2025-06-02_prioritza-mpia-abans-gust.png`.*
 
 ![Google Chat del 2 de juny de 2025: Meriem diu que s'ho mira i truca Jordi.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-04_2025-06-02_trucada-cobertura.png)
 
-*Figura SD-3. Google Chat directe, 02/06/2025. Meriem revisa la qüestio i proposa trucar Jordi immediatament; la conversa deixa constancia dels problemes de cobertura.*
+*Figura SD-3. Google Chat directe, 02/06/2025. Meriem revisa la qüestio i proposa trucar Jordi immediatament; la conversa deixa constancia dels problemes de cobertura. Fitxer adjunt: `CAP-GC-DIRECTE-CURSOS-2025-04_2025-06-02_trucada-cobertura.png`.*
 
 ![Google Chat del 2 de juny de 2025: continuacio per WhatsApp a causa de la cobertura.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-05_2025-06-02_whatsapp-per-cobertura.png)
 
-*Figura SD-4. Google Chat directe, 02/06/2025. Davant els problemes de cobertura, Jordi proposa continuar per WhatsApp i Meriem hi accedeix en el mateix minut.*
+*Figura SD-4. Google Chat directe, 02/06/2025. Davant els problemes de cobertura, Jordi proposa continuar per WhatsApp i Meriem hi accedeix en el mateix minut. Fitxer adjunt: `CAP-GC-DIRECTE-CURSOS-2025-05_2025-06-02_whatsapp-per-cobertura.png`.*
 
 Aquest planning mostra una adaptacio organitzativa, no una actuacio d'acarnissament. Meriem va moure o concentrar tasques seves en caps de setmana o franges molt ajustades per donar marge a Jordi i intentar que Isa disposes de temps posterior per muntar els cursos. Si es valida amb actes, captures i testimonis, aquest fet contradiu la idea d'una pressio hostil dirigida contra Jordi: el que s'observa es una replanificacio compartida per sostenir el calendari i evitar que el projecte quedes bloquejat.
 
