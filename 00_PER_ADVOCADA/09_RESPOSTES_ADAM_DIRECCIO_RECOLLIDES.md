@@ -141,7 +141,34 @@ Segons la informacio recollida, PrisMa permetia a Jordi compensar hores amb desc
 - Registres de vacances/hores compensades.
 - Testimoni d'Adam/direccio.
 
-## 9. Implicacio De Meriem En L'Ampliacio De Jornada
+## 9. No Consten Hores Extres Imposades
+
+**Pregunta:** Hi ha algun registre on consti que l'empresa li obligava a fer hores extres o que ell les fes per imposicio?
+
+**Resposta recollida:** No. Segons la informacio aportada, mai es van imposar hores extres a Jordi.
+
+**Context rellevant:**
+
+La informacio recollida apunta mes aviat al patro contrari: quan Jordi deia que no podia arribar a una entrega o no podia assumir un termini, l'empresa i l'equip replanificaven dates o adaptaven l'organitzacio. En diverses ocasions, les informatiques van haver d'assumir l'impacte dels retards, canvis o entregues tardanes de Jordi, especialment quan les seves entregues condicionaven maquetacio, imatges, web, xarxes o altres tasques posteriors.
+
+**Formulacio defensable:**
+
+No consta cap registre que acrediti que PrisMa imposes a Jordi la realitzacio d'hores extres. El que s'ha de contrastar amb actes, Woffu, Trello i comunicacions es el patro invers: replanificacions, ampliacions de terminis i adaptacions de l'equip quan Jordi comunicava que no arribava o entregava tard. Per tant, les hores puntuals o saldos administratius de Woffu no poden presentar-se automaticament com a hores extres imposades sense prova concreta d'ordre empresarial, data, tasca i obligacio.
+
+**Proves/testimonis:**
+
+- Woffu.
+- Actes amb replanificacions de dates.
+- Trello i historials de canvis de dates.
+- Comunicacions on es mouen terminis o es diu que no treballi en cap de setmana.
+- Testimonis de Meriem, Isa, Pablo i Adam.
+
+**Validacio pendent:**
+
+- Adam hauria de confirmar que no hi ha cap ordre empresarial d'hores extres obligatories.
+- L'advocada hauria de revisar si cal aportar exemples concrets de replanificacio com GUST, TSA, ALBUM, xarxes i mailings.
+
+## 10. Implicacio De Meriem En L'Ampliacio De Jornada
 
 **Punt rellevant per contestar acusacions contra Meriem:**
 
@@ -157,7 +184,7 @@ Aquest context contradiu una lectura segons la qual Meriem tingues una actitud d
 - Pablo.
 - Adam, pendent de confirmacio.
 
-## 10. Octubre-Novembre 2023: Paternitat I Mes Concedit
+## 11. Octubre-Novembre 2023: Paternitat I Mes Concedit
 
 **Resposta recollida:**
 

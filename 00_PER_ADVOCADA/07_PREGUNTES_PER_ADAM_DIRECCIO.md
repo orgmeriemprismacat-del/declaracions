@@ -16,7 +16,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 2. Woffu, Hores, Vacances I Compensacions
 
-**Estat actual:** Meriem ha aportat respostes preliminars sobre criteri Woffu, gener-agost 2023, setembre 2023 i compensacio flexible d'hores. Vegeu `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
+**Estat actual:** Meriem ha aportat respostes preliminars sobre criteri Woffu, gener-agost 2023, setembre 2023, compensacio flexible d'hores i absencia de registres d'hores extres imposades. Vegeu `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 1. Com interpreta PrisMa/gestoria les hores de Woffu: el calcul correcte es `sortida - entrada - descansos`?
 2. Les icones d'hores compensatories indiquen hores ja restades o només incidencies administratives?

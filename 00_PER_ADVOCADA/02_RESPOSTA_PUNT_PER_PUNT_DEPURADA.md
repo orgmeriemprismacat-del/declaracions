@@ -14,6 +14,8 @@ Aquesta afirmacio no queda acreditada en aquests termes amb les dades de Woffu r
 
 Segons la informacio de direccio recollida, el setembre de 2023 va fer mes hores per una necessitat puntual vinculada a la subvencio d'ACOS i TICS i a la sortida dels cursos a l'octubre. Aquesta situacio no acredita que Jordi ja estes fent jornada completa des del juny ni que existis una promesa de jornada completa incondicionada.
 
+Tampoc consta cap registre on l'empresa imposes a Jordi la realitzacio d'hores extres. Segons la informacio recollida, quan Jordi deia que no podia arribar o no podia assumir un termini, l'empresa i l'equip sovint movien dates, replanificaven o absorbien l'impacte dels seus retards. Aquest context es rellevant per contestar la idea que les hores puntuals fossin fruit d'una imposicio empresarial.
+
 Per tant, no es pot presentar com a fet acreditat que Jordi treballes ja a jornada completa des de juny de 2023 ni que la mitja jornada fos estructuralment insuficient per si mateixa.
 
 **Proves**
@@ -21,6 +23,7 @@ Per tant, no es pot presentar com a fet acreditat que Jordi treballes ja a jorna
 - Resums Woffu 2023 preparats al dossier.
 - Captures Woffu incloses a `annexos_captures/WF_woffu_jordi/CAPTURES WOFFU/`.
 - Documents de treball sobre calcul Woffu: `48_analisi_woffu_jordi.md`, `54_resum_woffu_2023_per_declaracio.md`, `55_resum_woffu_2024_2025_per_declaracio.md`.
+- `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 **Validacio pendent**
 
@@ -120,6 +123,8 @@ Jordi vincula vacances acumulades i manca de descans amb un volum de tasques ina
 
 Les vacances acumulades s'han de contrastar amb Woffu, dies de permis, baixes, compensacions i descansos efectivament gaudits. El fet que hi hagi saldo acumulat no acredita per si sol pressio empresarial o mobbing. Tambe cal incorporar les ocasions en que l'empresa o companyes li van recomanar descansar, agafar vacances o prioritzar salut.
 
+En la mateixa linia, l'existencia d'hores puntuals o saldos de compensacio no acredita imposicio d'hores extres si no hi ha una ordre concreta de l'empresa. Cal diferenciar hores realment fitxades, saldos administratius, hores compensades i replanificacions acceptades.
+
 **Proves**
 
 - Woffu.
@@ -195,6 +200,8 @@ Pel periode gener-juny de 2025, que Jordi vincula a una carrega especialment ina
 - saldos administratius Woffu molt superiors al fitxatge net visible, pendents de validar amb gestoria/advocada.
 
 Aixo no nega que hi haguessin puntes de feina o moments de pressio. Pero si Jordi afirma que les tasques eren inassumibles, cal que concreti tasca, data, termini, hores reals i lliurable. Tambe cal contrastar-ho amb els dies en que constin vacances, hores compensades, absencies o reduccions de jornada efectiva dins el mateix periode. Si l'equip acredita que, malgrat els retards i replanificacions, Jordi es restava hores o gaudia de vacances/compensacions, aquest context contradiu una imatge de pressio continua sense descans.
+
+També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. En diversos episodis, el problema documentat no es que l'empresa imposes hores, sino que els retards o entregues tardanes de Jordi obligaven altres persones, especialment Meriem i Isa, a adaptar calendaris, assumir feina posterior amb menys marge o replanificar entregues.
 
 **Proves**
 

@@ -7,6 +7,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Confirmar amb gestoria/advocada el criteri exacte de calcul de jornada: `sortida - entrada - descansos`.
 - Confirmar com es reflecteixen les hores compensatories i si les icones o camps de Woffu indiquen hores ja restades.
 - Validar els totals de gener-maig 2023, juny-agost 2023 i setembre 2023.
+- Confirmar amb Adam que no existeix cap ordre, correu, acta o registre on PrisMa imposi a Jordi fer hores extres.
 - Preparar un resum signable o exportable de Woffu si l'advocada ho necessita.
 
 ## 2. Promesa De Jornada Completa

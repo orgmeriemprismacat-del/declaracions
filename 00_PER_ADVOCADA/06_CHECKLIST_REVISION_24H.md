@@ -75,6 +75,7 @@ Que `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md` quedi alineat amb tota la carta.
 - Revisar 2024 per semestres i 2025 gener-juny / juliol-desembre.
 - Confirmar amb Adam que no hi havia data concreta de jornada completa, sino possibilitat vinculada a subvencio ACOS/TICS.
 - Confirmar tasques noves previstes amb l'ampliacio: CAT, cursos sense autoria, reduccio de despesa externa i Mirada Pedagogica.
+- Confirmar amb Adam que no hi ha registre d'hores extres imposades i preparar 2-3 exemples documentats de replanificacions/adaptacions quan Jordi no arribava.
 
 **Serveix per contestar**
 

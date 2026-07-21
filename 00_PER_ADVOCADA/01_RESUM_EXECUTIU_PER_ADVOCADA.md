@@ -38,6 +38,8 @@ Segons les respostes de direccio recollides el 21/07/2026, tampoc es va donar a 
 
 Aquest punt s'ha de presentar com a informacio de direccio/testimoni, ja que no consten correus, WhatsApps o actes especifics sobre aquestes converses.
 
+Tampoc consta, segons la informacio recollida, cap registre d'hores extres imposades per l'empresa. La linia probatoria a desenvolupar es la contraria: quan Jordi no arribava o comunicava dificultats, sovint es movien dates o es replanificava, i l'impacte dels retards era assumit per altres persones de l'equip.
+
 ### 2. Comunicacions Directes Amb Meriem
 
 Jordi afirma que des de 2024 fins a 2026 les comunicacions amb Meriem eren practicament nomes en reunions, xats grupals o missatges amb copia a l'equip. Aquesta afirmacio no s'ajusta al conjunt de proves disponibles.
