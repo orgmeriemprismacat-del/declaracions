@@ -8,7 +8,31 @@ La meva declaracio se centraria en els fets que he viscut directament en la coor
 
 No pretenc valorar el seu estat de salut ni negar que ell hagi pogut sentir malestar. El que declaro es que no vaig actuar amb voluntat d'aillar-lo, humiliar-lo o desestabilitzar-lo, sino que vaig intentar gestionar tasques, terminis i dependencies laborals en un context de molta pressio organitzativa.
 
+En aquesta declaracio vull diferenciar clarament tres plans: els fets que he vist o viscut directament, la manera com aquests fets em van afectar personalment, i els punts que altres persones o documents podrien corroborar. Entenc que l'advocada haura de decidir que es convenient aportar i que s'ha de deixar nomes com a context intern.
+
 ## Fets Que Puc Declarar De Primera Ma
+
+### 0A. Relacio Previa Amb Jordi I Suport Sostingut
+
+Quan vaig entrar a PrisMa, Jordi ja formava part de l'equip. Durant anys la meva relacio amb ell no va ser una relacio d'hostilitat, sino mes aviat de proximitat, ajuda i proteccio. Jo l'apreciava i, en molts moments, vaig assumir un seguiment informal de la seva feina que excedia el que estrictament m'hauria correspost.
+
+Amb el temps vaig veure que, perque determinades tasques sortissin, no n'hi havia prou amb enviar-li un correu o indicar una data. Sovint calia recordar-li pendents, ajudar-lo a ordenar prioritats, quedar-me amb ell per revisar coses, explicar-li de nou criteris o adaptar la meva planificacio perque ell pogues arribar. Aquesta dinamica ja existia abans que jo tingues responsabilitats directives formals i es va agreujar amb el teletreball, perque la coordinacio presencial que permetia desbloquejar coses va desapareixer o es va reduir.
+
+Durant molt temps vaig intentar evitar que aquestes incidencies quedessin exposades davant de l'equip. Moltes converses es feien verbalment, al despatx o per canals directes, precisament per no fer-li un perjudici innecessari ni convertir cada retard o cada falta de resposta en un problema formal. Amb la perspectiva actual, entenc que aquesta manera de protegir-lo va deixar menys rastre documental del que hauria estat convenient, pero no vol dir que les adaptacions, recordatoris i ajudes no existissin.
+
+Per a mi es especialment doloros que ara es reconstrueixi tota la relacio com si sempre hagués volgut perjudicar-lo. Aquesta reconstruccio omet anys de suport, seguiment, adaptacions, converses directes i intents de facilitar-li la feina.
+
+**Annexos a citar:** testimonis d'Isa, Adam, Pablo i altres persones que recordin la dinamica previa; comunicacions directes; actes i proves de replanificacions; annexos sobre adaptacions de Meriem a Jordi.
+
+### 0C. El Que He Vist Directament En El Dia A Dia
+
+El que jo he vist directament durant anys es una dificultat recurrent per part de Jordi per mantenir una organitzacio autonoma i estable de les tasques. He vist tasques que quedaven pendents malgrat haver estat comentades; correccions que arribaven tard; correus, Trellos o xats sense resposta; dates que s'ajornaven; criteris que calia tornar a explicar; i situacions en que, si no hi havia un seguiment molt directe, la feina no avançava o avançava amb massa incertesa.
+
+Tambe he vist que aquesta incertesa no afectava nomes Jordi. Quan ell no contestava, no confirmava o no entregava, altres persones quedavem pendents: Isa no podia maquetar, jo no podia preparar imatges o programar comunicacions, Pablo no podia tancar determinats seguiments, i les tasques posteriors quedaven comprimides. Per tant, quan jo insistia o demanava concrecio, ho feia perque hi havia dependencies reals, no per una voluntat de controlar-lo o retreure-li coses sense motiu.
+
+Un altre element que he viscut es que, quan se li plantejaven problemes de coordinacio, sovint ell ho rebia com una qüestio personal. Aixo feia molt dificil parlar de feina, terminis o criteris sense que la conversa acabes convertida en un conflicte sobre com se sentia tractat. Aquesta dinamica em generava por, cansament i molta tensio, perque necessitava que la feina sortis pero alhora sentia que no se li podia dir res sense risc que ho interpretes com un atac.
+
+**Annexos a citar:** actes, Trello, WhatsApp, Google Chat, Woffu, seguiments de cursos, casos GUST/TSA/MPIA/ALBUM, testimonis d'Isa/Pablo/Adam.
 
 ### 0. Suport A L'Ampliacio De Jornada De Jordi
 
@@ -46,6 +70,16 @@ Aquesta sequencia es rellevant perque mostra que jo no vaig impedir el dialeg ni
 
 **Annexos a citar:** captures Google Chat directes, WhatsApp personal, correus individuals, captures Google Chat 10/04/2025 si l'advocada considera proporcional aportar-les, export WhatsApp personal `whatsapp_exports_raw/whatsapp_jordi_personal.txt` bloc 16/03/2025-17/03/2025, testimonis sobre comunicacions verbals i suport presencial.
 
+### 1B. Converses Personals I Absencia D'Aillament
+
+A mes de les comunicacions estrictament laborals, hi ha converses directes on jo li pregunto per qüestions personals o familiars, com la seva filla, la seva conciliacio o com estava portant determinades situacions. El 10/04/2025, per exemple, mentre parlavem de feina i d'un tema pendent de contestar, tambe li vaig preguntar per Irati i ell em va explicar que havia estat malalta, que l'havia deixat a la llar i que no disposava de xarxa familiar propera.
+
+Aquestes converses son rellevants perque Jordi afirma que les comunicacions amb mi eren nomes retrets, canals grupals o correus no-reply. No es aixi. Hi havia converses directes, amb to cordial, sobre feina i tambe sobre situacions personals. En aquestes converses jo no li exigia una resposta immediata ni el pressionava; al contrari, li deia que contestes quan pogues i que entenia que alguns temes requerien temps.
+
+Tambe hi ha converses on jo li explico que havia treballat de nit o que estava desbordada, i ell mateix reconeixia que jo estava carregant moltes coses. Aixo mostra que Jordi coneixia, almenys parcialment, la meva sobrecarrega i que la relacio no es pot reduir a una imatge d'hostilitat unilateral.
+
+**Annexos a citar:** captures Google Chat 10/04/2025; captures Google Chat 14/04/2025; export WhatsApp/Google Chat; annex de comunicacions directes.
+
 ### 2. Adaptacions I Organitzacio
 
 Durant molt temps vaig adaptar la meva manera de treballar a les necessitats de Jordi. Quan hi havia dificultats amb les correccions de xarxes, li vaig preguntar com preferia rebre els avisos i vaig intentar donar-li marge. Vaig crear automatitzacions de Trello per evitar duplicar correus manuals i perque rebés sempre la data i l'enllac de cada correccio.
@@ -54,6 +88,14 @@ Aquest sistema no es va crear per evitar parlar amb ell, sino per reduir una car
 
 **Annexos a citar:** correu 06/02/2025, resposta Jordi, exemple de no-reply, converses del 03/04/2025.
 
+### 2B. Recordatoris I Sistemes Pactats
+
+En el cas de xarxes i mailings, vaig intentar pactar amb Jordi un sistema que li dones marge: tenir les publicacions preparades a principis de setmana, avisar per correu en casos ordinaris, utilitzar WhatsApp nomes quan una publicacio del dia abans o del mateix dia no estava corregida, i deixar constancia a Trello o Moodle. Aquesta organitzacio no era una manera d'evitar-lo; era una manera d'intentar que ell tingues previsio i que jo no hagues d'estar cada dia comprovant manualment si havia corregit o no.
+
+El problema es que, fins i tot amb sistemes adaptats, seguien produint-se situacions en que jo no sabia si una tasca estava vista, corregida o pendent. En aquests casos, si preguntava per la seva disponibilitat o li recordava una tasca, era perque necessitava saber si podia continuar amb la meva part o si havia de reprogramar.
+
+**Annexos a citar:** conversa Google Chat 03/04/2025 sobre canals; correu 06/02/2025; exemples de correus Trello; WhatsApps de recordatori; Trello de xarxes/mailings.
+
 ### 3. Adaptacio Presencial I Impacte Sobre La Meva Feina
 
 Quan treballavem o ens coordinavem presencialment, vaig detectar que Jordi sovint avançava o resolia pendents quan jo em quedava amb ell i li recordava o revisava tasques concretes. Per aquest motiu, en molts moments em quedava amb ell dimarts i dijous per mirar coses que, si no, no acabaven de funcionar o quedaven pendents.
@@ -61,6 +103,14 @@ Quan treballavem o ens coordinavem presencialment, vaig detectar que Jordi sovin
 Aquesta adaptacio no era neutra per a mi: mentre feia aquest seguiment, deixava d'avancar la meva propia feina. Despres havia d'acabar tasques fora de l'horari laboral, amb la pressio afegida que altres persones depenien de les meves entregues. Ho declaro com a vivencia directa meva; si no hi ha prova documental concreta de cada tarda, s'hauria de recolzar amb Woffu, actes de presencialitat, xats, retards, replanificacions i testimonis que recordin aquesta dinamica.
 
 **Annexos a citar:** actes 28/04/2026, 06/05/2026, 02/06/2026 i 07/07/2026; Woffu; xats de coordinacio; casos GUST, TSA i ALBUM.
+
+### 3B. Per Que El Teletreball Va Agreujar La Coordinacio
+
+El teletreball va fer mes visible un problema que abans jo podia compensar presencialment. Al despatx, si Jordi arribava tard o no havia avançat alguna cosa, jo podia adaptar-me i mirar-ho amb ell quan hi era. Aixo no era ideal, pero permetia desbloquejar situacions. En teletreball, en canvi, quan no responia, no confirmava o no sabiem quan es connectaria, la tasca quedava en suspens i jo no podia saber si havia d'esperar, reprogramar o tirar endavant sense la seva part.
+
+Per aquest motiu, quan vaig defensar canals mes traçables o calendaris compartits, no ho feia per controlar-lo personalment, sino per substituir la coordinacio presencial informal que abans sostenia moltes coses sense quedar documentada. La necessitat de correu, Trello, actes, calendaris i recordatoris va augmentar perque sense aquests elements la feina quedava massa exposada a malentesos i retards.
+
+**Annexos a citar:** actes sobre teletreball, reunions presencials/coworking, Woffu, Trello, testimonis sobre coordinacio presencial.
 
 ### 4. Xarxes I Mailings
 
@@ -80,6 +130,16 @@ En general, en la meva experiencia a PrisMa, no he insultat Jordi ni he utilitza
 
 **Annexos a citar:** JASOM, exemples de mailing, converses de marketing, acta o testimonis del 05/12/2024 si existeixen, testimoni de Pablo/Adam sobre el comentari posterior relatiu al to.
 
+### 4A. Per Que El Conflicte De Marketing Em Va Afectar Especialment
+
+El conflicte amb Jordi en marketing em va afectar molt perque jo no estava discutint correccions ortografiques, sino criteris del meu ambit de responsabilitat. Jo no em ficava en les lectures ni en la correccio linguistica dels materials academics. En canvi, quan es tractava de web, mailings, SEO, anuncis, xarxes o peces comercials, jo tenia la responsabilitat de definir el criteri de marketing.
+
+Quan intentava explicar-li que en un mailing o una pagina web no sempre guanya la redaccio mes llarga o mes formal, sino la claredat, la lectura rapida, el CTA, la jerarquia visual i la conversio, sovint sentia que ell no acceptava aquesta delimitacio. Aixo generava converses molt llargues sobre una mateixa frase o estructura, i convertia peces que havien de sortir amb rapidesa en discussions de criteri.
+
+Per mi, haver de defensar constantment que el criteri de marketing tenia pes en peces de marketing era esgotador. No era una qüestio personal contra Jordi. Era la necessitat de poder exercir una responsabilitat que jo tenia assumida, especialment en un moment en que PrisMa necessitava captar alumnes i generar ingressos.
+
+**Annexos a citar:** cas JASOM; captures comparatives de mailing llarg vs peça de marketing; actes de revisions de mailings; testimonis d'Isa i Adam.
+
 ### 4B. Criteris De Correccio No Documentats
 
 Segons la meva experiencia directa, no disposavem d'un full d'estil formal i estable elaborat per Jordi que permetes saber sempre quin criteri s'havia d'aplicar a mediateques, bibliografies o altres elements recurrents dels cursos. En diferents moments vaig percebre que criteris similars s'aplicaven de manera diferent entre cursos o que canviaven amb el temps.
@@ -96,15 +156,43 @@ Quan vaig preparar el planning general del 20/05/2025, no ho vaig fer per pressi
 
 Per donar marge a Jordi i intentar que Isa disposes de temps posterior per muntar els cursos, vaig moure o concentrar tasques meves en caps de setmana o franges molt ajustades. Aquesta replanificacio em perjudicava a mi, pero permetia intentar sostenir el calendari compartit. Per tant, no ho considero una actuacio hostil cap a Jordi, sino una adaptacio organitzativa que vaig assumir per evitar que els projectes quedessin bloquejats.
 
+En aquella reunio vaig expressar que, per tirar endavant el que quedava, tots ens haviem d'implicar. La meva preocupacio no era que fos impossible acabar-ho tot, sino que faltava organitzacio i que les tasques s'estaven posposant. En molts casos jo parlava en general per evitar assenyalar Jordi directament, encara que una part important del problema estigues vinculada a les seves entregues o a la seva falta de concrecio. Ho feia aixi per evitar que s'enfades o ho visques com un atac personal.
+
 **Annexos a citar:** GUST, ALBUM, TSA, no-violencia, Trello, Woffu i planning general del 20/05/2025.
+
+### 5B. Carrega Real, Hores I Sensacio D'Inassumible
+
+Jordi afirma que la carrega era inassumible. Jo no puc valorar com ell ho vivia internament, pero si puc declarar el que jo veia: sovint assumia dates o compromisos i despres no els complia, o deia que necessitava mes temps quan ja s'havien anat ajustant calendaris per donar-li marge. Aixo repercutia en la resta de l'equip, especialment en Isa i en mi, que haviem d'accelerar la nostra feina per compensar els retards.
+
+Segons la documentacio revisada fins ara, el volum substancial acreditat de Jordi el 2025 es concentra principalment en els cursos TSA, MPIA i GUST, mes correccions de xarxes i mailings, i algunes tasques puntuals. Aixo no vol dir que no fes cap altra cosa, pero si que no s'hauria de presentar una carrega indefinida i inassumible sense concretar tasca, data, termini, hores i lliurable.
+
+El que em resultava mes frustrant era que, mentre es presentava com una persona sobrepassada per la feina, alhora hi havia registres de jornades no sempre completes, hores compensades, vacances o restes d'hores, i situacions en que no estava localitzable o no responia. Per a mi, la contradiccio no era que una persona pogues estar cansada, sino que els retards i la falta de resposta acabaven traslladant la pressio a altres persones.
+
+**Annexos a citar:** resum Woffu 2024-2025, Woffu 2023, sintesi carrega real 2025, actes, Trello, seguiments de cursos, testimonis d'Isa i Meriem sobre impacte en la feina posterior.
 
 ### 6. GUST
 
-En el cas de GUST, constava material al campus des del 28/03/2025 i 04/04/2025. A l'acta del 08/04/2025 es parla de correccions petites. Tot i aixi, el calendari es va anar replanificant i, el 16/05/2025, segons el que recordo i cal acreditar amb missatges o testimonis, vam fer una reunio esperant material i Jordi va indicar que encara no ho tenia. Aixo va fer que jo hagues de preparar imatges el cap de setmana immediatament posterior mentre anaven arribant lectures.
+En el cas de GUST, constava material al campus des del 28/03/2025 i 04/04/2025. Segons les captures de Moodle, ja hi havia el modul introductori i diferents fitxers o materials creats per l'autor. A l'acta del 08/04/2025 es parla de correccions petites, com puntuacio o castellanismes, i no d'una elaboracio completa des de zero.
+
+Tot i aixi, el calendari es va anar replanificant. A la reunio del 15/04/2025 es parlava que Jordi havia de preparar calendari i que Isa podria començar a treballar les lectures la setmana del 28/04/2025. El 06/05/2025 encara es replanificava i es plantejava que Jordi acabes la correccio i validacio cap al 15/05, perque el 16/05 poguessim comentar el que calgues i jo pogues preparar imatges el 17 i 18/05.
+
+Segons el meu record, el 16/05/2025 vam fer una reunio esperant material i Jordi va indicar que encara no ho tenia. Va explicar que la seva filla havia estat malalta el dia anterior. Jo no qüestiono que pogues tenir una incidencia familiar; el que em va afectar es que la tasca venia ajornant-se des de feia setmanes i que, arribats a aquell punt, jo ja havia concentrat la meva part en un cap de setmana perque Isa pogues tenir temps de muntar el curs.
+
+Quan vam preguntar per que haviem fet la reunio si no tenia res preparat, i com preveia que el curs pogues quedar muntat, la conversa es va tensar. Jo recordo que em vaig quedar sense gaire marge: ja havia acceptat treballar el cap de setmana per compensar l'endarreriment, i encara aixi no tenia el material. Finalment Jordi va dir que s'hi posaria en acabar la reunio, i les lectures van anar arribant. Jo vaig anar preparant imatges a mesura que anaven arribant.
 
 El planning general posterior recull precisament aquesta necessitat de reorganitzar GUST, TSA, MPIA i la resta de tasques compartides. Per mi, aquest document mostra que la meva resposta va ser intentar ordenar i adaptar el calendari, no atacar Jordi personalment.
 
 **Annexos a citar:** actes 08/04, 15/04, 29/04, 06/05, 12/05, captures Moodle, planning 20/05, prova pendent del 16/05.
+
+### 6B. TSA, MPIA, CANVA I Comparacio Amb Correccio Externa
+
+En TSA i MPIA tambe vaig viure que les dates previstes i les entregues reals no sempre coincidien, i que les fases posteriors quedaven comprimides. En aquests cursos hi havia dependències entre validacio, correccio, imatges, maquetacio, segona correccio i suport posterior. Quan una fase de Jordi es movia o no quedava tancada, la pressio es traslladava a Isa i a mi.
+
+En canvi, en CANVA, quan la correccio es va externalitzar puntualment amb Ariadna per un cost de 700 euros, la meva experiencia va ser que el treball va avançar amb menys dependencia interna i sense el mateix nivell de conflicte. Aquest exemple no l'utilitzo per dir que qualsevol lloc de treball sigui prescindible, sino per mostrar que la correccio, quan esta ben acotada, es pot planificar i entregar sense generar la mateixa cadena de recordatoris, replanificacions i tensions.
+
+Tambe em sembla rellevant que, quan es va externalitzar, va quedar en evidencia que no disposavem d'un full d'estil formal deixat per Jordi. Això incrementava la dependencia interna del seu criteri i obligava Isa i a mi a reconstruir o consolidar criteris que haurien d'haver estat documentats.
+
+**Annexos a citar:** seguiment TSA previst/real, seguiment CANVA, cost correccio externa, comunicacio amb Ariadna sobre full d'estil, sintesi carrega real 2025.
 
 ### 7. ALBUM
 
@@ -128,9 +216,40 @@ Al febrer de 2025 jo ja m'havia plantejat marxar de PrisMa. Ho estava passant mo
 
 Aquest context no elimina que hi poguessin haver discrepàncies, tensio o comunicacions fermes. Pero explica per que jo insistia tant en organitzar, planificar i fer que les coses sortissin: no ho feia per acarnissament, sino perque percebia que la falta de planificacio i els retards posaven en risc la feina de moltes persones i traslladaven carrega a qui havia de continuar les tasques.
 
+La meva implicacio amb PrisMa ha estat molt superior a una execucio estricta de tasques. En el moment de crisi economica, jo volia intentar remuntar l'empresa perque les persones que hi treballaven no es quedessin sense feina. Aquesta implicacio emocional explica per que vaig continuar assumint responsabilitats fins i tot quan personalment ja estava esgotada.
+
+El que em fa especialment mal de la carta de Jordi es que no te en compte el greuge que aquesta situacio tambe em va causar. Durant anys vaig intentar cuidar-lo, ajudar-lo, adaptar-me a ell i sostenir part de la seva organitzacio. Ara, en canvi, em trobo descrita com una persona que l'hauria assetjat o maltractat de manera sistematica. Aquesta descripcio no s'ajusta al que jo vaig viure ni al suport que li vaig donar durant molt temps.
+
 **Cautela:** aquest punt s'ha d'expressar sense convertir-lo en una acusacio medica o psicologica contra Jordi. La documentacio psicologica, si existeix i l'advocada considera necessari aportar-la, conte informacio intima i s'hauria de limitar estrictament al que sigui proporcional per acreditar impacte, cronologia i absencia d'intencionalitat de maltractament.
 
 **Annexos a citar:** documentacio d'assistencia psicologica nomes si l'advocada ho considera necessari i proporcional; testimonis de persones a qui Meriem va demanar ajuda o consell en aquell periode; missatges o notes que acreditin recerca de solucions, sobrecarrega o voluntat de reconduir la situacio.
+
+### 9B. Com He Viscut L'Acusacio De "Bully"
+
+Quan Jordi em qualifica de "bully", ho visc com una acusacio molt greu. No nomes per la paraula en si, sino perque jo he lluitat sempre contra aquest tipus de conductes i perque, en aquest cas, sento que s'esta reinterpretant tota una relacio de suport, adaptacions i intents de coordinacio com si fos una campanya de maltractament.
+
+No nego que Jordi pogues sentir-se malament o viure determinades comunicacions amb malestar. Pero una cosa es el seu malestar i una altra molt diferent es afirmar que jo el vaig sotmetre a bullying. La meva experiencia es que jo intentava que les tasques sortissin, que ell pogues organitzar-se, que la resta de l'equip no quedes bloquejada i que PrisMa continues endavant.
+
+Si en algun moment vaig parlar amb fermesa, amb cansament o amb un to mes alt del que hauria estat ideal, ho contextualitzo en una situacio de pressio acumulada, retards, manca de resposta i impacte sobre la meva feina. No ho justifico com a forma perfecta de comunicacio, pero tampoc accepto que es converteixi en una conducta sistematica d'assetjament.
+
+Per a mi, el mes important es que l'advocada pugui veure el conjunt: no nomes els missatges que Jordi selecciona, sino tambe les adaptacions, els recordatoris pactats, les converses cordials, les preguntes sobre la seva situacio familiar, les replanificacions, els caps de setmana que jo assumia i l'impacte real que aquesta dinamica va tenir sobre mi.
+
+**Annexos a citar:** resposta punt per punt sobre acusacio de bully, converses directes, adaptacions, testimonis, documentacio psicologica nomes si l'advocada ho considera proporcional.
+
+## Annexos Que Haurien D'Acompanyar Aquesta Declaracio
+
+Perque aquesta declaracio sigui util, crec que hauria d'anar acompanyada, com a minim, dels blocs de prova següents:
+
+- Comunicacions directes amb Jordi per Google Chat i WhatsApp que acrediten que no hi havia aillament ni comunicacio exclusivament grupal/no-reply.
+- Conversa del 16/03/2025 i sequencia posterior fins al 10/04/2025, on Jordi diu que contestara i no consta que ho faci.
+- Correu del 06/02/2025 sobre l'automatitzacio de Trello i resposta de Jordi acceptant el sistema.
+- Captures del 03/04/2025 sobre canals de correccio de xarxes i marge de temps.
+- Captures del 10/04/2025 sobre conversa personal/familiar i reconeixement de la meva carrega.
+- Cas JASOM i exemples de diferencies entre criteri de redaccio extensa i criteri de marketing.
+- Planning general del 20/05/2025 i actes relacionades amb GUST, TSA i MPIA.
+- Seguiments de TSA/GUST/ALBUM amb dates previstes i entregues reals.
+- Woffu i resum semestral/mensual, validat abans d'utilitzar xifres definitives.
+- Testimonis d'Isa, Adam i Pablo sobre la relacio previa, les adaptacions, la conversa de jornada completa, el conflicte de marketing i l'impacte dels retards.
 
 ## Frases Que Convindria Evitar En Una Declaracio
 
