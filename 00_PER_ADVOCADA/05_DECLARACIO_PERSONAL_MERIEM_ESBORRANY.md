@@ -2,6 +2,8 @@
 
 Aquest document nomes s'hauria d'utilitzar si l'advocada considera convenient aportar una declaracio personal de Meriem separada de la resposta de l'empresa. No es una declaracio final.
 
+Nota de treball: aquest fitxer conserva indicacions internes sobre possibles annexos, cauteles i proves a valorar. La versio narrativa sense proves ni annexos es el fitxer `05B_DECLARACIO_PERSONAL_MERIEM_NARRATIVA_ESBORRANY.md`.
+
 ## Objecte
 
 La meva declaracio se centraria en els fets que he viscut directament en la coordinacio amb Jordi: comunicacions, adaptacions de terminis, organitzacio de xarxes i mailings, seguiment de cursos, impacte sobre la meva feina i resposta davant les acusacions que em dirigeix.

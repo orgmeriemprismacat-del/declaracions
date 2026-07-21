@@ -1,12 +1,24 @@
 # Declaracio Personal De Meriem - Versio Narrativa
 
-Aquest document es un esborrany narratiu preparat perque l'advocada pugui valorar si conve incorporar una declaracio personal de Meriem, totalment o parcialment, a la resposta. No substitueix la resposta de l'empresa ni la resposta punt per punt. La seva finalitat es explicar el context viscut en primera persona, sense entrar en valoracions mediques sobre Jordi i separant, tant com sigui possible, fets viscuts, vivencia personal i proves o testimonis que poden corroborar-los.
+Aquest document es un esborrany narratiu preparat perque l'advocada pugui valorar si conve incorporar una declaracio personal de Meriem, totalment o parcialment, a la resposta. No substitueix la resposta de l'empresa ni la resposta punt per punt. La seva finalitat es explicar el context viscut en primera persona, sense entrar en valoracions mediques sobre Jordi. En aquesta versio no s'incorporen proves ni annexos; la documentacio, captures i testimonis es reservaran per a la resposta d'equip o per als annexos que l'advocada consideri oportuns.
 
 ## Objecte I Cautela
 
 No pretenc negar que Jordi hagi pogut sentir malestar ni valorar el seu estat de salut. El que vull deixar clar es que no vaig actuar amb voluntat d'aillar-lo, humiliar-lo o desestabilitzar-lo. La meva actuacio, fins i tot quan va ser ferma o estrictament laboral, va estar vinculada a tasques, terminis, coordinacio i dependencies reals de feina.
 
 Tambe vull deixar constancia que prefereixo no haver d'entrar en detall sobre com m'ha afectat personalment aquesta situacio, perque no ho porto be i em resulta especialment doloros. Criticar o discutir la meva feina es una cosa que puc abordar en un pla professional; entrar en el que m'ha afectat personalment, en la meva salut o en el meu patiment es una altra cosa molt diferent. Ho explico nomes en la mesura que l'advocada consideri necessari i demano que aquesta informacio es tracti amb reserva, proporcionalitat i nomes si es imprescindible.
+
+## La Meva Implicacio Personal Amb PrisMa
+
+Per entendre la meva vivencia, per a mi es important explicar que PrisMa no ha estat mai nomes una feina distant o ordinaria. Si hi he continuat, i si he assumit tantes arees, responsabilitats i carregues de feina, ha estat sobretot per implicacio personal amb el projecte i amb les persones que hi treballen. Si aquesta implicacio no existis, jo no hauria sostingut durant anys aquest volum de feina, pressio i responsabilitats.
+
+Amb el temps he assumit tasques de marketing, IT, gestio de projectes, web, Moodle, xarxes, mailings, imatges, anuncis, processos interns i suport a altres persones. Moltes d'aquestes funcions han anat molt mes enlla del meu carrec formal. Ho he fet perque m'importava que PrisMa sortis endavant, perque m'importaven les persones que hi treballaven i perque, en moments de crisi economica, em preocupava que companys meus poguessin quedar-se sense feina.
+
+En una feina purament ordinaria, jo no hauria acceptat durant tant de temps aquesta acumulacio de tasques, hores, responsabilitats i pressio. A PrisMa ho vaig fer per implicacio personal. En molts moments vaig prioritzar que l'empresa continues, que els cursos sortissin, que els companys poguessin mantenir la feina i que les persones que depenien de les meves entregues no quedessin bloquejades. Aquesta implicacio explica per que, fins i tot quan jo ja estava molt esgotada, continuava intentant organitzar, sostenir i compensar el que fes falta.
+
+Per aixo la situacio amb Jordi no em va afectar com una simple discrepancia laboral. Em va afectar perque jo havia dedicat molta energia a cuidar la relacio, a ajudar-lo, a adaptar-me a ell i a intentar que la feina sortis sense exposar-lo ni perjudicar-lo. Quan despres vaig començar a sentir que qualsevol peticio, criteri o recordatori podia convertir-se en un conflicte, el desgast no era nomes professional: tambe era personal.
+
+Reconec que tinc un to de conversa alt, especialment quan estic implicada emocionalment en la feina o quan intento defensar una decisio que considero important. Si se'm fa veure que aquest to pot afectar negativament una persona, puc baixar-lo i controlar-lo, i aixi ho vaig intentar fer quan se'm va traslladar que Jordi ho havia viscut malament. Pero considero important diferenciar aquest to alt d'una voluntat d'agredir, humiliar o maltractar. La meva implicacio amb PrisMa pot explicar la intensitat amb que defenso determinades coses, pero no equival a hostilitat ni a assetjament.
 
 ## Relacio Previa I Suport Sostingut
 
@@ -22,8 +34,6 @@ Tambe considero rellevant explicar que, abans que els conflictes directes entre 
 
 En el cas de Cristina, recordo especialment que Jordi es queixava quan ella li anava al darrere per les entregues. Jo li deia que era normal que li reclames si ell s'havia compromes a unes dates, perque els retards no afectaven nomes la seva feina. Quan ell deia que, si un curs no s'obria en aquella edicio, ja s'obriria a la següent, jo li responia que el cost d'aquest retard l'assumia l'empresa i tambe la resta de l'equip. Per a mi, aixo mostra que la discrepancia sobre terminis, seguiment i impacte dels retards no neix amb mi ni amb els conflictes de 2025, sino que ja era una dinamica previa que havia generat friccio amb altres persones.
 
-**Annexos orientatius:** testimonis d'Isa, Adam, Pablo, Cristina si escau, i altres persones que recordin la dinamica previa; comunicacions directes; actes i proves de replanificacions; annexos sobre adaptacions de Meriem a Jordi.
-
 ## Conductes Que No Encaixen Amb Una Voluntat De Perjudicar-lo
 
 Hi ha diverses conductes meves que considero incompatibles amb una voluntat sostinguda de fer mal a Jordi. En el seu moment vaig defensar internament que se li pogues ampliar la jornada a jornada completa quan vaig entendre que ho necessitava, i vaig buscar maneres perque aquesta ampliacio pogues encaixar amb les necessitats de PrisMa.
@@ -38,8 +48,6 @@ Tambe vaig intentar evitar exposar-lo davant l'equip quan hi havia incidencies. 
 
 Aquestes actuacions no eliminen que posteriorment hi haguessin conflictes, cansament o comunicacions mes estrictament laborals. Pero si son importants per valorar el context i la intencionalitat. La meva actuacio no va ser la d'una persona que volia fer-li mal, sino la d'algú que durant molt temps va intentar sostenir, adaptar i reconduir una relacio laboral que cada vegada era mes dificil.
 
-**Annexos orientatius:** proves i testimonis sobre suport a l'ampliacio de jornada; correu 06/02/2025 sobre automatitzacions; converses del 03/04/2025 sobre canals; WhatsApps on Meriem dona marge o diu que no treballi el cap de setmana; captures del 10/04/2025 sobre salut/familia i temps per contestar.
-
 ## El Que Jo Veia En El Dia A Dia
 
 El que vaig viure durant anys va ser una dificultat recurrent per part de Jordi per mantenir una organitzacio autonoma i estable de les tasques. Vaig veure tasques que quedaven pendents malgrat haver estat comentades, correccions que arribaven tard, correus, Trellos o xats sense resposta, dates que s'ajornaven, criteris que calia tornar a explicar i situacions en que, si no hi havia un seguiment molt directe, la feina no avancava o avancava amb massa incertesa.
@@ -47,8 +55,6 @@ El que vaig viure durant anys va ser una dificultat recurrent per part de Jordi 
 Aquesta incertesa no afectava nomes Jordi. Quan ell no contestava, no confirmava o no entregava, altres persones quedavem pendents. Isa no podia maquetar, jo no podia preparar imatges o programar comunicacions, Pablo no podia tancar determinats seguiments i les tasques posteriors quedaven comprimides. Per tant, quan jo insistia o demanava concrecio, ho feia perque hi havia dependencies reals, no per una voluntat de controlar-lo o retreure-li coses sense motiu.
 
 Un altre element que vaig viure es que, quan se li plantejaven problemes de coordinacio, sovint ell ho rebia com una questio personal. Aixo feia molt dificil parlar de feina, terminis o criteris sense que la conversa acabes convertida en un conflicte sobre com se sentia tractat. Aquesta dinamica em generava por, cansament i molta tensio, perque necessitava que la feina sortis pero alhora sentia que no se li podia dir res sense risc que ho interpretes com un atac.
-
-**Annexos orientatius:** actes, Trello, WhatsApp, Google Chat, Woffu, seguiments de cursos, casos GUST/TSA/MPIA/ALBUM, testimonis d'Isa, Pablo i Adam.
 
 ## La Carrega Invisible De Coordinacio
 
@@ -60,8 +66,6 @@ A mes, hi havia una preocupacio recurrent sobre com reaccionaria quan se li dema
 
 Quan posteriorment vaig limitar-me mes a canals escrits, terminis i comunicacions operatives, no ho vaig fer amb voluntat d'aillar-lo. Ho vaig fer per reduir una carrega de coordinacio que ja s'havia tornat dificil de sostenir i per protegir la feina de malentesos, retards i interpretacions personals.
 
-**Annexos orientatius:** WhatsApps i Google Chat on Meriem pregunta disponibilitat o recorda tasques; converses del 03/04/2025 sobre canals; correu 06/02/2025 sobre automatitzacions; actes on es parla en general de terminis i organitzacio.
-
 ## Teletreball, Presencialitat I Adaptacions
 
 El teletreball va fer mes visible un problema que abans jo podia compensar presencialment. No era nomes que no sabessim quan es connectaria: Jordi s'havia compromes a uns horaris de disponibilitat que no sempre complia, i quan se li parlava per canals directes sovint no contestava. Si se li informava que havia de fer una tasca, moltes vegades no la registrava ni al seu Trello, ni al tauler compartit, ni en cap altre lloc visible per a la resta. Quan se li tornava a preguntar, la resposta acostumava a ser que se n'havia oblidat, que no ho havia entes aixi o que no s'ho havia apuntat.
@@ -72,8 +76,6 @@ Per aquest motiu, quan vaig defensar canals mes tracables o calendaris compartit
 
 Quan treballavem o ens coordinavem presencialment, vaig detectar que Jordi sovint avancava o resolia pendents quan jo em quedava amb ell i li recordava o revisava tasques concretes. Per aquest motiu, en molts moments em quedava amb ell dimarts i dijous per mirar coses que, si no, no acabaven de funcionar o quedaven pendents. Aquesta adaptacio no era neutra per a mi: mentre feia aquest seguiment, deixava d'avancar la meva propia feina i despres havia d'acabar tasques fora de l'horari laboral.
 
-**Annexos orientatius:** actes sobre teletreball i presencialitat; Woffu; xats de coordinacio; testimonis; casos GUST, TSA i ALBUM.
-
 ## Xarxes, Mailings I Conflicte De Criteris
 
 Una part important del conflicte es va concentrar en xarxes, mailings, web, SEO i marketing. Abans, Jordi principalment corregia. Quan es va incorporar mes al circuit de xarxes i mailings, jo vaig intentar explicar-li que no era el mateix corregir una lectura o un text llarg que preparar una comunicacio comercial, una publicacio o un mailing. En lectures i continguts teorics, el criteri linguistic te un pes central. En marketing, en canvi, tambe hi ha criteris de claredat, conversio, SEO, ritme, lectura rapida, jerarquia visual i objectiu comercial.
@@ -83,10 +85,6 @@ Jo no em ficava en les seves decisions de correccio de lectures. Pero en mailing
 Recordo especialment el conflicte de desembre de 2024 sobre un mailing. Jo i Isa consideravem que el text que proposava era massa enrevessat per un mailing. La meva posicio era que els clients no sempre llegeixen textos llargs o complexos, i que si una comunicacio comercial no es clara i facil de llegir, perd eficacia. Jordi insistia en la seva redaccio. Finalment, Adam va haver d'indicar que jo era la responsable de marketing i que Jordi havia de seguir els criteris que jo marcava en aquell ambit.
 
 Reconec que en aquella conversa podia parlar amb un to alt. En general tinc un to de conversa alt, i aquest to pot augmentar quan estic tensionada o quan m'implico emocionalment en la feina. Aixo no significa que hi hagi voluntat d'agredir, humiliar o vexar. No vaig insultar Jordi ni vaig utilitzar expressions vexatories. Quan posteriorment Pablo i Adam em van traslladar que Jordi havia viscut negativament aquest to, vaig intentar controlar-lo expressament i parlar mes baix en les interaccions posteriors.
-
-Per a mi tambe es rellevant explicar que la meva permanencia a PrisMa i el fet d'haver assumit tantes arees de feina i responsabilitats no s'expliquen nomes per una relacio laboral ordinaria. Hi he continuat, sobretot, per implicacio personal amb el projecte i amb les persones que hi treballen. Si no fos per aquesta implicacio emocional i personal, no hauria sostingut durant tant de temps aquest volum de tasques i responsabilitats.
-
-**Annexos orientatius:** cas JASOM; exemples de mailing llarg vs peça de marketing; converses de marketing; acta o testimonis del 05/12/2024; testimoni de Pablo/Adam sobre el comentari posterior relatiu al to.
 
 ## Comunicacio Directa I Absencia D'Aillament
 
@@ -108,8 +106,6 @@ Despres de diversos greuges i conflictes, jo vaig decidir que havia de reduir la
 
 Durant un temps vaig pensar que, despres del WhatsApp del 16/03/2025 i de la resposta que ell va dir que faria, potser podriem arribar a entendre els diferents punts de vista. Aquest era, segons la meva vivencia, el que jo havia intentat fer des que hi havia conflicte amb Jordi: buscar una manera d'explicar-nos, entendre'ns i reconduir la situacio. Finalment, aquella resposta no va arribar i la relacio va continuar deteriorant-se.
 
-**Annexos orientatius:** WhatsApp personal 16/03/2025-17/03/2025; captures Google Chat 10/04/2025; comunicacions directes; correus individuals.
-
 ## GUST, TSA, MPIA, ALBUM I La Repercussio Dels Retards
 
 Els retards o replanificacions de Jordi no afectaven nomes la seva part. En cursos com GUST, TSA, MPIA o ALBUM, les fases estaven encadenades: correccio, validacio, imatges, maquetacio, segona correccio, suport i publicacio. Quan la seva part no arribava quan tocava, la pressio es traslladava a Isa i a mi.
@@ -120,8 +116,6 @@ En TSA i MPIA tambe vaig viure que les dates previstes i les entregues reals no 
 
 Per mi, aquests casos mostren que la meva insistencia en calendaris, terminis i coordinacio no era un atac personal. Era una resposta a una necessitat real: si una entrega es movia, altres persones havien de correr, reprogramar, treballar caps de setmana o comprimir fases posteriors.
 
-**Annexos orientatius:** actes 08/04, 15/04, 06/05, 12/05 i 20/05; captures Moodle GUST; planning general; seguiment TSA previst/real; historial ALBUM; correu Pablo 15/10.
-
 ## Sobre La Carrega De Feina I La Jornada Efectiva
 
 Jordi presenta en diversos punts la seva carrega de feina com a inassumible. La meva vivencia no es que no hi hagues feina ni pressio a PrisMa; n'hi havia, i molta, especialment per la situacio economica i per la reduccio d'equip. Pero no comparteixo que la seva carrega concreta acrediti, per si sola, una situacio inassumible imposada per l'empresa o per mi.
@@ -131,8 +125,6 @@ Durant el 2025, abans de la baixa, les tasques principals de Jordi van ser la co
 Aquesta percepcio s'ha de contrastar amb els registres de Woffu i amb els calendaris reals d'entrega. Segons la revisio que estem fent, hi ha periodes en que Jordi no completa la jornada prevista o compensa hores, mentre alhora soste que les tasques eren inassumibles. Tambe hi ha dies o franges en que altres persones havien de reorganitzar-se, esperar resposta o assumir urgencies derivades de retards seus. Per tant, el problema que jo vivia no era nomes "molta feina", sino una combinacio de compromisos assumits, dates ajornades, manca de confirmacio, baixa disponibilitat efectiva i repercussio sobre la feina de la resta.
 
 Per a mi es important que aixo es valori amb dades: Woffu calculat com a sortida menys entrada menys descansos, actes, seguiments de cursos, Trello, correus i captures. No vull que la resposta es basi nomes en sensacions, perque precisament una part del problema era que Jordi convertia sovint una necessitat organitzativa objectiva en una lectura personal del tracte rebut.
-
-**Annexos orientatius:** Woffu 2023-2025/2026; resums semestrals de jornada; seguiments TSA, MPIA, GUST, ALBUM i CANVA; Trello tasques Jordi; captures sobre entregues previstes i reals; prova cost correccio externa CANVA.
 
 ## Impacte Sobre L'Equip
 
@@ -146,13 +138,11 @@ La situacio em va afectar fins al punt que fins i tot vaig tenir tensio personal
 
 Arran de la carta, sento una responsabilitat molt gran cap als meus companys. Em fa mal el que Jordi diu de mi, pero tambe em fa mal el que diu d'Isa, Pablo, Adam i de l'empresa. Jo puc entendre que Jordi tingues problemes personals o familiars, i que durant anys PrisMa fos per a ell un espai de desfogament, conversa i suport. Pero que la relacio canviés i que jo deixes de poder ocupar aquell lloc no significa que jo, els meus companys o l'empresa siguem responsables de tot el seu malestar.
 
-**Annexos orientatius:** testimonis d'Isa, Pablo i Adam; actes on Isa intervé mes; proves de retards/replanificacions que afecten Isa i Meriem; testimoni de Pablo sobre intents de reconduir la situacio.
-
 ## Impacte Personal I Mecanismes De Proteccio
 
 Treballar amb aquesta incertesa em va generar molta angoixa i sobrecarrega. Quan parlo d'angoixa no em refereixo nomes a una incomoditat laboral abstracta. La situacio va tenir consequencies concretes en mi: vaig anar al psicoleg, vaig tenir malestar fisic i digestiu, vomits, insomni, ansietat, ulceres o altres simptomes que, si l'advocada ho considera necessari, s'haurien de contrastar amb la documentacio medica o psicologica disponible. Tambe vaig arribar a voler marxar de PrisMa perque sentia que no podia sostenir mes aquella dinamica.
 
-Aixo em va afectar especialment perque la meva relacio amb PrisMa no ha estat nomes una relacio laboral ordinaria. La meva permanencia a l'empresa i el fet d'haver assumit tantes arees de feina i responsabilitats s'expliquen, sobretot, per una implicacio personal amb el projecte i amb les persones que hi treballen. Si no fos per aquesta implicacio emocional i personal, no hauria sostingut durant tant de temps aquest volum de tasques i responsabilitats.
+Aixo em va afectar especialment perque, com he explicat, la meva relacio amb PrisMa sempre ha estat marcada per una implicacio personal molt alta. No vivia el que passava com una cosa aliena o distant. Quan veia que la feina no sortia, que els terminis es movien o que els meus companys ho passaven malament, jo ho assumia com una responsabilitat propia, encara que sovint no em corresponia.
 
 Una de les maneres com intentava gestionar-ho era parlar-ne amb persones de confianca, de vegades de manera molt reiterada, buscant ajuda per entendre com reconduir la situacio. No ho feia per crear un relat contra Jordi, sino perque jo mateixa no sabia com sortir d'una dinamica que em feia mal i que alhora afectava la feina de l'equip.
 
@@ -163,8 +153,6 @@ Aquest canvi no era indiferencia ni hostilitat. Era un mecanisme de proteccio. J
 Tambe em passa que, quan una situacio em supera, tendeixo a bloquejar o apartar records perque no em continuin afectant. Per aquest motiu, alguns episodis em costa reconstruir-los amb precisio cronologica si no els contrasto amb correus, WhatsApps, actes, Trello, Woffu o testimonis. Aixo no vol dir que no passessin, sino que necessito recolzar la memoria en proves externes per reconstruir el conjunt amb rigor.
 
 Actualment, despres de la carta de Jordi i de les acusacions formulades, he tornat a necessitar suport psicologic. Aquest fet tambe forma part de l'impacte que m'ha generat veure reinterpretada tota una relacio de suport i adaptacio com si hagues estat una conducta d'assetjament per part meva.
-
-**Annexos orientatius:** documentacio psicologica o medica nomes si l'advocada ho considera necessari i proporcional; testimonis de persones a qui Meriem va demanar ajuda; captures on Meriem dona marge, pregunta per salut/familia o escriu de manera operativa.
 
 ## Sobre L'Acusacio De "Bully"
 
