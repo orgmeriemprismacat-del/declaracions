@@ -89,6 +89,8 @@ Jordi qualifica diverses vegades les seves tasques com a inassumibles. Aquesta a
 
 Segons la informacio treballada fins ara, el 2025 la seva feina documentada es concentra principalment en tres cursos, correccions de xarxes/mailings i algunes tasques puntuals. Aquesta formulacio s'ha de validar amb Trello, actes i Woffu abans d'incloure-la de manera tancada.
 
+En el periode gener-juny de 2025, que Jordi vincula als tres cursos i a una pressio inassumible, el resum Woffu preparat mostra un horari teoric de `744 h 48 m` i un fitxatge net visible de `792 h 49 m`, amb una diferencia de `+48 h 01 m`. Aquest excés visible no s'ha de negar, pero tampoc acredita per si sol una carrega extrema o inassumible. A mes, el mateix periode s'ha de creuar amb descansos, vacances, hores compensades, absencies i tasques efectivament entregades, perque els saldos administratius de Woffu son molt superiors al fitxatge net visible i poden incloure regularitzacions o tractaments interns.
+
 ### 9. Valoracions Sobre Prescindibilitat D'IT
 
 Jordi afirma que hauria estat mes logic acomiadar una informatica perque part de les tasques es podrien subcontractar. Aquesta afirmacio es una opinio personal sobre la prescindibilitat d'altres companyes, no una dada objectiva. No consta que disposes d'un estudi de costos, carrega de treball, criticitat tecnica o impacte operatiu.

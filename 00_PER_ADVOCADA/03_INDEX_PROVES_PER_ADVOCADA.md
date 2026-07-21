@@ -2,6 +2,13 @@
 
 Aquest index identifica els blocs probatoris ja treballats i quins documents/captures convé revisar. Les proves originals s'han de conservar sense modificar.
 
+## Annexos ZIP De Suport
+
+- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-01_actes_resums_extractes_i_originals.zip`: actes, resums, extractes i originals.
+- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-02_whatsapp_exports_i_analisi.zip`: exports i analisi de WhatsApp.
+- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`: captures de Google Chat probatories.
+- `00_PER_ADVOCADA/ANNEXOS_SUPORT/README.md`: hash i descripcio de cada ZIP.
+
 ## A. Carta De Jordi I Documents De Resposta
 
 - Carta/declaracio original de Jordi: `00_PER_ADVOCADA/ANNEXOS_ORIGINALS/DOC-00_Declaracio_Jordi_original.pdf`.
@@ -26,6 +33,8 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 ## C. Comunicacions Directes Meriem-Jordi
 
 - Captures de Google Chat directes sobre cursos, xarxes i marketing.
+- Mapa especific: `00_PER_ADVOCADA/08_MAPA_CAPTURES_XATS_PROVATORIS.md`.
+- ZIP de suport: `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`.
 - Export WhatsApp personal amb Jordi.
 - Captures on Meriem pregunta per disponibilitat, salut, conciliacio, terminis o canals.
 

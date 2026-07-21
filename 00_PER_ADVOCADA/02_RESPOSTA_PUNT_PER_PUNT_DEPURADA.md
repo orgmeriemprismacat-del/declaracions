@@ -179,6 +179,15 @@ Es tracta d'una valoracio subjectiva que cal contrastar amb la carrega real assi
 
 Pel 2025, el recull intern situa la seva feina principal en tres cursos, correccions de xarxes/mailings i tasques puntuals. Aquesta conclusio s'ha de presentar nomes si queda validada amb Trello, actes i Woffu.
 
+Pel periode gener-juny de 2025, que Jordi vincula a una carrega especialment inassumible pels tres cursos, el resum Woffu preparat mostra:
+
+- horari teoric: `744 h 48 m`;
+- fitxatge net visible: `792 h 49 m`;
+- diferencia visible: `+48 h 01 m`;
+- saldos administratius Woffu molt superiors al fitxatge net visible, pendents de validar amb gestoria/advocada.
+
+Aixo no nega que hi haguessin puntes de feina o moments de pressio. Pero si Jordi afirma que les tasques eren inassumibles, cal que concreti tasca, data, termini, hores reals i lliurable. Tambe cal contrastar-ho amb els dies en que constin vacances, hores compensades, absencies o reduccions de jornada efectiva dins el mateix periode. Si l'equip acredita que, malgrat els retards i replanificacions, Jordi es restava hores o gaudia de vacances/compensacions, aquest context contradiu una imatge de pressio continua sense descans.
+
 **Proves**
 
 - Recull de tasques 2023-2026.
@@ -186,10 +195,13 @@ Pel 2025, el recull intern situa la seva feina principal en tres cursos, correcc
 - Trello de completades.
 - Actes 2025.
 - Woffu.
+- `55_resum_woffu_semestres_2024_2025.md`.
+- Captures Woffu mensuals gener-juny 2025.
 
 **Validacio pendent**
 
 - Revisar que no hi hagi altres blocs substancials no inclosos.
+- Validar amb gestoria/advocada la interpretacio de saldos administratius, vacances, absencies i hores compensades.
 
 ## Punt 09. Comunicacions Directes I Suposat Aillament
 

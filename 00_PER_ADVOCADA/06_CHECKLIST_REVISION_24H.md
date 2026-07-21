@@ -93,6 +93,8 @@ Que `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md` quedi alineat amb tota la carta.
 - `29_annex_google_chat_jordi.md`
 - `42_comunicacions_directes_i_replanificacio_2025.md`
 - `44_comunicacions_directes_adaptacions_canals_i_suport.md`
+- `00_PER_ADVOCADA/08_MAPA_CAPTURES_XATS_PROVATORIS.md`
+- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`
 - `19_annex_whatsapp_2024_2026.md`
 - `whatsapp_exports_raw/`
 - `whatsapp_analysis/`
@@ -260,6 +262,7 @@ No aportar converses personals sensibles si no son necessaries.
 - Validar si es pot dir: "segons la documentacio revisada, el 2025 la seva feina documentada es concentra principalment en tres cursos, xarxes/mailings i tasques puntuals".
 - Evitar dir "no va fer res mes" si no esta completament verificat.
 - Preparar una llista curta de tasques per any.
+- Creuar gener-juny 2025 amb Woffu: horari teoric `744 h 48 m`, fitxatge net visible `792 h 49 m`, diferencia visible `+48 h 01 m`, i revisar vacances, absencies i hores compensades dins aquest periode.
 
 **Serveix per contestar**
 
