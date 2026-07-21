@@ -679,7 +679,7 @@ Segons Meriem, si. Adam era present a la reunio. El conflicte concret girava al 
 
 Meriem indica que va explicar que no qüestionava el criteri de correccio de Jordi en lectures o materials academics, ja que aquell era el seu camp. En canvi, en mailings, web, SEO, xarxes i peces comercials, la responsabilitat era de marketing i la correccio havia d'adaptar-se als criteris de lectura rapida, conversio, estructura visual i captacio.
 
-Segons Meriem, al final Adam va aclarir que Meriem era l'encarregada de marketing i que Jordi havia de seguir el criteri que ella marques en aquest ambit.
+Resposta recollida: si. Adam va dir que Meriem era l'encarregada de marketing i que Jordi havia de seguir els criteris que ella marques en aquest ambit.
 
 **Formulacio defensable:**
 

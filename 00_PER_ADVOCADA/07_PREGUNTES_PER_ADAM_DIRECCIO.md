@@ -163,7 +163,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 2. Que recorda exactament d'aquella reunio?
    - A concretar amb Adam: si recorda que la discussio era de criteri professional, no personal, i si recorda que Meriem va explicar que no interferia en lectures/material academic pero que en marketing havia de prevaldre el criteri comercial.
 3. Adam va dir que Meriem era responsable de marketing i que Jordi havia de seguir aquests criteris?
-   - Resposta preliminar de Meriem: si. Segons Meriem, finalment Adam va aclarir que Meriem era la responsable de marketing i que Jordi havia de fer cas del criteri que ella marques en aquest ambit.
+   - Resposta recollida: si. Adam va dir que Meriem era la responsable de marketing i que Jordi havia de seguir aquests criteris en aquest ambit.
 4. Hi va haver escridassada, insults o expressions vexatories?
 5. Adam va oferir a Jordi parlar en privat en alguna ocasio i Jordi va preferir fer-ho davant de Meriem i Isa?
 6. En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o pagaments en negre?

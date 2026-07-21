@@ -445,7 +445,7 @@ Aquest punt s'hauria de presentar com una delimitacio d'ambits professionals. En
 
 Segons la informacio aportada, Adam va presenciar el conflicte del 05/12/2024. El desacord concret era sobre un mailing en que Jordi insistia que el text havia de mantenir una redaccio mes elaborada, mentre Meriem i Isa defensaven que en un mailing calia prioritzar lectura facil, claredat i captacio, especialment en el context economic de PrisMa. Meriem va explicar que no discutia el criteri de correccio en lectures o materials academics, pero que en peces comercials o de marketing el criteri havia de quedar subordinat als objectius de marketing i SEO. Finalment, Adam va aclarir que Meriem era la responsable de marketing i que Jordi havia de seguir el criteri que ella marques en aquest ambit.
 
-Si es confirma que, despres que Adam aclaris que Meriem era la responsable de marketing, Jordi va continuar qüestionant o refent criteris de mailings i textos comercials en contra de les instruccions de marketing/SEO, aixo reforça que el conflicte era professional i de delimitacio de funcions, no una persecucio personal. Cal aportar exemples concrets i evitar formular-ho com una valoracio general sense prova.
+Segons la resposta recollida, Adam va aclarir que Meriem era la responsable de marketing i que Jordi havia de seguir aquests criteris. Si a mes es documenten exemples posteriors en que Jordi va continuar qüestionant o refent criteris de mailings i textos comercials en contra de les instruccions de marketing/SEO, aixo reforçaria que el conflicte era professional i de delimitacio de funcions, no una persecucio personal. Cal aportar exemples concrets i evitar formular-ho com una valoracio general sense prova.
 
 **Proves**
 
