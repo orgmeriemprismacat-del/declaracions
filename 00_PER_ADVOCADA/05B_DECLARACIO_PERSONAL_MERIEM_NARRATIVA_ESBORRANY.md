@@ -18,7 +18,11 @@ Durant molt temps vaig intentar que aquestes incidencies no quedessin exposades 
 
 Per a mi es especialment doloros que ara es reconstrueixi tota la relacio com si jo sempre hagues volgut perjudicar-lo. Aquesta reconstruccio omet anys de suport, seguiment, adaptacions, converses directes i intents de facilitar-li la feina.
 
-**Annexos orientatius:** testimonis d'Isa, Adam, Pablo i altres persones que recordin la dinamica previa; comunicacions directes; actes i proves de replanificacions; annexos sobre adaptacions de Meriem a Jordi.
+Tambe considero rellevant explicar que, abans que els conflictes directes entre Jordi i jo s'agreugessin, en converses privades Jordi m'havia criticat en diverses ocasions altres persones de PrisMa, com Eva, Julia, Paula o Cristina, segons el moment i el conflicte que ell estigues vivint. No ho explico per jutjar aquestes persones ni per obrir conflictes aliens, sino perque contrasta amb un relat actual en que algunes d'aquestes figures apareixen com si amb elles la situacio hagues estat necessàriament diferent o millor.
+
+En el cas de Cristina, recordo especialment que Jordi es queixava quan ella li anava al darrere per les entregues. Jo li deia que era normal que li reclames si ell s'havia compromes a unes dates, perque els retards no afectaven nomes la seva feina. Quan ell deia que, si un curs no s'obria en aquella edicio, ja s'obriria a la següent, jo li responia que el cost d'aquest retard l'assumia l'empresa i tambe la resta de l'equip. Per a mi, aixo mostra que la discrepancia sobre terminis, seguiment i impacte dels retards no neix amb mi ni amb els conflictes de 2025, sino que ja era una dinamica previa que havia generat friccio amb altres persones.
+
+**Annexos orientatius:** testimonis d'Isa, Adam, Pablo, Cristina si escau, i altres persones que recordin la dinamica previa; comunicacions directes; actes i proves de replanificacions; annexos sobre adaptacions de Meriem a Jordi.
 
 ## Conductes Que No Encaixen Amb Una Voluntat De Perjudicar-lo
 

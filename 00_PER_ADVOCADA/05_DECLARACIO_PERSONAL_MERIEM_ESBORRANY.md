@@ -40,6 +40,18 @@ Aquestes actuacions no eliminen que posteriorment hi haguessin conflictes, cansa
 
 **Annexos a citar:** proves i testimonis sobre suport a l'ampliacio de jornada; correu 06/02/2025 sobre automatitzacions; converses del 03/04/2025 sobre canals; WhatsApps on Meriem dona marge o diu que no treballi el cap de setmana; captures del 10/04/2025 sobre salut/familia i temps per contestar; testimonis de persones a qui Meriem va demanar consell per reconduir la situacio.
 
+### 0A.2. Comentaris Previs De Jordi Sobre Altres Companyes I Terminis
+
+Segons el meu record, abans que els conflictes directes entre Jordi i jo s'agreugessin, Jordi m'havia criticat en privat en diverses ocasions altres persones de PrisMa, com Eva, Julia, Paula o Cristina, segons el moment i el conflicte que ell estigues vivint. No ho explico per jutjar aquestes persones ni per obrir conflictes aliens, sino per contextualitzar que Jordi ja havia expressat malestar o queixes cap a altres figures de l'empresa abans que el focus del conflicte fos la meva relacio amb ell.
+
+En el cas de Cristina, recordo especialment que Jordi es queixava quan ella li anava al darrere per les entregues. Jo li deia que era normal que li reclames si ell s'havia compromes a unes dates, perque els retards no afectaven nomes la seva feina. Quan ell deia que, si un curs no s'obria en aquella edicio, ja s'obriria a la següent, jo li responia que el cost d'aquest retard l'assumia l'empresa i tambe la resta de l'equip.
+
+Per tant, la discrepancia sobre terminis, seguiment i impacte dels retards no neix amb mi ni amb els conflictes de 2025. Segons la meva vivencia, ja era una dinamica previa que havia generat friccio amb altres persones i que jo mateixa intentava reconduir explicant-li que les dates compromeses tenien impacte operatiu i economic.
+
+**Cautela:** si no hi ha prova escrita d'aquestes converses privades, s'hauria de presentar com a vivencia personal de Meriem i, si escau, reforcar-ho nomes amb testimonis que puguin corroborar la dinamica general de terminis i seguiment. No convindria utilitzar-ho com a fet documental tancat sense validacio de l'advocada.
+
+**Annexos a citar:** testimoni de Meriem; possible testimoni de Cristina si l'advocada ho considera oportu; testimonis d'Isa/Pablo/Adam sobre seguiment de terminis i incidencies historiques; actes o documents que mostrin retards/replanificacions.
+
 ### 0C. El Que He Vist Directament En El Dia A Dia
 
 El que jo he vist directament durant anys es una dificultat recurrent per part de Jordi per mantenir una organitzacio autonoma i estable de les tasques. He vist tasques que quedaven pendents malgrat haver estat comentades; correccions que arribaven tard; correus, Trellos o xats sense resposta; dates que s'ajornaven; criteris que calia tornar a explicar; i situacions en que, si no hi havia un seguiment molt directe, la feina no avançava o avançava amb massa incertesa.
