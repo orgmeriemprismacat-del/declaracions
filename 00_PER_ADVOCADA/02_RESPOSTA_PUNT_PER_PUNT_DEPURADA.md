@@ -322,7 +322,7 @@ Aquesta situacio s'ha de contrastar amb els registres i comunicacions que mostre
 
 El planning general treballat a la reunio del 20/05/2025 reforca aquesta lectura. Meriem va preparar un calendari global de tasques de TSA, MPIA, GUST, xarxes, intranet, web, cursos i marketing per ordenar dependencies, veure si calia modificar dates i evitar que els retards d'un bloc traslladessin pressio a la resta. Segons la informacio aportada, aquest planning es va modificar in situ compartint pantalla i va ser validat a la reunio, precisament per assegurar que tothom entenia el mateix calendari i que les dates eren conegudes.
 
-El compliment posterior de diverses fites no s'ha d'atribuir automaticament a l'existencia del document. Segons Meriem, el planning exigia seguiment actiu: comprovacions d'estat, missatges, trucades, recordatoris i disponibilitat per resoldre dubtes de Jordi fins i tot el mateix dia de l'entrega perquè pogues completar-la. Cal localitzar aquestes comunicacions i registres. Si es confirmen, acrediten que la coordinacio efectiva comportava una carrega de gestio addicional per a Meriem i que el resultat final no elimina la necessitat d'aquell seguiment.
+El compliment posterior de diverses fites no s'ha d'atribuir automaticament a l'existencia del document. El planning exigia seguiment actiu: comprovacions d'estat, missatges, trucades, recordatoris i disponibilitat de Meriem per resoldre dubtes de Jordi, fins i tot el mateix dia d'una entrega, perquè pogues completar-la. Les comunicacions localitzades acrediten exemples concrets d'aquest suport: el 21/05/2025 Jordi formula una consulta sobre una lectura de l'MPIA i Meriem respon en el mateix minut; el 02/06/2025 Jordi planteja que falten qüestions de les imatges i Meriem s'ofereix immediatament a mirar-les i trucar-lo, intenten parlar i continuen per WhatsApp quan falla la cobertura; i el 14/04/2025 Meriem respon en pocs minuts una consulta sobre una decisio lingüistica. Altres converses del 31/07, 05/08, 12/09 i 19/09/2025 mostren que preparava material per evitar dubtes, s'oferia a completar propostes i indicava a Jordi que la podia trucar o que el trucaria ella. Aquests registres no permeten afirmar que totes les consultes fossin contestades sempre de manera immediata, pero si documenten una pauta de disponibilitat, revisio conjunta i suport directe. Per tant, la coordinacio efectiva comportava una carrega de gestio addicional per a Meriem, i el resultat final no elimina la necessitat d'aquell seguiment.
 
 Aquest planning mostra una adaptacio organitzativa, no una actuacio d'acarnissament. Meriem va moure o concentrar tasques seves en caps de setmana o franges molt ajustades per donar marge a Jordi i intentar que Isa disposes de temps posterior per muntar els cursos. Si es valida amb actes, captures i testimonis, aquest fet contradiu la idea d'una pressio hostil dirigida contra Jordi: el que s'observa es una replanificacio compartida per sostenir el calendari i evitar que el projecte quedes bloquejat.
 
@@ -332,6 +332,8 @@ Aquest planning mostra una adaptacio organitzativa, no una actuacio d'acarnissam
 - Trello de tasques Jordi.
 - Trello de completades.
 - Actes 2025.
+- Google Chat directe: 14/04/2025, 21/05/2025, 30/05/2025 i 02/06/2025.
+- WhatsApp personal i grupal: 31/07/2025, 05/08/2025, 12/09/2025 i 19/09/2025.
 - Seguiments TSA, MPIA i GUST.
 - Proves dels tastets previstos i dels tastets efectivament completats.
 - Captures de campus/materials previs de GUST.
