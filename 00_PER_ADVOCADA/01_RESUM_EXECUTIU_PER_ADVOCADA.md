@@ -99,6 +99,8 @@ Abans de la baixa de 2025, la feina principal de Jordi es concentra en: correcci
 
 En el periode gener-juny de 2025, que Jordi vincula als tres cursos i a una pressio inassumible, el resum Woffu preparat mostra un horari teoric de `744 h 48 m` i un fitxatge net visible de `792 h 49 m`, amb una diferencia de `+48 h 01 m`. Aquest excés visible no s'ha de negar, pero tampoc acredita per si sol una carrega extrema o inassumible. A mes, el mateix periode s'ha de creuar amb descansos, vacances, hores compensades, absencies i tasques efectivament entregades, perque els saldos administratius de Woffu son molt superiors al fitxatge net visible i poden incloure regularitzacions o tractaments interns.
 
+La resposta mes solida no es negar qualsevol moment de pressio, sino separar pressio puntual de carrega objectivament inassumible. Segons la informacio recollida, Jordi assumia compromisos i dates de lliurament que despres no sempre complia, i aquests incompliments repercutien en la resta de l'equip, que havia de reorganitzar-se, accelerar feines o assumir urgencies. Aquest patró s'ha de contrastar amb Woffu, Trello, actes, seguiments i comunicacions en que constin retards, replanificacions, hores compensades, vacances o franges en que constava fitxat pero no estava localitzable davant comunicacions laborals.
+
 ### 9. Valoracions Sobre Prescindibilitat D'IT
 
 Jordi afirma que hauria estat mes logic acomiadar una informatica perque part de les tasques es podrien subcontractar. Aquesta afirmacio es una opinio personal sobre la prescindibilitat d'altres companyes, no una dada objectiva. No consta que disposes d'un estudi de costos, carrega de treball, criticitat tecnica o impacte operatiu.

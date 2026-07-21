@@ -99,6 +99,8 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Validar que en 2025, com a novetat, Jordi va redactar subtitols i textos destacats dels videos de presentacio de MPIA, GUST i TSA.
 - Validar que els subtitols/textos destacats d'ALBUM i CANVA els va fer Meriem.
 - Validar documentalment que GUST era un curs ja muntat o amb materials previs creats per l'autor, i que la feina de Jordi no era una elaboracio completa des de zero.
+- Validar exemples concrets on Jordi constava fitxat pero no estava localitzable davant trucades, Google Chat, WhatsApp, correus o comunicacions laborals.
+- Validar amb Woffu i gestoria els periodes amb jornades inferiors a la jornada prevista, deficits compensats amb vacances o hores de borsa, i el significat formal de cada saldo.
 - Si no es pot validar al 100%, utilitzar una formula mes prudent: "segons la documentacio revisada fins ara, no consten altres blocs substancials de feina comparables".
 
 ## 11. Annexos

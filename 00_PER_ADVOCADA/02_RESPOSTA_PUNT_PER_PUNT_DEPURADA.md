@@ -297,7 +297,9 @@ Pel periode gener-juny de 2025, que Jordi vincula a una carrega especialment ina
 
 Aixo no nega que hi haguessin puntes de feina o moments de pressio. Pero si Jordi afirma que les tasques eren inassumibles, cal que concreti tasca, data, termini, hores reals i lliurable. Tambe cal contrastar-ho amb els dies en que constin vacances, hores compensades, absencies o reduccions de jornada efectiva dins el mateix periode. Si l'equip acredita que, malgrat els retards i replanificacions, Jordi es restava hores o gaudia de vacances/compensacions, aquest context contradiu una imatge de pressio continua sense descans.
 
-També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. En diversos episodis, el problema documentat no es que l'empresa imposes hores, sino que els retards o entregues tardanes de Jordi obligaven altres persones, especialment Meriem i Isa, a adaptar calendaris, assumir feina posterior amb menys marge o replanificar entregues.
+També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. En diversos episodis, el problema documentat no es que l'empresa imposes hores, sino que Jordi assumia compromisos i dates de lliurament que posteriorment no sempre complia. Aquests incompliments repercutien en la resta de l'equip, especialment en Meriem i Isa, que havien d'accelerar la seva feina, reorganitzar tasques, assumir urgencies o ampliar disponibilitat per evitar retards generals.
+
+Aquesta situacio s'ha de contrastar amb els registres i comunicacions que mostren jornades inferiors a la jornada prevista en alguns periodes, deficits horaris compensats amb vacances o hores de borsa, i franges en que Jordi constava fitxat pero no estava localitzable davant trucades o comunicacions laborals. Amb la informacio disponible, la conclusio defensable no es que Jordi no tingues feina, sino que no queda acreditat que el volum objectiu de tasques fos inassumible. El que si s'observa es un problema de compliment de compromisos, disponibilitat, planificacio i repercussio sobre la resta de l'equip.
 
 **Proves**
 
@@ -313,6 +315,8 @@ També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. E
 - Woffu.
 - `55_resum_woffu_semestres_2024_2025.md`.
 - Captures Woffu mensuals gener-juny 2025.
+- Comunicacions, trucades o chats que acreditin franges fitxades sense resposta/localitzacio.
+- Actes, Trello i seguiments on constin compromisos de dates, replanificacions o entregues posteriors.
 
 **Validacio pendent**
 
@@ -322,6 +326,7 @@ També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. E
 - Validar documentalment que Jordi va fer subtitols/textos destacats de MPIA, GUST i TSA, i que ALBUM/CANVA els va fer Meriem.
 - Validar amb campus/actes/seguiment que GUST ja estava muntat o amb materials previs de l'autor.
 - Validar amb gestoria/advocada la interpretacio de saldos administratius, vacances, absencies i hores compensades.
+- Validar exemples concrets de franges fitxades en que no estava localitzable davant comunicacions laborals.
 
 ## Punt 09. Comunicacions Directes I Suposat Aillament
 

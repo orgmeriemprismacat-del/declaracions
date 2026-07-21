@@ -542,6 +542,10 @@ Si Jordi afirma que la carrega de 2025 era inassumible, la resposta hauria de co
 
 El fet que GUST ja tingues materials previs o estes muntat/substancialment preparat es rellevant per matisar el relat d'una elaboracio completa o d'una carrega extraordinaria atribuible nomes a Jordi.
 
+Tambe cal incorporar que, segons la informacio recollida, el problema no era nomes la quantitat abstracta de tasques, sino el compliment dels compromisos assumits. Jordi manifestava que la carrega era inassumible, pero alhora acceptava o proposava dates de lliurament que posteriorment no sempre complia. Aixo repercutia en la resta de l'equip, que havia d'accelerar feines, reorganitzar calendaris, assumir urgencies o ampliar disponibilitat per evitar retards generals.
+
+Aquest punt contrasta amb registres i comunicacions que s'han de validar: jornades inferiors a la jornada prevista en alguns periodes, deficits horaris compensats amb vacances o hores de borsa, i franges en que constava fitxat pero no estava localitzable davant trucades o comunicacions laborals. La formulacio prudent seria que, amb la informacio disponible, no queda acreditat que el volum objectiu de tasques fos inassumible; el que si s'observa es un problema de compliment de compromisos, disponibilitat, planificacio i repercussio sobre la resta de l'equip.
+
 **Proves/testimonis:**
 
 - Trello de tasques Jordi.
@@ -553,11 +557,16 @@ El fet que GUST ja tingues materials previs o estes muntat/substancialment prepa
 - Proves de subtitols i textos destacats dels videos MPIA, GUST i TSA.
 - Proves que ALBUM i CANVA els va fer Meriem.
 - Woffu gener-juny 2025.
+- Woffu i comprovacio de jornades inferiors, compensacions, vacances o hores de borsa.
+- Comunicacions, trucades o chats que acreditin franges fitxades sense resposta/localitzacio.
+- Actes, Trello i seguiments on constin compromisos de dates no complerts o replanificats.
 - Testimoni de Meriem i Isa sobre impacte de retards, replanificacions i tasques assumides posteriorment.
 
 **Cautela:**
 
 No utilitzar la frase "Jordi no va fer res mes" com a afirmacio tancada. Per a l'advocada, es millor formular-ho com a inventari documental revisat: "amb la documentacio revisada fins ara, la feina principal identificada es..." i deixar obert que direccio validi si hi havia algun altre bloc menor o puntual.
+
+No afirmar de manera generica que "fitxava sense treballar" sense una prova concreta per data i franja. Si es fa servir aquest punt, ha d'anar vinculat a registre Woffu i comunicacio/trucada concreta no atesa o manca de resposta en horari fitxat.
 
 ## 25. Inventari Historic De Tasques 2022-2025
 

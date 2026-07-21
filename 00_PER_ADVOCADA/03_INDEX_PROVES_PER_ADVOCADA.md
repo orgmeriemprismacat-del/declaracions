@@ -45,10 +45,12 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Proves que ALBUM i CANVA, en aquest mateix tipus de textos/subtitols, els va fer Meriem.
 - Captures de campus/materials previs que acreditin que GUST ja estava muntat o amb contingut de l'autor.
 - Woffu gener-juny 2025, per contrastar hores, absencies, descansos i compensacions amb tasques efectivament entregades.
+- Comunicacions, trucades o chats que acreditin franges en que constava fitxat pero no responia o no estava localitzable.
+- Actes, Trello i seguiments on constin compromisos de dates, replanificacions, entregues tardanes o impacte sobre Meriem/Isa.
 
 **Punts que acredita:** inventari real de tasques per periode, delimitacio de la carrega de 2025 abans de la baixa i contrast amb el relat de tasques inassumibles.
 
-**A validar:** acotar anys exactes i proves per cada bloc; no afirmar que no hi havia cap altre bloc substancial si no s'ha revisat tot; utilitzar la formula prudent "segons la documentacio revisada fins ara, no consten altres blocs substancials comparables".
+**A validar:** acotar anys exactes i proves per cada bloc; no afirmar que no hi havia cap altre bloc substancial si no s'ha revisat tot; validar cada exemple de "fitxat pero no localitzable" amb registre i comunicacio concreta; utilitzar la formula prudent "segons la documentacio revisada fins ara, no consten altres blocs substancials comparables".
 
 ## C. Comunicacions Directes Meriem-Jordi
 
