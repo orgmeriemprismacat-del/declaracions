@@ -78,6 +78,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Formalitzar amb Adam/Isa que el conflicte era sobre un mailing, que Meriem i Isa defensaven lectura facil/captacio, i que Adam va aclarir que Meriem era la responsable de marketing.
 - Confirmar amb Adam/Isa que, en mailings, web, xarxes, SEO i campanyes comercials, la correccio havia d'adaptar-se als criteris de marketing.
 - Validar amb Pablo/Adam si recorden el comentari posterior sobre el to de veu de Meriem i si consten insults o expressions vexatories. Segons Meriem, no hi va haver insults ni expressions vexatories, pero si podia haver-hi un to elevat que posteriorment va intentar corregir.
+- Validar amb Adam, Isa, Pablo i, si escau, altres persones de l'equip si tenen constancia d'algun insult o expressio vexatoria cap a Jordi en la trajectoria laboral a PrisMa. Si no en tenen, formular-ho com: "segons els testimonis recollits, no consten insults ni expressions vexatories cap a Jordi".
 - Localitzar captures o chats on Meriem expliqui criteris de SEO/marketing i Jordi plantegi o apliqui criteris diferents de redaccio/correccio.
 - Recollir exemples concrets de mailings o textos comercials on el desacord fos de criteri professional, no personal.
 - No incloure expressions emocionals; descriure fets, criteris i missatges.

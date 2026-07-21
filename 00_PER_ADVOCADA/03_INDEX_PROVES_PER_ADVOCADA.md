@@ -107,8 +107,9 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Testimoni d'Adam, Isa i Meriem sobre la reunio del 05/12/2024: desacord sobre un mailing, criteri de lectura facil/captacio defensat per Meriem i Isa, insistencia de Jordi en criteri redaccional i aclariment final d'Adam que Meriem era la responsable de marketing.
 - Testimoni d'Adam, Isa i Meriem sobre la delimitacio d'ambits: Meriem com a responsable de marketing; Jordi com a corrector que havia d'adaptar la correccio als criteris de marketing en mailings/web/xarxes.
 - Testimoni de Pablo/Adam/Meriem sobre el to de la conversa: possible to elevat, sense insults ni expressions vexatories segons Meriem, i canvi posterior de Meriem per controlar el to.
+- Testimoni de Meriem, Isa, Adam i Pablo sobre la inexistencia d'insults o expressions vexatories cap a Jordi en la trajectoria laboral a PrisMa, diferenciant possibles tons elevats o discrepàncies professionals de desqualificacions personals.
 
-**Punts que acredita:** el conflicte era de criteri professional sobre marketing/correccio, no necessàriament personal; en materials academics o lectures, Meriem respectava l'ambit de correccio; en mailings, web, SEO, xarxes i campanyes, la decisio final corresponia a l'ambit de marketing i la correccio havia d'adaptar-se a aquests criteris; Adam va presenciar el conflicte i va aclarir el criteri organitzatiu; cal diferenciar un possible to elevat d'insults o tracte vexatori.
+**Punts que acredita:** el conflicte era de criteri professional sobre marketing/correccio, no necessàriament personal; en materials academics o lectures, Meriem respectava l'ambit de correccio; en mailings, web, SEO, xarxes i campanyes, la decisio final corresponia a l'ambit de marketing i la correccio havia d'adaptar-se a aquests criteris; Adam va presenciar el conflicte i va aclarir el criteri organitzatiu; cal diferenciar un possible to elevat d'insults, expressions vexatories o tracte vexatori.
 
 **A validar:** si hi ha acta del 05/12/2024; recollir testimoni d'Adam/Isa; si hi ha comunicacio on Adam aclari que Meriem decidia en marketing.
 

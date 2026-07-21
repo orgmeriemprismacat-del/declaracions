@@ -56,6 +56,8 @@ En la reunio del 05/12/2024, segons el meu record, el conflicte va sorgir precis
 
 Reconec que en aquella conversa podia parlar amb un to alt. Es el meu to habitual en situacions de tensio o quan intento defensar un criteri professional, pero no vaig insultar Jordi ni vaig utilitzar expressions vexatories. Quan posteriorment Pablo i Adam em van traslladar que Jordi havia viscut negativament aquest to, vaig intentar controlar-lo expressament i parlar mes baix en les interaccions posteriors.
 
+En general, en la meva experiencia a PrisMa, no he insultat Jordi ni he utilitzat expressions vexatories cap a ell, i tampoc he presenciat que altres membres de l'equip ho fessin. El que si hi ha hagut han estat discrepàncies professionals, recordatoris de tasques, comunicacions sobre terminis i converses tensionades sobre criteris de feina.
+
 **Annexos a citar:** JASOM, exemples de mailing, converses de marketing, acta o testimonis del 05/12/2024 si existeixen, testimoni de Pablo/Adam sobre el comentari posterior relatiu al to.
 
 ### 4B. Criteris De Correccio No Documentats

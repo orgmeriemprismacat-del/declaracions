@@ -683,6 +683,8 @@ Resposta recollida: si. Adam va dir que Meriem era l'encarregada de marketing i 
 
 Sobre si hi va haver escridassada, insults o expressions vexatories, Meriem indica que no hi va haver insults ni expressions vexatories. Si que reconeix que podia parlar amb un to elevat en una conversa tensa sobre criteris professionals. Segons Meriem, en una reunio posterior amb Pablo i Adam, Pablo li va traslladar que Jordi havia indicat que no li agradava que Meriem parles o crides amb aquell to. Meriem indica que, a partir d'aquell moment, va controlar expressament el to i va passar a parlar mes baix.
 
+Meriem afegeix que, mes enlla d'aquesta reunio concreta, en la trajectoria laboral a PrisMa no li consten insults ni expressions vexatories de cap membre de l'equip cap a Jordi. Si Jordi mante una acusacio d'aquest tipus, caldria que concretes episodis, dates, persones i expressions concretes per poder contrastar-ho.
+
 **Formulacio defensable:**
 
 El conflicte del 05/12/2024 s'hauria de presentar com una discrepancia professional de criteris entre correccio lingüistica i marketing, no com un episodi de persecucio personal. El punt central no era si la redaccio de Jordi era correcta en abstracte, sino si era adequada per a un mailing comercial i per als objectius de marketing de PrisMa.
