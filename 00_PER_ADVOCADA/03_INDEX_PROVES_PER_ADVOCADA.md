@@ -127,6 +127,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Comunicacions amb gestoria.
 - Sol.licituds de permisos.
 - Comunicacions oficials de baixa/alta si l'empresa en disposa.
+- Documentacio o comunicacions sobre l'ERTE valorat/demanat el gener de 2025.
 
 **Us proposat:** no contestar en profunditat sense revisio d'Adam, gestoria i advocada.
 

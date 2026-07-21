@@ -115,6 +115,8 @@ Pel que fa al despatx i les reunions presencials, la informacio recollida indica
 
 Segons Meriem, els dies presencials facilitaven que Jordi avances feina o resolgues pendents, pero sovint implicaven que ella deixes d'avancar feina propia i l'acabes fora d'horari. Aquest extrem s'ha de presentar com a testimoni de Meriem i no com a prova documental independent si no es localitza una evidencia directa.
 
+Pel que fa a l'ERTE, segons la informacio recollida si es va valorar o demanar formalment el gener de 2025 i es va comunicar a tot l'equip. Cal validar amb Adam/gestoria el resultat formal exacte. En qualsevol cas, l'ERTE no hauria fet desapareixer tota la feina: podia reduir o ajornar projectes, pero determinades tasques imprescindibles per mantenir l'activitat minima de PrisMa s'haurien hagut de continuar fent o redistribuir.
+
 ### 10. Salut, ICAM, Pagaments I Paternitat
 
 Els punts relatius a baixa medica, ICAM/SGAM, pagaments, autories, nomines, paternitat i decisions contractuals han de ser validats per Adam, gestoria i advocada. L'empresa no ha d'emetre judicis sobre la realitat medica de Jordi. Si l'alta va ser per ICAM/SGAM, cal indicar que no es una decisio emesa per Meriem, Isa, Pablo, Adam ni PrisMa, sense entrar a valorar criteris medics.

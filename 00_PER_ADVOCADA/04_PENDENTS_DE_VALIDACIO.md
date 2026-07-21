@@ -57,6 +57,14 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Validar si es vol aportar l'acta 07/07/2026 com a prova directa que no s'havia pogut fer la coordinacio prevista amb Jordi ni presencialment ni virtualment.
 - Confirmar si hi ha testimonis directes que recordin que Meriem es quedava dimarts i dijous amb Jordi per desbloquejar feina i que aixo li generava feina fora d'horari.
 
+## 6B. ERTE
+
+- Confirmar amb Adam/gestoria si l'ERTE es va demanar formalment o nomes es va valorar formalment el gener de 2025.
+- Localitzar documentacio administrativa, correus o actes de gener de 2025 sobre l'ERTE.
+- Confirmar resultat formal exacte: concedit, denegat, no tramitat finalment, arxivat o substituit per altres mesures.
+- Confirmar com i quan es va comunicar a l'equip.
+- Validar la formulacio sobre l'efecte de l'ERTE: reduccio/ajornament d'alguns projectes, pero manteniment o redistribucio de tasques imprescindibles per evitar el tancament.
+
 ## 7. GUST, Reunio Del 16/05/2025
 
 - Localitzar prova escrita o captura del WhatsApp/reunio on Jordi diu que no tenia res preparat.

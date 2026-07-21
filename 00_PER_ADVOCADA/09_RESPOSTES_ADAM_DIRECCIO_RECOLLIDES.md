@@ -447,3 +447,29 @@ El manteniment temporal del despatx i, posteriorment, la recuperacio de reunions
 **Cautela:**
 
 Cal validar el cost exacte del despatx i evitar presentar-lo com a justificacio economica tancada sense documentacio. La resposta externa pot limitar-se a dir que el despatx o les reunions presencials responien a necessitats de coordinacio presencial i que la seva supressio o modificacio posterior va respondre a una reorganitzacio economica. La part relativa a que Meriem es quedava dimarts i dijous amb Jordi per desbloquejar feina s'ha de formular com a testimoni de Meriem, no com a fet documental independent si no es localitza prova directa.
+
+## 22. ERTE Valorat O Demanat El Gener De 2025
+
+**Pregunta:** Es va demanar o valorar formalment un ERTE? Quan? Es va comunicar a l'equip?
+
+**Resposta recollida:**
+
+Segons la informacio aportada, si es va valorar o demanar formalment un ERTE el gener de 2025. Aquesta questio s'hauria comunicat a tot l'equip, inclos Jordi. Cal validar amb Adam i gestoria el resultat formal exacte de la gestio i localitzar, si existeix, documentacio administrativa, correus o actes que ho acreditin.
+
+Pel que fa a l'efecte sobre la feina, la informacio recollida indica que un ERTE no hauria fet desapareixer tota la feina. Hauria pogut implicar deixar de fer o ajornar projectes que reduissin carrega alta d'algunes persones, pero hi havia tasques imprescindibles per intentar que l'empresa no tanques que s'haurien hagut de mantenir igualment o redistribuir.
+
+**Formulacio defensable:**
+
+La referencia de Jordi a l'ERTE no acredita per si sola cap manipulacio ni negligencia. Segons la informacio recollida, l'ERTE va ser una mesura valorada o demanada en un context economic dificil i comunicada a l'equip. A mes, encara que un ERTE hagues pogut reduir o suspendre determinades feines o projectes, no hauria eliminat totes les tasques necessaries per mantenir l'activitat minima de PrisMa.
+
+**Proves/testimonis:**
+
+- Adam.
+- Gestoria.
+- Comunicacions internes o actes de gener de 2025, si existeixen.
+- Documentacio administrativa de l'ERTE o de la seva valoracio, si existeix.
+- Testimonis de l'equip sobre la comunicacio general.
+
+**Cautela:**
+
+No afirmar que l'ERTE va ser concedit, denegat o tramitat en uns termes concrets fins que Adam/gestoria ho confirmin documentalment. La resposta formal pot limitar-se a dir que va ser una mesura valorada en el context economic de l'empresa, comunicada a l'equip, i que no hauria fet desapareixer totes les necessitats de feina.

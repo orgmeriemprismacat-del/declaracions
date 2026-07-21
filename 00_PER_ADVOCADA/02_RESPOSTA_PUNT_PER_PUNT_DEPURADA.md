@@ -238,6 +238,34 @@ El cost aproximat del despatx seria d'uns 700 euros mensuals amb tot inclos, pen
 
 No convertir aquest punt en una discussio economica excessiva si no es necessari. En resposta externa pot ser suficient dir que eren decisions organitzatives i economiques de direccio.
 
+## Punt 07C. ERTE I Suposada Manipulacio
+
+**Afirmacio de Jordi**
+
+Jordi fa referencia a l'ERTE com una de les estrategies o elements de manipulacio que atribueix a Adam/direccio.
+
+**Resposta proposada**
+
+Segons la informacio recollida, l'ERTE si es va valorar o demanar formalment el gener de 2025 i es va comunicar a tot l'equip. Per tant, no es pot presentar simplement com una maniobra oculta o com un element de manipulacio sense concretar fets, documents i dates.
+
+A mes, un ERTE no hauria fet desapareixer tota la feina. Hauria pogut suposar deixar de fer o ajornar projectes que reduissin la carrega d'algunes persones, pero determinades tasques imprescindibles per mantenir l'activitat minima i evitar el tancament de l'empresa s'haurien hagut de continuar fent o redistribuir.
+
+**Proves**
+
+- Adam i gestoria.
+- Comunicacions o actes de gener de 2025 sobre l'ERTE, si existeixen.
+- Documentacio administrativa de l'ERTE o de la seva valoracio, si existeix.
+- Testimonis de l'equip sobre la comunicacio general.
+
+**Validacio pendent**
+
+- Confirmar resultat formal exacte de l'ERTE amb Adam/gestoria.
+- Localitzar documentacio o comunicacions internes.
+
+**Cautela**
+
+No afirmar que l'ERTE es va concedir, denegar o tramitar en uns termes concrets fins tenir documentacio. El punt defensable ara es que es va valorar/demanar en un context economic dificil, que no era una questio amagada a Jordi i que no hauria eliminat automaticament tota la feina.
+
 ## Punt 08. Tasques Inassumibles
 
 **Afirmacio de Jordi**

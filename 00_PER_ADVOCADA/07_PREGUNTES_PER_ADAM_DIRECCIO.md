@@ -98,10 +98,15 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 ## 7. ERTE
 
 1. Es va demanar o valorar formalment un ERTE?
+   - Resposta preliminar de Meriem: si.
 2. Si es va demanar, quan i amb quin resultat?
+   - Resposta preliminar de Meriem: el gener de 2025. Cal validar amb Adam/gestoria el resultat formal exacte i si hi ha documentacio.
 3. Si no es va concedir, quin motiu es va donar?
+   - Pendent de validar amb Adam/gestoria.
 4. Es va comunicar a Jordi o a l'equip?
+   - Resposta preliminar de Meriem: es va comunicar a tot l'equip.
 5. La feina hauria desaparegut amb un ERTE o s'hauria hagut de redistribuir igualment?
+   - Resposta preliminar de Meriem: no hauria desaparegut tota la feina. S'haurien deixat de fer projectes que podien reduir o eliminar carrega alta d'algunes persones, pero altres tasques imprescindibles per evitar el tancament de l'empresa s'haurien hagut de mantenir igualment o redistribuir.
 
 ## 8. Alta Voluntaria, Baixa I Vacances Posteriores
 
