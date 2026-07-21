@@ -112,11 +112,17 @@ Despres de diversos conflictes i malentesos, vaig limitar la comunicacio amb Jor
 
 Treballar amb aquesta incertesa em va generar molta angoixa i sobrecarrega. Tot i aixi, vaig intentar mantenir-me en el pla laboral, adaptar-me quan podia i continuar garantint que les tasques sortissin. Si l'advocada ho considera necessari, puc aportar exemples concrets de replanificacions, recordatoris i caps de setmana en que vaig assumir feina perque el calendari no caigues.
 
+La situacio amb Jordi em va afectar fins al punt que, durant mesos, vaig explicar el problema a diverses persones de confiança i, en alguns moments, fins i tot a persones que acabava de coneixer, buscant alguna manera de reconduir la situacio i preguntant que podia fer jo perque millorés. No ho feia des d'una voluntat de perjudicar-lo, sino des de la necessitat de trobar una solucio a una dinamica que em superava i que afectava la feina de l'equip.
+
+Entre el novembre de 2024 i el maig de 2025 vaig necessitar assistencia psicologica arran del que estava vivint. Malgrat aixo, vaig continuar intentant ajudar-lo, protegir-lo quan podia i aconseguir que la feina i la relacio laboral funcionessin. Aquest punt no l'aporto per valorar l'estat de salut de Jordi ni per convertir la meva vivencia en una acusacio contra ell, sino per deixar constancia de l'impacte que la situacio tambe va tenir sobre mi i per contradir la idea que jo actues amb una voluntat sostinguda de maltractar-lo.
+
 Al febrer de 2025 jo ja m'havia plantejat marxar de PrisMa. Ho estava passant molt malament i em sentia sobrecarregada. Si vaig continuar implicant-me va ser sobretot per intentar remuntar l'empresa i evitar que les persones que hi treballaven es quedessin sense feina. La meva motivacio era sostenir els projectes, els terminis i l'equip en un moment economic molt complicat, no perjudicar Jordi.
 
 Aquest context no elimina que hi poguessin haver discrepàncies, tensio o comunicacions fermes. Pero explica per que jo insistia tant en organitzar, planificar i fer que les coses sortissin: no ho feia per acarnissament, sino perque percebia que la falta de planificacio i els retards posaven en risc la feina de moltes persones i traslladaven carrega a qui havia de continuar les tasques.
 
-**Cautela:** aquest punt s'ha d'expressar sense convertir-lo en una acusacio medica o psicologica contra Jordi.
+**Cautela:** aquest punt s'ha d'expressar sense convertir-lo en una acusacio medica o psicologica contra Jordi. La documentacio psicologica, si existeix i l'advocada considera necessari aportar-la, conte informacio intima i s'hauria de limitar estrictament al que sigui proporcional per acreditar impacte, cronologia i absencia d'intencionalitat de maltractament.
+
+**Annexos a citar:** documentacio d'assistencia psicologica nomes si l'advocada ho considera necessari i proporcional; testimonis de persones a qui Meriem va demanar ajuda o consell en aquell periode; missatges o notes que acreditin recerca de solucions, sobrecarrega o voluntat de reconduir la situacio.
 
 ## Frases Que Convindria Evitar En Una Declaracio
 

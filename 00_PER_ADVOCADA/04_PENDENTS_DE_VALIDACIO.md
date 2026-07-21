@@ -152,6 +152,9 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Validar amb l'advocada si convé incloure que Meriem, al febrer de 2025, es plantejava marxar de PrisMa per sobrecarrega i malestar, pero va continuar implicant-se per intentar remuntar l'empresa i protegir la continuïtat de l'equip.
 - Si s'inclou, presentar-ho com a vivencia personal i context de motivacio, no com a acusacio contra Jordi ni com a prova medica/psicologica.
 - Localitzar si existeixen testimonis, missatges o notes que acreditin aquest estat o, si no existeixen, deixar-ho nomes com a declaracio personal de Meriem.
+- Validar amb l'advocada si convé mencionar l'assistencia psicologica de Meriem entre novembre de 2024 i maig de 2025, i en quin grau de detall.
+- Si existeix documentacio psicologica, revisar si es pot aportar nomes una referencia minima de cronologia/assistencia, sense exposar contingut intim innecessari.
+- Identificar persones de confiança a qui Meriem va explicar reiteradament la situacio buscant consell o solucions, i valorar amb l'advocada si algun testimoni es util i proporcional.
 - Recollir testimonis d'Isa, Adam, Pablo o altres persones sobre comunicacions verbals, suport presencial, recordatoris directes i actuacions de coordinacio que no sempre van quedar per escrit.
 - Identificar indicis documentals indirectes que ajudin a reconstruir aquestes situacions: canvis de dates posteriors, Woffu, actes, Trello, xats de continuacio o tasques assumides despres de converses verbals.
 

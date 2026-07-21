@@ -690,7 +690,9 @@ Es tracta d'una acusacio greu que requereix fets concrets, dates, missatges i co
 
 Com a element contextual addicional, la imatge d'una hostilitat continuada per part de Meriem queda debilitada si es confirma que, en el periode previ, ella va defensar internament l'ampliacio de jornada de Jordi i va intentar buscar una formula viable perque aquesta ampliacio fos possible. Aixo no elimina possibles discrepancies professionals posteriors, pero no encaixa amb una voluntat sostinguda d'aillar-lo, perjudicar-lo o tractar-lo adversament.
 
-En la mateixa linia, si l'advocada considera rellevant incorporar la declaracio personal de Meriem, es pot recollir que al febrer de 2025 Meriem ja es plantejava marxar de PrisMa per sobrecarrega i malestar, pero va continuar implicant-se per intentar remuntar l'empresa i evitar que la plantilla quedes afectada. Aquest context, si es formula amb prudencia i com a vivencia personal, tampoc encaixa amb una actuacio dirigida a perjudicar Jordi; mostra una situacio de pressio organitzativa general que Meriem intentava sostenir.
+En la mateixa linia, si l'advocada considera rellevant incorporar la declaracio personal de Meriem, es pot recollir que entre el novembre de 2024 i el maig de 2025 Meriem va necessitar assistencia psicologica arran de la situacio que estava vivint, i que durant mesos va explicar el problema a persones de confiança buscant maneres de reconduir-lo. Aquest context s'ha de formular amb prudencia i nomes com a vivencia personal, pero pot ser rellevant per contradir una intencionalitat sostinguda de maltractament: segons Meriem, en aquell moment no actuava per perseguir Jordi, sino que buscava solucions mentre la situacio ja l'estava afectant seriosament.
+
+Tambe es pot recollir que al febrer de 2025 Meriem ja es plantejava marxar de PrisMa per sobrecarrega i malestar, pero va continuar implicant-se per intentar remuntar l'empresa i evitar que la plantilla quedes afectada. Aquest context, si es formula amb prudencia, mostra una situacio de pressio organitzativa general que Meriem intentava sostenir, no una actuacio dirigida a perjudicar Jordi.
 
 **Proves**
 
@@ -699,11 +701,12 @@ En la mateixa linia, si l'advocada considera rellevant incorporar la declaracio 
 - Missatges on Meriem pregunta per salut, conciliacio o disponibilitat.
 - Proves de replanificacions i impacte sobre Meriem/Isa.
 - Testimoni de Meriem, Adam i Pablo sobre el suport de Meriem a l'ampliacio de jornada, si es confirma.
-- Declaracio personal de Meriem sobre la seva sobrecarrega i voluntat de marxar al febrer de 2025, nomes si l'advocada ho considera pertinent i proporcional.
+- Declaracio personal de Meriem sobre la seva sobrecarrega, assistencia psicologica entre novembre de 2024 i maig de 2025, recerca de solucions amb persones de confiança i voluntat de marxar al febrer de 2025, nomes si l'advocada ho considera pertinent i proporcional.
+- Documentacio psicologica o testimonis de persones a qui Meriem demanava ajuda, nomes si l'advocada ho considera necessari i amb criteri de proporcionalitat.
 
 **Cautela**
 
-No respondre amb acusacions personals inverses. Mantenir el focus en proves.
+No respondre amb acusacions personals inverses. Mantenir el focus en proves. La documentacio psicologica de Meriem, si s'aporta, s'ha de limitar estrictament al necessari per acreditar impacte i cronologia, evitant exposar informacio intima que no sigui imprescindible.
 
 ## Punt 20. Conclusions Generals De Jordi
 
