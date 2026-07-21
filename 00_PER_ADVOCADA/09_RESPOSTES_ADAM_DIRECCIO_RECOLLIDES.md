@@ -639,3 +639,32 @@ Segons la informacio aportada, la correccio externa de CANVA va tenir un cost de
 **Cautela:**
 
 Validar import, dates i abast exacte de la feina abans de presentar-ho com a dada tancada.
+
+## 27. Documentacio Sobre CANVA I Menor Dependencia Interna
+
+**Pregunta:** Consta documentalment que amb correccio externa es va avançar sense el mateix nivell de dependencia interna?
+
+**Resposta recollida:**
+
+Segons Meriem, si. Hi ha un full de seguiment de CANVA, comparable als seguiments dels altres cursos, on consten la planificacio i les dates reals d'entrega. Segons la informacio aportada, aquest seguiment mostra que Ariadna va entregar la correccio en termini o abans del previst.
+
+Meriem tambe indica que consta una comunicacio a Ariadna on se li va explicar que no hi havia un full d'estil formal documentat pel corrector intern. Segons Meriem, aquest punt era rellevant perque Jordi no havia deixat criteris estables documentats i, en la practica, els criteris podien variar entre cursos o moments. Aquesta falta de documentacio feia que Meriem i Isa haguessin d'assumir part de la consolidacio o explicacio de criteris que, en principi, haurien d'haver estat documentats per correccio.
+
+**Formulacio defensable:**
+
+La documentacio mes util no es una afirmacio general sobre "millor" o "pitjor" correccio, sino el contrast objectiu entre planificacio i entrega real. Si el full de seguiment de CANVA mostra entregues en termini o abans del previst, es pot afirmar que la correccio externa va permetre avançar amb menys dependencia interna i sense el mateix nivell de replanificacio documentat en altres cursos.
+
+La manca de full d'estil formal s'ha de presentar com una incidencia organitzativa: l'empresa no disposava d'un criteri escrit estable que facilites la continuïtat de la correccio quan intervenia una persona externa o quan altres persones havien de aplicar criteris. Aquest punt ajuda a explicar la dependencia del criteri personal de Jordi i la carrega que acabava recaient en Meriem/Isa, pero s'ha d'evitar formular-lo com un atac personal o una desqualificacio professional.
+
+**Proves/testimonis:**
+
+- Full de seguiment de CANVA amb dates planificades i dates reals d'entrega.
+- Captures o export del seguiment CANVA.
+- Comunicacio a Ariadna sobre la inexistencia de full d'estil formal.
+- Actes o missatges sobre l'externalitzacio de CANVA.
+- Testimoni de Meriem i Isa sobre la manca de criteri escrit estable i l'impacte operatiu.
+- Exemples concrets de variabilitat de criteris entre cursos o moments, nomes si es poden aportar sense convertir el punt en una discussio subjectiva sobre qualitat.
+
+**Cautela:**
+
+No afirmar que Jordi "no tenia criteri" o que la seva feina era incorrecta de forma general. La formula mes segura es: "no consta un full d'estil formal documentat i aixo generava dependencia del criteri personal del corrector intern".

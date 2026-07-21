@@ -152,12 +152,14 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 - Actes on es documenta contacte amb Ariadna Puig.
 - Seguiment de correccio del primer modul i ultim modul.
+- Full de seguiment de CANVA amb dates planificades i dates reals d'entrega.
 - Cost/documentacio de pagament, si es vol utilitzar.
 - Cost indicat per Meriem: 700 euros, pendent de validar amb factura, rebut o document comptable.
+- Comunicacio a Ariadna indicant que no hi havia un full d'estil formal documentat pel corrector intern.
 
-**Punts que acredita:** determinades tasques de correccio es podien externalitzar puntualment; hi ha una referencia economica concreta per CANVA; serveix per rebatre l'opinio de Jordi sobre IT, no per atacar la seva persona.
+**Punts que acredita:** determinades tasques de correccio es podien externalitzar puntualment; hi ha una referencia economica concreta per CANVA; el seguiment permet comparar planificacio i entrega real; si les dates ho confirmen, la correccio externa va avançar sense el mateix nivell de dependencia interna o replanificacio; la manca de full d'estil formal documentat reforça que hi havia dependencia organitzativa del criteri personal del corrector intern.
 
-**A validar:** import exacte de 700 euros, dates, abast de la feina i documents comptables.
+**A validar:** import exacte de 700 euros, dates, abast de la feina i documents comptables; export/captura del full de seguiment CANVA; comunicacio exacta a Ariadna sobre el full d'estil; exemples o testimonis sobre variabilitat de criteris si l'advocada considera util aquest punt.
 
 ## K. Pagaments, Autories, Paternitat, ICAM/SGAM
 

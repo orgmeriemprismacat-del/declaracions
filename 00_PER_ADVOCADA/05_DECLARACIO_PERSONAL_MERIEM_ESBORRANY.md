@@ -54,6 +54,14 @@ Quan li demanava que corregis un text respectant unes regles de SEO o marketing,
 
 **Annexos a citar:** JASOM, exemples de mailing, converses de marketing, acta o testimonis del 05/12/2024 si existeixen.
 
+### 4B. Criteris De Correccio No Documentats
+
+Segons la meva experiencia directa, no disposavem d'un full d'estil formal i estable elaborat per Jordi que permetes saber sempre quin criteri s'havia d'aplicar a mediateques, bibliografies o altres elements recurrents dels cursos. En diferents moments vaig percebre que criteris similars s'aplicaven de manera diferent entre cursos o que canviaven amb el temps.
+
+Aixo va fer que, en la practica, Isa i jo haguessim d'acabar entenent i consolidant criteris de funcionament que no estaven documentats, per poder mantenir continuïtat entre cursos i explicar-ho quan calia. Aquesta situació no la plantejo com una desqualificacio personal de Jordi, sino com una dificultat organitzativa: la falta de criteris escrits augmentava la dependencia del seu criteri personal i feia mes dificil substituir, externalitzar o continuar una correccio sense haver de preguntar o reconstruir criteris.
+
+**Annexos a citar:** comunicacio a Ariadna sobre inexistencia de full d'estil formal, exemples de mediateques/bibliografies si es decideix aportar-los, testimoni de Meriem i Isa.
+
 ### 5. Impacte De Retards I Falta De Confirmacio
 
 Quan una correccio arribava tard, o no sabia si Jordi es connectaria, si havia vist una tasca o si l'entregaria, la carrega de risc passava a la resta de l'equip. En el meu cas, sovint havia de replanificar, esperar fins tard, modificar publicacions ja programades o preparar imatges en caps de setmana perque altres persones poguessin continuar treballant.

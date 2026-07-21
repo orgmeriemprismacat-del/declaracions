@@ -189,7 +189,9 @@ Jordi afirma que era mes logic acomiadar una informatica perque part de les tasq
 
 Aquesta afirmacio es una opinio personal de Jordi sobre la prescindibilitat d'altres companyes, no una dada objectiva. No consta que disposes d'estudi de costos, criticitat, carrega de treball o impacte operatiu. Les tasques d'IT eren elevades i transversals, i la subcontractacio d'una especialitat concreta no substitueix tot l'abast real del departament.
 
-En canvi, si que existeix una dada concreta pendent de documentar sobre externalitzacio puntual de correccio: segons la informacio aportada, la correccio externa de CANVA va tenir un cost de 700 euros. Aquesta dada no converteix automaticament cap lloc de treball en prescindible, pero si contradiu que Jordi utilitzi el criteri abstracte de "subcontractacio mes barata" per assenyalar precisament IT sense haver fet cap estudi equivalent sobre l'abast real del departament.
+En canvi, si que existeix una dada concreta pendent de documentar sobre externalitzacio puntual de correccio: segons la informacio aportada, la correccio externa de CANVA va tenir un cost de 700 euros. Tambe hi hauria un full de seguiment de CANVA, comparable als altres seguiments de cursos, on es pot contrastar la planificacio amb les entregues reals. Segons Meriem, aquest full mostra que Ariadna va entregar la correccio en termini o abans del previst. Aquesta dada no converteix automaticament cap lloc de treball en prescindible, pero si contradiu que Jordi utilitzi el criteri abstracte de "subcontractacio mes barata" per assenyalar precisament IT sense haver fet cap estudi equivalent sobre l'abast real del departament.
+
+Un segon element rellevant es la manca d'un full d'estil formal. Segons Meriem, es va comunicar a Ariadna que el corrector intern no havia deixat documentat cap full d'estil aplicable. Si es valida amb la comunicacio corresponent, aquest fet acredita una dependencia organitzativa del criteri personal de Jordi i ajuda a explicar per que Meriem i Isa havien d'acabar consolidant o recordant criteris de correccio en alguns materials. Aquest punt s'ha de formular com a problema de documentacio i continuïtat interna, no com a atac personal.
 
 El fet que una persona tingui o no un pla B no acredita cap motiu objectiu d'acomiadament ni cap actuacio irregular de l'empresa.
 
@@ -200,6 +202,8 @@ Segons la informacio recollida, Jordi si va participar almenys en una conversa s
 - Document d'abast de funcions IT.
 - Actes i captures sobre feina real d'IT.
 - Comparativa amb externalitzacio puntual de correccio CANVA, incloent cost indicat de 700 euros pendent de documentacio comptable.
+- Full de seguiment de CANVA amb planificacio i entregues reals.
+- Comunicacio a Ariadna indicant que no hi havia full d'estil formal documentat.
 - Carta de Jordi, on formula opinio sobre acomiadar una informatica.
 - Testimonis sobre converses informals relatives a possibles acomiadaments.
 
@@ -207,6 +211,8 @@ Segons la informacio recollida, Jordi si va participar almenys en una conversa s
 
 - Costos i abast objectiu amb direccio/gestoria.
 - Validar amb factura, rebut o document comptable el cost de 700 euros de la correccio externa de CANVA.
+- Validar el full de seguiment de CANVA i extreure dates previstes versus dates reals d'entrega.
+- Localitzar la comunicacio a Ariadna sobre la inexistencia de full d'estil formal.
 
 ## Punt 07B. Despatx, Teletreball I Coordinacio
 

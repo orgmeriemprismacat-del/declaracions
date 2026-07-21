@@ -154,6 +154,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 7. Quin cost va tenir la correccio externa de CANVA?
    - Resposta preliminar de Meriem: 700 euros. Cal validar amb factura, rebut o document comptable i concretar l'abast exacte de la feina.
 8. Consta documentalment que amb correccio externa es va avançar sense el mateix nivell de dependencia interna?
+   - Resposta preliminar de Meriem: si. Hi ha un full de seguiment de CANVA, com en els altres cursos, amb planificacio i dates reals d'entrega. Segons Meriem, aquest seguiment mostra que Ariadna va entregar en termini o abans del previst. Tambe consta una comunicacio a Ariadna indicant que no hi havia un full d'estil formal documentat pel corrector intern. Cal aportar captures/export del seguiment i la comunicacio concreta.
 
 ## 11. Conducta I Reunions Amb Jordi
 

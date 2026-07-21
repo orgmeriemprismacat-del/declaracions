@@ -123,6 +123,11 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 
 - Validar amb factura, rebut o document comptable que la correccio externa de CANVA va tenir un cost de 700 euros.
 - Confirmar dates, abast exacte de la feina externalitzada i persona/proveidor que la va realitzar.
+- Confirmar amb el full de seguiment de CANVA les dates planificades i les dates reals d'entrega, i si les entregues d'Ariadna consten en termini o abans del previst.
+- Preparar captura o export del full de seguiment CANVA, igual que en els altres cursos.
+- Localitzar la comunicacio a Ariadna on se li indica que no hi havia un full d'estil formal documentat pel corrector intern.
+- Validar amb Meriem/Isa si es pot acreditar que la manca de full d'estil generava dependencia del criteri personal de Jordi i variabilitat entre cursos o moments.
+- Si s'utilitza aquest punt, aportar exemples concrets o testimonis de Meriem/Isa, evitant afirmacions generiques sobre la qualitat professional de Jordi.
 - Confirmar amb actes/seguiment que la correccio externa va permetre avançar sense el mateix nivell de dependencia interna, replanificacio o conflicte.
 - Utilitzar aquesta dada nomes per rebatre el criteri abstracte de subcontractacio plantejat per Jordi, no per menystenir la seva feina.
 

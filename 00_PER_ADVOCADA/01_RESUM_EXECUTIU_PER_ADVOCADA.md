@@ -109,7 +109,9 @@ Jordi afirma que hauria estat mes logic acomiadar una informatica perque part de
 
 Les tasques d'IT no es limiten al manteniment informatic: inclouen Moodle, web, bases de dades, intranet, ecommerce, inscripcions, TPV, facturacio, VeriFactu, suport, mailings, SEO, Ads, conversions, xarxes, imatges, videos i coordinacio de projectes/proveidors. La subcontractacio d'una especialitat concreta no equival a substituir tot aquest abast.
 
-Tambe consta que determinades tasques de correccio si es van poder externalitzar puntualment, com CANVA, amb menys dependencia interna i sense el mateix nivell de conflicte o replanificacio. Segons la informacio aportada, la correccio externa de CANVA va tenir un cost de 700 euros, pendent de validar amb factura, rebut o document comptable. Aquest punt s'ha d'utilitzar amb cautela: serveix per rebatre el criteri abstracte de subcontractacio, no per menystenir Jordi.
+Tambe consta que determinades tasques de correccio si es van poder externalitzar puntualment, com CANVA, amb menys dependencia interna i sense el mateix nivell de conflicte o replanificacio. Segons la informacio aportada, la correccio externa de CANVA va tenir un cost de 700 euros, pendent de validar amb factura, rebut o document comptable. A mes, hi hauria un full de seguiment comparable als altres cursos on consten planificacio i entregues reals, i que mostraria que la feina d'Ariadna es va entregar en termini o abans del previst. Aquest punt s'ha d'utilitzar amb cautela: serveix per rebatre el criteri abstracte de subcontractacio, no per menystenir Jordi.
+
+La mateixa externalitzacio tambe posa de manifest una dependencia interna rellevant: segons Meriem, es va haver de comunicar a Ariadna que no hi havia un full d'estil formal deixat pel corrector intern. Aixo s'ha de tractar com una incidencia organitzativa documentable, no com una acusacio personal: si no existia un criteri escrit estable, la correccio depenia mes del criteri personal de Jordi i generava mes necessitat de coordinacio posterior per part de Meriem i Isa.
 
 ### 9B. Acomiadaments, Cristina I Despatx
 
