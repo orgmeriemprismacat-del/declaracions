@@ -190,6 +190,42 @@ Aquest antecedent no exclou que posteriorment hi poguessin haver discrepancies p
 
 Si no es localitza prova escrita, formular aquest punt com a testimoni/context confirmable per Adam, Pablo i Meriem, no com a prova documental tancada.
 
+## 10B. Conversa Sobre Jornada Completa Davant De Meriem I Isa
+
+**Pregunta:** Adam va oferir a Jordi parlar en privat en alguna ocasio i Jordi va preferir fer-ho davant de Meriem i Isa?
+
+**Resposta recollida de Meriem:** Si. Segons Meriem, en l'episodi en que Jordi retreia a Adam la jornada completa i imports que considerava pendents, Adam li va oferir parlar en privat o en un espai separat. Jordi va preferir mantenir la conversa davant Meriem i Isa perque volia testimonis.
+
+**Context recollit:**
+
+Meriem indica que Jordi portava temps queixant-se davant l'equip i que Meriem i Isa li havien dit diverses vegades que, si tenia queixes, havia de parlar directament amb Adam quan coincidien al despatx, en una sala de reunions o en un cafe. Segons Meriem, aquell dia Jordi va reclamar parlar amb Adam en un to elevat i, quan Adam va proposar anar a un espai privat, Jordi va preferir parlar alla mateix.
+
+Meriem i Isa van viure la situacio com a incomoda i no van buscar presenciar-la. Segons Meriem, van intentar no intervenir i fins i tot van marxar en algun moment a fer un cafe per la incomoditat de la situacio.
+
+**Pregunta:** En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o formules no compatibles amb la situacio economica/legal de l'empresa?
+
+**Resposta recollida de Meriem:** Segons Meriem, Jordi insistia que Adam podia haver-li fet el contracte a jornada completa o haver buscat alguna formula per pagar-li com si tingues jornada completa, malgrat que Adam li explicava que no havia promes una data concreta i que l'ampliacio depenia de la subvencio i de la situacio economica de PrisMa. Meriem interpreta aquesta insistencia com una referencia a formules irregulars o no compatibles amb la situacio economica/legal de l'empresa.
+
+Meriem indica que va intervenir per explicar que, si l'empresa tenia perdues, no podia ampliar jornada sense justificacio ni buscar formules irregulars. Isa hauria intervingut en el mateix sentit.
+
+**Formulacio defensable:**
+
+Aquest episodi pot servir per contestar la idea que Meriem i Isa "li van girar l'esquena". Segons la informacio recollida, la seva intervencio no es va produir per atacar Jordi ni per posicionar-se personalment contra ell, sino per aclarir que una ampliacio de jornada o una formula de pagament no es podia fer al marge de la situacio economica i legal de l'empresa.
+
+Tambe es rellevant que, si Adam i Isa ho confirmen, la presencia de Meriem i Isa en aquella conversa no va ser buscada per elles ni imposada per l'empresa: Jordi hauria preferit parlar davant seu perque volia testimonis.
+
+**Proves/testimonis:**
+
+- Adam, pendent de confirmacio.
+- Isa, pendent de confirmacio.
+- Meriem.
+- Woffu 2023, per contrastar l'afirmacio de Jordi que ja feia jornada completa.
+- Respostes de direccio sobre inexistencia de data concreta i condicio vinculada a subvencio/situacio economica.
+
+**Cautela:**
+
+Evitar afirmar pagaments no regularitzats com a fet si no hi ha literal documentat. Es mes prudent parlar de "formules irregulars o no compatibles amb la situacio economica/legal de l'empresa", i deixar que Adam/Isa concretin les paraules exactes si les recorden.
+
 ## 11. Permis De Paternitat: No Consta Peticio Formal De Canvi Per Necessitats De L'Empresa
 
 **Pregunta:** PrisMa li va demanar formalment que canvies dates del permis per necessitats de l'empresa?

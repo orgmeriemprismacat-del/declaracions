@@ -18,6 +18,14 @@ Posteriorment hi va haver discrepancies professionals, especialment sobre termin
 
 **Annexos a citar:** testimoni de Meriem, Adam i Pablo si confirmen aquest extrem; respostes de direccio sobre jornada completa i noves tasques; documents de Woffu/context economic si l'advocada ho considera necessari.
 
+### 0B. Conversa Sobre Jornada Completa Davant Meu I Isa
+
+Recordo un episodi en que Jordi va voler parlar amb Adam sobre la jornada completa i els imports que considerava pendents. Adam li va oferir parlar en privat o en un espai separat, pero Jordi va preferir mantenir la conversa davant meu i d'Isa perque volia testimonis. A mi i a Isa ens va resultar una situacio molt incomoda, i en diversos moments vam intentar no intervenir.
+
+Quan finalment vaig intervenir, ho vaig fer per explicar que, si l'empresa tenia perdues, no podia ampliar jornada sense justificacio ni buscar formules irregulars per pagar com si hi hagues jornada completa. Isa va intervenir en el mateix sentit. No vaig intervenir per posar-me contra Jordi, sino per aclarir que el que ell reclamava no funcionava aixi des d'un punt de vista basic economic i organitzatiu.
+
+**Annexos a citar:** testimoni de Meriem, Isa i Adam; Woffu 2023; respostes de direccio sobre inexistencia de data tancada i condicio vinculada a subvencio/situacio economica.
+
 ### 1. Comunicacio Amb Jordi
 
 No es cert que la comunicacio amb Jordi fos nomes a traves de reunions, xats grupals o correus amb copia a l'equip. Vaig mantenir comunicacions directes amb ell per Google Chat, WhatsApp, correu i canals de feina. En aquestes comunicacions hi havia avisos, consultes, correccions, replanificacions, preguntes sobre disponibilitat i tambe converses cordials o personals.

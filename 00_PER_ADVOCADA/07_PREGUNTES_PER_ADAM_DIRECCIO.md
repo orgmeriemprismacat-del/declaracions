@@ -169,8 +169,13 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
    - Punt general aportat per Meriem: en la trajectoria laboral a PrisMa no li consten insults ni expressions vexatories de cap membre de l'equip cap a Jordi.
    - A validar amb Adam/Pablo/Isa: si recorden insults o expressions vexatories; si recorden que el problema era el to; si recorden que Meriem va modificar la manera de parlar despres.
 5. Adam va oferir a Jordi parlar en privat en alguna ocasio i Jordi va preferir fer-ho davant de Meriem i Isa?
-6. En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o pagaments en negre?
+   - Resposta recollida de Meriem: si. En l'episodi en que Jordi retreia a Adam la jornada completa i imports que considerava deguts, Adam li hauria ofert parlar en privat o en un espai separat. Jordi hauria preferit parlar alla mateix davant Meriem i Isa perque volia testimonis.
+   - Segons Meriem, ella i Isa van viure la situacio com a incomoda i no van buscar presenciar aquella conversa.
+6. En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o formules no compatibles amb la situacio economica/legal de l'empresa?
+   - Resposta recollida de Meriem: Jordi insistia que Adam podia haver-li fet el contracte o haver buscat alguna formula per pagar-li com si tingues jornada completa malgrat la situacio de perdues. Meriem ho interpreta com una referencia a formules irregulars, i indica que ella i Isa van intervenir per explicar que aixo no era viable ni correcte.
 7. Com ho va viure Adam i qui era present?
+   - Present segons Meriem: Adam, Jordi, Meriem i Isa. Pablo no hi era.
+   - A validar amb Adam/Isa: to de la conversa, oferiment de parlar en privat, negativa de Jordi i contingut exacte sobre jornada completa/formules irregulars.
 
 ## 12. Comunicacio Amb Jordi Despres Del Retorn
 

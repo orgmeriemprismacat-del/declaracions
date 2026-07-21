@@ -15,6 +15,8 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Segons resposta recollida, no es va donar data concreta; es va parlar d'una possibilitat vinculada a subvencio ACOS/TICS i a la situacio economica de PrisMa.
 - Adam ha de confirmar exactament aquesta resposta abans de presentar-la.
 - Revisar si hi ha correus, WhatsApps o actes que parlin de jornada completa.
+- Confirmar amb Adam i Isa si Adam va oferir a Jordi parlar en privat o en un espai separat i Jordi va preferir parlar davant Meriem i Isa per tenir testimonis.
+- Confirmar amb Adam i Isa si la intervencio de Meriem i Isa es va limitar a explicar que no era viable ampliar jornada o buscar formules irregulars en un context de perdues.
 - Evitar afirmar que Jordi "menteix" si no hi ha prova directa; es pot dir que no queda acreditada una promesa fixa i incondicionada.
 
 ## 3. Paternitat

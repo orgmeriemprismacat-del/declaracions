@@ -74,6 +74,8 @@ Aquest context tambe es rellevant respecte de Meriem. Segons la informacio aport
 
 La imatge d'una actitud continuadament hostil per part de Meriem no resulta coherent amb aquest antecedent. Si queda confirmat per Adam/Pablo o per altres testimonis, el fet que Meriem defenses internament l'ampliacio de jornada de Jordi fins a vuit hores, coneixent la situacio economica i personal que ell exposava, contradiu la presentacio d'una voluntat sostinguda de perjudicar-lo o sotmetre'l a un tracte advers. Aquest antecedent no exclou que posteriorment hi poguessin haver discrepancies professionals, tensions o comunicacions fermes sobre terminis i tasques, pero si serveix per descartar una lectura de persecucio sostinguda.
 
+Segons el relat de Meriem, en una conversa tensa sobre aquesta qüestio, Adam va oferir a Jordi parlar en privat o en un espai separat, pero Jordi va preferir mantenir la conversa davant Meriem i Isa per tenir testimonis. Meriem i Isa no haurien buscat presenciar aquesta conversa; al contrari, la van viure com una situacio incomoda. Aquesta dada es rellevant per contextualitzar l'afirmacio de Jordi que l'equip li va "girar l'esquena": la intervencio de Meriem i Isa no es va produir per atacar-lo, sino arran de la insistencia de Jordi que Adam podia haver-li fet el contracte o haver buscat alguna formula irregular malgrat la situacio de perdues. Segons Meriem, ella i Isa van intervenir per explicar que una empresa amb perdues no podia ampliar jornada sense justificacio ni fer operacions irregulars. Aixo s'ha de validar amb Adam i Isa abans de presentar-ho com a fet tancat.
+
 **Proves**
 
 - Testimonis de Meriem, Isa, Pablo i Adam.
@@ -86,6 +88,7 @@ La imatge d'una actitud continuadament hostil per part de Meriem no resulta cohe
 - Adam ha de confirmar exactament que es va prometre o no, i en quins termes.
 - Confirmar que no existeixen correus, WhatsApps o actes sobre aquestes converses.
 - Confirmar si Adam/Pablo poden validar que Meriem va defensar o recolzar internament l'ampliacio de jornada.
+- Confirmar amb Adam i Isa l'episodi en que Adam va oferir parlar en privat i Jordi va preferir parlar davant Meriem i Isa per tenir testimonis.
 
 **Cautela**
 

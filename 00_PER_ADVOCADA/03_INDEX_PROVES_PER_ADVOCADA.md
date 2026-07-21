@@ -26,10 +26,11 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - `54_resum_woffu_2023_per_declaracio.md`.
 - `55_resum_woffu_2024_2025_per_declaracio.md`.
 - Respostes de direccio: `00_PER_ADVOCADA/09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
+- Testimoni d'Adam, Isa i Meriem sobre la conversa de jornada completa en que, segons Meriem, Adam va oferir parlar en privat i Jordi va preferir parlar davant Meriem i Isa per tenir testimonis.
 
-**Punts que acredita:** no consta jornada completa sostinguda de gener a agost de 2023; el salt rellevant apareix al setembre de 2023; cal calcular hores com `sortida - entrada - descansos`.
+**Punts que acredita:** no consta jornada completa sostinguda de gener a agost de 2023; el salt rellevant apareix al setembre de 2023; cal calcular hores com `sortida - entrada - descansos`; la presencia de Meriem i Isa en la conversa tensa sobre jornada completa no hauria estat buscada per elles ni imposada per l'empresa, sino decidida per Jordi en preferir testimonis.
 
-**A validar:** interpretacio formal de compensacions, permisos i diferencies amb gestoria/advocada.
+**A validar:** interpretacio formal de compensacions, permisos i diferencies amb gestoria/advocada; confirmacio d'Adam i Isa sobre l'episodi de conversa davant testimonis.
 
 ## B2. Tasques 2022-2025 I Volum Real
 
