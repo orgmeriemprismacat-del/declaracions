@@ -102,6 +102,8 @@ Segons la informacio recollida, no consta que PrisMa demanes formalment a Jordi 
 
 Meriem pot testificar que Jordi havia explicat que volia passar a jornada completa perque el permis de paternitat es calcules sobre jornada completa i li resultes economicament mes favorable. Mentre no es localitzi prova escrita, aquest punt s'ha de mantenir com a testimoni i context, no com a fet documental tancat ni com a motiu exclusiu.
 
+Pel que fa al mes internament descrit com a "regalat" o no descomptat, segons la informacio recollida no consta a l'equip com una obligacio pendent de PrisMa cap a Jordi. La decisio d'Adam s'hauria d'explicar, pendent de validacio documental, com una concessio excepcional o periode no descomptat adoptat davant les exigencies de Jordi i tenint en compte la seva situacio personal, amb voluntat d'ajudar-lo i no perjudicar-lo.
+
 **Proves**
 
 - Woffu.
@@ -109,6 +111,7 @@ Meriem pot testificar que Jordi havia explicat que volia passar a jornada comple
 - Comunicacions amb gestoria.
 - Missatges de Jordi sobre el motiu economic, si es decideix aportar-los.
 - Testimoni de Meriem sobre converses relatives al motiu economic de la jornada completa.
+- Confirmacio d'Adam sobre el motiu i la figura formal del mes concedit/no descomptat.
 - `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 **Validacio pendent**
@@ -117,10 +120,11 @@ Meriem pot testificar que Jordi havia explicat que volia passar a jornada comple
 - Adam ha de confirmar que no hi va haver peticio formal de PrisMa per canviar dates del permis.
 - Buscar correus o WhatsApps sobre el motiu economic de la jornada completa.
 - Confirmar si Adam, Pablo o gestoria tambe en tenen constancia.
+- Confirmar com consta formalment el mes concedit/no descomptat a Woffu, nomina i gestoria.
 
 **Cautela**
 
-No convertir una interpretacio sobre motius personals en afirmacio sense prova.
+No convertir una interpretacio sobre motius personals en afirmacio sense prova. Evitar usar "regal" com a categoria formal en la resposta externa si Woffu/gestoria el classifiquen d'una altra manera.
 
 ## Punt 05. Vacances I Hores Acumulades
 

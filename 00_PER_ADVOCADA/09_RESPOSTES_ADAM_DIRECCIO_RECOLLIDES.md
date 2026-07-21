@@ -231,11 +231,11 @@ No atribuir una motivacio exclusiva a Jordi sense prova escrita. No qüestionar 
 
 **Resposta recollida:**
 
-Despres del periode de mes hores de setembre de 2023, Jordi va agafar el permis de paternitat a l'octubre. Segons la informacio aportada, al novembre se li va concedir un mes de vacances o descans que internament es descriu com a "regalat", perque Jordi sostenia que se li devia la paternitat a jornada completa tot i que el permis disponible estava vinculat a la mitja jornada.
+Despres del periode de mes hores de setembre de 2023, Jordi va agafar el permis de paternitat a l'octubre. Segons la informacio aportada per Meriem, l'equip no tenia identificat aquell mes com una obligacio pendent de PrisMa cap a Jordi. Tot i aixo, davant les exigencies de Jordi, Adam va decidir concedir-li aquell mes de descans o absencia no descomptada, internament descrita com a "regalada", tenint en compte la seva situacio personal i amb la voluntat de no perjudicar-lo, ajudar-lo i facilitar que tornes millor.
 
 **Formulacio prudent:**
 
-Aquest punt s'ha de presentar nomes quan Adam/gestoria confirmin com consta formalment a Woffu, nomina i documentacio laboral. La idea rellevant per al relat es que, despres del periode intensiu de setembre, no es pot analitzar la jornada de Jordi sense tenir en compte permisos, paternitat, vacances, compensacions i decisions internes de flexibilitat o descans.
+Aquest punt s'ha de presentar nomes quan Adam/gestoria confirmin com consta formalment a Woffu, nomina i documentacio laboral. La formulacio externa hauria d'evitar la paraula "regal" com a categoria formal i parlar, si escau, d'una concessio excepcional, descans concedit o periode no descomptat per decisio d'Adam. La idea rellevant per al relat es que aquesta decisio mostra una actuacio flexible i favorable a Jordi, no una voluntat de perjudicar-lo.
 
 **Validacio pendent:**
 
@@ -243,3 +243,5 @@ Aquest punt s'ha de presentar nomes quan Adam/gestoria confirmin com consta form
 - Gestoria.
 - Woffu octubre-novembre 2023.
 - Nomines o documentacio del permis, si l'advocada ho considera necessari.
+- Confirmar si formalment aquell mes consta com a vacances, permis, absencia justificada, compensacio o una altra figura.
+- Confirmar amb Adam que la finalitat de la concessio era ajudar Jordi i evitar perjudicar-lo.

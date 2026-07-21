@@ -113,6 +113,8 @@ Pel que fa al permis de paternitat, segons la informacio recollida no consta que
 
 Tambe hi ha testimoni de Meriem que Jordi havia vinculat l'interes per la jornada completa al calcul economic del permis de paternitat. Mentre no es localitzi prova escrita, aquest punt s'ha de presentar nomes com a testimoni i context, no com a fet documental tancat.
 
+Respecte al mes internament descrit com a "regalat" o no descomptat, la informacio recollida apunta que Adam l'hauria concedit com a decisio flexible i favorable a Jordi, davant les seves exigencies i tenint en compte la seva situacio. Cal validar amb Adam/gestoria la figura formal exacta abans d'incorporar-ho com a fet tancat.
+
 ## Recomanacio De Presentacio
 
 Per a l'advocada, convé portar:

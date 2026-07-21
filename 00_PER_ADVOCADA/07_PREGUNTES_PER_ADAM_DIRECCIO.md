@@ -29,7 +29,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 3. Permis De Paternitat
 
-**Estat actual:** Meriem ha aportat resposta preliminar que PrisMa no va demanar formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Tambe indica que pot testificar que Jordi havia explicat que volia jornada completa per cobrar el permis sobre jornada completa, pero no sap si hi ha correu o prova escrita. Cal confirmar-ho amb Adam i gestoria abans de presentar-ho.
+**Estat actual:** Meriem ha aportat resposta preliminar que PrisMa no va demanar formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Tambe indica que pot testificar que Jordi havia explicat que volia jornada completa per cobrar el permis sobre jornada completa, pero no sap si hi ha correu o prova escrita. Sobre el mes internament descrit com a "regalat" o no descomptat, Meriem indica que l'equip no ho tenia identificat com una obligacio pendent de PrisMa i que Adam ho va concedir davant les exigencies de Jordi per ajudar-lo i no perjudicar-lo. Cal confirmar-ho amb Adam i gestoria abans de presentar-ho.
 
 1. Quines dates exactes va demanar Jordi inicialment pel permis de paternitat?
 2. Va modificar Jordi aquestes dates? Si si, per quin canal i amb quina justificacio?
@@ -37,6 +37,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 4. Jordi va explicar que volia jornada completa per cobrar el permis de paternitat sobre jornada completa?
    - Resposta preliminar de Meriem: ho pot testificar, pero pendent de localitzar prova escrita o confirmacio d'Adam/gestoria.
 5. Que va passar exactament amb el mes que internament s'ha descrit com a "regalat" o no descomptat?
+   - Resposta preliminar de Meriem: Adam l'hauria concedit com a decisio favorable a Jordi davant les seves exigencies, tenint en compte la seva situacio i amb voluntat d'ajudar-lo. Cal confirmar figura formal i versio d'Adam.
 6. Com consta formalment aquest mes a Woffu/nomina/gestoria: vacances, permis, absencia justificada, compensacio o una altra figura?
 7. Qui havia d'informar Jordi del tramit necessari per cobrar la part restant del permis?
 8. Hi ha correus o comunicacions amb gestoria sobre aquest punt?
