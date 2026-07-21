@@ -24,6 +24,22 @@ Per a mi es especialment doloros que ara es reconstrueixi tota la relacio com si
 
 **Annexos a citar:** testimonis d'Isa, Adam, Pablo i altres persones que recordin la dinamica previa; comunicacions directes; actes i proves de replanificacions; annexos sobre adaptacions de Meriem a Jordi.
 
+### 0A.1. Conductes De Suport I Cura Cap A Jordi
+
+Considero important deixar constancia de diverses conductes meves que, segons la meva vivencia, no son compatibles amb una voluntat sostinguda de perjudicar Jordi. Durant la relacio laboral vaig defensar que se li pogues ampliar la jornada a jornada completa quan vaig entendre que ho necessitava i vaig buscar maneres perque aquesta ampliacio pogues encaixar amb les necessitats de PrisMa.
+
+Tambe vaig adaptar canals i sistemes de comunicacio per facilitar-li la feina: correus, Trello, avisos, recordatoris, WhatsApp nomes en determinats casos i automatitzacions per evitar duplicar feina manual. Aquestes adaptacions no es van fer per evitar-lo, sino per intentar que tingues la informacio clara, amb marge i amb els enllacos necessaris.
+
+En diferents ocasions li vaig donar marge o vaig acceptar reprogramacions quan deia que no arribava. Tambe li vaig dir que no treballes caps de setmana per determinades tasques si es podia moure la data, i vaig intentar organitzar la feina perque no hagues de fer-ho. Quan ell necessitava temps per contestar un missatge llarg o una conversa dificil, li vaig dir expressament que estigues tranquil i que contestes quan pogues.
+
+La relacio tampoc es pot reduir a comunicacions hostils o retrets. Consten converses on li preguntava per la salut, per la seva filla o per situacions familiars, i on ell mateix compartia aspectes personals amb mi. Aquestes converses son rellevants perque mostren que no hi havia una voluntat d'aillament o deshumanitzacio, sino una relacio que durant molt temps tambe va tenir una dimensio de confiança i suport.
+
+Tambe vaig intentar evitar exposar-lo davant de l'equip quan hi havia incidencies. Sovint parlava en general a reunions o intentava resoldre les coses per canals directes, precisament per no assenyalar-lo. A mes, quan la situacio es va tornar molt dificil per a mi, vaig buscar consell en altres persones de confiança per intentar entendre que podia fer per reconduir-la, no per perjudicar-lo.
+
+Aquestes actuacions no eliminen que posteriorment hi haguessin conflictes, cansament o comunicacions mes estrictament laborals. Pero si son importants per valorar el context i la intencionalitat: la meva actuacio no va ser la d'una persona que volia fer-li mal, sino la d'algú que durant molt temps va intentar sostenir, adaptar i reconduir una relacio laboral que cada vegada era mes dificil.
+
+**Annexos a citar:** proves i testimonis sobre suport a l'ampliacio de jornada; correu 06/02/2025 sobre automatitzacions; converses del 03/04/2025 sobre canals; WhatsApps on Meriem dona marge o diu que no treballi el cap de setmana; captures del 10/04/2025 sobre salut/familia i temps per contestar; testimonis de persones a qui Meriem va demanar consell per reconduir la situacio.
+
 ### 0C. El Que He Vist Directament En El Dia A Dia
 
 El que jo he vist directament durant anys es una dificultat recurrent per part de Jordi per mantenir una organitzacio autonoma i estable de les tasques. He vist tasques que quedaven pendents malgrat haver estat comentades; correccions que arribaven tard; correus, Trellos o xats sense resposta; dates que s'ajornaven; criteris que calia tornar a explicar; i situacions en que, si no hi havia un seguiment molt directe, la feina no avançava o avançava amb massa incertesa.
