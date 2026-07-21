@@ -54,11 +54,17 @@ En marketing, sovint hi havia discrepancies perque Jordi tractava mailings o tex
 
 Quan una correccio arribava tard, o no sabia si Jordi es connectaria, si havia vist una tasca o si l'entregaria, la carrega de risc passava a la resta de l'equip. En el meu cas, sovint havia de replanificar, esperar fins tard, modificar publicacions ja programades o preparar imatges en caps de setmana perque altres persones poguessin continuar treballant.
 
-**Annexos a citar:** GUST, ALBUM, TSA, no-violencia, Trello i Woffu.
+Quan vaig preparar el planning general del 20/05/2025, no ho vaig fer per pressionar Jordi, sino per ordenar un volum de dependencies que estava quedant descontrolat i per evitar que cada retard fes anar malament la resta de l'equip. A la reunio es van anar modificant dates compartint pantalla, de manera que tothom pogues veure el mateix calendari i validar-lo.
+
+Per donar marge a Jordi i intentar que Isa disposes de temps posterior per muntar els cursos, vaig moure o concentrar tasques meves en caps de setmana o franges molt ajustades. Aquesta replanificacio em perjudicava a mi, pero permetia intentar sostenir el calendari compartit. Per tant, no ho considero una actuacio hostil cap a Jordi, sino una adaptacio organitzativa que vaig assumir per evitar que els projectes quedessin bloquejats.
+
+**Annexos a citar:** GUST, ALBUM, TSA, no-violencia, Trello, Woffu i planning general del 20/05/2025.
 
 ### 6. GUST
 
 En el cas de GUST, constava material al campus des del 28/03/2025 i 04/04/2025. A l'acta del 08/04/2025 es parla de correccions petites. Tot i aixi, el calendari es va anar replanificant i, el 16/05/2025, segons el que recordo i cal acreditar amb missatges o testimonis, vam fer una reunio esperant material i Jordi va indicar que encara no ho tenia. Aixo va fer que jo hagues de preparar imatges el cap de setmana immediatament posterior mentre anaven arribant lectures.
+
+El planning general posterior recull precisament aquesta necessitat de reorganitzar GUST, TSA, MPIA i la resta de tasques compartides. Per mi, aquest document mostra que la meva resposta va ser intentar ordenar i adaptar el calendari, no atacar Jordi personalment.
 
 **Annexos a citar:** actes 08/04, 15/04, 29/04, 06/05, 12/05, captures Moodle, planning 20/05, prova pendent del 16/05.
 
@@ -72,7 +78,7 @@ En ALBUM, el 07/10/2025 es va acordar no moure dates. Jordi va modificar el segu
 
 Despres de diversos conflictes i malentesos, vaig limitar la comunicacio amb Jordi a un pla mes laboral i traçable. Aixo no significa hostilitat ni voluntat d'aillament. Significa que, per protegir la feina i evitar malentesos, vaig prioritzar canals escrits, terminis i tasques concretes.
 
-### 8. Impacte Personal
+### 9. Impacte Personal
 
 Treballar amb aquesta incertesa em va generar molta angoixa i sobrecarrega. Tot i aixi, vaig intentar mantenir-me en el pla laboral, adaptar-me quan podia i continuar garantint que les tasques sortissin. Si l'advocada ho considera necessari, puc aportar exemples concrets de replanificacions, recordatoris i caps de setmana en que vaig assumir feina perque el calendari no caigues.
 

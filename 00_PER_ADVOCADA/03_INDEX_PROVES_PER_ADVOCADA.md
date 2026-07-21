@@ -117,11 +117,16 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Acta 12/05/2025: Jordi ha d'acabar d'organitzar el que ha parlat amb Albert.
 - Captures Moodle 28/03/2025 i 04/04/2025 amb materials creats.
 - PDFs descarregats de GUST.
-- Planning general del 20/05/2025.
+- Planning general del 20/05/2025:
+  - `annexos_captures/PL_planning_general_2025/PLAN-2025-05-19_25_reorganitzacio-tasques.png`
+  - `annexos_captures/PL_planning_general_2025/PLAN-2025-05-26_06-01_reorganitzacio-tasques.png`
+  - `annexos_captures/PL_planning_general_2025/PLAN-2025-06-02_08_reorganitzacio-tasques.png`
+  - `annexos_captures/PL_planning_general_2025/PLAN-2025-06-16_29_reorganitzacio-tasques.png`
+  - `annexos_captures/PL_planning_general_2025/PLAN-2025-06-30_07-06_reorganitzacio-tasques.png`
 
-**Punts que acredita:** existien materials abans; es van pactar correccions petites; hi va haver retard/replanificacio amb impacte en Meriem i Isa.
+**Punts que acredita:** existien materials abans; es van pactar correccions petites; hi va haver retard/replanificacio amb impacte en Meriem i Isa; Meriem va preparar un planning global per ordenar dependencies i modificar dates de manera compartida; el planning recull tasques de tots i mostra adaptacions organitzatives, incloent tasques de Meriem en caps de setmana o franges concentrades, per donar marge i sostenir el calendari.
 
-**A validar:** prova o testimoni de la reunio del 16/05/2025 on Jordi hauria indicat que no tenia els materials.
+**A validar:** prova o testimoni de la reunio del 16/05/2025 on Jordi hauria indicat que no tenia els materials; acta o testimoni de la reunio del 20/05/2025 que confirmi que el planning es va modificar compartint pantalla i que tothom el va acceptar.
 
 ## H. ALBUM
 

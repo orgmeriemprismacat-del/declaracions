@@ -304,6 +304,10 @@ També s'ha de recollir que no consta cap registre d'imposicio d'hores extres. E
 
 Aquesta situacio s'ha de contrastar amb els registres i comunicacions que mostren jornades inferiors a la jornada prevista en alguns periodes, deficits horaris compensats amb vacances o hores de borsa, i franges en que Jordi constava fitxat pero no estava localitzable davant trucades o comunicacions laborals. Amb la informacio disponible, la conclusio defensable no es que Jordi no tingues feina, sino que no queda acreditat que el volum objectiu de tasques fos inassumible. El que si s'observa es un problema de compliment de compromisos, disponibilitat, planificacio i repercussio sobre la resta de l'equip.
 
+El planning general treballat a la reunio del 20/05/2025 reforca aquesta lectura. Meriem va preparar un calendari global de tasques de TSA, MPIA, GUST, xarxes, intranet, web, cursos i marketing per ordenar dependencies, veure si calia modificar dates i evitar que els retards d'un bloc traslladessin pressio a la resta. Segons la informacio aportada, aquest planning es va modificar in situ compartint pantalla i va ser validat a la reunio, precisament per assegurar que tothom entenia el mateix calendari i que les dates eren conegudes.
+
+Aquest planning mostra una adaptacio organitzativa, no una actuacio d'acarnissament. Meriem va moure o concentrar tasques seves en caps de setmana o franges molt ajustades per donar marge a Jordi i intentar que Isa disposes de temps posterior per muntar els cursos. Si es valida amb actes, captures i testimonis, aquest fet contradiu la idea d'una pressio hostil dirigida contra Jordi: el que s'observa es una replanificacio compartida per sostenir el calendari i evitar que el projecte quedes bloquejat.
+
 **Proves**
 
 - Recull de tasques 2023-2026.
@@ -318,6 +322,7 @@ Aquesta situacio s'ha de contrastar amb els registres i comunicacions que mostre
 - Woffu.
 - `55_resum_woffu_semestres_2024_2025.md`.
 - Captures Woffu mensuals gener-juny 2025.
+- Captures del planning general del 20/05/2025: `annexos_captures/PL_planning_general_2025/`.
 - Comunicacions, trucades o chats que acreditin franges fitxades sense resposta/localitzacio.
 - Actes, Trello i seguiments on constin compromisos de dates, replanificacions o entregues posteriors.
 
@@ -448,12 +453,14 @@ Jordi presenta els terminis com a pressio o carrega excessiva.
 
 El cas GUST mostra que els materials existien des del 28/03/2025 i 04/04/2025, que el 08/04/2025 s'acorda que Jordi faria correccions petites, que el 15/04/2025 havia de preparar calendari el 25/04, i que el 06/05/2025 encara es replanificava. El 16/05/2025, segons relat intern pendent de completar amb prova, Jordi va indicar que no tenia el material preparat, fet que va traslladar pressio a Meriem i Isa.
 
+El planning general del 20/05/2025 mostra que la resposta de Meriem davant aquesta situacio no va ser un atac personal, sino una reordenacio global de tasques i dependencies. Les captures mostren blocs de feina de Jordi, Isa i Meriem repartits en el calendari, incloent tasques de Meriem ubicades en caps de setmana o franges concentrades per poder donar marge a Jordi i mantenir la continuïtat del muntatge posterior.
+
 **Proves**
 
 - Actes 08/04, 15/04, 29/04, 06/05, 12/05 i 20/05 de 2025.
 - Captures Moodle GUST 28/03 i 04/04.
 - PDFs GUST descarregats.
-- Captures de planificacio general del 20/05.
+- Captures de planificacio general del 20/05: `annexos_captures/PL_planning_general_2025/`.
 - WhatsApp o chat del 16/05, si es localitza.
 
 **Validacio pendent**
