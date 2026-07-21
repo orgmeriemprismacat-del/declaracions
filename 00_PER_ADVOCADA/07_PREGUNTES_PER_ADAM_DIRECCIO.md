@@ -29,6 +29,8 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 3. Permis De Paternitat
 
+**Estat actual:** Meriem ha aportat resposta preliminar que PrisMa no va demanar formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Cal confirmar-ho amb Adam i gestoria abans de presentar-ho.
+
 1. Quines dates exactes va demanar Jordi inicialment pel permis de paternitat?
 2. Va modificar Jordi aquestes dates? Si si, per quin canal i amb quina justificacio?
 3. PrisMa li va demanar formalment que canvies dates del permis per necessitats de l'empresa?

@@ -109,6 +109,8 @@ Tambe consta que determinades tasques de correccio si es van poder externalitzar
 
 Els punts relatius a baixa medica, ICAM/SGAM, pagaments, autories, nomines, paternitat i decisions contractuals han de ser validats per Adam, gestoria i advocada. L'empresa no ha d'emetre judicis sobre la realitat medica de Jordi. Si l'alta va ser per ICAM/SGAM, cal indicar que no es una decisio emesa per Meriem, Isa, Pablo, Adam ni PrisMa, sense entrar a valorar criteris medics.
 
+Pel que fa al permis de paternitat, segons la informacio recollida no consta que PrisMa demanes formalment a Jordi canviar dates per necessitats de l'empresa. Aquest punt s'ha de validar amb Adam, gestoria, Woffu i sol.licituds del permis abans de donar-lo per tancat.
+
 ## Recomanacio De Presentacio
 
 Per a l'advocada, convé portar:

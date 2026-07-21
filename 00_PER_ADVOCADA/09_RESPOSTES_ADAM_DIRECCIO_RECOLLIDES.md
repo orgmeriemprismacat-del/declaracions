@@ -184,7 +184,28 @@ Aquest context contradiu una lectura segons la qual Meriem tingues una actitud d
 - Pablo.
 - Adam, pendent de confirmacio.
 
-## 11. Octubre-Novembre 2023: Paternitat I Mes Concedit
+## 11. Permis De Paternitat: No Consta Peticio Formal De Canvi Per Necessitats De L'Empresa
+
+**Pregunta:** PrisMa li va demanar formalment que canvies dates del permis per necessitats de l'empresa?
+
+**Resposta recollida:** No.
+
+**Formulacio defensable:**
+
+Segons la informacio recollida, no consta que PrisMa demanes formalment a Jordi que canvies les dates del permis de paternitat per necessitats de l'empresa. Per tant, si Jordi afirma que va modificar dates per afavorir PrisMa, aquesta afirmacio s'ha de contrastar amb les sol.licituds originals, les modificacions presentades, Woffu, gestoria i qualsevol comunicacio escrita on consti el motiu del canvi.
+
+**Proves/testimonis:**
+
+- Adam, pendent de confirmacio.
+- Woffu i registre de permisos.
+- Gestoria o documentacio del permis.
+- Comunicacions de Jordi sobre les dates del permis, si existeixen.
+
+**Cautela:**
+
+No negar que Jordi pogues haver viscut el canvi com una adaptacio personal. El punt defensable es que no consta una peticio formal de PrisMa exigint o demanant el canvi per necessitats empresarials.
+
+## 12. Octubre-Novembre 2023: Paternitat I Mes Concedit
 
 **Resposta recollida:**
 

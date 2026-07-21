@@ -20,6 +20,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 ## 3. Paternitat
 
 - Revisar sol.licituds, dates, Woffu, gestoria i comunicacions amb Seguretat Social.
+- Confirmar amb Adam que PrisMa no li va demanar formalment canviar dates del permis per necessitats de l'empresa.
 - Confirmar si l'empresa li va concedir o "regalar" dies/vacances i com consta formalment.
 - No atribuir motivacions personals de Jordi si no hi ha missatge o testimoni clar.
 
