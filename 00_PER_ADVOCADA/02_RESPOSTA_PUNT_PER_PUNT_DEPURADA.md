@@ -362,6 +362,10 @@ Aquesta afirmacio no es correcta. Consten comunicacions directes per Google Chat
 
 En particular, les captures del 10/04/2025 mostren una conversa directa en que Meriem pregunta per una situacio familiar/de conciliacio, dona marge a Jordi per contestar un missatge llarg pendent i Jordi respon en un to cordial. Aquestes captures tambe mostren que Jordi reconeixia tenir pendent contestar una comunicacio directa de Meriem, cosa que contradiu que no hi hagues interaccio directa o que la comunicacio fos nomes grupal/no-reply.
 
+Segons la informacio aportada, aquesta comunicacio pendent provenia de l'intercanvi del 16/03/2025. Despres d'aquell intercanvi, Jordi va indicar que respondria quan disposes d'un moment. El 10/04/2025, gairebe un mes despres, ell mateix va reiterar per escrit: "Tinc pendent contestar-te, pero de debo que no he tingut un moment encara...". Meriem li va respondre que estigues tranquil i que, atesa l'extensio del tema, necessitava temps per contestar. Segons la informacio recollida, no consta que Jordi arribes a efectuar aquella resposta.
+
+Si es valida amb captures o exportacions, aquesta sequencia acredita que Meriem no va impedir el dialeg ni va exigir una resposta immediata. Al contrari, li va donar expressament temps per respondre. La continuacio de la conversa va quedar pendent d'una actuacio que Jordi havia assumit com a propia.
+
 La prioritzacio de canals traçables responia a la necessitat de deixar constancia de tasques, terminis i dependencies, especialment en context de teletreball i quan hi havia manca de resposta o retards.
 
 Tambe cal tenir en compte que, durant bona part de la relacio laboral, moltes incidencies, retards i qüestions de coordinacio es van tractar verbalment i de manera directa amb Jordi. Aquesta forma de comunicacio responia, segons Meriem, a la voluntat de resoldre situacions amb agilitat, evitar exposar-lo davant l'equip i no generar-li un perjudici innecessari. Per tant, la menor constancia escrita en determinats periodes no permet concloure automaticament que no existissin converses, adaptacions o actuacions de suport; cal reconstruir el context amb els registres disponibles, les actuacions posteriors i els testimonis de les persones que ho van presenciar.
@@ -373,6 +377,8 @@ Tambe cal tenir en compte que, durant bona part de la relacio laboral, moltes in
 - Correus individuals.
 - Captures sobre organitzacio de xarxes i cursos.
 - Captures Google Chat 10/04/2025 sobre conciliacio, resposta pendent i tracte cordial, si l'advocada considera proporcional aportar-les.
+- WhatsApp o export del 16/03/2025 que origina la comunicacio pendent, si es localitza.
+- Revisio de converses posteriors per confirmar si consta o no una resposta posterior de Jordi a aquell missatge.
 - Testimonis sobre comunicacions verbals, suport presencial i resolucio directa d'incidencies.
 
 **Cautela**

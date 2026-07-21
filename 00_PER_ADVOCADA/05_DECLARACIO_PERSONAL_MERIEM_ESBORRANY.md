@@ -36,7 +36,11 @@ Durant bona part de la relacio laboral, moltes incidencies, retards i qüestions
 
 En algunes converses, com la del 10/04/2025, tambe vaig preguntar per la seva situacio familiar/de conciliacio i li vaig donar temps per contestar una comunicacio pendent. Jordi va respondre en un to cordial i va reconeixer que tenia pendent contestar-me. Aquest tipus de conversa no encaixa amb la idea que jo nomes em comuniques amb ell per retreure-li coses o davant de tercers.
 
-**Annexos a citar:** captures Google Chat directes, WhatsApp personal, correus individuals, captures Google Chat 10/04/2025 si l'advocada considera proporcional aportar-les, testimonis sobre comunicacions verbals i suport presencial.
+Despres de l'intercanvi del 16/03/2025, Jordi va indicar que em contestaria quan disposes d'un moment. El 10/04/2025, gairebe un mes despres, ell mateix va escriure que tenia pendent contestar-me i que encara no havia tingut un moment. Jo li vaig respondre que estigues tranquil i que, com que era un tema llarg, necessitava temps per contestar. Que jo recordi, i segons la documentacio revisada fins ara, aquella resposta no es va arribar a produir.
+
+Aquesta sequencia es rellevant perque mostra que jo no vaig impedir el dialeg ni li vaig exigir una resposta immediata. Al contrari, li vaig donar temps expressament. La continuacio de la conversa va quedar pendent d'una resposta que ell mateix havia anunciat.
+
+**Annexos a citar:** captures Google Chat directes, WhatsApp personal, correus individuals, captures Google Chat 10/04/2025 si l'advocada considera proporcional aportar-les, WhatsApp/export del 16/03/2025 si es localitza, testimonis sobre comunicacions verbals i suport presencial.
 
 ### 2. Adaptacions I Organitzacio
 

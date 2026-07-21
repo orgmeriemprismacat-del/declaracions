@@ -62,11 +62,12 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - ZIP de suport: `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`.
 - Captures copiades a `annexos_captures/GC_google_chat_jordi/`, especialment el bloc del 10/04/2025 sobre comunicacio directa, conciliacio i tracte cordial.
 - Export WhatsApp personal amb Jordi.
+- WhatsApp/export del 16/03/2025, si es localitza, per vincular-lo amb el 10/04/2025 i acreditar que Jordi havia assumit contestar una comunicacio directa que va quedar pendent.
 - Captures on Meriem pregunta per disponibilitat, salut, conciliacio, terminis o canals.
 
-**Punts que acredita:** no es cert que les comunicacions fossin nomes en reunio, grup o no-reply; existia comunicacio directa i sovint cordial/operativa. El bloc del 10/04/2025 tambe acredita que Jordi reconeixia tenir pendent contestar una comunicacio directa de Meriem.
+**Punts que acredita:** no es cert que les comunicacions fossin nomes en reunio, grup o no-reply; existia comunicacio directa i sovint cordial/operativa. El bloc del 10/04/2025 tambe acredita que Jordi reconeixia tenir pendent contestar una comunicacio directa de Meriem. Si es vincula amb el 16/03/2025, acredita que Meriem no va impedir el dialeg ni va exigir resposta immediata, sino que va donar marge a una resposta que Jordi havia assumit com a propia.
 
-**A validar:** seleccionar nomes captures proporcionals i necessaries.
+**A validar:** seleccionar nomes captures proporcionals i necessaries; confirmar si consta o no resposta posterior de Jordi a aquell missatge.
 
 ## C2. Context Sobre L'Ampliacio De Jornada I Absencia De Voluntat Hostil
 
