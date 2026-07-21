@@ -52,6 +52,8 @@ Jo respectava el seu ambit de correccio en lectures, guies i materials de curs. 
 
 Quan li demanava que corregis un text respectant unes regles de SEO o marketing, no ho feia per desacreditar-lo, sino perque aquell text no era una lectura ni un material academic, sino una peça comercial o informativa amb objectius diferents. En diverses ocasions, aquestes diferencies es van allargar molt mes del que era operatiu, i jo vaig viure que les meves decisions de marketing eren qüestionades o no aplicades encara que s'haguessin explicat els criteris.
 
+En la reunio del 05/12/2024, segons el meu record, el conflicte va sorgir precisament per un mailing. Jo i Isa defensavem que el text havia de ser clar i facil de llegir, perque un mailing massa enrevessat no compleix l'objectiu comercial. Jordi insistia en un criteri de redaccio que jo no considerava adequat per a aquell canal. Finalment, Adam va aclarir que jo era la responsable de marketing i que, en aquest ambit, Jordi havia de seguir el criteri que jo marques.
+
 **Annexos a citar:** JASOM, exemples de mailing, converses de marketing, acta o testimonis del 05/12/2024 si existeixen.
 
 ### 4B. Criteris De Correccio No Documentats

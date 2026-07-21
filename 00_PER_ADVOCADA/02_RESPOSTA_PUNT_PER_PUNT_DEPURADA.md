@@ -443,6 +443,8 @@ Cal demanar concrecio i prova del suposat escridassament. El context documentat 
 
 Aquest punt s'hauria de presentar com una delimitacio d'ambits professionals. En lectures, guies i materials de curs, el criteri de correccio tenia un pes propi i Meriem indica que no interferia en aquest ambit. En canvi, en mailings, web, SEO, xarxes i campanyes comercials, la correccio havia d'adaptar-se als criteris de marketing, conversio, estructura visual, lectura rapida i paraules clau. Que Meriem demanes corregir respectant aquestes regles no constitueix hostilitat; forma part de l'organitzacio normal entre àrees.
 
+Segons la informacio aportada, Adam va presenciar el conflicte del 05/12/2024. El desacord concret era sobre un mailing en que Jordi insistia que el text havia de mantenir una redaccio mes elaborada, mentre Meriem i Isa defensaven que en un mailing calia prioritzar lectura facil, claredat i captacio, especialment en el context economic de PrisMa. Meriem va explicar que no discutia el criteri de correccio en lectures o materials academics, pero que en peces comercials o de marketing el criteri havia de quedar subordinat als objectius de marketing i SEO. Finalment, Adam va aclarir que Meriem era la responsable de marketing i que Jordi havia de seguir el criteri que ella marques en aquest ambit.
+
 Si es confirma que, despres que Adam aclaris que Meriem era la responsable de marketing, Jordi va continuar qüestionant o refent criteris de mailings i textos comercials en contra de les instruccions de marketing/SEO, aixo reforça que el conflicte era professional i de delimitacio de funcions, no una persecucio personal. Cal aportar exemples concrets i evitar formular-ho com una valoracio general sense prova.
 
 **Proves**
@@ -451,7 +453,7 @@ Si es confirma que, despres que Adam aclaris que Meriem era la responsable de ma
 - Captures prèvies del 04/12/2024 sobre xarxes.
 - Captures o chats on Meriem demana aplicar criteris de SEO/marketing i Jordi proposa o aplica criteris diferents.
 - Acta del 05/12/2024, si existeix.
-- Testimonis d'Adam, Isa i Meriem.
+- Testimonis d'Adam, Isa i Meriem sobre la reunio del 05/12/2024 i sobre la instruccio final de direccio.
 
 **Cautela**
 

@@ -104,11 +104,12 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Captures de comparativa entre estil de mailing extens i estil de marketing.
 - Converses del 04/12/2024 prèvies al conflicte del 05/12/2024.
 - Captures o chats on Meriem explica criteris de SEO/marketing i Jordi planteja criteris de correccio o redaccio diferents.
+- Testimoni d'Adam, Isa i Meriem sobre la reunio del 05/12/2024: desacord sobre un mailing, criteri de lectura facil/captacio defensat per Meriem i Isa, insistencia de Jordi en criteri redaccional i aclariment final d'Adam que Meriem era la responsable de marketing.
 - Testimoni d'Adam, Isa i Meriem sobre la delimitacio d'ambits: Meriem com a responsable de marketing; Jordi com a corrector que havia d'adaptar la correccio als criteris de marketing en mailings/web/xarxes.
 
-**Punts que acredita:** el conflicte era de criteri professional sobre marketing/correccio, no necessàriament personal; en materials academics o lectures, Meriem respectava l'ambit de correccio; en mailings, web, SEO, xarxes i campanyes, la decisio final corresponia a l'ambit de marketing i la correccio havia d'adaptar-se a aquests criteris.
+**Punts que acredita:** el conflicte era de criteri professional sobre marketing/correccio, no necessàriament personal; en materials academics o lectures, Meriem respectava l'ambit de correccio; en mailings, web, SEO, xarxes i campanyes, la decisio final corresponia a l'ambit de marketing i la correccio havia d'adaptar-se a aquests criteris; Adam va presenciar el conflicte i va aclarir el criteri organitzatiu.
 
-**A validar:** si hi ha acta del 05/12/2024 o testimonis d'Adam/Isa; si hi ha comunicacio on Adam aclari que Meriem decidia en marketing.
+**A validar:** si hi ha acta del 05/12/2024; recollir testimoni d'Adam/Isa; si hi ha comunicacio on Adam aclari que Meriem decidia en marketing.
 
 ## G. GUST
 

@@ -60,6 +60,8 @@ La revisio sistematica de publicacions de xarxes no formava part inicialment d'u
 
 En les converses disponibles es veu que Meriem preguntava a Jordi com preferia organitzar-se, li donava marge, movia dates, preguntava si treballava o si podia revisar alguna cosa, i intentava evitar que treballes en cap de setmana quan no era necessari. Tambe consta que Jordi podia entregar correccions tard o deixar-les sense confirmacio operativa, cosa que afectava la programacio de publicacions.
 
+Segons la informacio aportada, Adam va presenciar el conflicte del 05/12/2024 sobre un mailing i va aclarir que Meriem era la responsable de marketing i que Jordi havia de seguir els criteris que ella marques en aquest ambit. Aquest punt s'ha de validar amb testimoni d'Adam i Isa.
+
 Conclusio defensable: la tensio en xarxes/mailings era una discrepancia organitzativa i de criteris de marketing/correccio, no una prova de persecucio personal.
 
 ### 5. GUST

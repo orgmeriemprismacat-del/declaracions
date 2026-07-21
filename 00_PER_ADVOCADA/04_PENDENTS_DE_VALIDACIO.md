@@ -73,9 +73,10 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 
 ## 8. Conflicte Del 05/12/2024
 
-- Localitzar acta o testimonis d'Adam/Isa si existeixen.
+- Localitzar acta, si existeix, i recollir confirmacio formal d'Adam i Isa sobre la reunio del 05/12/2024.
 - Separar discrepancia professional de marketing/correccio de qualsevol acusacio personal.
-- Confirmar amb Adam/Isa que es va aclarir que Meriem era la responsable de marketing i que, en mailings, web, xarxes, SEO i campanyes comercials, la correccio havia d'adaptar-se als criteris de marketing.
+- Confirmar amb Adam/Isa que el conflicte era sobre un mailing, que Meriem i Isa defensaven lectura facil/captacio, i que Adam va aclarir que Meriem era la responsable de marketing.
+- Confirmar amb Adam/Isa que, en mailings, web, xarxes, SEO i campanyes comercials, la correccio havia d'adaptar-se als criteris de marketing.
 - Localitzar captures o chats on Meriem expliqui criteris de SEO/marketing i Jordi plantegi o apliqui criteris diferents de redaccio/correccio.
 - Recollir exemples concrets de mailings o textos comercials on el desacord fos de criteri professional, no personal.
 - No incloure expressions emocionals; descriure fets, criteris i missatges.

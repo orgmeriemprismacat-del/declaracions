@@ -668,3 +668,33 @@ La manca de full d'estil formal s'ha de presentar com una incidencia organitzati
 **Cautela:**
 
 No afirmar que Jordi "no tenia criteri" o que la seva feina era incorrecta de forma general. La formula mes segura es: "no consta un full d'estil formal documentat i aixo generava dependencia del criteri personal del corrector intern".
+
+## 28. Conflicte Del 05/12/2024 Sobre Marketing I Mailing
+
+**Pregunta:** Adam va presenciar el conflicte del 05/12/2024 sobre xarxes/marketing?
+
+**Resposta recollida:**
+
+Segons Meriem, si. Adam era present a la reunio. El conflicte concret girava al voltant d'un mailing. Jordi insistia que el text havia de mantenir una redaccio mes elaborada, mentre Meriem i Isa defensaven que, en un mailing, el text havia de ser mes clar, directe i facil de llegir, perque els clients no llegeixen textos enrevessats i l'objectiu era captar clients i generar ingressos en un context economic delicat.
+
+Meriem indica que va explicar que no qüestionava el criteri de correccio de Jordi en lectures o materials academics, ja que aquell era el seu camp. En canvi, en mailings, web, SEO, xarxes i peces comercials, la responsabilitat era de marketing i la correccio havia d'adaptar-se als criteris de lectura rapida, conversio, estructura visual i captacio.
+
+Segons Meriem, al final Adam va aclarir que Meriem era l'encarregada de marketing i que Jordi havia de seguir el criteri que ella marques en aquest ambit.
+
+**Formulacio defensable:**
+
+El conflicte del 05/12/2024 s'hauria de presentar com una discrepancia professional de criteris entre correccio lingüistica i marketing, no com un episodi de persecucio personal. El punt central no era si la redaccio de Jordi era correcta en abstracte, sino si era adequada per a un mailing comercial i per als objectius de marketing de PrisMa.
+
+La intervencio d'Adam, segons la informacio aportada, no consistia a permetre un maltractament, sino a delimitar responsabilitats: Meriem era responsable de marketing i, en aquest ambit, els criteris comercials i de SEO havien de prevaldre sobre una redaccio mes extensa o literaria.
+
+**Proves/testimonis:**
+
+- Captures del cas JASOM i del mailing discutit.
+- Captures del 04/12/2024 sobre el conflicte previ de xarxes i correccions.
+- Testimoni de Meriem i Isa sobre la discrepancia de criteris.
+- Confirmacio d'Adam sobre la seva presencia i sobre la instruccio final.
+- Acta del 05/12/2024, si existeix.
+
+**Cautela:**
+
+Evitar expressions com "Jordi anava de prepotent" o similars. Formular-ho com a "Jordi qüestionava o no acceptava els criteris de marketing aplicables a mailings i peces comercials". Si Adam no confirma literalment l'episodi, deixar-lo com a testimoni de Meriem i Isa.
