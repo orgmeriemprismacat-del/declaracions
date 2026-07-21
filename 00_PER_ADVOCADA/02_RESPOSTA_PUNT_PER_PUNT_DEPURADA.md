@@ -341,6 +341,8 @@ Jordi afirma que les comunicacions amb Meriem eren gairebe exclusivament en reun
 
 Aquesta afirmacio no es correcta. Consten comunicacions directes per Google Chat, WhatsApp, correu i canals de feina. Inclouen coordinacio ordinaria, preguntes sobre terminis, replanificacions, consultes, comentaris de salut o conciliacio, i converses cordials.
 
+En particular, les captures del 10/04/2025 mostren una conversa directa en que Meriem pregunta per una situacio familiar/de conciliacio, dona marge a Jordi per contestar un missatge llarg pendent i Jordi respon en un to cordial. Aquestes captures tambe mostren que Jordi reconeixia tenir pendent contestar una comunicacio directa de Meriem, cosa que contradiu que no hi hagues interaccio directa o que la comunicacio fos nomes grupal/no-reply.
+
 La prioritzacio de canals traçables responia a la necessitat de deixar constancia de tasques, terminis i dependencies, especialment en context de teletreball i quan hi havia manca de resposta o retards.
 
 **Proves**
@@ -349,10 +351,11 @@ La prioritzacio de canals traçables responia a la necessitat de deixar constanc
 - Export WhatsApp personal.
 - Correus individuals.
 - Captures sobre organitzacio de xarxes i cursos.
+- Captures Google Chat 10/04/2025 sobre conciliacio, resposta pendent i tracte cordial, si l'advocada considera proporcional aportar-les.
 
 **Cautela**
 
-Seleccionar captures proporcionals i necessaries. No aportar converses personals no relacionades amb la defensa si no cal.
+Seleccionar captures proporcionals i necessaries. Les captures amb informacio familiar o de conciliacio nomes s'haurien d'aportar si l'advocada considera que son necessaries per rebatre l'acusacio d'aillament, hostilitat o absencia de comunicacio directa.
 
 ## Punt 10. Correus No-Reply De Trello
 

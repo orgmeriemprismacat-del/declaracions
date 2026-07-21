@@ -148,18 +148,17 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 
 **Fitxers**
 
-- `CAP-GC-SUPORT-2025-04-10-01_publicacio-i-pregunta-hores.png`
-- `CAP-GC-SUPORT-2025-04-10-02_nit-treballada-i-pregunta-familiar.png`
-- `CAP-GC-SUPORT-2025-04-10-03_temps-per-contestar.png`
-- `CAP-GC-SUPORT-2025-04-10-04_resposta-quan-puguis-familia.png`
-- `CAP-GC-SUPORT-2025-04-10-05_conciliacio-familia.png`
-- `CAP-GC-SUPORT-2025-04-10-06_no-ens-faras-anar-malament.png`
-- `CAP-GC-SUPORT-2025-04-10-07_anims-mutuals.png`
+- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-01_publicacio-i-pregunta-hores.png`
+- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-02_temps-per-contestar-i-familia.png`
+- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-03_resposta-quan-puguis.png`
+- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-04_conciliacio-familia.png`
+- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-05_no-ens-faras-anar-malament.png`
 
 **Que acrediten**
 
 - Meriem pregunta per temes personals o familiars i dona temps per contestar.
 - Jordi respon en un to cordial.
+- Jordi reconeix que te pendent contestar una comunicacio directa de Meriem, cosa que acredita que existien comunicacions directes que no eren nomes reunions, grups o no-reply.
 - Jordi arriba a dir que Meriem no els fara anar malament, malgrat tot el que s'esta carregant.
 - Acrediten que la relacio no era nomes de retrets o hostilitat.
 - Algunes captures acrediten que Meriem indicava o facilitava que Jordi no treballes caps de setmana.

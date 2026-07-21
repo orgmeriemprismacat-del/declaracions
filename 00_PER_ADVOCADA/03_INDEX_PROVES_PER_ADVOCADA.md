@@ -57,10 +57,11 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Captures de Google Chat directes sobre cursos, xarxes i marketing.
 - Mapa especific: `00_PER_ADVOCADA/08_MAPA_CAPTURES_XATS_PROVATORIS.md`.
 - ZIP de suport: `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`.
+- Captures copiades a `annexos_captures/GC_google_chat_jordi/`, especialment el bloc del 10/04/2025 sobre comunicacio directa, conciliacio i tracte cordial.
 - Export WhatsApp personal amb Jordi.
 - Captures on Meriem pregunta per disponibilitat, salut, conciliacio, terminis o canals.
 
-**Punts que acredita:** no es cert que les comunicacions fossin nomes en reunio, grup o no-reply; existia comunicacio directa i sovint cordial/operativa.
+**Punts que acredita:** no es cert que les comunicacions fossin nomes en reunio, grup o no-reply; existia comunicacio directa i sovint cordial/operativa. El bloc del 10/04/2025 tambe acredita que Jordi reconeixia tenir pendent contestar una comunicacio directa de Meriem.
 
 **A validar:** seleccionar nomes captures proporcionals i necessaries.
 
