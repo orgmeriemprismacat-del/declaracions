@@ -18,6 +18,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Confirmar amb Adam i Isa si Adam va oferir a Jordi parlar en privat o en un espai separat i Jordi va preferir parlar davant Meriem i Isa per tenir testimonis.
 - Confirmar amb Adam i Isa si la intervencio de Meriem i Isa es va limitar a explicar que no era viable ampliar jornada o buscar formules irregulars en un context de perdues.
 - Confirmar amb Adam i Isa les paraules exactes utilitzades per Jordi quan, segons Meriem, va plantejar formules irregulars o no compatibles amb la situacio economica/legal de l'empresa.
+- Confirmar amb Isa que ella i Meriem van viure aquella conversa amb molta incomoditat, i confirmar amb Adam com la va viure o gestionar ell.
 - Evitar afirmar que Jordi "menteix" si no hi ha prova directa; es pot dir que no queda acreditada una promesa fixa i incondicionada.
 
 ## 3. Paternitat

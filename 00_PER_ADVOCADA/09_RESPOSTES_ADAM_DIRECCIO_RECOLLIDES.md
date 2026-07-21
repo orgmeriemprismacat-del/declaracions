@@ -202,6 +202,8 @@ Meriem indica que Jordi portava temps queixant-se davant l'equip i que Meriem i 
 
 Meriem i Isa van viure la situacio com a incomoda i no van buscar presenciar-la. Segons Meriem, van intentar no intervenir i fins i tot van marxar en algun moment a fer un cafe per la incomoditat de la situacio.
 
+Meriem afegeix que ella i Isa ho van viure molt malament i que encara recorda la sensacio d'aquell moment. Sobre Adam, Meriem no pot afirmar com ho va viure internament; nomes pot dir que, segons la seva percepcio, Adam va portar millor aquella conversa que elles. Aquest extrem s'hauria de validar directament amb Adam si es vol utilitzar.
+
 **Pregunta:** En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o formules no compatibles amb la situacio economica/legal de l'empresa?
 
 **Resposta recollida de Meriem:** Si. Segons Meriem, Jordi insistia que Adam podia haver-li fet el contracte a jornada completa o haver buscat alguna formula per pagar-li com si tingues jornada completa, malgrat que Adam li explicava que no havia promes una data concreta i que l'ampliacio depenia de la subvencio i de la situacio economica de PrisMa. Meriem afirma que Jordi si va plantejar opcions irregulars o no compatibles amb la situacio economica/legal de l'empresa.
@@ -216,8 +218,8 @@ Tambe es rellevant que, si Adam i Isa ho confirmen, la presencia de Meriem i Isa
 
 **Proves/testimonis:**
 
-- Adam, pendent de confirmacio.
-- Isa, pendent de confirmacio.
+- Adam, pendent de confirmacio, especialment sobre l'oferiment de parlar en privat i com va viure o gestionar la conversa.
+- Isa, pendent de confirmacio, especialment sobre la incomoditat viscuda per ella i Meriem.
 - Meriem.
 - Woffu 2023, per contrastar l'afirmacio de Jordi que ja feia jornada completa.
 - Respostes de direccio sobre inexistencia de data concreta i condicio vinculada a subvencio/situacio economica.

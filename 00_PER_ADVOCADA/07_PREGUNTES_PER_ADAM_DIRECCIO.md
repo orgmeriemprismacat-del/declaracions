@@ -175,6 +175,8 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
    - Resposta recollida de Meriem: si. Jordi insistia que Adam podia haver-li fet el contracte o haver buscat alguna formula per pagar-li com si tingues jornada completa malgrat la situacio de perdues. Segons Meriem, Jordi si va plantejar opcions irregulars o no compatibles amb la situacio economica/legal de l'empresa, i ella i Isa van intervenir per explicar que aixo no era viable ni correcte.
 7. Com ho va viure Adam i qui era present?
    - Present segons Meriem: Adam, Jordi, Meriem i Isa. Pablo no hi era.
+   - Meriem indica que ella i Isa ho van viure molt malament i amb molta incomoditat; encara recorda la sensacio d'aquell moment.
+   - Sobre Adam, Meriem no pot afirmar com ho va viure internament. La seva percepcio es que Adam va portar millor aquella conversa que Meriem i Isa, pero cal validar-ho directament amb Adam.
    - A validar amb Adam/Isa: to de la conversa, oferiment de parlar en privat, negativa de Jordi i paraules exactes sobre jornada completa/formules irregulars.
 
 ## 12. Comunicacio Amb Jordi Despres Del Retorn

@@ -44,6 +44,8 @@ Aquest punt s'ha de presentar com a informacio de direccio/testimoni, ja que no 
 
 Segons Meriem, en una conversa tensa sobre la jornada completa, Adam va oferir a Jordi parlar en privat o en un espai separat, pero Jordi va preferir mantenir la conversa davant Meriem i Isa perque volia testimonis. Aquesta dada, pendent de validacio amb Adam i Isa, es rellevant per contestar la idea que l'equip se li va posar en contra: la presencia de Meriem i Isa no va ser buscada per elles ni imposada per l'empresa. Segons Meriem, Jordi va plantejar que Adam podia haver buscat alguna formula irregular per pagar-li o reconeixer-li jornada completa malgrat la situacio de perdues. Quan Meriem i Isa van intervenir, segons el relat recollit, ho van fer per explicar que no era viable ni correcte ampliar jornada o buscar formules irregulars en aquest context.
 
+Meriem afegeix que ella i Isa van viure aquella conversa amb molta incomoditat i que encara recorda la sensacio d'aquell moment. Sobre Adam, nomes es pot indicar, pendent de confirmacio seva, que segons la percepcio de Meriem va gestionar millor aquella conversa que elles.
+
 Tampoc consta, segons la informacio recollida, cap registre d'hores extres imposades per l'empresa. La linia probatoria a desenvolupar es la contraria: quan Jordi no arribava o comunicava dificultats, sovint es movien dates o es replanificava, i l'impacte dels retards era assumit per altres persones de l'equip.
 
 ### 2. Comunicacions Directes Amb Meriem
