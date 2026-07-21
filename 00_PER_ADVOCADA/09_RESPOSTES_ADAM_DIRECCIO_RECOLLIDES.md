@@ -484,11 +484,15 @@ Segons la informacio aportada, la iniciativa va sortir de Jordi. Jordi hauria co
 
 Segons la informacio aportada, quan Jordi va tornar o en el context posterior, se li hauria recomanat diverses vegades agafar vacances o descansar. Meriem indica que en un moment se li van fixar o indicar vacances perque no les volia gastar. Quan se li van indicar aquestes vacances, Jordi s'hauria agafat la baixa i hauria comentat que la seva advocada li havia dit que la situacio semblava sospitosa. Aquest darrer extrem queda pendent de prova concreta i revisio juridica.
 
+Meriem indica tambe que Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances, i que l'equip va respondre que si.
+
 **Formulacio defensable:**
 
 No consta que PrisMa demanes a Jordi que interrompes la baixa o que es reincorpores per necessitat empresarial. Segons la informacio recollida, quan Jordi va comunicar la intencio d'agafar l'alta voluntaria, la resposta de Pablo va anar en sentit contrari: no fer-ho per l'empresa i prioritzar la seva salut. Aixo contradiu la idea que la reincorporacio fos exigida o pressionada per PrisMa.
 
 Tambe resulta rellevant que, segons la informacio recollida, se li recomanes descansar o agafar vacances en diverses ocasions. Aquesta circumstancia, si es valida amb Woffu, comunicacions o testimoni de direccio, reforça que l'empresa no estava exigint que Jordi es forces mes, sino que descanses o regularitzes descans pendent.
+
+La consulta d'Adam a l'equip, si es confirma, permet afegir que no era una decisio presa d'amagat o a esquenes de la resta, sino una mesura coneguda i acceptada per l'equip per facilitar que Jordi descanses.
 
 **Proves/testimonis:**
 
@@ -498,6 +502,8 @@ Tambe resulta rellevant que, segons la informacio recollida, se li recomanes des
 - Missatges en que l'equip recomana descans, vacances o prioritzar salut, si existeixen.
 - Woffu i comunicacions sobre vacances recomanades/fixades.
 - Adam/gestoria sobre com constaven formalment aquestes vacances.
+- Testimonis d'Adam, Meriem, Isa i Pablo sobre la consulta a l'equip.
+- Correu, WhatsApp o acta sobre la consulta, si existeix.
 
 **Cautela:**
 

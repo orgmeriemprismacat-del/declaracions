@@ -499,6 +499,8 @@ Aixo es rellevant per contradir la idea que l'empresa li imposes o induis la rei
 
 Tambe segons la informacio recollida, a Jordi se li hauria recomanat diverses vegades agafar vacances o descansar. En un moment, segons Meriem, fins i tot se li haurien fixat o indicat vacances perque no les volia gastar. Aquesta dada, si queda acreditada amb Woffu, comunicacions o testimoni de direccio, reforça que l'empresa no buscava que Jordi es forces mes, sino que descanses o regularitzes el descans pendent.
 
+Segons Meriem, Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances, i l'equip va respondre que si. Aquest fet, si es confirma amb testimonis o comunicacions, tambe contradiu la idea que fos una decisio opaca o feta a esquenes de la resta: l'equip acceptava assumir l'organitzacio necessaria perque Jordi descanses.
+
 Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la baixa i va comentar que la seva advocada li havia dit que la situacio li semblava sospitosa. Aquest extrem s'ha de tractar amb molta cautela: pot ser rellevant com a context de les converses, pero no convé convertir-lo en una conclusio sobre la baixa ni sobre el criteri medic.
 
 **Proves**
@@ -509,6 +511,8 @@ Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la b
 - Comunicacions on es recomana a Jordi prioritzar salut o descans, si existeixen.
 - Woffu o comunicacions sobre vacances recomanades/fixades.
 - Testimoni d'Adam/gestoria sobre com constaven formalment aquestes vacances.
+- Testimonis d'Adam, Meriem, Isa i Pablo sobre la consulta a l'equip.
+- Correu, WhatsApp o acta sobre aquesta consulta, si existeix.
 
 **Validacio pendent**
 
@@ -516,6 +520,7 @@ Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la b
 - Localitzar el canal utilitzat per Jordi per comunicar-ho a Pablo.
 - Confirmar amb Pablo la literalitat de la seva resposta.
 - Confirmar amb Adam/gestoria/advocada si les vacances es van recomanar, pactar, fixar o imposar formalment, i com s'ha de denominar juridicament.
+- Confirmar amb Adam/Isa/Pablo que Adam va consultar a l'equip i que l'equip va acceptar.
 - Localitzar la comunicacio on Jordi hauria comentat que l'advocada ho veia sospitos, si existeix.
 
 **Cautela**

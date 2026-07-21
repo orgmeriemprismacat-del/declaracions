@@ -125,6 +125,8 @@ Respecte a l'alta voluntaria o reincorporacio, segons la informacio recollida no
 
 Tambe segons la informacio recollida, a Jordi se li hauria recomanat diverses vegades agafar vacances o descansar. En un moment se li haurien indicat/fixat vacances per regularitzar descans pendent, extrem que cal validar amb Woffu, Adam, gestoria i advocada abans de formular-lo definitivament. Aquest context es rellevant per rebatre la idea que PrisMa busques que Jordi es forces mes.
 
+Segons Meriem, Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances i l'equip va respondre afirmativament. Si es confirma amb testimonis o comunicacions, aquest punt permet explicar que la mesura era coneguda per l'equip i orientada a facilitar descans, no a pressionar Jordi.
+
 En materia de pagaments, segons la informacio recollida, si hi va haver retards aquests afectaven el conjunt de treballadors i no exclusivament Jordi. Aquesta dada s'ha de validar amb comptabilitat, nomines i dates reals de pagament, pero es rellevant per rebatre la idea de tracte discriminatori selectiu.
 
 Pel que fa a autories o rebuts de Jordi, segons la informacio recollida si que hi hauria imports pendents, gestionats al setembre de 2025, amb un total aproximat d'uns 4.000 euros. Ara be, aquests imports s'han de separar de la nomina i del contracte laboral ordinari, ja que correspondrien a autories/rebuts fora de la relacio laboral. A mes, segons la informacio recollida, la resta de treballadors no tenien situacions comparables d'autoria, de manera que no es pot comparar automaticament amb les nomines ordinàries de la plantilla. Cal validar-ne import, dates, documents i naturalesa juridica abans d'incloure-ho com a fet tancat.

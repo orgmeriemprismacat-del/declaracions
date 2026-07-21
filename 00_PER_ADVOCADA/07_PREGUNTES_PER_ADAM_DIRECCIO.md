@@ -119,6 +119,8 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
    - Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la baixa i va comentar que la seva advocada li havia dit que li semblava sospitos.
    - Pendent de validar amb Adam/gestoria/advocada: com consten formalment aquestes vacances, qui les va comunicar, en quina data i amb quina base.
 4. Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances?
+   - Resposta preliminar de Meriem: si. Adam ho va consultar amb l'equip i l'equip li va dir que si.
+   - Pendent de validar/provar: testimonis d'Adam, Meriem, Isa i Pablo; correu/WhatsApp/acta si existeix.
 5. L'equip va acceptar assumir feina mentre Jordi descansava?
 6. Hi ha correus o WhatsApps que acreditin que PrisMa prioritzava la seva salut/descans?
 

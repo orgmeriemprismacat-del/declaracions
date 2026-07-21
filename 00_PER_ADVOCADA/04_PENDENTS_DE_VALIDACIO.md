@@ -84,6 +84,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Si s'aporten captures on Meriem pregunta per salut o conciliacio, retallar o anonimitzar parts no pertinents si l'advocada ho recomana.
 - Localitzar, si existeix, la comunicacio en que Jordi diu a Pablo que agafaria l'alta voluntaria i Pablo li respon que no ho faci per PrisMa i que se centri en la salut. Si no existeix captura/document, recollir-ho com a testimoni de Pablo.
 - Validar amb Adam/gestoria/advocada com consten formalment les vacances que, segons Meriem, se li van indicar/fixar a Jordi perque no les volia gastar.
+- Confirmar amb Adam, Isa i Pablo que Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances i que l'equip va dir que si. Localitzar comunicacio/acta si existeix.
 - Localitzar, si existeix, la comunicacio en que Jordi diu que la seva advocada veia sospitosa la indicacio de vacances. No vincular aquest punt causalment amb la baixa sense revisio juridica.
 
 ## 10. Tasques 2025 De Jordi
