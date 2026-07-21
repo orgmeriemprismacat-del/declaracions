@@ -432,10 +432,15 @@ Jordi afirma que Meriem el va escridassar o tractar malament en una reunio.
 
 Cal demanar concrecio i prova del suposat escridassament. El context documentat mostra un conflicte de criteri sobre marketing i correccio: Jordi enfocava mailings o publicacions amb criteris de redaccio extensa, mentre Meriem defensava criteris de marketing, lectura rapida, SEO i eficacia comercial. Que Adam confirmes que Meriem era responsable de marketing i que Jordi havia de respectar els criteris d'aquesta area no acredita maltractament.
 
+Aquest punt s'hauria de presentar com una delimitacio d'ambits professionals. En lectures, guies i materials de curs, el criteri de correccio tenia un pes propi i Meriem indica que no interferia en aquest ambit. En canvi, en mailings, web, SEO, xarxes i campanyes comercials, la correccio havia d'adaptar-se als criteris de marketing, conversio, estructura visual, lectura rapida i paraules clau. Que Meriem demanes corregir respectant aquestes regles no constitueix hostilitat; forma part de l'organitzacio normal entre àrees.
+
+Si es confirma que, despres que Adam aclaris que Meriem era la responsable de marketing, Jordi va continuar qüestionant o refent criteris de mailings i textos comercials en contra de les instruccions de marketing/SEO, aixo reforça que el conflicte era professional i de delimitacio de funcions, no una persecucio personal. Cal aportar exemples concrets i evitar formular-ho com una valoracio general sense prova.
+
 **Proves**
 
 - Captures del mailing JASOM.
 - Captures prèvies del 04/12/2024 sobre xarxes.
+- Captures o chats on Meriem demana aplicar criteris de SEO/marketing i Jordi proposa o aplica criteris diferents.
 - Acta del 05/12/2024, si existeix.
 - Testimonis d'Adam, Isa i Meriem.
 
@@ -617,6 +622,8 @@ Es tracta d'una acusacio greu que requereix fets concrets, dates, missatges i co
 
 Com a element contextual addicional, la imatge d'una hostilitat continuada per part de Meriem queda debilitada si es confirma que, en el periode previ, ella va defensar internament l'ampliacio de jornada de Jordi i va intentar buscar una formula viable perque aquesta ampliacio fos possible. Aixo no elimina possibles discrepancies professionals posteriors, pero no encaixa amb una voluntat sostinguda d'aillar-lo, perjudicar-lo o tractar-lo adversament.
 
+En la mateixa linia, si l'advocada considera rellevant incorporar la declaracio personal de Meriem, es pot recollir que al febrer de 2025 Meriem ja es plantejava marxar de PrisMa per sobrecarrega i malestar, pero va continuar implicant-se per intentar remuntar l'empresa i evitar que la plantilla quedes afectada. Aquest context, si es formula amb prudencia i com a vivencia personal, tampoc encaixa amb una actuacio dirigida a perjudicar Jordi; mostra una situacio de pressio organitzativa general que Meriem intentava sostenir.
+
 **Proves**
 
 - Comunicacions directes cordials i operatives.
@@ -624,6 +631,7 @@ Com a element contextual addicional, la imatge d'una hostilitat continuada per p
 - Missatges on Meriem pregunta per salut, conciliacio o disponibilitat.
 - Proves de replanificacions i impacte sobre Meriem/Isa.
 - Testimoni de Meriem, Adam i Pablo sobre el suport de Meriem a l'ampliacio de jornada, si es confirma.
+- Declaracio personal de Meriem sobre la seva sobrecarrega i voluntat de marxar al febrer de 2025, nomes si l'advocada ho considera pertinent i proporcional.
 
 **Cautela**
 

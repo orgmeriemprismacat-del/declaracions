@@ -48,6 +48,10 @@ La revisio sistematica de xarxes per part de Jordi es va incorporar sobretot arr
 
 En marketing, sovint hi havia discrepancies perque Jordi tractava mailings o textos promocionals amb criteris de redaccio extensa, mentre que jo havia d'aplicar criteris de marketing, lectura rapida, SEO, campanyes i conversio. Aquest desacord professional no era un atac personal.
 
+Jo respectava el seu ambit de correccio en lectures, guies i materials de curs. En aquests espais, el criteri linguistic i de correccio tenia un pes propi i jo no intervenia per imposar criteris de marketing. Pero en mailings, web, SEO, xarxes i campanyes comercials, la responsabilitat era meva i la correccio s'havia d'adaptar als objectius de marketing, estructura visual, lectura rapida, paraules clau i conversio.
+
+Quan li demanava que corregis un text respectant unes regles de SEO o marketing, no ho feia per desacreditar-lo, sino perque aquell text no era una lectura ni un material academic, sino una peça comercial o informativa amb objectius diferents. En diverses ocasions, aquestes diferencies es van allargar molt mes del que era operatiu, i jo vaig viure que les meves decisions de marketing eren qüestionades o no aplicades encara que s'haguessin explicat els criteris.
+
 **Annexos a citar:** JASOM, exemples de mailing, converses de marketing, acta o testimonis del 05/12/2024 si existeixen.
 
 ### 5. Impacte De Retards I Falta De Confirmacio
@@ -81,6 +85,10 @@ Despres de diversos conflictes i malentesos, vaig limitar la comunicacio amb Jor
 ### 9. Impacte Personal
 
 Treballar amb aquesta incertesa em va generar molta angoixa i sobrecarrega. Tot i aixi, vaig intentar mantenir-me en el pla laboral, adaptar-me quan podia i continuar garantint que les tasques sortissin. Si l'advocada ho considera necessari, puc aportar exemples concrets de replanificacions, recordatoris i caps de setmana en que vaig assumir feina perque el calendari no caigues.
+
+Al febrer de 2025 jo ja m'havia plantejat marxar de PrisMa. Ho estava passant molt malament i em sentia sobrecarregada. Si vaig continuar implicant-me va ser sobretot per intentar remuntar l'empresa i evitar que les persones que hi treballaven es quedessin sense feina. La meva motivacio era sostenir els projectes, els terminis i l'equip en un moment economic molt complicat, no perjudicar Jordi.
+
+Aquest context no elimina que hi poguessin haver discrepàncies, tensio o comunicacions fermes. Pero explica per que jo insistia tant en organitzar, planificar i fer que les coses sortissin: no ho feia per acarnissament, sino perque percebia que la falta de planificacio i els retards posaven en risc la feina de moltes persones i traslladaven carrega a qui havia de continuar les tasques.
 
 **Cautela:** aquest punt s'ha d'expressar sense convertir-lo en una acusacio medica o psicologica contra Jordi.
 

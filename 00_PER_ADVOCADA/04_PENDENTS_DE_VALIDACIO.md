@@ -75,6 +75,9 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 
 - Localitzar acta o testimonis d'Adam/Isa si existeixen.
 - Separar discrepancia professional de marketing/correccio de qualsevol acusacio personal.
+- Confirmar amb Adam/Isa que es va aclarir que Meriem era la responsable de marketing i que, en mailings, web, xarxes, SEO i campanyes comercials, la correccio havia d'adaptar-se als criteris de marketing.
+- Localitzar captures o chats on Meriem expliqui criteris de SEO/marketing i Jordi plantegi o apliqui criteris diferents de redaccio/correccio.
+- Recollir exemples concrets de mailings o textos comercials on el desacord fos de criteri professional, no personal.
 - No incloure expressions emocionals; descriure fets, criteris i missatges.
 
 ## 9. Comunicacions Personals I Salut
@@ -123,6 +126,13 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - "No va fer res", si no s'ha tancat el recull complet de tasques.
 - "Se li va regalar un mes", sense validar com consta formalment.
 - "Va fer mobbing a l'equip", si no es planteja juridicament i amb proves suficients.
+- "Jordi era prepotent" o qualificatius similars; substituir per fets concrets, dates, missatges i exemples de desacord o manca d'aplicacio de criteris de marketing.
+
+## 12B. Declaracio Personal De Meriem
+
+- Validar amb l'advocada si convé incloure que Meriem, al febrer de 2025, es plantejava marxar de PrisMa per sobrecarrega i malestar, pero va continuar implicant-se per intentar remuntar l'empresa i protegir la continuïtat de l'equip.
+- Si s'inclou, presentar-ho com a vivencia personal i context de motivacio, no com a acusacio contra Jordi ni com a prova medica/psicologica.
+- Localitzar si existeixen testimonis, missatges o notes que acreditin aquest estat o, si no existeixen, deixar-ho nomes com a declaracio personal de Meriem.
 
 ## 13. Formules Mes Segures
 
