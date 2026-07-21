@@ -599,6 +599,50 @@ Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la b
 
 No qüestionar la baixa ni l'estat de salut de Jordi. La resposta s'ha de limitar a la iniciativa de la comunicacio i a la posicio de l'empresa: no demanar-li que tornes per necessitats de PrisMa i recomanar-li prioritzar la salut. La paraula "imposar vacances" s'ha de revisar amb l'advocada abans d'usar-la en un document formal; pot ser preferible parlar de vacances "fixades", "indicades" o "regularitzades" segons consti documentalment.
 
+## Punt 17C. Horari, Canal De Coordinacio I Reunions Despres Del Retorn
+
+**Afirmacio de Jordi**
+
+Aquest punt serveix per contestar les afirmacions relatives a la reincorporacio, la coordinacio posterior, la disponibilitat i les reunions.
+
+**Resposta proposada**
+
+Segons la informacio recollida, quan Jordi es va reincorporar el 2026 se li va indicar horari i canal de coordinacio. Consta que havia d'estar disponible de 10 a 14 h i que se li va tornar a recordar, tal com consta a l'acta del teletreball.
+
+La revisio del correu en entrar i abans de marxar era un criteri ordinari i preexistent de funcionament intern de PrisMa. Segons Meriem, aquesta pauta existia des d'abans de la seva entrada a l'empresa i no era una exigencia nova ni singular creada per controlar Jordi.
+
+Tambe consta, segons la informacio recollida, que Jordi va fitxar en alguns moments sense avisar correctament o sense incorporar-se a reunions previstes. Aquest extrem s'ha d'acreditar per dates concretes amb Woffu, convocatories o actes de reunio i comunicacions.
+
+**Context**
+
+En un context de teletreball, la disponibilitat en una franja concreta, la revisio del correu i l'assistencia a reunions son pautes organitzatives ordinàries. No acrediten per si soles hostilitat ni assetjament, sino necessitat de coordinacio, especialment quan hi havia tasques compartides, terminis i dependencies amb altres persones de l'equip.
+
+**Fets acreditats o a acreditar**
+
+- Segons Meriem, se li va indicar horari i canal de coordinacio despres del retorn.
+- Segons Meriem, constava disponibilitat de 10 a 14 h i aquest punt apareix a l'acta del teletreball.
+- Segons Meriem, revisar el correu en entrar i abans de marxar era una norma ordinaria i antiga de PrisMa.
+- Segons Meriem, hi va haver fitxatges sense avisar correctament o absencies de reunions previstes.
+
+**Proves**
+
+- Acta del teletreball amb disponibilitat de 10 a 14 h.
+- Comunicacions posteriors al retorn recordant horari, canal o disponibilitat.
+- Woffu dels dies concrets rellevants.
+- Convocatories, actes o correus de reunions no ateses.
+- Correus o xats en que es demana confirmacio d'horari o disponibilitat.
+- Testimonis d'Adam, Pablo, Isa i Meriem.
+
+**Validacio pendent**
+
+- Identificar la data exacta de l'acta de teletreball.
+- Llistar dies concrets de fitxatge sense avis, absencia de reunions o manca de comunicacio d'horari.
+- Confirmar amb Adam/Pablo qui li comunica l'horari i el canal despres del retorn.
+
+**Cautela**
+
+No presentar aquest punt com una critica personal a Jordi, sino com una resposta organitzativa i documentable. Evitar expressions comparatives o desqualificadores. La idea defensable es que se li demanaven pautes normals de coordinacio laboral, no mesures hostils o excepcionals.
+
 ## Punt 18. Pagaments, Autories I Tracte Discriminatori
 
 **Afirmacio de Jordi**

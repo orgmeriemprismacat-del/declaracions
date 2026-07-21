@@ -153,6 +153,15 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Si s'inclou, presentar-ho com a vivencia personal i context de motivacio, no com a acusacio contra Jordi ni com a prova medica/psicologica.
 - Localitzar si existeixen testimonis, missatges o notes que acreditin aquest estat o, si no existeixen, deixar-ho nomes com a declaracio personal de Meriem.
 
+## 12C. Retorn 2026, Horari I Coordinacio
+
+- Identificar l'acta de teletreball concreta on consta la disponibilitat de Jordi de 10 a 14 h.
+- Llistar dies concrets en que Jordi va fitxar sense avisar, no va comunicar disponibilitat o no va entrar a reunions previstes.
+- Creuar aquests dies amb Woffu, correus, Google Chat, WhatsApp i actes/convocatories de reunio.
+- Confirmar amb Adam/Pablo/Isa qui li va comunicar l'horari i el canal de coordinacio despres del retorn.
+- Localitzar comunicacions post-retorn on se li recorda horari, canal, reunions o necessitat de confirmar disponibilitat.
+- Acreditar, si es vol utilitzar, que revisar el correu en entrar i abans de marxar era una pauta ordinaria i preexistent de funcionament intern, no una mesura singular contra Jordi.
+
 ## 13. Formules Mes Segures
 
 - "Aquesta afirmacio no queda acreditada en aquests termes."

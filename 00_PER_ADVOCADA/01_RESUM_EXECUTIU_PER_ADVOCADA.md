@@ -139,6 +139,8 @@ Els punts relatius a baixa medica, ICAM/SGAM, pagaments, autories, nomines, pate
 
 Respecte a l'alta voluntaria o reincorporacio, segons la informacio recollida no consta que PrisMa li demanes que tornes. La iniciativa hauria sortit de Jordi, que hauria contactat amb Pablo per dir-li que agafaria l'alta voluntaria. Pablo li hauria respost que no ho fes per PrisMa, que l'equip seguia funcionant sense ell i que se centres en la seva salut. Cal localitzar la comunicacio o recollir testimoni de Pablo.
 
+Despres de la reincorporacio, segons la informacio recollida, se li va indicar horari i canal de coordinacio. Constava disponibilitat de 10 a 14 h i se li va tornar a recordar segons l'acta del teletreball. Tambe es recull que revisar el correu en entrar i abans de marxar era un criteri ordinari i preexistent de funcionament intern, no una exigencia nova o singular contra Jordi. Aquest punt s'ha de vincular a l'acta de teletreball, Woffu i comunicacions concretes.
+
 Tambe segons la informacio recollida, a Jordi se li hauria recomanat diverses vegades agafar vacances o descansar. En un moment se li haurien indicat/fixat vacances per regularitzar descans pendent, extrem que cal validar amb Woffu, Adam, gestoria i advocada abans de formular-lo definitivament. Aquest context es rellevant per rebatre la idea que PrisMa busques que Jordi es forces mes.
 
 Segons Meriem, Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances i l'equip va respondre afirmativament. Si es confirma amb testimonis o comunicacions, aquest punt permet explicar que la mesura era coneguda per l'equip i orientada a facilitar descans, no a pressionar Jordi.

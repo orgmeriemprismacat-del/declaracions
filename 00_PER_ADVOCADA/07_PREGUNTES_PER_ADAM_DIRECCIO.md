@@ -182,10 +182,15 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 ## 12. Comunicacio Amb Jordi Despres Del Retorn
 
 1. Quan Jordi es va reincorporar el 2026, se li va indicar horari o canal de coordinacio?
+   - Resposta recollida de Meriem: si.
 2. Consta que havia d'estar disponible de 10 a 14 h?
+   - Resposta recollida de Meriem: si. Se li va tornar a indicar, tal com consta a l'acta del teletreball.
 3. Consta que havia de mirar el correu en entrar i abans de marxar?
+   - Resposta recollida de Meriem: si. Segons Meriem, aquest era un criteri ordinari i preexistent de funcionament intern, anterior fins i tot a la seva entrada a PrisMa. No s'ha de presentar com una exigencia nova o singular contra Jordi.
 4. Va fitxar sense avisar o sense entrar a reunions?
+   - Resposta recollida de Meriem: si.
 5. Quins dies concrets son rellevants per acreditar-ho?
+   - Pendent: llistar dies concrets amb Woffu, actes/convocatories de reunio i comunicacions.
 
 ## 13. Pregunta Final Per A L'Advocada
 

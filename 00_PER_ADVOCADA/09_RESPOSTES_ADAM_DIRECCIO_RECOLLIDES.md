@@ -564,6 +564,37 @@ El fet que l'equip ja hagues assumit tasques durant la baixa tambe permet contex
 
 Cal evitar formular-ho com una valoracio medica o com una negacio del malestar de Jordi. El punt util es estrictament laboral i probatori: iniciativa de Jordi, resposta de Pablo i absencia de peticio empresarial de reincorporacio. La qualificacio de vacances "imposades" s'ha de revisar amb l'advocada abans d'utilitzar-la formalment; cal veure com consta a Woffu i en les comunicacions.
 
+## 23B. Horari, Canal De Coordinacio I Reunions Despres Del Retorn
+
+**Pregunta:** Quan Jordi es va reincorporar el 2026, se li va indicar horari o canal de coordinacio?
+
+**Resposta recollida:**
+
+Segons la informacio aportada per Meriem, si. Quan Jordi es va reincorporar el 2026 se li va indicar horari i canal de coordinacio. Tambe consta, segons Meriem, que havia d'estar disponible de 10 a 14 h i que aquest punt se li va tornar a indicar, tal com consta a l'acta del teletreball.
+
+Pel que fa a revisar el correu en entrar i abans de marxar, Meriem indica que no era una exigencia nova ni singular contra Jordi, sino un criteri ordinari i preexistent de funcionament intern de PrisMa, anterior fins i tot a la seva entrada a l'empresa. Aquest punt pot servir per rebatre que se li apliquessin normes excepcionals o creades especificament contra ell.
+
+Segons Meriem, tambe consta que Jordi va fitxar en alguns moments sense avisar correctament o sense entrar a reunions previstes. Aquest extrem s'ha d'acreditar amb dies concrets, Woffu, convocatories/actes de reunio i comunicacions.
+
+**Formulacio defensable:**
+
+Despres de la reincorporacio de Jordi, l'empresa podia exigir una coordinacio minima vinculada al teletreball: horari de disponibilitat, canal de comunicacio, revisio del correu i assistencia a reunions necessaries. Segons la informacio recollida, aquestes indicacions no eren mesures excepcionals contra Jordi, sino pautes ordinàries de funcionament i coordinacio.
+
+Si es confirma documentalment que Jordi va fitxar sense avisar, no va comunicar correctament disponibilitat o no va assistir a reunions previstes, aquest punt permet contestar que les comunicacions de direccio sobre horari i reunions no eren hostils, sino respostes organitzatives davant problemes concrets de coordinacio.
+
+**Proves/testimonis:**
+
+- Acta del teletreball on consta disponibilitat de 10 a 14 h.
+- Comunicacions posteriors al retorn en que se li recorda horari, canal o disponibilitat.
+- Woffu dels dies rellevants.
+- Convocatories, actes o correus de reunions no ateses.
+- Comunicacions on es demana confirmacio d'horari o disponibilitat.
+- Testimonis d'Adam, Pablo, Isa i Meriem.
+
+**Cautela:**
+
+Evitar formular-ho com una desqualificacio personal. No utilitzar expressions comparatives o desqualificadores. El punt util es objectiu: pautes ordinàries, horari comunicat, canal de coordinacio i eventuals incompliments concrets que cal provar per dates.
+
 ## 24. Tasques Principals De Jordi El 2025 Abans De La Baixa
 
 **Pregunta:** Quines tasques principals tenia Jordi el 2025 abans de la baixa?

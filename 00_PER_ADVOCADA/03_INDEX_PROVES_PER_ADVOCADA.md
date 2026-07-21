@@ -183,6 +183,10 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Proves de redistribucio o assumpcio de tasques durant la baixa de Jordi.
 - Canal formal de comunicacio de la baixa i previsio de retorn, si existeix.
 - WhatsApps on se li recomana prioritzar salut/descans, inclos el de Pablo i els missatges de Meriem sobre no treballar caps de setmana o conciliacio.
+- Acta del teletreball on consta disponibilitat de 10 a 14 h.
+- Comunicacions post-retorn sobre horari, canal de coordinacio, revisio de correu en entrar i abans de marxar, i confirmacio de disponibilitat.
+- Woffu post-retorn i dies concrets de fitxatge sense avis o absencia de reunions.
+- Convocatories, actes o correus de reunions no ateses.
 
 **Us proposat:** no contestar en profunditat sense revisio d'Adam, gestoria i advocada.
 
