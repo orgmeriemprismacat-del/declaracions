@@ -407,13 +407,27 @@ No convé presentar converses informals com a criteri formal d'acomiadament. El 
 
 **Resposta recollida:**
 
-Segons la informacio aportada, el despatx es va mantenir sobretot per necessitats de coordinacio presencial. Amb Jordi hi havia problemes recurrents de coordinacio: no entregava tasques, calia recordar-li coses continuament i sovint deia que les faria en aquell moment quan se li recordaven presencialment. Quan havia de fer tasques en teletreball, sovint no les feia o calia insistir-li quan l'equip tornava al despatx. Meriem indica que no era nomes un problema amb Jordi: sense reunions presencials, l'equip tambe perdia comunicacio i organitzacio clara.
+Segons la informacio aportada, el despatx es va mantenir sobretot per necessitats de coordinacio presencial. Amb Jordi hi havia problemes recurrents de coordinacio: no entregava tasques, calia recordar-li coses continuament i sovint deia que les faria en aquell moment quan se li recordaven presencialment. Quan havia de fer tasques en teletreball, sovint no les feia o calia insistir-li quan l'equip tornava al despatx. Meriem indica que aquest patro venia de temps enrere, pero que no sempre hi ha prova escrita perque sovint es resolia presencialment al despatx.
+
+Meriem tambe indica que, precisament perque detectava que els dimarts i dijous presencials facilitaven que Jordi avances feina o resolgues pendents, sovint es quedava amb ell per revisar coses. Aquesta adaptacio tenia impacte directe sobre la seva propia feina: havia de deixar d'avancar tasques seves durant aquella estona i acabar-les fora de l'horari laboral. Aquest punt s'ha de presentar com a declaracio/testimoni de Meriem, amb suport indirecte de retards, replanificacions, Woffu, xats i actes, no com a fet documental tancat si no hi ha una acta o missatge que ho digui literalment.
+
+Meriem indica que no era nomes un problema amb Jordi: sense reunions presencials, l'equip tambe perdia comunicacio i organitzacio clara.
 
 El cost aproximat del despatx seria d'uns 700 euros mensuals amb tot inclos, una quantitat inferior al cost d'una nomina. Quan es va decidir prescindir del despatx per la situacio economica, Meriem va expressar preocupacio per com mantenir la coordinacio des de casa, precisament perque ja existien problemes de comunicacio i seguiment. Es va decidir reforçar l'us de Trello i anar ajustant l'organitzacio sobre la marxa.
 
+**Actes localitzades sobre presencialitat i coordinacio:**
+
+- 09/01/2025: l'acta recull que a partir del 30/01/2025 es deixaria el despatx i que la reunio setmanal passaria a videotrucada, amb possibilitat de buscar un lloc per reunions presencials puntuals si fos necessari.
+- 28/04/2026: l'acta recull que Isa estava buscant pressupostos per fer reunions presencials, amb sala ben comunicada, i que "tambe estaria be tenir la possibilitat de llogar per mes, pero nomes dos dies a la setmana (dimarts i dijous)".
+- 06/05/2026: l'acta recull propostes d'espais de coworking/despatx, inclos Estudio3 a Vilablareix, i que s'intentaria que la propera reunio fos presencial o, si no, a partir de juny.
+- 13/05/2026: l'acta recull un ajust de les reunions presencials per organitzar feina de programacio del Verifactu, acordant dimecres i divendres.
+- 02/06/2026: consta acta de reunio setmanal presencial.
+- 09/06/2026, 23/06/2026 i 07/07/2026: consten actes de reunio setmanal presencial.
+- 07/07/2026: l'acta recull expressament que "no s'ha pogut fer la coordinacio prevista amb Jordi en les reunions, ni presencials, ni virtuals" i que "es mante el sistema de coordinacio presencial de dos dies per setmana, juntament amb les reunions setmanals de seguiment".
+
 **Formulacio defensable:**
 
-El manteniment temporal del despatx es pot explicar com una decisio organitzativa orientada a preservar coordinacio, reunions i seguiment de tasques en un moment de dificultat economica i reorganitzacio. No acredita negligencia per si sol, ni tampoc una actuacio especifica contra Jordi.
+El manteniment temporal del despatx i, posteriorment, la recuperacio de reunions presencials o espais compartits es pot explicar com una decisio organitzativa orientada a preservar coordinacio, reunions i seguiment de tasques en un moment de dificultat economica i reorganitzacio. Les actes localitzades documenten que es va buscar un sistema presencial de coordinacio i que, el juliol de 2026, ja constava expressament la dificultat de coordinar-se amb Jordi tant presencialment com virtualment. Aixo no acredita negligencia per si sol, ni tampoc una actuacio especifica contra Jordi.
 
 **Proves/testimonis:**
 
@@ -422,8 +436,14 @@ El manteniment temporal del despatx es pot explicar com una decisio organitzativ
 - Isa.
 - Pablo.
 - Cost aproximat del despatx, pendent de documentar.
-- Actes o missatges sobre reunions presencials, Trello i coordinacio, si existeixen.
+- Acta 09/01/2025: deixada del despatx i pas a videotrucada amb possibilitat de presencials puntuals.
+- Acta 28/04/2026: cerca de sala per reunions presencials dos dies per setmana, dimarts i dijous.
+- Acta 06/05/2026: propostes de coworking/despatx i Estudio3/Vilablareix.
+- Acta 13/05/2026: ajust de reunions presencials per Verifactu.
+- Actes 02/06/2026, 09/06/2026, 23/06/2026 i 07/07/2026: reunions setmanals presencials.
+- Acta 07/07/2026: dificultat de coordinacio prevista amb Jordi i manteniment de dos dies presencials setmanals.
+- Woffu, xats i historials de tasques com a suport indirecte sobre disponibilitat, retards i necessitat de seguiment.
 
 **Cautela:**
 
-Cal validar el cost exacte del despatx i evitar presentar-lo com a justificacio economica tancada sense documentacio. La resposta externa pot limitar-se a dir que el despatx es va mantenir per necessitats de coordinacio presencial i que la seva supressio posterior va respondre a una reorganitzacio economica.
+Cal validar el cost exacte del despatx i evitar presentar-lo com a justificacio economica tancada sense documentacio. La resposta externa pot limitar-se a dir que el despatx o les reunions presencials responien a necessitats de coordinacio presencial i que la seva supressio o modificacio posterior va respondre a una reorganitzacio economica. La part relativa a que Meriem es quedava dimarts i dijous amb Jordi per desbloquejar feina s'ha de formular com a testimoni de Meriem, no com a fet documental independent si no es localitza prova directa.

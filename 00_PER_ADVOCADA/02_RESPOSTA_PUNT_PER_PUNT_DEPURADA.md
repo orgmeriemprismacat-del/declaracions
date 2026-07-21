@@ -212,19 +212,27 @@ Jordi vincula la mala gestio dels acomiadaments i de l'abandonament del despatx 
 
 El manteniment temporal del despatx es pot explicar com una decisio organitzativa orientada a garantir coordinacio, reunions presencials i seguiment de tasques. Segons la informacio recollida, el despatx era especialment util per coordinar feines que en teletreball quedaven sense resposta, sense entrega o requerien recordatoris reiterats. Amb Jordi hi havia problemes recurrents de coordinacio i seguiment, pero Meriem tambe indica que el problema de comunicacio i organitzacio afectava el funcionament general de l'equip quan no hi havia reunions presencials.
 
+Segons Meriem, ella havia detectat que els dies presencials facilitaven que Jordi avances feina o resolgues pendents, i per aquest motiu sovint es quedava amb ell dimarts i dijous per mirar tasques. Aquesta adaptacio li impedia avançar feina propia dins l'horari ordinari i l'obligava a acabar-la fora d'horari. Aquest punt s'ha de presentar com a testimoni i context, amb suport indirecte de Woffu, retards, replanificacions i xats, excepte que es localitzi una prova directa.
+
 El cost aproximat del despatx seria d'uns 700 euros mensuals amb tot inclos, pendent de documentar. En tot cas, la decisio de mantenir-lo primer i deixar-lo despres respondria a criteris economics i organitzatius, no a una actuacio dirigida contra Jordi.
 
 **Proves**
 
 - Cost del despatx, pendent de documentar.
-- Actes o missatges sobre reunions presencials/coordinacio, si existeixen.
+- Acta 09/01/2025: deixada del despatx i pas a reunio setmanal per videotrucada, amb possibilitat de reunions presencials puntuals.
+- Acta 28/04/2026: cerca de sala per reunions presencials dos dies per setmana, dimarts i dijous.
+- Acta 06/05/2026: propostes de coworking/despatx i opcio Estudio3/Vilablareix.
+- Acta 13/05/2026: ajust de reunions presencials per feina de Verifactu.
+- Actes 02/06/2026, 09/06/2026, 23/06/2026 i 07/07/2026: reunions setmanals presencials.
+- Acta 07/07/2026: consta que no s'ha pogut fer la coordinacio prevista amb Jordi ni presencialment ni virtualment, i que es mante sistema de coordinacio presencial dos dies per setmana.
 - Testimonis d'Adam, Meriem, Isa i Pablo.
-- Evidencies de dificultats de coordinacio en teletreball, si es decideix aportar-les.
+- Woffu, xats, Trello i historials de tasques com a suport indirecte de dificultats de coordinacio, disponibilitat i seguiment.
 
 **Validacio pendent**
 
 - Adam i advocada.
 - Confirmar cost exacte i motiu formal de manteniment/supressio del despatx.
+- Confirmar si hi ha testimonis directes que recordin que Meriem es quedava dimarts i dijous amb Jordi per desbloquejar tasques.
 
 **Cautela**
 

@@ -132,7 +132,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 ## L. Testimonis Potencials
 
-- Meriem: comunicacions directes, adaptacions, carrega organitzativa, xarxes, marketing, GUST, ALBUM.
+- Meriem: comunicacions directes, adaptacions, carrega organitzativa, seguiment presencial de Jordi, impacte sobre la seva propia feina, xarxes, marketing, GUST, ALBUM.
 - Isa: maquetacio, impacte de retards, correccions, GUST, ALBUM, TSA, CANVA.
 - Pablo: reunions, actes, ALBUM, decisions organitzatives, correus de coordinacio.
 - Adam: jornada, contracte, paternitat, pagaments, acomiadaments, decisions empresarials.

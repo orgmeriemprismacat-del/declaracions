@@ -52,8 +52,10 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Confirmar si es pot dir que Jordi havia afirmat que podia assumir algunes tasques de Cristina i en quins termes.
 - Confirmar si convé limitar la resposta formal a criteris economics i organitzatius, sense detallar comparatives entre persones.
 - Confirmar si hi ha alguna acta o comunicacio sobre la situacio economica, perdues o necessitat de possibles acomiadaments.
-- Confirmar cost exacte del despatx i motiu formal de manteniment/supressio.
-- Confirmar documentalment, si existeix, que el despatx es mantenia per coordinacio presencial i reunions de seguiment.
+- Confirmar cost exacte del despatx/coworking i motiu formal de manteniment/supressio.
+- Ja s'han localitzat actes sobre presencialitat i coordinacio: 09/01/2025, 28/04/2026, 06/05/2026, 13/05/2026, 02/06/2026, 09/06/2026, 23/06/2026 i 07/07/2026.
+- Validar si es vol aportar l'acta 07/07/2026 com a prova directa que no s'havia pogut fer la coordinacio prevista amb Jordi ni presencialment ni virtualment.
+- Confirmar si hi ha testimonis directes que recordin que Meriem es quedava dimarts i dijous amb Jordi per desbloquejar feina i que aixo li generava feina fora d'horari.
 
 ## 7. GUST, Reunio Del 16/05/2025
 

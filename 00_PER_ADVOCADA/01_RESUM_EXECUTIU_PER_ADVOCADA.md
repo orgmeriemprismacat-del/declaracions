@@ -111,7 +111,9 @@ Segons la informacio recollida, l'equip va ser informat en diverses ocasions de 
 
 No consta, segons la informacio aportada, que en cap reunio es digues que Jordi ja sabia que Cristina seria acomiadada. El que si s'hauria comentat es que Jordi havia afirmat que es veia capacitat per assumir algunes tasques de Cristina, extrem que Meriem considera inexacte i que va sorprendre l'equip. Aquest punt s'ha de tractar amb cautela i, preferentment, com a resposta a una acusacio concreta, sense entrar en el fons de l'acomiadament de terceres persones si no es necessari.
 
-Pel que fa al despatx, la informacio recollida indica que es va mantenir temporalment per necessitats de coordinacio presencial, reunions i seguiment de tasques, amb un cost aproximat pendent de validar d'uns 700 euros mensuals. La resposta formal probablement hauria de limitar-se a indicar que es tractava de decisions economiques i organitzatives de direccio.
+Pel que fa al despatx i les reunions presencials, la informacio recollida indica que es van mantenir o recuperar per necessitats de coordinacio presencial, reunions i seguiment de tasques, amb un cost aproximat pendent de validar. Les actes localitzades documenten que el 28/04/2026 es buscava una sala per reunions presencials dos dies per setmana, que el 06/05/2026 es valoraven espais de coworking/despatx, que al juny ja hi havia actes presencials i que el 07/07/2026 consta que no s'havia pogut fer la coordinacio prevista amb Jordi ni presencialment ni virtualment.
+
+Segons Meriem, els dies presencials facilitaven que Jordi avances feina o resolgues pendents, pero sovint implicaven que ella deixes d'avancar feina propia i l'acabes fora d'horari. Aquest extrem s'ha de presentar com a testimoni de Meriem i no com a prova documental independent si no es localitza una evidencia directa.
 
 ### 10. Salut, ICAM, Pagaments I Paternitat
 

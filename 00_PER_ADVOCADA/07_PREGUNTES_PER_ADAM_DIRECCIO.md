@@ -86,11 +86,14 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 3. El despatx es va mantenir per necessitats de coordinacio presencial?
    - Resposta preliminar de Meriem: si.
 4. Hi havia problemes concrets de coordinacio amb Jordi en teletreball?
-   - Resposta preliminar de Meriem: si; no entregava tasques, calia recordar-li-les i presencialment sovint les feia quan se li recordaven.
+   - Resposta preliminar de Meriem: si, des de sempre, pero no sempre hi ha prova escrita perque moltes situacions es resolien al despatx. Testimonis potencials: persones de l'equip, tot i que Meriem indica que poden no recordar-ho amb detall. El que si es recorda es que Meriem sovint es quedava dimarts i dijous per mirar coses amb Jordi perque, si no, les coses no funcionaven.
 5. S'havia detectat que els dimarts i dijous presencials facilitaven que Jordi avances feina?
-   - Resposta preliminar de Meriem: si, especialment per recordar-li tasques i resoldre pendents.
+   - Resposta preliminar de Meriem: si. Ho va detectar Meriem i per aixo ho feia. Aixo li generava impacte directe, perque havia de deixar d'avancar feina propia durant aquelles estones i sovint acabava la seva feina fora d'horari.
 6. Quan es va decidir tornar a reunions presencials o espais de coworking?
+   - Resposta preliminar de Meriem: a l'abril.
+   - Actes localitzades: 28/04/2026 es parla de buscar sala per reunions presencials dos dies per setmana (dimarts i dijous); 06/05/2026 es presenten propostes de coworking/despatx, inclos Estudio3 a Vilablareix; 13/05/2026 es modifiquen dies presencials per Verifactu; 02/06/2026 ja consta acta presencial.
 7. Hi ha actes que acreditin horaris, reunions o disponibilitat presencial?
+   - Actes localitzades: 09/01/2025 deixa del despatx i videotrucada amb opcio de presencials puntuals; 28/04/2026 sala dos dies per setmana (dimarts i dijous); 06/05/2026 propostes d'espais; 02/06/2026, 09/06/2026, 23/06/2026 i 07/07/2026 actes presencials; 07/07/2026 recull que no s'ha pogut fer la coordinacio prevista amb Jordi ni presencialment ni virtualment i que es mante coordinacio presencial dos dies per setmana.
 
 ## 7. ERTE
 
