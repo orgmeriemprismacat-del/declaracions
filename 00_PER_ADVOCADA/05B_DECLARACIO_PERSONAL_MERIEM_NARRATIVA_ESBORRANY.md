@@ -8,6 +8,16 @@ No pretenc negar que Jordi hagi pogut sentir malestar ni valorar el seu estat de
 
 Tambe vull deixar constancia que prefereixo no haver d'entrar en detall sobre com m'ha afectat personalment aquesta situacio, perque no ho porto be i em resulta especialment doloros. Criticar o discutir la meva feina es una cosa que puc abordar en un pla professional; entrar en el que m'ha afectat personalment, en la meva salut o en el meu patiment es una altra cosa molt diferent. Ho explico nomes en la mesura que l'advocada consideri necessari i demano que aquesta informacio es tracti amb reserva, proporcionalitat i nomes si es imprescindible.
 
+## Valors Personals I Impacte De L'Acusacio D'Assetjament
+
+Sempre he estat especialment sensible davant conductes o expressions que poguessin resultar discriminatories, humiliants o excloents. He arribat a corregir o enfrontar-me verbalment a companys per l'ús d'expressions com `xinos` per referir-se genericament a persones asiatiques, perquè rebutjo que es normalitzi un llenguatge que pugui menysprear, estigmatitzar o reduir les persones al seu origen.
+
+Per aixo em resulta especialment doloros que se m'atribueixi una conducta d'assetjament. El bullying es una realitat que sempre he rebutjat i davant la qual m'he posicionat fermament. Soc conscient que aquest posicionament no em fa immune a la critica ni demostra per si sol que jo no pugui equivocar-me o generar malestar. Tampoc nego que hi hagués tensio, desacords o moments puntuals en que em vaig alterar o no vaig gestionar la situacio de la millor manera.
+
+Tanmateix, considero molt greu que aquests episodis es reinterpretin globalment com una conducta d'assetjament sense examinar els fets concrets, la seva continuïtat i reiteracio, el context laboral, les causes dels conflictes i l'efecte real de cada actuacio. Aquesta acusacio tampoc te en compte els problemes organitzatius i els incompliments que precedien moltes discussions, les adaptacions que vaig fer per facilitar la feina de Jordi, la comunicacio que vam mantenir ni la meva voluntat reiterada d'integrar-lo, escoltar-lo i trobar formes de treball que li resultessin assumibles.
+
+Accepto que se'm puguin assenyalar errors concrets i estic disposada a revisar-los. El que no puc acceptar es que aquests errors o moments de tensio es converteixin en una acusacio global d'assetjament, descontextualitzada i desvinculada de tot el que jo també vaig fer per ajudar Jordi i reconduir la situacio. Aquesta qualificacio no nomes qüestiona la meva actuacio professional, sino també uns valors personals profunds i la manera com entenc que s'ha de tractar les persones. Per aixo m'esta causant un dolor i un impacte emocional especialment intensos.
+
 ## La Meva Implicacio Personal Amb PrisMa
 
 Per entendre la meva vivencia, per a mi es important explicar que PrisMa no ha estat mai nomes una feina distant o ordinaria. Si hi he continuat, i si he assumit tantes arees, responsabilitats i carregues de feina, ha estat sobretot per implicacio personal amb el projecte i amb les persones que hi treballen. Si aquesta implicacio no existis, jo no hauria sostingut durant anys aquest volum de feina, pressio i responsabilitats.
