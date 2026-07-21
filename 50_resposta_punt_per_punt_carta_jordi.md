@@ -787,13 +787,21 @@ Cita de Jordi:
 Resposta de l'empresa:
 Encara que Meriem tingues una carrega elevada i transversal, això no acredita cap maltractament cap a Jordi. Pot contextualitzar decisions organitzatives com automatitzar avisos, deixar constancia escrita, prioritzar terminis o reduir interaccions improductives.
 
+PrisMa tenia necessitats empresarials, funcions descobertes i tasques encadenades. Quan la coordinacio o les entregues no funcionaven, Isa i Meriem absorbien les conseqüencies perquè els cursos i els sistemes havien de sortir igualment. Per tant, no es pot transformar globalment aquesta carrega en `tasques que ella decidia que eren necessaries` sense concretar quines tasques es consideren prescindibles, qui les havia acordat i que hauria passat si no s'haguessin executat.
+
 Context:
 La carrega de Meriem era elevada i no es limitava a informatica. Incloia IT, projectes, marketing, xarxes, web, imatges, mailings i coordinacio. Aquesta situacio pot explicar la necessitat de planificacio i traçabilitat, no una intencio d'assetjar Jordi.
+
+Entre aquestes funcions hi havia la gestio i coordinacio de cursos; el marketing, del qual Meriem era responsable; necessitats d'intranet requerides per Pablo; incidencies derivades del canvi de servidor; programacio i adaptacio de cursos com ACOS o TSA; i la preparacio de cursos i campanyes en dates economicament rellevants per a PrisMa. Cal classificar cada tasca segons si provenia de direccio, d'un acord d'equip, d'una necessitat tecnica o comercial o d'una dependencia causada per una entrega anterior. La mera execucio o coordinacio per part de Meriem no converteix la necessitat empresarial en una preferencia personal seva.
+
+La carta també s'ha de contrastar amb el fet que Jordi havia manifestat que podia assumir tasques que abans feia Cristina i, posteriorment, redactar xarxes i mailings. Si aquestes funcions no resolien la coordinacio o requerien seguiment, no es pot presentar automaticament aquest seguiment com una pressio arbitraria de Meriem. En cada cas cal examinar la tasca, la data compromesa, l'entrega real i l'impacte posterior sobre Isa, Meriem o la resta de l'equip.
 
 Fets acreditats:
 - Meriem tenia una carrega elevada i transversal.
 - Es van crear sistemes de planificacio i automatitzacio.
 - La carrega de Meriem no substitueix la prova d'una conducta concreta contra Jordi.
+- Les tasques dels cursos eren encadenades: correccio, validacio, imatges, maquetacio, segona revisio, publicacio i seguiment.
+- Els retards o mancances de coordinacio en una fase podien comprimir o traslladar feina a Isa i Meriem.
 
 Proves documentals:
 - `[DOC-FUNCIONS-IT-01]`
