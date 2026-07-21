@@ -252,6 +252,24 @@ El que em fa especialment mal de la carta de Jordi es que no te en compte el gre
 
 **Annexos a citar:** documentacio d'assistencia psicologica nomes si l'advocada ho considera necessari i proporcional; testimonis de persones a qui Meriem va demanar ajuda o consell en aquell periode; missatges o notes que acreditin recerca de solucions, sobrecarrega o voluntat de reconduir la situacio.
 
+### 9.1. Consequencies Personals Concretes I Mecanismes De Proteccio
+
+Quan parlo d'angoixa o sobrecarrega no em refereixo nomes a una incomoditat laboral abstracta. La situacio va tenir consequencies concretes en mi: vaig anar al psicoleg, vaig tenir malestar fisic i digestiu, vomits, insomni, ansietat, ulceres o altres simptomes que, si l'advocada ho considera necessari, s'haurien de contrastar amb la documentacio medica o psicologica disponible. Tambe vaig arribar a voler marxar de PrisMa perque sentia que no podia sostenir mes aquella dinamica.
+
+Una de les maneres com intentava gestionar-ho era parlar-ne amb persones de confiança, de vegades de manera molt reiterada, buscant ajuda per entendre com reconduir la situacio. No ho feia per crear un relat contra Jordi, sino perque jo mateixa no sabia com sortir d'una dinamica que em feia mal i que alhora afectava la feina de l'equip.
+
+Tambe vaig començar a viure amb por o bloqueig determinades interaccions amb Jordi. Abans de parlar amb ell o escriure-li, sovint havia de controlar molt el to, les paraules i la manera de formular cada missatge per evitar que una peticio laboral o un recordatori es convertissin en un conflicte personal. Progressivament vaig intentar contestar de manera molt mes racional, freda i operativa, precisament per no implicar-me emocionalment i per reduir el risc de conflicte.
+
+Aquest canvi no era indiferencia ni hostilitat. Era un mecanisme de proteccio. Jo intentava aplicar la logica que, si parlava de manera racional, amb dades, terminis i tasques concretes, podria evitar conflictes i protegir-me emocionalment del canvi que estava percebent en la relacio amb Jordi. Aquesta manera de comunicar-me tambe buscava que no m'afectessin tant les faltes de resposta, els retards, les discussions de criteri o la sensacio de desacreditacio en reunions quan ell discutia decisions de marketing, SEO o organitzacio que formaven part de les meves responsabilitats.
+
+Amb el temps, vaig deixar d'ajudar-lo emocionalment de la manera com ho havia fet abans perque ja no podia sostenir-ho. Durant anys havia escoltat problemes personals i havia intentat cuidar-lo, pero va arribar un moment en que mantenir aquest paper em feia massa mal i em deixava sense capacitat per protegir-me. Reduir aquesta part emocional de la relacio no va ser una forma d'aillar-lo, sino una necessitat per poder continuar treballant.
+
+Tambe em passa que, quan una situacio em supera, tendeixo a bloquejar o apartar records perque no em continuin afectant. Per aquest motiu, alguns episodis em costa reconstruir-los amb precisio cronologica si no els contrasto amb correus, WhatsApps, actes, Trello, Woffu o testimonis. Aixo no vol dir que no passessin, sino que necessito recolzar la memoria en proves externes per reconstruir el conjunt amb rigor.
+
+Actualment, despres de la carta de Jordi i de les acusacions formulades, he tornat a necessitar suport psicologic. Aquest fet tambe forma part de l'impacte que m'ha generat veure reinterpretada tota una relacio de suport i adaptacio com si hagues estat una conducta d'assetjament per part meva.
+
+**Annexos a citar:** documentacio psicologica o medica nomes si l'advocada ho considera necessari i proporcional; testimonis de persones a qui Meriem va demanar ajuda; captures on Meriem dona marge, pregunta per salut/familia o escriu de manera operativa; proves de conflictes de marketing/SEO; missatges o cronologies que ajudin a reconstruir episodis bloquejats o recordats parcialment.
+
 ### 9A. Impacte Sobre L'Equip I Canvi De Dinamica
 
 Un punt que considero important explicar es que, durant molt temps, jo vaig absorbir molts dels problemes de coordinacio amb Jordi. Sovint intentava parlar-ho jo, reconduir-ho jo o adaptar-me jo, de manera que altres persones no haguessin d'entrar tant en el conflicte o en el seguiment directe. Despres de parlar amb Adam i Pablo, vaig deixar d'assumir jo sola tots aquests problemes i vaig intentar que cadascu pogues expressar directament el que veia o el que necessitava.
