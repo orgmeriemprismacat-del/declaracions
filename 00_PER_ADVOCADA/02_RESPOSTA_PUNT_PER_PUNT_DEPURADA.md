@@ -324,6 +324,22 @@ El planning general treballat a la reunio del 20/05/2025 reforca aquesta lectura
 
 El compliment posterior de diverses fites no s'ha d'atribuir automaticament a l'existencia del document. El planning exigia seguiment actiu: comprovacions d'estat, missatges, trucades, recordatoris i disponibilitat de Meriem per resoldre dubtes de Jordi, fins i tot el mateix dia d'una entrega, perquè pogues completar-la. Les comunicacions localitzades acrediten exemples concrets d'aquest suport: el 21/05/2025 Jordi formula una consulta sobre una lectura de l'MPIA i Meriem respon en el mateix minut; el 02/06/2025 Jordi planteja que falten qüestions de les imatges i Meriem s'ofereix immediatament a mirar-les i trucar-lo, intenten parlar i continuen per WhatsApp quan falla la cobertura; i el 14/04/2025 Meriem respon en pocs minuts una consulta sobre una decisio lingüistica. Altres converses del 31/07, 05/08, 12/09 i 19/09/2025 mostren que preparava material per evitar dubtes, s'oferia a completar propostes i indicava a Jordi que la podia trucar o que el trucaria ella. Aquests registres no permeten afirmar que totes les consultes fossin contestades sempre de manera immediata, pero si documenten una pauta de disponibilitat, revisio conjunta i suport directe. Per tant, la coordinacio efectiva comportava una carrega de gestio addicional per a Meriem, i el resultat final no elimina la necessitat d'aquell seguiment.
 
+![Google Chat del 21 de maig de 2025: Jordi planteja un dubte sobre una lectura de l'MPIA i Meriem respon en el mateix minut.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-06_2025-05-21_mpia-lectura-imatges-replantejar.png)
+
+*Figura SD-1. Google Chat directe, 21/05/2025. Consulta de Jordi sobre la lectura i les imatges de l'MPIA i resposta de Meriem en el mateix minut.*
+
+![Google Chat del 2 de juny de 2025: Jordi proposa parlar de les imatges i Meriem respon que quan vulgui.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-03_2025-06-02_prioritza-mpia-abans-gust.png)
+
+*Figura SD-2. Google Chat directe, 02/06/2025. Jordi planteja parlar d'algunes qüestions de les imatges i Meriem s'ofereix a fer-ho quan vulgui.*
+
+![Google Chat del 2 de juny de 2025: Meriem diu que s'ho mira i truca Jordi.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-04_2025-06-02_trucada-cobertura.png)
+
+*Figura SD-3. Google Chat directe, 02/06/2025. Meriem revisa la qüestio i proposa trucar Jordi immediatament; la conversa deixa constancia dels problemes de cobertura.*
+
+![Google Chat del 2 de juny de 2025: continuacio per WhatsApp a causa de la cobertura.](../annexos_captures/CAP-GC-DIRECTE-CURSOS-2025-05_2025-06-02_whatsapp-per-cobertura.png)
+
+*Figura SD-4. Google Chat directe, 02/06/2025. Davant els problemes de cobertura, Jordi proposa continuar per WhatsApp i Meriem hi accedeix en el mateix minut.*
+
 Aquest planning mostra una adaptacio organitzativa, no una actuacio d'acarnissament. Meriem va moure o concentrar tasques seves en caps de setmana o franges molt ajustades per donar marge a Jordi i intentar que Isa disposes de temps posterior per muntar els cursos. Si es valida amb actes, captures i testimonis, aquest fet contradiu la idea d'una pressio hostil dirigida contra Jordi: el que s'observa es una replanificacio compartida per sostenir el calendari i evitar que el projecte quedes bloquejat.
 
 **Proves**
