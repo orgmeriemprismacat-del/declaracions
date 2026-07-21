@@ -29,12 +29,13 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 3. Permis De Paternitat
 
-**Estat actual:** Meriem ha aportat resposta preliminar que PrisMa no va demanar formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Cal confirmar-ho amb Adam i gestoria abans de presentar-ho.
+**Estat actual:** Meriem ha aportat resposta preliminar que PrisMa no va demanar formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Tambe indica que pot testificar que Jordi havia explicat que volia jornada completa per cobrar el permis sobre jornada completa, pero no sap si hi ha correu o prova escrita. Cal confirmar-ho amb Adam i gestoria abans de presentar-ho.
 
 1. Quines dates exactes va demanar Jordi inicialment pel permis de paternitat?
 2. Va modificar Jordi aquestes dates? Si si, per quin canal i amb quina justificacio?
 3. PrisMa li va demanar formalment que canvies dates del permis per necessitats de l'empresa?
 4. Jordi va explicar que volia jornada completa per cobrar el permis de paternitat sobre jornada completa?
+   - Resposta preliminar de Meriem: ho pot testificar, pero pendent de localitzar prova escrita o confirmacio d'Adam/gestoria.
 5. Que va passar exactament amb el mes que internament s'ha descrit com a "regalat" o no descomptat?
 6. Com consta formalment aquest mes a Woffu/nomina/gestoria: vacances, permis, absencia justificada, compensacio o una altra figura?
 7. Qui havia d'informar Jordi del tramit necessari per cobrar la part restant del permis?

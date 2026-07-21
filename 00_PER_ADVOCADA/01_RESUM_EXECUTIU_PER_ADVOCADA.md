@@ -111,6 +111,8 @@ Els punts relatius a baixa medica, ICAM/SGAM, pagaments, autories, nomines, pate
 
 Pel que fa al permis de paternitat, segons la informacio recollida no consta que PrisMa demanes formalment a Jordi canviar dates per necessitats de l'empresa. Aquest punt s'ha de validar amb Adam, gestoria, Woffu i sol.licituds del permis abans de donar-lo per tancat.
 
+Tambe hi ha testimoni de Meriem que Jordi havia vinculat l'interes per la jornada completa al calcul economic del permis de paternitat. Mentre no es localitzi prova escrita, aquest punt s'ha de presentar nomes com a testimoni i context, no com a fet documental tancat.
+
 ## Recomanacio De Presentacio
 
 Per a l'advocada, convé portar:

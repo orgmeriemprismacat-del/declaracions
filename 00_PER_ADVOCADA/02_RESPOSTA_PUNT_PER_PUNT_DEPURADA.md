@@ -100,18 +100,23 @@ Aquest punt s'ha de respondre amb documentacio formal: sol.licituds, Woffu, comu
 
 Segons la informacio recollida, no consta que PrisMa demanes formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Per tant, si Jordi afirma que va moure dates per afavorir PrisMa, caldria que aquesta afirmacio quedes acreditada amb una sol.licitud, correu, WhatsApp, comunicacio de gestoria o altre document on constes aquesta peticio empresarial.
 
+Meriem pot testificar que Jordi havia explicat que volia passar a jornada completa perque el permis de paternitat es calcules sobre jornada completa i li resultes economicament mes favorable. Mentre no es localitzi prova escrita, aquest punt s'ha de mantenir com a testimoni i context, no com a fet documental tancat ni com a motiu exclusiu.
+
 **Proves**
 
 - Woffu.
 - Sol.licituds o comunicacions del permis.
 - Comunicacions amb gestoria.
 - Missatges de Jordi sobre el motiu economic, si es decideix aportar-los.
+- Testimoni de Meriem sobre converses relatives al motiu economic de la jornada completa.
 - `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 **Validacio pendent**
 
 - Gestoria i advocada.
 - Adam ha de confirmar que no hi va haver peticio formal de PrisMa per canviar dates del permis.
+- Buscar correus o WhatsApps sobre el motiu economic de la jornada completa.
+- Confirmar si Adam, Pablo o gestoria tambe en tenen constancia.
 
 **Cautela**
 

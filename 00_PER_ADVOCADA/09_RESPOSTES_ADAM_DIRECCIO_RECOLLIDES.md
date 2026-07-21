@@ -205,7 +205,29 @@ Segons la informacio recollida, no consta que PrisMa demanes formalment a Jordi 
 
 No negar que Jordi pogues haver viscut el canvi com una adaptacio personal. El punt defensable es que no consta una peticio formal de PrisMa exigint o demanant el canvi per necessitats empresarials.
 
-## 12. Octubre-Novembre 2023: Paternitat I Mes Concedit
+## 12. Permis De Paternitat: Motiu Economic De La Jornada Completa
+
+**Pregunta:** Jordi va explicar que volia jornada completa per cobrar el permis de paternitat sobre jornada completa?
+
+**Resposta recollida:** Meriem no sap si hi ha algun correu o prova escrita, pero Meriem ho pot testificar.
+
+**Formulacio defensable:**
+
+Segons el testimoni de Meriem, Jordi havia explicat que li interessava passar a jornada completa perque el permis de paternitat es calcules sobre jornada completa i li resultes economicament mes favorable. Aquest punt s'ha de presentar com a testimoni de Meriem i context de les converses sobre jornada, no com a prova documental tancada mentre no es localitzi un correu, WhatsApp o altre document que ho acrediti.
+
+Aixo es rellevant per contextualitzar que l'interes de Jordi per l'ampliacio de jornada no es pot presentar nomes com una necessitat estructural de feina imposada per PrisMa. Ara be, cal evitar formular-ho com a motiu exclusiu o unic si no hi ha prova escrita.
+
+**Proves/testimonis:**
+
+- Testimoni de Meriem.
+- Correus, WhatsApps o altres comunicacions escrites sobre aquest motiu, pendent de localitzar.
+- Adam/Pablo/gestoria, pendent de confirmar si tambe en tenen constancia.
+
+**Cautela:**
+
+No atribuir una motivacio exclusiva a Jordi sense prova escrita. No qüestionar el dret al permis de paternitat ni barrejar aquest punt amb cap valoracio sobre salut o conciliacio. El punt util es nomes contextualitzar el motiu economic que, segons Meriem, Jordi havia expressat en converses sobre la jornada completa.
+
+## 13. Octubre-Novembre 2023: Paternitat I Mes Concedit
 
 **Resposta recollida:**
 
