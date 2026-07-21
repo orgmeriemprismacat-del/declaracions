@@ -82,7 +82,9 @@ Jo no em ficava en les seves decisions de correccio de lectures. Pero en mailing
 
 Recordo especialment el conflicte de desembre de 2024 sobre un mailing. Jo i Isa consideravem que el text que proposava era massa enrevessat per un mailing. La meva posicio era que els clients no sempre llegeixen textos llargs o complexos, i que si una comunicacio comercial no es clara i facil de llegir, perd eficacia. Jordi insistia en la seva redaccio. Finalment, Adam va haver d'indicar que jo era la responsable de marketing i que Jordi havia de seguir els criteris que jo marcava en aquell ambit.
 
-Reconec que en aquella conversa podia parlar amb un to alt. Es el meu to habitual en situacions de tensio o quan intento defensar un criteri professional, pero no vaig insultar Jordi ni vaig utilitzar expressions vexatories. Quan posteriorment Pablo i Adam em van traslladar que Jordi havia viscut negativament aquest to, vaig intentar controlar-lo expressament i parlar mes baix en les interaccions posteriors.
+Reconec que en aquella conversa podia parlar amb un to alt. En general tinc un to de conversa alt, i aquest to pot augmentar quan estic tensionada o quan m'implico emocionalment en la feina. Aixo no significa que hi hagi voluntat d'agredir, humiliar o vexar. No vaig insultar Jordi ni vaig utilitzar expressions vexatories. Quan posteriorment Pablo i Adam em van traslladar que Jordi havia viscut negativament aquest to, vaig intentar controlar-lo expressament i parlar mes baix en les interaccions posteriors.
+
+Per a mi tambe es rellevant explicar que la meva permanencia a PrisMa i el fet d'haver assumit tantes arees de feina i responsabilitats no s'expliquen nomes per una relacio laboral ordinaria. Hi he continuat, sobretot, per implicacio personal amb el projecte i amb les persones que hi treballen. Si no fos per aquesta implicacio emocional i personal, no hauria sostingut durant tant de temps aquest volum de tasques i responsabilitats.
 
 **Annexos orientatius:** cas JASOM; exemples de mailing llarg vs peça de marketing; converses de marketing; acta o testimonis del 05/12/2024; testimoni de Pablo/Adam sobre el comentari posterior relatiu al to.
 
@@ -149,6 +151,8 @@ Arran de la carta, sento una responsabilitat molt gran cap als meus companys. Em
 ## Impacte Personal I Mecanismes De Proteccio
 
 Treballar amb aquesta incertesa em va generar molta angoixa i sobrecarrega. Quan parlo d'angoixa no em refereixo nomes a una incomoditat laboral abstracta. La situacio va tenir consequencies concretes en mi: vaig anar al psicoleg, vaig tenir malestar fisic i digestiu, vomits, insomni, ansietat, ulceres o altres simptomes que, si l'advocada ho considera necessari, s'haurien de contrastar amb la documentacio medica o psicologica disponible. Tambe vaig arribar a voler marxar de PrisMa perque sentia que no podia sostenir mes aquella dinamica.
+
+Aixo em va afectar especialment perque la meva relacio amb PrisMa no ha estat nomes una relacio laboral ordinaria. La meva permanencia a l'empresa i el fet d'haver assumit tantes arees de feina i responsabilitats s'expliquen, sobretot, per una implicacio personal amb el projecte i amb les persones que hi treballen. Si no fos per aquesta implicacio emocional i personal, no hauria sostingut durant tant de temps aquest volum de tasques i responsabilitats.
 
 Una de les maneres com intentava gestionar-ho era parlar-ne amb persones de confianca, de vegades de manera molt reiterada, buscant ajuda per entendre com reconduir la situacio. No ho feia per crear un relat contra Jordi, sino perque jo mateixa no sabia com sortir d'una dinamica que em feia mal i que alhora afectava la feina de l'equip.
 
