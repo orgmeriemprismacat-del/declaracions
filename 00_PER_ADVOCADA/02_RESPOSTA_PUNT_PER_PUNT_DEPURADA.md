@@ -424,6 +424,8 @@ Aquest punt s'ha de contestar amb comptabilitat, nomines, intranet, rebuts d'aut
 
 Segons la informacio recollida, si hi va haver retards en pagaments o nomines, aquests afectaven el conjunt de treballadors i no nomes Jordi. Per tant, pendent de validacio comptable, aquesta dada permetria contestar que no consta un tracte selectiu o discriminatori contra Jordi pel que fa als retards. La resposta no ha de negar els retards si existeixen, sino exigir que es comparin dates de pagament de Jordi amb les de la resta de la plantilla en els mateixos mesos.
 
+Pel que fa a autories o rebuts, segons la informacio recollida si que hi hauria imports pendents, gestionats per Jordi al setembre de 2025, amb un import total aproximat d'uns 4.000 euros. Aquest punt s'ha de tractar separadament de la nomina i del contracte laboral, ja que aniria vinculat a autories/rebuts fora de la relacio laboral ordinaria. Per tant, no es pot convertir automaticament en prova d'impagament salarial o tracte discriminatori sense revisar la naturalesa del deute, els documents, les dates de gestio i els criteris de pagament.
+
 **Proves**
 
 - Nomines.
@@ -436,6 +438,7 @@ Segons la informacio recollida, si hi va haver retards en pagaments o nomines, a
 **Validacio pendent**
 
 - Adam, comptabilitat, gestoria i advocada.
+- Confirmar import exacte dels rebuts/autories pendents, data de gestio, data de venciment i si consten fora del contracte laboral.
 
 ## Punt 19. Acusacio De "Bully"
 

@@ -51,6 +51,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
    - Resposta preliminar de Meriem: sempre afectava a tots; pendent de validacio comptable.
 3. Durant la baixa, per quin motiu Jordi podia cobrar en un moment diferent de la resta?
 4. Hi ha autories o rebuts de Jordi pendents de pagar? Quins imports i dates?
+   - Resposta preliminar de Meriem: si, n'hi ha; els hauria gestionat al setembre de 2025, per un import total aproximat d'uns 4.000 euros, i anirien fora del contracte laboral. Cal validar import exacte, documents i figura formal.
 5. Jordi va presentar rebuts fins a 1.000 euros per feina extra? Quan? Es van pagar?
 6. Des del 2023, quins rebuts d'autoria consten gestionats, pendents o pagats?
 7. La resta de treballadors tenien situacions comparables d'autoria o no?

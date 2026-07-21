@@ -267,3 +267,27 @@ Segons la informacio recollida, si en algun moment hi va haver retards en pagame
 **Cautela:**
 
 No negar l'existencia de retards si consten documentalment. El punt defensable es distingir entre retard generalitzat i retard selectiu o discriminatori. Cal evitar afirmar-ho com a fet tancat sense revisar comptabilitat, nomines i dates reals de pagament.
+
+## 15. Autories O Rebuts Pendents: Naturalesa Diferenciada De La Nomina
+
+**Pregunta:** Hi ha autories o rebuts de Jordi pendents de pagar? Quins imports i dates?
+
+**Resposta recollida:** Si, n'hi ha. Segons la informacio aportada, Jordi els va gestionar al setembre de 2025. L'import total rondaria els 4.000 euros, pendent de verificacio comptable. Aquest import aniria fora del contracte laboral.
+
+**Formulacio defensable:**
+
+Segons la informacio recollida, podrien existir imports pendents vinculats a autories o rebuts de Jordi, amb un import total aproximat de 4.000 euros i gestio iniciada o registrada al setembre de 2025. Ara be, aquests imports s'han de diferenciar de la nomina ordinaria i del contracte laboral, ja que correspondrien a una relacio d'autoria/rebut o retribucio diferenciada.
+
+Per tant, l'existencia d'autories pendents no acredita automaticament retard salarial, discriminacio laboral o impagament de nomina. Cal revisar rebuts, factures, intranet, criteris de meritacio, dates de gestio, venciments i disponibilitat de pagament.
+
+**Proves/testimonis:**
+
+- Intranet o registre on consti que els rebuts/autories es van gestionar al setembre de 2025.
+- Rebuts, factures o documents d'autoria.
+- Comptabilitat.
+- Adam/gestoria.
+- Import total exacte i estat de cada rebut.
+
+**Cautela:**
+
+No negar l'existencia d'autories pendents si consten. El punt defensable es separar-les de la nomina laboral i evitar que es presentin com a prova directa de discriminacio salarial sense comparar naturalesa juridica, dates de meritacio, gestio i pagament.

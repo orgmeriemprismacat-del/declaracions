@@ -111,6 +111,8 @@ Els punts relatius a baixa medica, ICAM/SGAM, pagaments, autories, nomines, pate
 
 En materia de pagaments, segons la informacio recollida, si hi va haver retards aquests afectaven el conjunt de treballadors i no exclusivament Jordi. Aquesta dada s'ha de validar amb comptabilitat, nomines i dates reals de pagament, pero es rellevant per rebatre la idea de tracte discriminatori selectiu.
 
+Pel que fa a autories o rebuts de Jordi, segons la informacio recollida si que hi hauria imports pendents, gestionats al setembre de 2025, amb un total aproximat d'uns 4.000 euros. Ara be, aquests imports s'han de separar de la nomina i del contracte laboral ordinari, ja que correspondrien a autories/rebuts fora de la relacio laboral. Cal validar-ne import, dates, documents i naturalesa juridica abans d'incloure-ho com a fet tancat.
+
 Pel que fa al permis de paternitat, segons la informacio recollida no consta que PrisMa demanes formalment a Jordi canviar dates per necessitats de l'empresa. Aquest punt s'ha de validar amb Adam, gestoria, Woffu i sol.licituds del permis abans de donar-lo per tancat.
 
 Tambe hi ha testimoni de Meriem que Jordi havia vinculat l'interes per la jornada completa al calcul economic del permis de paternitat. Mentre no es localitzi prova escrita, aquest punt s'ha de presentar nomes com a testimoni i context, no com a fet documental tancat.
