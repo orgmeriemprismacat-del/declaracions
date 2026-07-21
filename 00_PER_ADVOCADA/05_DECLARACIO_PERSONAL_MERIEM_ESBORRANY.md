@@ -32,9 +32,11 @@ Quan finalment vaig intervenir, ho vaig fer per explicar que, si l'empresa tenia
 
 No es cert que la comunicacio amb Jordi fos nomes a traves de reunions, xats grupals o correus amb copia a l'equip. Vaig mantenir comunicacions directes amb ell per Google Chat, WhatsApp, correu i canals de feina. En aquestes comunicacions hi havia avisos, consultes, correccions, replanificacions, preguntes sobre disponibilitat i tambe converses cordials o personals.
 
+Durant bona part de la relacio laboral, moltes incidencies, retards i qüestions de coordinacio es van tractar verbalment i de manera directa amb Jordi. Aquesta forma de comunicacio responia a la voluntat de resoldre les situacions amb agilitat, evitar exposar-lo davant de l'equip i no generar-li un perjudici innecessari. Per aquest motiu, no totes les converses ni totes les actuacions de suport van quedar documentades. La menor existencia de constancia escrita en determinats periodes no permet concloure automaticament que aquests fets no es produissin; el context s'ha de reconstruir amb els registres disponibles, les actuacions posteriors i les persones que els van presenciar.
+
 En algunes converses, com la del 10/04/2025, tambe vaig preguntar per la seva situacio familiar/de conciliacio i li vaig donar temps per contestar una comunicacio pendent. Jordi va respondre en un to cordial i va reconeixer que tenia pendent contestar-me. Aquest tipus de conversa no encaixa amb la idea que jo nomes em comuniques amb ell per retreure-li coses o davant de tercers.
 
-**Annexos a citar:** captures Google Chat directes, WhatsApp personal, correus individuals, captures Google Chat 10/04/2025 si l'advocada considera proporcional aportar-les.
+**Annexos a citar:** captures Google Chat directes, WhatsApp personal, correus individuals, captures Google Chat 10/04/2025 si l'advocada considera proporcional aportar-les, testimonis sobre comunicacions verbals i suport presencial.
 
 ### 2. Adaptacions I Organitzacio
 

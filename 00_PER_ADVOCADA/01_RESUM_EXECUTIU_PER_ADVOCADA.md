@@ -54,6 +54,8 @@ Jordi afirma que des de 2024 fins a 2026 les comunicacions amb Meriem eren pract
 
 Consten comunicacions directes per Google Chat, WhatsApp, correu i canals de feina. En aquestes converses hi ha coordinacio ordinaria, consultes, avisos, canvis de terminis, adaptacions, agraiments, tractament de temes personals i converses sobre salut o conciliacio. Per tant, no es pot sostenir que Meriem nomes es comuniques amb Jordi davant de tercers o per exposar-lo.
 
+Tambe cal contextualitzar que, durant part de la relacio laboral, moltes incidencies i qüestions de coordinacio es tractaven verbalment i de forma directa amb Jordi, precisament per resoldre-les amb agilitat i evitar exposar-lo innecessariament. La menor constancia escrita en determinats periodes no permet concloure automaticament que no existissin converses o actuacions de suport; aquest context s'ha de reconstruir amb registres disponibles, actuacions posteriors i testimonis.
+
 ### 3. Correus Automatics De Trello
 
 L'us de notificacions no-reply de Trello no responia a voluntat d'aillar Jordi, sino a una necessitat organitzativa: evitar duplicar correus manuals i garantir que Jordi rebia data i URL de cada correccio. Meriem ho va comunicar per correu el 06/02/2025, explicant que duplicava feina i que Jordi rebria la mateixa informacio. Jordi va respondre acceptant-ho.

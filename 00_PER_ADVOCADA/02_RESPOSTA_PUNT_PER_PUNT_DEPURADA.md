@@ -364,6 +364,8 @@ En particular, les captures del 10/04/2025 mostren una conversa directa en que M
 
 La prioritzacio de canals traçables responia a la necessitat de deixar constancia de tasques, terminis i dependencies, especialment en context de teletreball i quan hi havia manca de resposta o retards.
 
+Tambe cal tenir en compte que, durant bona part de la relacio laboral, moltes incidencies, retards i qüestions de coordinacio es van tractar verbalment i de manera directa amb Jordi. Aquesta forma de comunicacio responia, segons Meriem, a la voluntat de resoldre situacions amb agilitat, evitar exposar-lo davant l'equip i no generar-li un perjudici innecessari. Per tant, la menor constancia escrita en determinats periodes no permet concloure automaticament que no existissin converses, adaptacions o actuacions de suport; cal reconstruir el context amb els registres disponibles, les actuacions posteriors i els testimonis de les persones que ho van presenciar.
+
 **Proves**
 
 - Captures Google Chat directes.
@@ -371,6 +373,7 @@ La prioritzacio de canals traçables responia a la necessitat de deixar constanc
 - Correus individuals.
 - Captures sobre organitzacio de xarxes i cursos.
 - Captures Google Chat 10/04/2025 sobre conciliacio, resposta pendent i tracte cordial, si l'advocada considera proporcional aportar-les.
+- Testimonis sobre comunicacions verbals, suport presencial i resolucio directa d'incidencies.
 
 **Cautela**
 
