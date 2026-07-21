@@ -4,12 +4,13 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 ## A. Carta De Jordi I Documents De Resposta
 
-- Carta de Jordi: fitxer adjunt original transcrit al repositori.
+- Carta/declaracio original de Jordi: `00_PER_ADVOCADA/ANNEXOS_ORIGINALS/DOC-00_Declaracio_Jordi_original.pdf`.
+- Transcripcio de treball: `22_carta_jordi_original.txt`.
 - `23_analisi_i_contestacio_carta_jordi.md`: analisi extensa de treball.
 - `50_resposta_punt_per_punt_carta_jordi.md`: versio amplia punt per punt.
 - `33_contestacio_oficial_esborrany.md`: esborrany general de resposta.
 
-**Us proposat:** base de lectura, no presentar directament sense depurar.
+**Us proposat:** el PDF original es la font primaria per comprovar cites literals. Els altres documents son base de treball i no s'han de presentar directament sense depurar.
 
 ## B. Woffu I Jornada
 

@@ -38,12 +38,14 @@ Aquest bloc hauria de ser el paquet inicial que pot obrir l'advocada.
 
 **Fitxers**
 
+- `00_PER_ADVOCADA/ANNEXOS_ORIGINALS/DOC-00_Declaracio_Jordi_original.pdf`
 - `22_carta_jordi_original.txt`
 - `50_resposta_punt_per_punt_carta_jordi.md`
 - `23_analisi_i_contestacio_carta_jordi.md`
 
 **Que s'ha de revisar**
 
+- Usar el PDF com a font primaria.
 - Comprovar que els punts de la resposta depurada no ometen cap acusacio greu de la carta.
 - Marcar les frases literals de Jordi que necessiten contestacio.
 - Separar acusacions contra Meriem, contra Adam/direccio i contra l'empresa.

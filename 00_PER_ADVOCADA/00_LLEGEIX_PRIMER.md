@@ -10,6 +10,10 @@ Aquest directori recull una versio depurada del dossier per facilitar la revisio
 4. `04_PENDENTS_DE_VALIDACIO.md`
 5. `05_DECLARACIO_PERSONAL_MERIEM_ESBORRANY.md`, nomes si es vol preparar una declaracio personal separada de la resposta de l'empresa.
 
+Document base original:
+
+- `ANNEXOS_ORIGINALS/DOC-00_Declaracio_Jordi_original.pdf`
+
 ## Criteri De Redaccio
 
 - Es diferencia entre fets documentats, testimonis interns, interpretacions de Jordi i punts pendents de validacio.
