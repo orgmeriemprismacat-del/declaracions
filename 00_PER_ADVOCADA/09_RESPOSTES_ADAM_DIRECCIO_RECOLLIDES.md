@@ -1,0 +1,175 @@
+# Respostes De Direccio Recollides
+
+Aquest document recull respostes aportades per Meriem el 21/07/2026 sobre punts que depenen de direccio/Adam. S'han de validar amb Adam abans de donar-les per definitives en una contestacio formal.
+
+## 1. Jornada Completa: No Hi Havia Data Tancada
+
+**Pregunta:** Es va donar a Jordi alguna data concreta i tancada per fer-li el contracte a jornada completa?
+
+**Resposta recollida:** No. No es va donar una data concreta i tancada. El que es va dir es que, quan PrisMa rebés la subvencio per fer els cursos d'ACOS i TICS, se li podria fer l'augment de jornada.
+
+**Context:** En aquell moment no se li podia fer l'augment de jornada perque l'empresa tenia perdues.
+
+**Formulacio defensable:**
+
+No queda acreditat que PrisMa prometes a Jordi una data concreta i incondicionada per passar-lo a jornada completa. Segons la informacio recollida, es va parlar d'una possibilitat condicionada a la recepcio d'una subvencio vinculada als cursos d'ACOS i TICS i a la situacio economica de l'empresa, que en aquell moment tenia perdues.
+
+**Prova/testimoni:**
+
+- Adam, pendent de confirmacio.
+- Meriem, testimoni de converses relacionades.
+- Pablo, testimoni de converses relacionades.
+
+**Documentacio escrita localitzada:** No consta, segons la informacio aportada fins ara.
+
+## 2. Jornada Completa: Condicio Vinculada A Subvencio, No A Data
+
+**Pregunta:** Si es va parlar d'una data, aquesta estava condicionada a la situacio economica de PrisMa, subvencions o noves tasques?
+
+**Resposta recollida:** No es va parlar d'una data. Si es va parlar d'una subvencio.
+
+**Formulacio defensable:**
+
+El compromís, si es va formular en aquests termes, no era una data de canvi contractual, sino una expectativa condicionada a rebre una subvencio i a poder sostenir economicament l'ampliacio.
+
+**Validacio pendent:** Adam.
+
+## 3. Tasques Noves Que Jordi Havia D'Assumir Amb L'Ampliacio
+
+**Pregunta:** Quines tasques noves havia d'assumir Jordi amb l'ampliacio de jornada?
+
+**Resposta recollida:**
+
+Amb l'ampliacio de jornada s'incloien, segons la informacio aportada:
+
+- la tutoritzacio del seu curs de CAT;
+- la tutoritzacio o assumpcio dels cursos de PrisMa que no tenien autoria, per reduir aquesta despesa externa i assumir-la dins la mitja jornada addicional;
+- la creacio de molts cursos per a Mirada Pedagogica;
+- cursos de Mirada plantejats com a productes similars als de PrisMa, amb possibilitat de tenir tutor o funcionar de manera autonoma;
+- la possibilitat que l'alumnat pogues demanar tutoria amb un tutor;
+- l'objectiu de generar ingressos petits pero recurrents amb una nova pagina de Mirada Pedagogica.
+
+**Context rellevant:**
+
+Meriem i Pablo van ser testimonis d'aquest plantejament. Meriem, a mes, era partidaria d'ampliar la jornada de Jordi perque ell deia que ho necessitava i es queixava molt del que havia de pagar a la declaracio de la renda. Meriem va mirar opcions perque l'ampliacio de jornada pogues sortir a compte per a l'empresa i ho va parlar sovint amb Jordi.
+
+**Formulacio defensable:**
+
+L'ampliacio de jornada no es plantejava com un increment automatic i sense contrapartida de funcions, sino vinculada a l'assumpcio de tasques noves o internalitzades: tutoritzacions, cursos sense autoria, reduccio de costos externs i creacio de nous cursos per a Mirada Pedagogica.
+
+**Prova/testimoni:**
+
+- Adam, pendent de confirmacio.
+- Meriem.
+- Pablo.
+
+**Documentacio escrita localitzada:** No consta, segons la informacio aportada fins ara.
+
+## 4. Existencia De Correus, WhatsApps O Actes
+
+**Pregunta:** Hi ha correus, WhatsApps, actes o documents interns sobre aquestes converses?
+
+**Resposta recollida:** No.
+
+**Cautela:**
+
+Aquest bloc s'ha de presentar com a testimoni o explicacio de direccio, no com a prova documental. Si l'advocada ho vol incloure, seria millor que Adam ho confirmi per escrit o ho incorpori en la seva declaracio/resposta.
+
+## 5. Criteri De Calcul Woffu
+
+**Pregunta:** Com interpreta PrisMa/gestoria les hores de Woffu? El calcul correcte es `sortida - entrada - descansos`?
+
+**Resposta recollida:** Si.
+
+**Formulacio defensable:**
+
+Per valorar la presencia real visible en Woffu, el criteri de calcul utilitzat per PrisMa es `sortida - entrada - descansos`. Les columnes de diferencia o extra a compensar s'han de llegir com a dades administratives i cal creuar-les amb tipus de jornada, absencies, vacances, permisos i compensacions.
+
+**Validacio pendent:** gestoria/advocada si cal presentar-ho formalment.
+
+## 6. Gener-Agost 2023: No Jornada Completa Formal
+
+**Pregunta:** Entre gener i agost de 2023, consta formalment que Jordi treballes jornada completa?
+
+**Resposta recollida:** No.
+
+**Formulacio defensable:**
+
+No consta formalment que Jordi treballes a jornada completa entre gener i agost de 2023. Aquesta dada encaixa amb el calcul visible de Woffu, que no mostra una jornada completa sostinguda en aquest periode.
+
+Entre gener i maig de 2023, les hores puntuals de mes no acrediten insuficiencia estructural de la mitja jornada, especialment si es tenen en compte les hores compensades o restades posteriorment. Entre juny, juliol i agost de 2023 tampoc consta que Jordi treballes jornada completa. Per tant, la formulacio de Jordi segons la qual ja feia jornada completa en aquell periode no queda sostinguda pels registres revisats.
+
+**Proves:**
+
+- Woffu 2023.
+- `54_calcul_woffu_2023_hores_fitxades_i_compensades.md`.
+- `48_annex_woffu_jordi_horaris_jornada_i_disponibilitat.md`.
+
+## 7. Setembre 2023: Mes Hores Per ACOS/TICS
+
+**Pregunta:** El setembre de 2023 consta que Jordi va fer jornada completa o mes hores per algun motiu concret?
+
+**Resposta recollida:** Va haver de fer mes hores per la subvencio d'ACOS i TICS, perque calia treure els cursos per l'octubre i li quedava molt per avançar.
+
+**Context rellevant:**
+
+Aquest retard tambe va afectar Cristina, Meriem i Isa, que van haver d'assumir pressio i feina derivada del retard perque els cursos poguessin sortir.
+
+**Formulacio defensable:**
+
+El volum d'hores de setembre de 2023 s'explica per una necessitat puntual vinculada als cursos d'ACOS i TICS i a la subvencio corresponent, no per una jornada completa estructural sostinguda des de mesos abans. A mes, aquest esforç puntual va generar impacte organitzatiu en altres persones de l'equip, especialment Cristina, Meriem i Isa.
+
+**Proves/testimonis:**
+
+- Woffu setembre 2023.
+- Actes o documents ACOS/TICS, si es localitzen.
+- Testimonis de Cristina, Meriem, Isa i Adam, si l'advocada ho considera necessari.
+
+## 8. Compensacio D'Hores
+
+**Pregunta:** Quan Jordi acumulava hores, l'empresa li permetia compensar-les posteriorment amb descansos?
+
+**Resposta recollida:** Sempre. Jordi decidia quan acumulava hores i quan les restava. L'empresa era molt flexible amb aixo sempre que la feina anes sortint.
+
+**Formulacio defensable:**
+
+Segons la informacio recollida, PrisMa permetia a Jordi compensar hores amb descansos de manera flexible. Per tant, l'existencia d'hores acumulades no acredita per si sola una imposicio empresarial d'hores extres ni manca de descans; cal contrastar cada periode amb les compensacions, vacances i descansos efectivament gaudits.
+
+**Proves:**
+
+- Woffu.
+- Registres de vacances/hores compensades.
+- Testimoni d'Adam/direccio.
+
+## 9. Implicacio De Meriem En L'Ampliacio De Jornada
+
+**Punt rellevant per contestar acusacions contra Meriem:**
+
+Meriem no actuava contra l'ampliacio de jornada de Jordi. Al contrari, segons la informacio aportada, Meriem donava suport a buscar una formula viable per ampliar-li la jornada, va parlar-ne sovint amb ell i va mirar opcions perque pogues sortir a compte per a l'empresa.
+
+**Formulacio defensable:**
+
+Aquest context contradiu una lectura segons la qual Meriem tingues una actitud de persecucio o voluntat de perjudicar Jordi. En aquest punt concret, Meriem intentava trobar una solucio favorable per a Jordi i viable per a PrisMa.
+
+**Proves/testimonis:**
+
+- Meriem.
+- Pablo.
+- Adam, pendent de confirmacio.
+
+## 10. Octubre-Novembre 2023: Paternitat I Mes Concedit
+
+**Resposta recollida:**
+
+Despres del periode de mes hores de setembre de 2023, Jordi va agafar el permis de paternitat a l'octubre. Segons la informacio aportada, al novembre se li va concedir un mes de vacances o descans que internament es descriu com a "regalat", perque Jordi sostenia que se li devia la paternitat a jornada completa tot i que el permis disponible estava vinculat a la mitja jornada.
+
+**Formulacio prudent:**
+
+Aquest punt s'ha de presentar nomes quan Adam/gestoria confirmin com consta formalment a Woffu, nomina i documentacio laboral. La idea rellevant per al relat es que, despres del periode intensiu de setembre, no es pot analitzar la jornada de Jordi sense tenir en compte permisos, paternitat, vacances, compensacions i decisions internes de flexibilitat o descans.
+
+**Validacio pendent:**
+
+- Adam.
+- Gestoria.
+- Woffu octubre-novembre 2023.
+- Nomines o documentacio del permis, si l'advocada ho considera necessari.

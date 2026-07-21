@@ -10,7 +10,9 @@ Jordi afirma que la mitja jornada era insuficient i que, per seguir el ritme de 
 
 **Resposta proposada**
 
-Aquesta afirmacio no queda acreditada en aquests termes amb les dades de Woffu revisades fins ara. Les hores reals visibles s'han de calcular com `sortida - entrada - descansos`. Segons aquest criteri, entre gener i maig de 2023 no consta una jornada completa sostinguda, sino una diferencia acumulada reduida i compensada parcialment. Entre juny i agost de 2023 tampoc consta que treballes jornada completa de manera sostinguda. El salt rellevant apareix al setembre de 2023.
+Aquesta afirmacio no queda acreditada en aquests termes amb les dades de Woffu revisades fins ara. Les hores reals visibles s'han de calcular com `sortida - entrada - descansos`. Segons aquest criteri, entre gener i maig de 2023 no consta una jornada completa sostinguda, sino una diferencia acumulada reduida i compensada o compensable. Entre juny i agost de 2023 tampoc consta que treballes jornada completa de manera sostinguda. El salt rellevant apareix al setembre de 2023.
+
+Segons la informacio de direccio recollida, el setembre de 2023 va fer mes hores per una necessitat puntual vinculada a la subvencio d'ACOS i TICS i a la sortida dels cursos a l'octubre. Aquesta situacio no acredita que Jordi ja estes fent jornada completa des del juny ni que existis una promesa de jornada completa incondicionada.
 
 Per tant, no es pot presentar com a fet acreditat que Jordi treballes ja a jornada completa des de juny de 2023 ni que la mitja jornada fos estructuralment insuficient per si mateixa.
 
@@ -61,17 +63,23 @@ Jordi afirma que Adam li havia assegurat el pas a jornada completa en una data c
 
 **Resposta proposada**
 
-Cal demanar concrecio de data, canal i contingut exacte. Segons els testimonis interns, les converses sobre ampliar jornada estaven vinculades a la situacio economica de PrisMa, subvencions i a l'assumpcio de noves tasques, no a una data fixa i incondicionada. Tambe consta que Jordi havia manifestat anteriorment en diverses ocasions que preferia mantenir-se a mitja jornada.
+No queda acreditat que Adam o PrisMa donessin a Jordi una data concreta i tancada per passar-lo a jornada completa. Segons les respostes de direccio recollides, no es va parlar d'una data, sino d'una possibilitat condicionada a la recepcio d'una subvencio vinculada als cursos d'ACOS i TICS i a la situacio economica de PrisMa, que en aquell moment tenia perdues.
+
+L'ampliacio de jornada tampoc es plantejava com un increment automatic sense noves funcions. Incloia la tutoritzacio del curs de CAT de Jordi, l'assumpcio de cursos de PrisMa sense autoria per reduir despesa externa, i la creacio de cursos per a Mirada Pedagogica amb l'objectiu de generar ingressos recurrents.
+
+Aquest context tambe es rellevant respecte de Meriem: segons la informacio aportada, Meriem donava suport a buscar una formula viable per ampliar la jornada de Jordi, va parlar-ne amb ell i va mirar opcions perque l'ampliacio pogues sortir a compte per a l'empresa. Aixo contradiu una lectura de persecucio o voluntat de perjudicar-lo.
 
 **Proves**
 
 - Testimonis de Meriem, Isa, Pablo i Adam.
 - Woffu 2023.
 - Comunicacions sobre canvi de jornada, si existeixen.
+- `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 **Validacio pendent**
 
 - Adam ha de confirmar exactament que es va prometre o no, i en quins termes.
+- Confirmar que no existeixen correus, WhatsApps o actes sobre aquestes converses.
 
 **Cautela**
 

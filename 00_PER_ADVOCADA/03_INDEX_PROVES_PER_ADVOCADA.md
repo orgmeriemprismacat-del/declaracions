@@ -25,6 +25,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - `48_analisi_woffu_jordi.md`.
 - `54_resum_woffu_2023_per_declaracio.md`.
 - `55_resum_woffu_2024_2025_per_declaracio.md`.
+- Respostes de direccio: `00_PER_ADVOCADA/09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 **Punts que acredita:** no consta jornada completa sostinguda de gener a agost de 2023; el salt rellevant apareix al setembre de 2023; cal calcular hores com `sortida - entrada - descansos`.
 

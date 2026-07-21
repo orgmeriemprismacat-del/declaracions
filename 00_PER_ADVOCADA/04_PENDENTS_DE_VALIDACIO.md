@@ -11,7 +11,8 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 
 ## 2. Promesa De Jornada Completa
 
-- Adam ha de confirmar exactament que es va dir, quan i amb quines condicions.
+- Segons resposta recollida, no es va donar data concreta; es va parlar d'una possibilitat vinculada a subvencio ACOS/TICS i a la situacio economica de PrisMa.
+- Adam ha de confirmar exactament aquesta resposta abans de presentar-la.
 - Revisar si hi ha correus, WhatsApps o actes que parlin de jornada completa.
 - Evitar afirmar que Jordi "menteix" si no hi ha prova directa; es pot dir que no queda acreditada una promesa fixa i incondicionada.
 

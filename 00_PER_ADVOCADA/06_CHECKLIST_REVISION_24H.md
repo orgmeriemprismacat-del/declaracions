@@ -64,6 +64,7 @@ Que `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md` quedi alineat amb tota la carta.
 - `49_index_captures_woffu_jordi.md`
 - `54_calcul_woffu_2023_hores_fitxades_i_compensades.md`
 - `55_resum_woffu_semestres_2024_2025.md`
+- `00_PER_ADVOCADA/09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`
 - `annexos_captures/WF_woffu_jordi/CAPTURES WOFFU/`
 
 **Que s'ha de revisar**
@@ -72,6 +73,8 @@ Que `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md` quedi alineat amb tota la carta.
 - Confirmar que el criteri correcte es `sortida - entrada - descansos`.
 - Confirmar com Woffu mostra compensacions i si les icones indiquen hores restades.
 - Revisar 2024 per semestres i 2025 gener-juny / juliol-desembre.
+- Confirmar amb Adam que no hi havia data concreta de jornada completa, sino possibilitat vinculada a subvencio ACOS/TICS.
+- Confirmar tasques noves previstes amb l'ampliacio: CAT, cursos sense autoria, reduccio de despesa externa i Mirada Pedagogica.
 
 **Serveix per contestar**
 

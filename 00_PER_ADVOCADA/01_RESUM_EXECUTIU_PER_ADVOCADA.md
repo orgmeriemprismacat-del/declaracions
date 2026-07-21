@@ -30,9 +30,13 @@ Segons el criteri de calcul acordat per revisar Woffu, les hores reals visibles 
 
 Les icones o camps de diferencia extra poden reflectir compensacions o tractaments interns, pero no substitueixen el calcul de permanencia real visible.
 
-Del gener al maig de 2023, Jordi no presenta un volum sostingut compatible amb jornada completa. En el resum preparat, la diferencia neta visible acumulada es aproximadament de +10 h 52 min en cinc mesos, i una part de les hores apareix compensada. Del juny a l'agost de 2023 tampoc consta jornada completa sostinguda; la diferencia neta visible del periode queda negativa. El salt rellevant apareix al setembre de 2023.
+Del gener al maig de 2023, Jordi no presenta un volum sostingut compatible amb jornada completa. En el resum preparat, la diferencia neta visible acumulada es aproximadament de +10 h 52 min en cinc mesos, i les hores puntuals o compensatories s'han de llegir juntament amb les hores restades/compensades. Del juny a l'agost de 2023 tampoc consta jornada completa sostinguda; la diferencia neta visible del periode queda negativa. Segons la informacio de direccio recollida, nomes el setembre de 2023 mostra un volum equivalent o proper a jornada completa, i s'explica per una necessitat puntual vinculada a la subvencio d'ACOS i TICS i a la necessitat de tenir els cursos preparats per a l'octubre.
 
 Conclusio defensable: no queda acreditat que Jordi fes jornada completa de manera sostinguda des del juny de 2023 ni que la mitja jornada fos estructuralment insuficient en els termes exposats.
+
+Segons les respostes de direccio recollides el 21/07/2026, tampoc es va donar a Jordi una data concreta i tancada per fer-li el contracte a jornada completa. Es va parlar d'una possibilitat vinculada a la recepcio d'una subvencio per als cursos d'ACOS i TICS i a la situacio economica de PrisMa, que tenia perdues. L'ampliacio comportava assumir tasques noves o internalitzades: tutoritzacio del seu curs de CAT, cursos de PrisMa sense autoria, reduccio de despesa externa i creacio de cursos per a Mirada Pedagogica.
+
+Aquest punt s'ha de presentar com a informacio de direccio/testimoni, ja que no consten correus, WhatsApps o actes especifics sobre aquestes converses.
 
 ### 2. Comunicacions Directes Amb Meriem
 

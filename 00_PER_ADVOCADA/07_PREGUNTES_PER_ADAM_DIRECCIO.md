@@ -4,6 +4,8 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 1. Jornada Completa I Promeses Contractuals
 
+**Estat actual:** Meriem ha aportat respostes preliminars el 21/07/2026. Vegeu `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`. Adam hauria de confirmar-les abans de presentar-les.
+
 1. Quan es va parlar per primera vegada amb Jordi de passar de mitja jornada a jornada completa?
 2. Es va donar a Jordi alguna data concreta i tancada per fer-li el contracte a jornada completa?
 3. Si es va parlar d'una data, aquesta estava condicionada a la situacio economica de PrisMa, subvencions o noves tasques?
@@ -13,6 +15,8 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 7. Adam recorda si Jordi havia refusat anteriorment ampliar jornada o havia dit que preferia mantenir la mitja jornada?
 
 ## 2. Woffu, Hores, Vacances I Compensacions
+
+**Estat actual:** Meriem ha aportat respostes preliminars sobre criteri Woffu, gener-agost 2023, setembre 2023 i compensacio flexible d'hores. Vegeu `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 1. Com interpreta PrisMa/gestoria les hores de Woffu: el calcul correcte es `sortida - entrada - descansos`?
 2. Les icones d'hores compensatories indiquen hores ja restades o només incidencies administratives?
