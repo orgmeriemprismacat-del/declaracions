@@ -153,10 +153,11 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Actes on es documenta contacte amb Ariadna Puig.
 - Seguiment de correccio del primer modul i ultim modul.
 - Cost/documentacio de pagament, si es vol utilitzar.
+- Cost indicat per Meriem: 700 euros, pendent de validar amb factura, rebut o document comptable.
 
-**Punts que acredita:** determinades tasques de correccio es podien externalitzar puntualment; serveix per rebatre l'opinio de Jordi sobre IT, no per atacar la seva persona.
+**Punts que acredita:** determinades tasques de correccio es podien externalitzar puntualment; hi ha una referencia economica concreta per CANVA; serveix per rebatre l'opinio de Jordi sobre IT, no per atacar la seva persona.
 
-**A validar:** import exacte, dates i documents comptables.
+**A validar:** import exacte de 700 euros, dates, abast de la feina i documents comptables.
 
 ## K. Pagaments, Autories, Paternitat, ICAM/SGAM
 

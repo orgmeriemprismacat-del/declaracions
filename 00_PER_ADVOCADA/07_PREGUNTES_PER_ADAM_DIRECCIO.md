@@ -152,6 +152,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 5. Quines tasques va deixar pendents o es van haver de redistribuir durant la baixa?
 6. Quines tasques es van externalitzar posteriorment, com CANVA, i amb quin resultat?
 7. Quin cost va tenir la correccio externa de CANVA?
+   - Resposta preliminar de Meriem: 700 euros. Cal validar amb factura, rebut o document comptable i concretar l'abast exacte de la feina.
 8. Consta documentalment que amb correccio externa es va avançar sense el mateix nivell de dependencia interna?
 
 ## 11. Conducta I Reunions Amb Jordi

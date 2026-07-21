@@ -109,7 +109,7 @@ Jordi afirma que hauria estat mes logic acomiadar una informatica perque part de
 
 Les tasques d'IT no es limiten al manteniment informatic: inclouen Moodle, web, bases de dades, intranet, ecommerce, inscripcions, TPV, facturacio, VeriFactu, suport, mailings, SEO, Ads, conversions, xarxes, imatges, videos i coordinacio de projectes/proveidors. La subcontractacio d'una especialitat concreta no equival a substituir tot aquest abast.
 
-Tambe consta que determinades tasques de correccio si es van poder externalitzar puntualment, com CANVA, amb menys dependencia interna i sense el mateix nivell de conflicte o replanificacio. Aquest punt s'ha d'utilitzar amb cautela: serveix per rebatre el criteri abstracte de subcontractacio, no per menystenir Jordi.
+Tambe consta que determinades tasques de correccio si es van poder externalitzar puntualment, com CANVA, amb menys dependencia interna i sense el mateix nivell de conflicte o replanificacio. Segons la informacio aportada, la correccio externa de CANVA va tenir un cost de 700 euros, pendent de validar amb factura, rebut o document comptable. Aquest punt s'ha d'utilitzar amb cautela: serveix per rebatre el criteri abstracte de subcontractacio, no per menystenir Jordi.
 
 ### 9B. Acomiadaments, Cristina I Despatx
 

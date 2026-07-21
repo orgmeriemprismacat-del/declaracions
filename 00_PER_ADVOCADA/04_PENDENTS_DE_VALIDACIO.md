@@ -119,6 +119,13 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
   - Annex 8: CANVA/externalitzacio.
   - Annex 9: Pagaments/paternitat/ICAM, si l'advocada decideix incloure-ho.
 
+## 11B. CANVA I Externalitzacio De Correccio
+
+- Validar amb factura, rebut o document comptable que la correccio externa de CANVA va tenir un cost de 700 euros.
+- Confirmar dates, abast exacte de la feina externalitzada i persona/proveidor que la va realitzar.
+- Confirmar amb actes/seguiment que la correccio externa va permetre avançar sense el mateix nivell de dependencia interna, replanificacio o conflicte.
+- Utilitzar aquesta dada nomes per rebatre el criteri abstracte de subcontractacio plantejat per Jordi, no per menystenir la seva feina.
+
 ## 12. Frases A Evitar Sense Validacio
 
 - "Jordi menteix", excepte si l'advocada ho formula expressament i hi ha prova directa.

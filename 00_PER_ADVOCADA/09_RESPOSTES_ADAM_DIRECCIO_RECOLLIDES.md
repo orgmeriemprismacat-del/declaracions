@@ -616,3 +616,26 @@ Aquest inventari historic serveix per contextualitzar que Jordi feia tasques de 
 **Cautela:**
 
 Cal acotar l'inventari per anys exactes abans de presentar-lo. Si no es pot provar cada bloc documentalment, formular-ho com a "segons el testimoni de Meriem i pendent de validacio documental".
+
+## 26. Cost De La Correccio Externa De CANVA
+
+**Pregunta:** Quin cost va tenir la correccio externa de CANVA?
+
+**Resposta recollida:**
+
+Segons Meriem, la correccio externa de CANVA va tenir un cost de 700 euros.
+
+**Formulacio defensable:**
+
+Segons la informacio aportada, la correccio externa de CANVA va tenir un cost de 700 euros, pendent de validar amb factura, rebut o document comptable. Aquesta dada pot servir com a referencia objectiva per demostrar que determinades tasques de correccio es podien externalitzar puntualment. No s'hauria d'utilitzar per menystenir la feina de Jordi, sino per rebatre l'afirmacio que era mes logic subcontractar IT sense haver comparat abans l'abast real de les funcions d'IT.
+
+**Proves/testimonis:**
+
+- Factura, rebut o document comptable de la correccio externa de CANVA.
+- Actes o seguiment on consti el contacte amb Ariadna Puig i l'evolucio de la correccio.
+- Seguiment de CANVA amb dates de correccio del primer i ultim modul.
+- Testimoni de Meriem/Isa sobre el resultat operatiu de l'externalitzacio.
+
+**Cautela:**
+
+Validar import, dates i abast exacte de la feina abans de presentar-ho com a dada tancada.

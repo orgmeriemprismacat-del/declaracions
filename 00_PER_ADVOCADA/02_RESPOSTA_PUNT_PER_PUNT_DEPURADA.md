@@ -189,6 +189,8 @@ Jordi afirma que era mes logic acomiadar una informatica perque part de les tasq
 
 Aquesta afirmacio es una opinio personal de Jordi sobre la prescindibilitat d'altres companyes, no una dada objectiva. No consta que disposes d'estudi de costos, criticitat, carrega de treball o impacte operatiu. Les tasques d'IT eren elevades i transversals, i la subcontractacio d'una especialitat concreta no substitueix tot l'abast real del departament.
 
+En canvi, si que existeix una dada concreta pendent de documentar sobre externalitzacio puntual de correccio: segons la informacio aportada, la correccio externa de CANVA va tenir un cost de 700 euros. Aquesta dada no converteix automaticament cap lloc de treball en prescindible, pero si contradiu que Jordi utilitzi el criteri abstracte de "subcontractacio mes barata" per assenyalar precisament IT sense haver fet cap estudi equivalent sobre l'abast real del departament.
+
 El fet que una persona tingui o no un pla B no acredita cap motiu objectiu d'acomiadament ni cap actuacio irregular de l'empresa.
 
 Segons la informacio recollida, Jordi si va participar almenys en una conversa sobre possibles acomiadaments, en la qual va coincidir amb la idea que Laura podia ser una de les persones afectades. Aixo no converteix aquella conversa en criteri formal d'empresa, pero si contradiu una posicio completament passiva o aliena a les valoracions sobre qui podia sortir.
@@ -197,13 +199,14 @@ Segons la informacio recollida, Jordi si va participar almenys en una conversa s
 
 - Document d'abast de funcions IT.
 - Actes i captures sobre feina real d'IT.
-- Comparativa amb externalitzacio puntual de correccio CANVA.
+- Comparativa amb externalitzacio puntual de correccio CANVA, incloent cost indicat de 700 euros pendent de documentacio comptable.
 - Carta de Jordi, on formula opinio sobre acomiadar una informatica.
 - Testimonis sobre converses informals relatives a possibles acomiadaments.
 
 **Validacio pendent**
 
 - Costos i abast objectiu amb direccio/gestoria.
+- Validar amb factura, rebut o document comptable el cost de 700 euros de la correccio externa de CANVA.
 
 ## Punt 07B. Despatx, Teletreball I Coordinacio
 
