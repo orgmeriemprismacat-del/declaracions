@@ -127,6 +127,10 @@ Tambe segons la informacio recollida, a Jordi se li hauria recomanat diverses ve
 
 Segons Meriem, Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances i l'equip va respondre afirmativament. Si es confirma amb testimonis o comunicacions, aquest punt permet explicar que la mesura era coneguda per l'equip i orientada a facilitar descans, no a pressionar Jordi.
 
+Pel que fa a l'assumpcio de feina, segons Meriem l'equip ja havia assumit tasques durant la baixa de Jordi, amb incertesa sobre quan tornaria. Cal validar si Jordi va comunicar formalment l'inici de la baixa, per quin canal i si va comunicar alguna previsio de retorn. Aquest punt s'ha de formular amb cautela i amb suport documental o testifical.
+
+Com a proves de prioritzacio de salut/descans, s'han d'identificar el WhatsApp de Pablo indicant-li que no tornes per PrisMa i que prioritzes salut, altres WhatsApps previs recomanant salut, i els missatges de Meriem on li indica que no treballi caps de setmana o tracta questions de conciliacio/cura d'Irati. Les captures amb dades personals s'han de seleccionar o anonimitzar amb criteri de l'advocada.
+
 En materia de pagaments, segons la informacio recollida, si hi va haver retards aquests afectaven el conjunt de treballadors i no exclusivament Jordi. Aquesta dada s'ha de validar amb comptabilitat, nomines i dates reals de pagament, pero es rellevant per rebatre la idea de tracte discriminatori selectiu.
 
 Pel que fa a autories o rebuts de Jordi, segons la informacio recollida si que hi hauria imports pendents, gestionats al setembre de 2025, amb un total aproximat d'uns 4.000 euros. Ara be, aquests imports s'han de separar de la nomina i del contracte laboral ordinari, ja que correspondrien a autories/rebuts fora de la relacio laboral. A mes, segons la informacio recollida, la resta de treballadors no tenien situacions comparables d'autoria, de manera que no es pot comparar automaticament amb les nomines ordinàries de la plantilla. Cal validar-ne import, dates, documents i naturalesa juridica abans d'incloure-ho com a fet tancat.

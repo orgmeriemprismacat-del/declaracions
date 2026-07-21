@@ -122,7 +122,12 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
    - Resposta preliminar de Meriem: si. Adam ho va consultar amb l'equip i l'equip li va dir que si.
    - Pendent de validar/provar: testimonis d'Adam, Meriem, Isa i Pablo; correu/WhatsApp/acta si existeix.
 5. L'equip va acceptar assumir feina mentre Jordi descansava?
+   - Resposta preliminar de Meriem: l'equip ja havia assumit aquesta feina durant la baixa, amb incertesa sobre quan tornaria, perque Jordi no comunicava a l'empresa una previsio clara de retorn.
+   - Segons Meriem, Jordi no va comunicar ni que s'agafava la baixa; pendent de validar amb Adam/gestoria/registre intern quin canal formal va existir, si n'hi va haver.
 6. Hi ha correus o WhatsApps que acreditin que PrisMa prioritzava la seva salut/descans?
+   - Resposta preliminar de Meriem: en el periode de baixa hi ha el WhatsApp de Pablo indicant-li que no tornes per PrisMa i que prioritzes salut.
+   - Anteriorment hi ha diversos WhatsApps on se li diu que prioritzi salut.
+   - Per part de Meriem, consten sobretot missatges perque no treballi caps de setmana i converses sobre la situacio de cura d'Irati/conciliacio.
 
 ## 9. ICAM / SGAM I Alta Medica
 

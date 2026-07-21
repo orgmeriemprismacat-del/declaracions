@@ -486,6 +486,10 @@ Segons la informacio aportada, quan Jordi va tornar o en el context posterior, s
 
 Meriem indica tambe que Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances, i que l'equip va respondre que si.
 
+Pel que fa a si l'equip va acceptar assumir feina mentre Jordi descansava, Meriem indica que, en realitat, l'equip ja havia assumit aquesta feina durant la baixa, amb incertesa sobre quan tornaria. Segons Meriem, Jordi no comunicava a l'empresa una previsio clara de retorn i cal validar si va comunicar formalment l'inici de la baixa, quan i per quin canal.
+
+Pel que fa a proves que PrisMa prioritzava salut o descans, Meriem identifica el WhatsApp de Pablo en que li hauria dit que no tornes per PrisMa i que prioritzes salut. Tambe indica que abans hi havia diversos WhatsApps on se li deia que prioritzes salut. Per part de Meriem, les proves mes clares serien missatges indicant que no treballes caps de setmana i converses sobre conciliacio o cura d'Irati.
+
 **Formulacio defensable:**
 
 No consta que PrisMa demanes a Jordi que interrompes la baixa o que es reincorpores per necessitat empresarial. Segons la informacio recollida, quan Jordi va comunicar la intencio d'agafar l'alta voluntaria, la resposta de Pablo va anar en sentit contrari: no fer-ho per l'empresa i prioritzar la seva salut. Aixo contradiu la idea que la reincorporacio fos exigida o pressionada per PrisMa.
@@ -493,6 +497,8 @@ No consta que PrisMa demanes a Jordi que interrompes la baixa o que es reincorpo
 Tambe resulta rellevant que, segons la informacio recollida, se li recomanes descansar o agafar vacances en diverses ocasions. Aquesta circumstancia, si es valida amb Woffu, comunicacions o testimoni de direccio, reforça que l'empresa no estava exigint que Jordi es forces mes, sino que descanses o regularitzes descans pendent.
 
 La consulta d'Adam a l'equip, si es confirma, permet afegir que no era una decisio presa d'amagat o a esquenes de la resta, sino una mesura coneguda i acceptada per l'equip per facilitar que Jordi descanses.
+
+El fet que l'equip ja hagues assumit tasques durant la baixa tambe permet contextualitzar que la recomanacio de descans o vacances no deixava l'empresa sense resposta organitzativa immediata: la feina ja s'estava redistribuint o assumint mentre Jordi era absent. Aquesta idea s'ha de recolzar amb exemples concrets de tasques assumides o replanificades.
 
 **Proves/testimonis:**
 
@@ -504,6 +510,11 @@ La consulta d'Adam a l'equip, si es confirma, permet afegir que no era una decis
 - Adam/gestoria sobre com constaven formalment aquestes vacances.
 - Testimonis d'Adam, Meriem, Isa i Pablo sobre la consulta a l'equip.
 - Correu, WhatsApp o acta sobre la consulta, si existeix.
+- Registres o comunicacions sobre redistribucio de tasques durant la baixa.
+- Registre/canal formal de comunicacio de la baixa, si existeix.
+- WhatsApp de Pablo recomanant no tornar per PrisMa i prioritzar salut.
+- WhatsApps anteriors recomanant prioritzar salut.
+- Missatges de Meriem sobre no treballar caps de setmana i sobre conciliacio/cura d'Irati.
 
 **Cautela:**
 

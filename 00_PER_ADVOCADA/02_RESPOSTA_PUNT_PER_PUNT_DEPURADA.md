@@ -501,6 +501,8 @@ Tambe segons la informacio recollida, a Jordi se li hauria recomanat diverses ve
 
 Segons Meriem, Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances, i l'equip va respondre que si. Aquest fet, si es confirma amb testimonis o comunicacions, tambe contradiu la idea que fos una decisio opaca o feta a esquenes de la resta: l'equip acceptava assumir l'organitzacio necessaria perque Jordi descanses.
 
+Segons Meriem, quan es va parlar d'assumir feina perque Jordi descanses, l'equip ja havia assumit de fet moltes d'aquestes tasques durant la baixa, amb incertesa sobre quan tornaria. Tambe indica que Jordi no comunicava una previsio clara de retorn i que cal validar si va comunicar formalment l'inici de la baixa o per quin canal va arribar aquesta informacio a l'empresa.
+
 Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la baixa i va comentar que la seva advocada li havia dit que la situacio li semblava sospitosa. Aquest extrem s'ha de tractar amb molta cautela: pot ser rellevant com a context de les converses, pero no convé convertir-lo en una conclusio sobre la baixa ni sobre el criteri medic.
 
 **Proves**
@@ -513,6 +515,11 @@ Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la b
 - Testimoni d'Adam/gestoria sobre com constaven formalment aquestes vacances.
 - Testimonis d'Adam, Meriem, Isa i Pablo sobre la consulta a l'equip.
 - Correu, WhatsApp o acta sobre aquesta consulta, si existeix.
+- Registres o comunicacions sobre redistribucio de tasques durant la baixa.
+- Registre/canal formal de comunicacio de la baixa, si existeix.
+- WhatsApp o comunicacio de Pablo indicant-li que no torni per PrisMa i que prioritzi salut.
+- WhatsApps anteriors on se li recomana prioritzar salut.
+- Missatges de Meriem indicant que no treballi caps de setmana o parlant de conciliacio/cura d'Irati.
 
 **Validacio pendent**
 
@@ -521,6 +528,8 @@ Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la b
 - Confirmar amb Pablo la literalitat de la seva resposta.
 - Confirmar amb Adam/gestoria/advocada si les vacances es van recomanar, pactar, fixar o imposar formalment, i com s'ha de denominar juridicament.
 - Confirmar amb Adam/Isa/Pablo que Adam va consultar a l'equip i que l'equip va acceptar.
+- Confirmar amb Adam/gestoria si Jordi va comunicar formalment la baixa, quan i per quin canal.
+- Recollir exemples concrets de redistribucio de feina durant la baixa.
 - Localitzar la comunicacio on Jordi hauria comentat que l'advocada ho veia sospitos, si existeix.
 
 **Cautela**

@@ -162,16 +162,37 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - Jordi respon en un to cordial.
 - Jordi arriba a dir que Meriem no els fara anar malament, malgrat tot el que s'esta carregant.
 - Acrediten que la relacio no era nomes de retrets o hostilitat.
+- Algunes captures acrediten que Meriem indicava o facilitava que Jordi no treballes caps de setmana.
+- Altres captures poden servir per demostrar converses de conciliacio o cura d'Irati, si l'advocada considera proporcional aportar-les.
 
 **Punts de la carta que ajuda a contestar**
 
 - Acusacio de maltractament continu.
 - Acusacio de bully.
 - Suposada absencia de comunicacio humana o cordial.
+- Suposada pressio per treballar sense descans.
 
 **Cautela**
 
 Aquest grup pot contenir informacio personal o familiar. Cal que l'advocada decideixi quines captures son proporcionals i necessaries.
+
+## 8. Salut/Descans I Alta Voluntaria
+
+**Fitxers**
+
+- Pendent d'afegir/localitzar: WhatsApp de Pablo en que indica a Jordi que no torni per PrisMa i que prioritzi la seva salut.
+- Pendent d'afegir/localitzar: WhatsApps previs on se li recomana prioritzar salut.
+- Pendent d'afegir/localitzar: missatges de Meriem sobre no treballar caps de setmana, si no queden ja inclosos en el grup 1.
+
+**Que acrediten**
+
+- Que PrisMa o membres de l'equip no buscaven que Jordi es forces mes, sino que prioritzes salut, descans o conciliacio.
+- Que hi havia comunicacions directes i de suport, no nomes retrets o missatges grupals.
+- Que el relat de pressio constant ha de contrastar-se amb comunicacions on se li recomana descansar o no treballar fora d'horari.
+
+**Cautela**
+
+Si les captures contenen informacio medica, familiar o de menors, seleccionar nomes les parts imprescindibles o anonimitzar-les segons criteri de l'advocada.
 
 ## Recomanacio D'Us
 

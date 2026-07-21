@@ -131,6 +131,9 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Comunicacio Jordi-Pablo sobre alta voluntaria i resposta de Pablo recomanant no tornar per PrisMa i prioritzar salut.
 - Woffu i comunicacions sobre vacances recomanades, fixades o regularitzades despres de la reincorporacio/alta voluntaria.
 - Prova o testimonis de la consulta d'Adam a l'equip sobre que Jordi agafes vacances i acceptacio de l'equip.
+- Proves de redistribucio o assumpcio de tasques durant la baixa de Jordi.
+- Canal formal de comunicacio de la baixa i previsio de retorn, si existeix.
+- WhatsApps on se li recomana prioritzar salut/descans, inclos el de Pablo i els missatges de Meriem sobre no treballar caps de setmana o conciliacio.
 
 **Us proposat:** no contestar en profunditat sense revisio d'Adam, gestoria i advocada.
 
