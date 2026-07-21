@@ -96,6 +96,18 @@ El problema es que, fins i tot amb sistemes adaptats, seguien produint-se situac
 
 **Annexos a citar:** conversa Google Chat 03/04/2025 sobre canals; correu 06/02/2025; exemples de correus Trello; WhatsApps de recordatori; Trello de xarxes/mailings.
 
+### 2C. Carrega Invisible De Coordinacio
+
+Una part important del desgast que vaig viure no provenia nomes d'una tasca concreta, sino del patró continuat de coordinacio que s'havia generat amb Jordi. Moltes vegades havia d'esperar a veure si es connectaria, preguntar si treballava o si estaria disponible, recordar-li coses diverses vegades, reprogramar feina perque no havia entregat, o adaptar el meu propi ordre de treball perque altres tasques depenien de la seva resposta.
+
+Tambe havia d'explicar-li criteris una vegada i una altra, especialment en materia de xarxes, mailings, SEO i marketing, i sovint acabava suavitzant missatges o parlant en termes generals a les reunions per no assenyalar-lo directament davant l'equip. Aquesta manera de funcionar tenia com a objectiu evitar conflictes i protegir la coordinacio, pero per a mi suposava una carrega mental constant.
+
+A mes, hi havia una preocupacio recurrent sobre com reaccionaria quan se li demanava una entrega, se li recordava un termini o se li indicava que una tasca no podia continuar ajornant-se. Per aquest motiu, moltes comunicacions es redactaven amb especial cura, no per crear una distancia artificial, sino per intentar que la feina avances sense que cada recordatori es convertis en un conflicte personal.
+
+Aquest patró explica per que, quan posteriorment vaig limitar-me mes a canals escrits, terminis i comunicacions operatives, no ho vaig fer amb voluntat d'aillar-lo, sino per reduir una carrega de coordinacio que ja s'havia tornat dificil de sostenir.
+
+**Annexos a citar:** WhatsApps i Google Chat on Meriem pregunta disponibilitat o recorda tasques; converses del 03/04/2025 sobre canals; correu 06/02/2025 sobre automatitzacions; actes on es parla en general de terminis i organitzacio; testimonis d'Isa, Pablo i Adam sobre reprogramacions i recordatoris.
+
 ### 3. Adaptacio Presencial I Impacte Sobre La Meva Feina
 
 Quan treballavem o ens coordinavem presencialment, vaig detectar que Jordi sovint avançava o resolia pendents quan jo em quedava amb ell i li recordava o revisava tasques concretes. Per aquest motiu, en molts moments em quedava amb ell dimarts i dijous per mirar coses que, si no, no acabaven de funcionar o quedaven pendents.
