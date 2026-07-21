@@ -22,7 +22,7 @@ Posteriorment hi va haver discrepancies professionals, especialment sobre termin
 
 Recordo un episodi en que Jordi va voler parlar amb Adam sobre la jornada completa i els imports que considerava pendents. Adam li va oferir parlar en privat o en un espai separat, pero Jordi va preferir mantenir la conversa davant meu i d'Isa perque volia testimonis. A mi i a Isa ens va resultar una situacio molt incomoda, i en diversos moments vam intentar no intervenir.
 
-Quan finalment vaig intervenir, ho vaig fer per explicar que, si l'empresa tenia perdues, no podia ampliar jornada sense justificacio ni buscar formules irregulars per pagar com si hi hagues jornada completa. Isa va intervenir en el mateix sentit. No vaig intervenir per posar-me contra Jordi, sino per aclarir que el que ell reclamava no funcionava aixi des d'un punt de vista basic economic i organitzatiu.
+Quan finalment vaig intervenir, ho vaig fer per explicar que, si l'empresa tenia perdues, no podia ampliar jornada sense justificacio ni buscar formules irregulars per pagar com si hi hagues jornada completa. Ho vaig fer perque Jordi plantejava que Adam podia haver buscat alguna formula per fer-ho igualment. Isa va intervenir en el mateix sentit. No vaig intervenir per posar-me contra Jordi, sino per aclarir que el que ell reclamava no funcionava aixi des d'un punt de vista basic economic i organitzatiu.
 
 **Annexos a citar:** testimoni de Meriem, Isa i Adam; Woffu 2023; respostes de direccio sobre inexistencia de data tancada i condicio vinculada a subvencio/situacio economica.
 

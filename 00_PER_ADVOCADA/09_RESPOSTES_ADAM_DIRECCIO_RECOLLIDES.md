@@ -204,7 +204,7 @@ Meriem i Isa van viure la situacio com a incomoda i no van buscar presenciar-la.
 
 **Pregunta:** En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o formules no compatibles amb la situacio economica/legal de l'empresa?
 
-**Resposta recollida de Meriem:** Segons Meriem, Jordi insistia que Adam podia haver-li fet el contracte a jornada completa o haver buscat alguna formula per pagar-li com si tingues jornada completa, malgrat que Adam li explicava que no havia promes una data concreta i que l'ampliacio depenia de la subvencio i de la situacio economica de PrisMa. Meriem interpreta aquesta insistencia com una referencia a formules irregulars o no compatibles amb la situacio economica/legal de l'empresa.
+**Resposta recollida de Meriem:** Si. Segons Meriem, Jordi insistia que Adam podia haver-li fet el contracte a jornada completa o haver buscat alguna formula per pagar-li com si tingues jornada completa, malgrat que Adam li explicava que no havia promes una data concreta i que l'ampliacio depenia de la subvencio i de la situacio economica de PrisMa. Meriem afirma que Jordi si va plantejar opcions irregulars o no compatibles amb la situacio economica/legal de l'empresa.
 
 Meriem indica que va intervenir per explicar que, si l'empresa tenia perdues, no podia ampliar jornada sense justificacio ni buscar formules irregulars. Isa hauria intervingut en el mateix sentit.
 
@@ -224,7 +224,7 @@ Tambe es rellevant que, si Adam i Isa ho confirmen, la presencia de Meriem i Isa
 
 **Cautela:**
 
-Evitar afirmar pagaments no regularitzats com a fet si no hi ha literal documentat. Es mes prudent parlar de "formules irregulars o no compatibles amb la situacio economica/legal de l'empresa", i deixar que Adam/Isa concretin les paraules exactes si les recorden.
+Evitar afirmar pagaments no regularitzats com a fet si no hi ha literal documentat o confirmacio de testimonis. Es mes prudent parlar de "formules irregulars o no compatibles amb la situacio economica/legal de l'empresa", i deixar que Adam/Isa concretin les paraules exactes si les recorden.
 
 ## 11. Permis De Paternitat: No Consta Peticio Formal De Canvi Per Necessitats De L'Empresa
 
