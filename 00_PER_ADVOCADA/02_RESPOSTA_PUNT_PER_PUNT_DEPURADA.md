@@ -497,22 +497,30 @@ Segons la informacio recollida, no consta que PrisMa li demanes que tornes de la
 
 Aixo es rellevant per contradir la idea que l'empresa li imposes o induis la reincorporacio per necessitats de feina. Si Jordi va decidir agafar l'alta voluntaria, aquesta decisio no es pot atribuir automaticament a una exigencia empresarial sense prova concreta.
 
+Tambe segons la informacio recollida, a Jordi se li hauria recomanat diverses vegades agafar vacances o descansar. En un moment, segons Meriem, fins i tot se li haurien fixat o indicat vacances perque no les volia gastar. Aquesta dada, si queda acreditada amb Woffu, comunicacions o testimoni de direccio, reforça que l'empresa no buscava que Jordi es forces mes, sino que descanses o regularitzes el descans pendent.
+
+Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la baixa i va comentar que la seva advocada li havia dit que la situacio li semblava sospitosa. Aquest extrem s'ha de tractar amb molta cautela: pot ser rellevant com a context de les converses, pero no convé convertir-lo en una conclusio sobre la baixa ni sobre el criteri medic.
+
 **Proves**
 
 - Missatge, correu o WhatsApp entre Jordi i Pablo sobre l'alta voluntaria, si existeix.
 - Testimoni de Pablo.
 - Testimoni de l'equip sobre el fet que ja s'havien redistribuit o assumit tasques durant la baixa.
 - Comunicacions on es recomana a Jordi prioritzar salut o descans, si existeixen.
+- Woffu o comunicacions sobre vacances recomanades/fixades.
+- Testimoni d'Adam/gestoria sobre com constaven formalment aquestes vacances.
 
 **Validacio pendent**
 
 - Confirmar data exacta de la comunicacio.
 - Localitzar el canal utilitzat per Jordi per comunicar-ho a Pablo.
 - Confirmar amb Pablo la literalitat de la seva resposta.
+- Confirmar amb Adam/gestoria/advocada si les vacances es van recomanar, pactar, fixar o imposar formalment, i com s'ha de denominar juridicament.
+- Localitzar la comunicacio on Jordi hauria comentat que l'advocada ho veia sospitos, si existeix.
 
 **Cautela**
 
-No qüestionar la baixa ni l'estat de salut de Jordi. La resposta s'ha de limitar a la iniciativa de la comunicacio i a la posicio de l'empresa: no demanar-li que tornes per necessitats de PrisMa i recomanar-li prioritzar la salut.
+No qüestionar la baixa ni l'estat de salut de Jordi. La resposta s'ha de limitar a la iniciativa de la comunicacio i a la posicio de l'empresa: no demanar-li que tornes per necessitats de PrisMa i recomanar-li prioritzar la salut. La paraula "imposar vacances" s'ha de revisar amb l'advocada abans d'usar-la en un document formal; pot ser preferible parlar de vacances "fixades", "indicades" o "regularitzades" segons consti documentalment.
 
 ## Punt 18. Pagaments, Autories I Tracte Discriminatori
 

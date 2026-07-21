@@ -129,6 +129,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - Comunicacions oficials de baixa/alta si l'empresa en disposa.
 - Documentacio o comunicacions sobre l'ERTE valorat/demanat el gener de 2025.
 - Comunicacio Jordi-Pablo sobre alta voluntaria i resposta de Pablo recomanant no tornar per PrisMa i prioritzar salut.
+- Woffu i comunicacions sobre vacances recomanades, fixades o regularitzades despres de la reincorporacio/alta voluntaria.
 
 **Us proposat:** no contestar en profunditat sense revisio d'Adam, gestoria i advocada.
 

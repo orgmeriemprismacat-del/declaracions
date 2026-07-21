@@ -482,9 +482,13 @@ No afirmar que l'ERTE va ser concedit, denegat o tramitat en uns termes concrets
 
 Segons la informacio aportada, la iniciativa va sortir de Jordi. Jordi hauria contactat amb Pablo dient que agafaria l'alta voluntaria. Pablo li hauria respost que no ho fes per PrisMa, que l'equip seguia perfectament sense ell i que se centres en la seva salut.
 
+Segons la informacio aportada, quan Jordi va tornar o en el context posterior, se li hauria recomanat diverses vegades agafar vacances o descansar. Meriem indica que en un moment se li van fixar o indicar vacances perque no les volia gastar. Quan se li van indicar aquestes vacances, Jordi s'hauria agafat la baixa i hauria comentat que la seva advocada li havia dit que la situacio semblava sospitosa. Aquest darrer extrem queda pendent de prova concreta i revisio juridica.
+
 **Formulacio defensable:**
 
 No consta que PrisMa demanes a Jordi que interrompes la baixa o que es reincorpores per necessitat empresarial. Segons la informacio recollida, quan Jordi va comunicar la intencio d'agafar l'alta voluntaria, la resposta de Pablo va anar en sentit contrari: no fer-ho per l'empresa i prioritzar la seva salut. Aixo contradiu la idea que la reincorporacio fos exigida o pressionada per PrisMa.
+
+Tambe resulta rellevant que, segons la informacio recollida, se li recomanes descansar o agafar vacances en diverses ocasions. Aquesta circumstancia, si es valida amb Woffu, comunicacions o testimoni de direccio, reforça que l'empresa no estava exigint que Jordi es forces mes, sino que descanses o regularitzes descans pendent.
 
 **Proves/testimonis:**
 
@@ -492,7 +496,9 @@ No consta que PrisMa demanes a Jordi que interrompes la baixa o que es reincorpo
 - Missatge, correu o WhatsApp entre Jordi i Pablo, si existeix.
 - Comunicacions internes sobre redistribucio de tasques durant la baixa, si existeixen.
 - Missatges en que l'equip recomana descans, vacances o prioritzar salut, si existeixen.
+- Woffu i comunicacions sobre vacances recomanades/fixades.
+- Adam/gestoria sobre com constaven formalment aquestes vacances.
 
 **Cautela:**
 
-Cal evitar formular-ho com una valoracio medica o com una negacio del malestar de Jordi. El punt util es estrictament laboral i probatori: iniciativa de Jordi, resposta de Pablo i absencia de peticio empresarial de reincorporacio.
+Cal evitar formular-ho com una valoracio medica o com una negacio del malestar de Jordi. El punt util es estrictament laboral i probatori: iniciativa de Jordi, resposta de Pablo i absencia de peticio empresarial de reincorporacio. La qualificacio de vacances "imposades" s'ha de revisar amb l'advocada abans d'utilitzar-la formalment; cal veure com consta a Woffu i en les comunicacions.

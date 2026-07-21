@@ -115,6 +115,9 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
    - Resposta preliminar de Meriem: va ser iniciativa de Jordi. Jordi va contactar amb Pablo dient que agafaria l'alta voluntaria. Pablo li va respondre que per nosaltres no ho fes, que seguiem perfectament sense ell i que se centres en la seva salut.
    - Pendent de validar/localitzar prova: missatge, correu o WhatsApp entre Jordi i Pablo; si no, testimoni de Pablo.
 3. Quan Jordi va tornar, se li va recomanar agafar vacances o descansar?
+   - Resposta preliminar de Meriem: si, efectivament, i diverses vegades. En un moment, segons Meriem, fins i tot se li van fixar/indicar vacances perque no les volia gastar.
+   - Segons Meriem, quan se li van indicar aquestes vacances, Jordi es va agafar la baixa i va comentar que la seva advocada li havia dit que li semblava sospitos.
+   - Pendent de validar amb Adam/gestoria/advocada: com consten formalment aquestes vacances, qui les va comunicar, en quina data i amb quina base.
 4. Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances?
 5. L'equip va acceptar assumir feina mentre Jordi descansava?
 6. Hi ha correus o WhatsApps que acreditin que PrisMa prioritzava la seva salut/descans?
