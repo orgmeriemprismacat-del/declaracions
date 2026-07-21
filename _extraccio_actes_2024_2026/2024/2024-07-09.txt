@@ -1,0 +1,62 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-07-09.docx
+SOURCE_LAST_WRITE: 2024-07-26 04:34:54
+EXTRACTED_AT: 2026-07-15 00:04:16
+---
+ACTA REUNIÓ SETMANAL DESPATX
+Data: 9 de juliol de 2024
+Hora: 10:30 a 11:20
+Assistents: Jordi, Isa, Meriem, Adam i Pablo
+Absent:
+Qui fa l’acta: Entre tots (Meriem, Pablo i Isa)
+TEMES TRACTATS:
+Vacances
+Cursos monitors CAT i curs mida lleure
+Publicitat
+Seguiment cursos juliol i nous tutors
+Cursos de setembre
+Ressenyes
+Triajock (cobrament i autoria)
+ACORDS:
+Vacances
+Pablo: del 18 al 22 de juliol (no porta ordinador) Si cal, el 18 pot fer alguna cosa des de casa ja que viatja per la tarda. El dilluns 22 pot connectar-se des de casa seva ja que torna pel matí. La Isa s’encarregarà del telèfon i dels diferents correus.
+Curs mida lleure
+En Jordi dividirà en 5 mini lectures el contingut que té ara i farà 10 preguntes per al qüestionari.
+Queden amb la Isa que els passarà en Word i ella li donarà format per imprimir-los a PDF. No es fan HTML (si més no, per a aquesta edició).
+La Isa muntarà l’aula del moodle segons el contingut que li ha dit en Jordi que hi hauria.
+La Meriem prepara el prototip d’imatge i les imatges necessàries demanant opinió a la Isa i la confirmació d’en Jordi.
+Publicitat
+Se separarà la publicitat que es volia fer per recordar que encara es poden inscriure a GED i SDA degut a la demanda de les autores de GED de fer-ho dimecres per veure si s’incriuen més gent i així evitem haver de redactar un nou prototip de mailing.
+Es faran dos mailings per GED i SDA. La Isa farà el primer el dia 10 de juliol i el segon el 11 de juliol. La Meriem ja té les imatges preparades i prepara els mailings en el departament de marketing basant-se en el de SUI.
+Es faran dues publicacions amb les corresponents storys per GED i SDA. La Meriem ja té les imatges preparades i prepara els contingut en el departament de marketing basant-se en el de SUI. Entre mig, la Meriem buscarà contingut per publicar.
+Seguiment cursos juliol i nous tutors
+Adam entrarà a fer una revisió de les participacions dels tutors nous i dels que només porten cursos a l’estiu o porten un curs que normalment no porten.
+Pablo enviarà un llistat dels tutors i tutores que ha de revisar
+Cursos de setembre
+Pablo passarà tres llistats a partir del csv que es descarrega del GTAF
+Els cursos que ja estan reconeguts i tenen data de reconeixement del 12 de juny (HTP - DFD - IA - JASOM - EDEM - NEURO - MICRO - TEA - TUT - EINES)
+Els cursos que van quedar pendents a la reunió del 12-06-2024
+CLEE: Demanen accés al materials (curs)
+BULL: Qualitat dels materials i recursos
+ART.: Nou currículum (modificat)
+VEU: Requisits de certificats (Hi eren, per tant, res)
+TIC: Demanen accés al materials (curs)
+Sense validar (confirmats però sense data de reconeixement) Pel que diuen des del Departament no es van valorar a la reunió de juny. (DOL - ACO - ADOP - COA - AUDOC - EIDOC - CEMI - DAM - LOGO - RELAX - ORT - DIB - FANG - GEST - GED - SIST - SUI - MED - PNL - INTEL - MANS - CNV - SDA.
+La Meriem penjarà els cursos del 2024-2025. No s’obrira cap de les inscripcions dels cursos pendents (ii), penjarà totes les que tenen data de resolució (i) i penjarà només una de les que han quedat pendent de validar (iii) que no s’obren només a l’estiu.
+La Meriem revisarà el que estava programat amb els cursos que no tenen reconeixement. Ja estava programat que s’afegís el text PrisMa, com a entitat organitzadora, ha sol·licitat el reconeixement de l'edició de XXXXX del curs al Departament d'Educació. Les edicions anteriors tenen data de resolució i per tant, ja estan reconegudes com a Formació Permanent del Professorat a la info a l’apartat edicions amb un * a les edicions que no estan reconegudes i a la pàgina d’inscripció quan es marca l’edició no reconeguda . La Meriem revisarà que es vegi correctament en els diferents i arreglarà el que pertoqui.
+Ressenyes
+Adam s’encarrega de fer-les.
+Hi ha un protocol fet per la Laura on hi ha un munt de frases. https://docs.google.com/document/d/1bwz2Bx1NiMSeRO-FFfO7hyJxYVD_KFDWk5a6BFDP2NA/edit?usp=sharing
+Triajock (cobrament i autoria)
+Les autories dels cursos que no s’ofereixen des de la plataforma estàndard de PrisMa no tenen l’opció de cobrar-se des de la intranet, de manera que simplement s’ha d’enviar un rebut des de fora d’aquesta, directament al correu de gestió.
+“Signatures”
+Nom
+Data
+Pablo
+Meriem
+12/07/2024
+Jordi
+26/7/2024
+Isa
+12/07/2024
+Adam
+13/07/2024

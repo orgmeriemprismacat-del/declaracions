@@ -1,0 +1,109 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-04-21.docx
+SOURCE_LAST_WRITE: 2026-04-30 04:50:28
+EXTRACTED_AT: 2026-07-15 00:04:26
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 21 d’abril de 2026
+Hora: 10:00 a 11:30
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+Gravació: video_21042026.mp4
+TEMES TRACTATS:
+ENREGISTRAMENT DE REUNIONS I NOVES ACTES
+CURSOS USOC
+VIDEO CANVA REVISIÓ
+RECOMANACIÓ DE CANVA EDUCATIU
+PACKS A REVISAR FER FER EL CURS ESCOLAR 26-27
+PACKS
+TREURE FRASE A PROPOSTA DE TUTORITZACIÓ
+CORREUS BROSSA?
+EDICIONS INTENSIVES ▶08/06 ▶ ULTIMA REVISIÓ PROMOCIÓ
+ORGANITZACIÓ ▶ DE CARES A TORNAR DE VACANCES DE LA MERIEM
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+BOTIGA - VERIFACTU
+ACORDS:
+ENREGISTRAMENT DE REUNIONS I NOVES ACTES
+Durant la setmana passada vam estar parlant de la possibilitat de fer les actes (almenys la major part de la feina) amb IA i arran d’això vam veure que ZOOM ofereix la possibilitat de fer-lo. Per aquesta raó hem decidit gravar les reunions perquè a més siguin més operatives.
+Pablo comenta que IA Companion és una funció premium de Zoom Workplace  i sembla que no es pot fer servir directament. De totes maneres continuarem gravant les sessions i veurem si després podem fer la transcripció i resum amb una altra IA o passar-nos al Meet per fer-la amb Gemini.
+Després de la reunió Pablo va descarregar l’àudio per fer-lo amb Gemini i tot i que semblava que fent els fitxers més curts es podien fer, no ho ha aconseguit.
+Meriem intentarà fer-ho amb una altra IA (no corre pressa). Els fitxes estan descarregars a la carpeta compartida de les reunions a Àudios
+L’enllaç a cada gravació la posarem a l’acta:
+CURSOS USOC
+Dilluns, des de la USOC ens han demanat un altre curs de 30 hores pel mes de maig i hem quedat en MICRO. El mateix dilluns Meriem ha creat l’enllaç i Pablo ha enviat la info i ja estan entrant inscripcions.
+Els preus són els mateixos. El que estem fent quan no arribem als 20 inscrits és cobrar 55€ per alumne i restar els 10€ que paguen els afiliats i afiliades.
+Han decidit comprar VEU pel juliol. Meriem ja ha preparat l’enllaç i Pablo enviarà la info el 12 de maig, quan s’hagin tancat les inscripcions de maig.
+Vam oferir CANVA pel juliol, però han triat deixar-lo per la tardor.
+VIDEO CANVA REVISIÓ
+Meriem proposa 4 versions del vídeo de CANVA i triem la primera versió:
+CANVA   VIDEO - TRACK 1.mp4
+RECOMANACIÓ DE CANVA EDUCATIU
+Per tenir tot a punt, Meriem comenta que cal tenir la frase on s’avisa que per fer el curs de Canva es necessita tenir un compte i tot i que amb la versió gratuïta es pot fer el curs, recomanem tenir la versió educativa, que és similar a la pro però és gratuïta per docents en actiu.
+Pablo demanarà un text a la Cristina perquè dimecres Meriem pugui programar el que queda de la inscripció ja que aquest missatge a més de la info es posarà al correu d’inscripció que reben els alumnes.
+Text proposat per Cristina després de la reunió:
+Requisits previs per al curs
+Per seguir el curs és necessari disposar d’un compte a Canva, ja sigui la versió Educació, Pro o Gratis.
+En cas de realitzar el curs amb la versió gratuïta de Canva, cal tenir en compte que algunes funcionalitats, recursos i eines d’intel·ligència artificial són més limitats, fet que pot condicionar part de l’experiència del curs.
+Si sou docents en actiu, us recomanem tramitar la versió Canva Educació, gratuïta per a docents que compleixen els requisits. Si no disposeu d’aquesta versió, també podeu optar per Canva Pro, que ofereix una prova gratuïta de 30 dies.
+Meriem contesta que a la pàgina d'inscripció modificarà una mica perquè no sigui molt llarg. Per exemple:
+"És necessari disposar d'un compte de Canva (Educació, Pro o gratuït).
+Algunes funcionalitats poden estar limitades en la versió gratuïta. "
+Per la pàgina d'informació utilitzarà el que proposa la Crtistina i a la confirmació de la inscripció l'adaptarà una mica perquè no tinguin la sensació de "copiat i enganxat" i no s'ho llegeixin. Per exemple:
+"Per al seguiment del curs és necessari disposar d'un compte de Canva  (Educació, Pro o gratuït).
+Es recomana la versió Canva Educació, gratuïta per a docents que compleixin els requisits.
+Si no compleixes amb els requisits per accedir a aquesta versió, es pot utilitzar Canva Pro o la versió gratuïta. Tingues en compte que la versió gratuïta pot tenir algunes limitacions en funcionalitats i recursos."
+PACKS A REVISAR FER FER EL CURS ESCOLAR 26-27
+Meriem comparteix els nous packs que tenia apuntat que havíem parlat:
+CANVA + MPIA
+CANVA + IA
+ACO +  CANVA
+SDA + CANVA → DEPEN SI ES FA SDA AL FINAL (POTSER TB JA HAURIEM DE DECIDIR AIXÒ)
+CANVA + ALBUM
+CEMI + MED → Sobre aquest com que tenim el de bullying i cemi podem tenir problemes de seo ja que no sabrà quin dels dos cursos triar; diguem que es menja seo potent per aquest altre pack.
+Els que proposa:
+TUT + CEMI → per qualsevol docent [gestió aula, control classe, conflictes aula]
+TUT + BULL → per qualsevol docent que vulgui solucionar probleme de l’aula [gestió aula, convivència escolar, bullying aula]
+TUT + CNV → per cualsevol docent, pot ajudar amb les entrevistes amb famílies, confilces suas i clima relacional
+TUT + DOL → gestionar situacions delicades amb alumnes i famílieS
+TUT + COA → Quan no saben gestionar bé el grup ni comunicar-se amb alumnes i famílies.
+JASOM + CEMI → Els novells que tenen por a gestionar situacions
+CEMI + CNV → gestió més emocional
+DAM + TEL → dificultats d’aprenentatge a primària
+FON + TEL → Els alumnes no aprenen a llegir i escriure bé i no sé què fer
+TEA + TEL → Educador que té alumnes amb dificulats que no segueixen el ritme i no sap com ajudar-los de forma concreta.
+BULL + MED → Edicadors que tenen conflictes constants i no saben com gestionar-los. (No ho veig tant clar pel fet que mediació es planteja com a gestio de centre)
+ART + GUST o ART + ALBUM ?
+COA + GUST → Els alumnes connectin a l’aula i motivar-los.
+Decidim parlar-ho la setmana vinent. De moment dijous quedaran Pablo i Isa per mirar la proposta de dates i edicions que ha proposat en Pablo per pensar els diferents packs que es poden oferir i també per fer coincidir cursos del mateix tutor en el mateix mes (per als que no es fan mensualment).
+Les edicions de com aniran ja les decidim el setembre. de moment Meriem només vol saber els packs nous que s’han de crear per fer-ho abans de marxar.
+PACKS
+Es crearà una pàgina específica de packs (ara és un filtre) perquè la gent pugui cencar com si fossin uns cursos (per hores, temàtiques, nivells).
+De totes maneres el deixarem a la pàgina de cursos i a packs relacionats dintre de cada curs.
+TREURE FRASE A PROPOSTA DE TUTORITZACIÓ
+Pablo comenta que no té sentit i que pot portar a confusió la frase que hi és al final del correu de proposta de tutorització.
+«Et recordem que perquè el curs tiri endavant, el proper el 30 d'abril del 2026 ha d'haver-hi 5 inscrits com a mínim. En el cas de no arribar a aquesta quantitat avisarem que el curs encara està pendent de començar i que haurem d'esperar uns dies per saber si es realitza aquesta convocatòria.»
+La setmana abans de l’inici ja rebran un correu els que estan pendents i el dia d’obertura d’aules també, tant si comença com si hem d’esperar uns dies més per tant hem decidit treure aquesta frase per la propera edició (la de juny)
+CORREUS BROSSA?
+Isa comenta que des de que es va canviar la manera és que s’”agafen” els correu de prisma.cat li arriben més correus brossa i pregunta si la resta ho ha notat. Pablo i Meriem li contesten que no hoi han notat gaire.
+EDICIONS INTENSIVES ▶08/06 ▶ ULTIMA REVISIÓ PROMOCIÓ
+Acabem de parlar de l’assumpte i hook i l’html del mailing que s’enviarà al 8 de juny.
+ASSUMPTE: Cursos intensius de juliol (15 h) amb sessions en directe
+HOOK: Cursos mixtos intensius en línia.
+Del mailing traiem la frase que apareix com títol : «Aquest estiu, forma’t sense renunciar a les vacances» i posem «Aquest juliol, aprofita els cursos mixtos… en mode intensiu!»
+ORGANITZACIÓ ▶ DE CARES A TORNAR DE VACANCES DE LA MERIEM
+A la tornada de vacances (a partir de l’1 de juny) Meriem es centrarà sobretot en Verifactu i tot el que implica.
+Per poder avançar bé, reorganitzarà la setmana. La idea és concentrar la programació de Verifactu en els dies de més focus (3–4 dies), i deixar 1 o 2 dies per tot el que no sigui programar pur i dur.
+Aquests dies els farà servir per:
+Reunions i coses a comentar
+Dubtes i seguiment de Verifactu
+Organitzar, fer esquemes i part més visual
+Màrqueting, SEO o cursos nous
+Correus i gestions
+Es manté a la Isa com a primer contacte per resoldre incidències que vagin apareixen i si hi ha qualsevol cosa ja li comentaran a la Meriem. Com sempre, si necessitem alguna cosa urgent i no ho pots solucionar la Isa, la podem trucar,
+Pablo comenta que pel seguiment del Verifactu, podem fer reunions presencials com vam fer a finals del 2026.
+BOTIGA - VERIFACTU
+Isa comenta que si es vol complir amb Verifactu a la Botiga s’hauria d’instal·lar un plugin que pot costar uns 60€ al mes.
+Hem de valorar que fer i quines alternatives n’hi ha:
+Tancar la botiga
+Vendre d’una altra manera (amb un enllaç, una transferència….)
+Es decideix continuar valorant opcions i prendre una decisió més estructural més endavant, tenint en compte costos, operativa i experiència d’usuari.

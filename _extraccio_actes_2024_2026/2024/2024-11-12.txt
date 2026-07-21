@@ -1,0 +1,65 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-11-12.docx
+SOURCE_LAST_WRITE: 2024-11-19 00:41:48
+EXTRACTED_AT: 2026-07-15 00:04:17
+---
+ACTA REUNIÓ SETMANAL
+Data: 12 de novembre de 2024
+Hora: 10:30 a 12:30
+Assistents: Isa, Meriem, Jordi, Adam i Pablo
+Absent: Cap
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Proposta regala curs (adelantar dates)
+Cursos USOC (LING03, AGC03, EINES07). Modificació inscripció.
+Estat de reconeixement cursos (SIST, BULL, ADOP, RELAX, ACOS, COA i CNV)
+Nous cursos (SUI asíncrono i TSA)
+Reunió organitzativa
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Cap.
+ACORDS:
+Proposta regala curs (adelantar dates)
+Avançarem l’oferta de regala un curs. Les dates dels enviaments dels mailings serà:
+Regala un curs: dilluns 25 de novembre
+Descompte 25% de CAT: dimecres 13 de novembre
+Cursos de desembre: divendres 22 novembre
+Cursos USOC (LING03, AGC03, EINES07). Modificació inscripció.
+La USOC ens demana comprar 35 places per cadascuna d’aquests cursos. En el cas de LING i AGC seran un total de 70 places repartides entres els dos cursos.
+Demanen que els alumnes hagin de pagar 10€ que després es restarà de la factura que farem a la USOC. El preu de cada curs de 40 hores és de 1890€ i el de 30 hores és 1470€.
+El procés d’inscripció serà com vam fer per CAT i CEMI de 2024 però s’ha de programar perquè els alumnes paguin 10€.
+Estat de reconeixement cursos (SIST, BULL, ADOP, RELAX, ACOS, COA i CNV)
+SIST: Ha estat denegat per segona vegada i ara la Laura Soliva ha parlat amb el Departament i ha fet les modificacions. Ja s’ha enviat amb nous codis GTAF i nou Tipus d’activitat
+BULL: En Daniel ha fet algunes modificacions a les lectures i a la fitxa del GTAF però segurament s’han de fer més. En Jordi farà una proposta per poder demanar novament el reconeixement.
+ADOP: Ha estat denegada perquè diuen que no va adreçada a mestres sinó a famílies. Pablo proposa adreçar-lo a EAPs i li envia un correu a l’autora (Marta Fdez. de la Reguera) per fer les modificacions. Estem a l’espera de la resposta. No corre molta pressa perquè és per juliol de 2025.
+RELAX: Ha estat denegada perquè diuen que no va adreçada a mestres sinó a públic en general. Pablo li envia un correu a l’autor (Amando) per fer les modificacions. Estem a l’espera de la resposta. No corre molta pressa perquè és per juliol de 2025.
+ACOS: S’ha afegit la taula d’Àrees i competències de la CDD i modificat la guia. El dia 11 han entrat des del Departament al curs i a tots dos recursos (entra d’altres seccions).
+COA: Va quedar pendent perquè s’havia de detallar els continguts. També han demanat accés. Van entrar el 11 de novembre.
+CNV: Per quarta vegada demanen accés als material. Pablo reenvia el correu amb les dades d’accés. Han entrat avui 12 de novembre.
+
+Nous cursos (SUI asíncrono i TSA)
+SUI: Pablo li ha compartit la nova fitxa per demanar el reconeixement. Falta completar la descripció de les activitats. El nom pot ser el mateix a nivell del reconeixement del Departament d’Educació. Pablo ho ha preguntat també al Departament de Drets Socials i encara no té resposta. Glòria va comentar que faria els vídeos al novembre (li recordarem en uns dies). Valorarem la possibilitat d’oferir només la versió asíncrona ja que la mixta no ha tingut molt d’èxit.
+TSA. Tenim la fitxa del GTAF completa però no demanarem el reconeixement fins no tenir el curs elaborat ja que el Departament demana l’accés dels cursos CDD. La Cristina Carbonell la té l’accés a l’aula d’Elaboració però encara no ha penjat cap document. Pablo i Jordi han de fer un calendari per proposar-li (o que el completi ella)
+
+Reunió organitzativa
+La reunió setmanal serà els dimarts a les 10 h. Un cop acabada les informàtiques treballaran amb en Jordi els temes que hagin de treballar junts.
+Pablo sempre farà l’acta quan acabi la reunió i assignarà persones determinades per completar alguns temes específics (econòmics, informàtics, etc).
+Al despatx es prioritzaran les tasques conjuntes a l’inici de la jornada per evitar allargar horari a partir de les 15 h.
+En Jordi ha comentat que la millor opció per ell per organitzar la feina és l’Excel existent. Nosaltres li continuarem enviant correus i ell mateix s’organitzarà. Així tindrem un seguiment en el correu.
+Per poder fer un seguiment de les propostes que fem al MÀRQUETING (Mailings, sliders, xarxes, etc.) hem decidit que SEMPRE s’ha de contestar i si de cas, hem de copiar el missatge, enganxar-lo i fer les modificacions.
+Quan estigui tot correcte i llest per publicar-lo, fem igual (copiem i enganxem) i afegim a l’inici del post definitiu l’etiqueta de LLEST   perquè quedi al final de tot i tothom rebi còpia.
+Vacances:
+Jordi demanarà les vacances com els tutors (del 23 de desembre al 6 de gener). També restarà hores els divendres.
+Pablo agafa del 29 de novembre al 2 de desembre. Com que hi ha inici de cursos porta ordinador i contestarà correus urgents, farà seguiment de cursos pendents de començar i gestionarà l’inici del curs el dia 1. Per Nadal agafarà el 27 de desembre i potser el 30. Ho combinarà amb la Isa i l’Adam per agafar telèfon.
+La Meriem i la Isa es combinaran les vacances de Nadal. I tot i que algun dia coincideixin les dues en fer festa, la Isa es connectarà per comprovar correus i si hi ha res urgent, se li pot trucar al telèfon personal.
+“Signatures”
+Nom
+Data
+Pablo
+13/11/2024
+Meriem
+19/11/2024
+Jordi
+19/11/2024
+Isa
+13/11/2024
+Adam
+13/11/2024

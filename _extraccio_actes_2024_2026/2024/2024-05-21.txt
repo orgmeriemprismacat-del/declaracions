@@ -1,0 +1,97 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-05-21.docx
+SOURCE_LAST_WRITE: 2024-06-18 23:54:20
+EXTRACTED_AT: 2026-07-15 00:04:16
+---
+ACTA REUNIÓ SETMANAL DESPATX
+Data: 21 de maig de 2024
+Hora: 09:35 a 11:45
+Assistents: Jordi, Isa, Meriem, Adam i Pablo
+Absent:
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Reorganització de tasques
+Formacions d'Estiu
+Reptes
+Video de GED
+Video de IA
+Fotos pàgines, correu i usuari Coordinació
+Seguiment síncrones
+ACORDS:
+Reorganització de tasques
+La Meriem crearà un usuari per en Jordi per la intranet nova i li donarà els permisos que necesita.
+La Meriem revisarà els permisos de l’Adam de la intranet nova.
+En Jordi revisarà que els tutors han fet les revisions i revisarà les incidències amb els cursos.
+La Meriem afegirà el permís per accedir a l’apartat de coordinació en el rol d’en Jordi a la intranet vella.
+Adam s'encarregarà de l’apartat de Gestió.
+La Meriem afegirà el permís per accedir a l’apartat de gestió en el rol de l’Adam a la intranet vella
+La Isa li crearà un nou correu per en Jordi.
+La Isa li crearà un nou usuari de moodle per en Jordi: Coordinació Jordi
+La Isa congelarà el correu de coordinacio@prisma.cat i posar un missatge automàtic
+Distribució del telèfon.
+Les tardes del dijous, l'Adam agafa el telèfon
+Les tardes del dimecres, en Jordi agafa el telèfon
+Departament de màrqueting
+Els textos per les promocions els farà en Jordi
+Les imatges per les promocions es preparan entre la Isa i la Meriem
+L’instagram s’encarregarà l’Adam.
+El divendres 31/05, la Meriem modificarà la intranet dels col·laboradors:
+eliminar la foto de la Laura i el número de la Laura
+es canvia la imatge i el nom de la Cristina per el de’n Jordi
+El divendres 31/05, l’Adam treurà del grup de whatsapp a la Paula, a la Júlia, a la Cristina i a la Laura.
+En Pablo i en Jordi faran una redistribució de les tasques de la Cristina. El document actualitzat de tasque es pot consultar a XXXXXX
+Formacions d'Estiu
+S’ha enviat la imatge i el text al Departament però encara no han actualitzat les dades a https://xtec.gencat.cat/ca/formacio/formacio-estiu/escoles-estiu/
+S’ha afegit el logo de la Generalitat als nostres cursos d’estiu https://www.prisma.cat/cursos-estiu
+Reptes
+L’Adam crearà dos avatars (home/dona) per muntar els videos que s’afegiran al final del repte on s’agrairà haver fet el repte i es convidarà a fer el curs complet.
+El dijous 31/05, entre la Meriem, la Isa i en Jordi es muntaran els texts que siguin necessaris per els tastets dels cursos.
+La Meriem programarà tot lo necessari pels reptes i la Isa muntarà tot lo necessari del Moodle pels reptes.
+Es canvia el missatge de “Mostra’n un tastet” de la web per “Mostra un resum”
+Web. Coses a fer:
+En els tastets dels cursos es podrà accedir des de la pàgina de Tastets dels cursos i des de les infos dels cursos relacionats amb els tastets.
+A les infos dels cursos relacionats:
+s’afegirà un botó “Vols fer un tastet del curs?” a sota del botó Descompte per a grups on anirà al tastet del curs.
+
+s'afegeix un apartat a la presentació del curs “Tastet del curs” i un text explicant que és un tastet i la url del curs.
+
+a la pàgina dels reptes:
+les imatges dels tastets seran les imatges dels cursos amb un filtre
+fer una pàgina com la de trobades amb els diferents reptes
+fer una pàgina d’un repte amb una imatge, una breu intro explicant que son els reptes i explicar la info del repte en concret, i el curs relacionat.
+a la pàgina de la inscripció d’un repte:
+es demanaran les dades personals: nom, cognoms, dni, email, conf email, població
+apareixerà un missatge informatiu indicant que en el moment en què confirmi la inscripció, es donarà d’alta en el nostre butlletí electrònic. Si no vols seguir rebent els nostres missatges, et podràs donar de baixa en qualsevol moment.
+Si una persona s’intenta inscriure i ja ha fet un tastet, es posarà una alerta per si vol fer el curs.
+A la confirmació de la inscripció s’ha d’avisar que tenen 7 dies des de l'accés i que en 24h laborables hi tindrà accés i si volen fer el curs relacionat.
+la pujada dels reptes serà diferent a la pujada de les inscripcions
+les inscripcions dels reptes aniran a una taula diferent.
+Intranet alumne. Afegir apartat tastet. Mostra els tastets que han fet i donar l’opció de fer el curs complet.
+Video de GED
+A la Neus i a l’Àngels no els va agradar com va quedar el vídeo, en especial com expressaven el missatge. Volen gravar-lo una altra vegada. L’Adam comenta de tornar a contactar amb elles. La Meriem recomana que estiguin més juntes entre elles.
+Video de IA
+Aquesta setmana l’Adam acabarà el vídeo fet amb l’avatar. L’Adam proposa crear uns personatges de PrisMa per fer-los servir a vídeos.
+Fotos pàgines, correu i usuari Coordinació
+Es crearà un nou correu per a en Jordi. En Jordi tindrà accés a al correu coordinacio@prisma.cat però a partir de l’1 de juny contactarà des del nou correu.
+Es crearà un altre usuari de Coordinació que portarà a més el nom d’en Jordi. A partir de l’1 de juny s’ha de treure el de Coordinació de tots els espais i posar el d’en Jordi.
+El dia 30 de maig es faran les noves fotos per reemplaçar les de la pàgina (qui som)
+Seguiment síncrones
+Pablo crearà un calendari de les sessions síncrones de les formacions mixtes per poder desviar el telèfon de PrisMa a la persona que estigui de “guardia”.
+Si alguna vegada passa que una persona per un problema de PrisMa no pot fer la sessió la donarem per assistida i li oferirem assistir a la sessió que es va perdre d’una propera edició.
+Punts fora de reunió
+Ordinador MAC: La Meriem arreglarà les sessions de l’ordinador Mac.
+S’ha d’eliminar les sessions actuals i deixar una per reunions.
+A la sessió de reunions hi haurà instal·lat el Chrome.
+Tindrem per defecte obert la pàgina d’ordre del dia i prisma.cat
+El dijous 23/05 es revisarà les promocions d’aquest mes i del juny.
+“Signatures”
+Nom
+Data
+Pablo
+21/05/2024
+Meriem
+21/05/2024
+Jordi
+Isa
+27/05/2024
+Adam
+27/05/2024

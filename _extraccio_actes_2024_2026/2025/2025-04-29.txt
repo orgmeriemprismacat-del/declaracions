@@ -1,0 +1,60 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-04-29.docx
+SOURCE_LAST_WRITE: 2025-05-02 06:44:38
+EXTRACTED_AT: 2026-07-15 00:04:21
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 29 d’abril de 2025
+Hora: 10:15 a 11:07
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Hores 28/04/2025 (APAGADA GENERAL)
+COMPTE GMAIL EDICIONS
+VIDEO GUST
+CALENDARI GUST
+MPIA IMATGES LECTURES
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+RECONEIXEMENT 2025-2026
+ACORDS:
+Hores 28/04/2025 (APAGADA GENERAL)
+Les hores que no es va fer el 28 d’abril a causa de l’apagada general no s’han de recuperar.
+Pablo va modificar i posar que va plegar a les 15:30 sense recordar-se que havia de posar a la 15:36. La Isa ho modifica però queda pendent de validar
+Meriem va poder treballar amb la bateria i per tant va fer les hores (havia anat el metge i quan vaig tornar va poder treballar amb bateria).
+Jordi va treballar fins a les 13 h (fins que es va quedar sense bateria)
+Isa no va poder treballar més a partir de l’apagada.
+COMPTE GMAIL EDICIONS
+Existeix un correu que es diu prismaedicions@gmail.com que no té activitat i no s’ha fet servir en anys:
+Es decideix eliminar-lo.
+VIDEO GUST
+Albert Periche envia el vídeo i el validem.
+Vídeo GUST Albert Periche.MP4
+Meriem s’encarregarà d’editar-lo amb el Canva. Jordi li enviarà les paraules i frases clau.
+S’aprofitarà l’estètica creada per preparar els vídeos de MPIA i TSA.
+Vam acordar amb la Cristina Carbonell que el 4 de maig enviaría el seu video. El video el penjarem tan bon punt el tinguem però el mailing amb el video es farà el 14 i 15  de maig i a xarxes és farà el 13 de maig.
+CALENDARI GUST
+En Jordi va enviar un correu amb una proposta d’estructura però encara l’Albert Periche no li ha contestat. Li reenviarà el correu per tornar a parlar i fer una estructura definitiva que tot i que segueixi la proposta de l’autor no sigui tan extensa.
+Li proposarà fer una trucada divendres i a partir d’aquí en Jordi completarà les dates del calendari de seguiment comptant que el curs començarà al juliol. N'Albert va dir que estaria de viatge i que no s'ho podria mirar; ajornat al dimarts que ve.
+GUST- Seguiment elaboració (3 mòduls).xlsx
+També ha de preparar un calendari d’elaboració de MPIA (que tot i que està en procés de reconeixement i la reunió serà el 14, també s’inicia al juliol).
+MPIA - Seguiment elaboració (3 mòduls).xlsx
+MPIA IMATGES LECTURES
+La Meriem ha estat revisant les imatges de les lectures de MPIA i comenta que:
+Molta de les imatges que s’han posat a les lectures, per molt que s’hagin citat no es poden utilitzar.
+Les imatges tenen els següents casos:
+Si l'ús està permès (per exemple, imatges amb llicències com Creative Commons, o que el lloc web autoritzi expressament la reutilització), pots fer-ho citant correctament la font i respectant les condicions de la llicència (com posar l'autor, no fer ús comercial si no està permès, etc.).
+Si l'ús no està permès o no està clar, no n'hi ha prou amb citar la font: tècnicament estaries infringint drets d'autor igualment. Caldria demanar permís o no utilitzar-la.
+Resumint:
+👉 Si la imatge té una llicència oberta o explícitament permet la reutilització, sí, citant la font i seguint les condicions.
+👉 Si no, millor no utilitzar-la sense permís, encara que citis.
+He començat a substituir-ne una per tenir el mateix estil:
+Les altres espero a que es corregeixin.
+Per tant, tingueu en compte això al fer al calendari i aviseu-me!
+En Jordi anirà corregint les imatges perquè la Meriem pugui anar creant les imatges dels gràfics que pertoquin. Les imatges que són taules les hauriem de fer en HTML.
+Altres imatges seran reemplaçades per altres creades per IA, comprades o citades (en el cas que es pugui fer)
+MPIA - Creació de Materials Pedagògics amb Intel·ligència Artificial
+Per GUST ja tenim indicacions d’imatges en les lectures però encara no sé en les activitats. Quan en Jordi es revisi el curs s’hauria de mirar aquesta part també.
+RECONEIXEMENT 2025-2026
+Per poder entrar a la reunió de reconeixement de maig (14 de maig) s’ha de presentar tot abans del 5 de maig.
+Pablo ja té tot per demanar el reconeixement del curs 2025-2026 i si no hi ha cap cosa nova que expliquin a la reunió del 29 d’abril a les 17, aquesta setmana s’encarregarà pre presentar-ho tot divendres, o com molt tard el cap de setmana perquè el 5 es comenci a tramitar.
+La Isa ja ha creat els cursos de mostra i Pablo els està afegint al reconeixement. De moment es demanaran els cursos que s’ofereixen tot l’any i per la reunió de juny es presentaran els d’estiu de 2026 i MPIA ja que de cares al 2025-2026 hem de donar accés als cursos i encara no tenim el curs de mostra.

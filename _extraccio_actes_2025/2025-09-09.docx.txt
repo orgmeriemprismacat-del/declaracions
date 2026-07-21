@@ -1,0 +1,161 @@
+ACTA REUNIÓ SETMANAL 1 (Videotrucada)
+Data: 9 de setembre de 2025Hora: 10:00 a 12:00Assistents: Adam, Isa, Meriem, Jordi I PabloAbsent: NingúQui fa l’acta: Meriem
+
+TEMES TRACTATS:
+Reiniciar servidor PrisMa
+Cursos denegats
+Packs
+Tasques per anar fent
+Vídeo MPIA
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+1. Reiniciar servidor PrisMa
+Es constata que, arran del canvi de servidor, els mesos del calendari, els fòrums i els desplegables del Moodle mostren l’article “DE”, que no hi hauria de figurar. S’ha obert un tiquet amb Comvive i, després de revisar-ho conjuntament amb Isa, es confirma que en la versió en castellà es visualitza correctament, de manera que tot apunta a un error en el paquet de llengua catalana.
+Comvive ha indicat que, en principi, el problema podria resoldre’s amb un reinici del servidor. En aquest sentit, Isa ha coordinat amb ells la realització del reinici el dia 11 de setembre a les 8:00 hores. Un cop efectuat, Isa i Meriem es responsabilitzaran de revisar que el funcionament tant de la web com del Moodle sigui correcte i que el canvi s’hagi aplicat adequadament.
+2. Cursos que actualment estan denegats, pendents o no valorats
+Es tracta la gestió dels cursos que van ser denegats al 24-25 (RELAX, ADOP, AUDOC), EIDOC que encara no s’ha sol·licitat pel 25-26, INTEL, que ha sigut denegat i dels cursos que no s’ofereixen (DIB, MANSi FANG).
+S’acorda que aquests cursos seran traslladats al Moodle de Mirada, entitat que es gestionarà de manera separada. Els cursos es modificaran i adaptaran perquè puguin funcionar com a cursos automàtics per Mirada. Atès que aquest procés requereix temps, la implementació es farà quan les circumstàncies ho permetin.
+EDEM ha quedat pendent de reconeixement per la raó següent:
+- Els continguts i objectius no s'ajusten a la prioritat seleccionada / - El material està dirigit a infantil /primària. L'aplicació a l'aula de secundària no està desenvolupada . Aconsellem de dirigir l'activitat Nomès a infantil-primària
+COA ha quedat pendent de reconeixement per la raó següent:
+- La metodologia no s'ajusta als objectius
+Hi ha cursos que encara no estan valorats, i es valoraran a la propera reunió que serà el dia 17 de setembre.
+GED, MED, ACO i GEST
+3. Definició de nous packs i planificació de les edicions per a novembre, desembre i gener
+Isa i Meriem van treballar prèviament en un full Excel compartit, on van proposar la creació de nous packs i van començar a planificar les edicions corresponents als mesos de novembre, desembre i gener.
+Durant la reunió, es van revisar conjuntament els packs proposats per a l’edició de novembre, amb especial atenció als nous packs i a la possibilitat d’afegir-ne algun més. Era important definir els packs ja que la seva creació requereix preparar la informació necessària per a la seva publicació a la web, així com planificar i executar el treball associat.
+Es confirma la creació dels següents sis nous packs:
+VEU + GUST
+IA + MPIA
+TSA + MPIA
+TSA + IA
+TSA + EINES
+CLEE + GUST
+Durant la setmana vinent, s’ha de preparar per la web:
+Les imatges dels nous packs
+Els títol, la presentació i les short descriptions
+La planificació i preparació de les edicions corresponents als mesos de desembre i gener
+En el full Excel, les edicions i packs definitius estan marcats en blau, els descartats apareixen tatxats en vermell, i alguns altres es mantenen com a possibles opcions a utilitzar en el futur si fos necessari.
+4. Tasques per anar fent
+Vals de descompte
+Es programa la possibilitat d’oferir vals de descompte.
+Cal implementar que un codi de descompte es pugui acumular i que a l’alumne se li mostri clarament com s’integra amb la resta de descomptes existents. Aquesta acumulació es tradueix en un val de diners.
+Actualment, aquesta tasca està en procés i pendent de finalitzar.
+Verifactu
+S’ha d’aplicar el Verifactu en el nostre sistema informàtic. Es tracta d’un macroprojecte que implica molts canvis en tots els nostres sistemes i ha d’estar en funcionament l’1 de gener del 2026.
+Fundae
+S’ha d’ampliar el text de la pàgina Fundae. Hi treballaran l’Adam i en Jordi, que podran adreçar els seus dubtes a la Meriem o a la pròxima reunió. Per a aquesta tasca, poden aprofitar les pàgines prèviament adjuntes per la Meriem i la Isa.
+Nou curs “Rastrejals”
+Es tracta de crear un nou curs.
+En Jordi començarà a preparar el contingut del curs amb els materials aportats per Albert Periche i es coordinarà amb la Isa i en Pablo per establir un calendari que asseguri que, a la quinzena de novembre, estigui disponible com a mínim una primera versió de les lectures (sense maquetar), les activitats i els qüestionaris. Aquest material permetrà crear un curs de mostra i sol·licitar el reconeixement oficial per poder oferir-lo al febrer. La data límit per presentar el reconeixement és el 2 de desembre, però sempre que es pugui, és millor presentar-lo abans.
+De cara al gener, la Meriem elaborarà els materials necessaris per a la publicitat i les imatges de lectures i activitats del Moodle.
+La Isa, paral·lelament, s’encarregarà de la maquetació i de les tasques necessàries per garantir que el curs estigui llest al febrer.
+Tastets de BULL, CAT i LING
+En Jordi indica que, un cop finalitzi el curs Rastreja’ls, podrà començar a treballar en un dels tastets, ja que prefereix no barrejar tasques.
+Actualització de cursos al Moodle
+Cal actualitzar, com a mínim, l’apartat estètic de les activitats interactives, assegurar que els vídeos siguin responsive, afegir un banner de tastets a l’apartat “més informació”, revisar que les devolucions també siguin responsive i repassar les mediateques i la bibliografia.
+La Isa i la Meriem definiran un full d’estil per a totes les activitats interactives dels cursos. A partir d’aquest document, la Isa aplicarà i revisarà totes les activitats interactives i la resta d’elements esmentats.
+En Pablo comenta que també caldria millorar la qualitat i el so dels vídeos. Es proposa crear un Excel on es registrin tots els vídeos, i posteriorment demanar als tutors/autors si tenen alguna proposta de millora. En cas de no rebre resposta, és valorarà millorar-los amb eines d’IA o recrear-los. En Pablo i la Isa gestionaran aquests registres i la comunicació amb tutors/autors.
+Espai XS i Tastets | Laboratori
+S’han de crear dos fòrums dins el Laboratori: un per recollir propostes d’idees per a xarxes socials amb l’objectiu de promocionar cursos, i un altre per compartir idees de tastets.
+En Pablo es posarà primer en contacte amb els tutors per informar-los de la creació d’aquests apartats. Un cop ho hagi confirmat a la Isa, ella crearà els espais corresponents dins del Laboratori.
+Trobades i Jornades
+Disposem de diverses trobades i jornades realitzades anteriorment que actualment no estan disponibles a la web, ja que no estaven optimitzades per a Google. Es considera necessari tornar-les a crear, per motius de SEO.
+Com que la Meriem no pot dedicar-hi temps de moment, es prepararà una base de dades perquè la Isa pugui començar a omplir-la. De cara al gener, la Meriem s’encarregarà de programar les pàgines i crear les imatges necessàries.
+Google
+Es constata que hi ha diversos fronts oberts relacionats amb Google. La Meriem indica que, mentre no siguin imprescindibles, aquests temes quedaran aparcats fins a la finalització del projecte Verifactu. En cas que Google indiqui que hi ha algun element que pugui impedir l’aparició en els resultats de cerca, es donarà prioritat a la seva resolució.
+Canvis en la gestió dels tutors per minimitzar la càrrega de treball i eliminar els mínims
+L’objectiu és reduir la feina assignada als tutors i revisar els criteris dels mínims.Es proposen diverses mesures, com ara:
+Eliminar alguns comunicats que actualment envien els tutors i que es podrien gestionar des de Secretaria (p. ex. “Dubtes i consultes”, “Mediateca i bibliografia”).
+Delegar en la Isa la revisió de materials, de manera que els tutors només siguin contactats en cas de dubtes. En el cas dels cursos amb mínims, la revisió l’hauràs de continuar fent el tutor.
+Simplificar la redacció d’informes
+De moment, en Pablo i en Jordi crearan un document compartit on anotaran tots els canvis que es proposin. Els canvis de programació quedaran posposats fins al 2026, però mentrestant caldrà definir i aclarir bé quins canvis es volen fer i traslladar-ho als tutors.
+En Pablo parlarà amb els tutors per explicar la qüestió dels mínims i proposar l’obertura de més edicions si accepten les condicions sense mínims. En cas que sorgeixin problemes, en Pablo i Adam en parlaran i, si cal, organitzaran reunions específiques.
+FAQ
+Cal revisar el document de preguntes freqüents per detectar quines s’han de modificar i quines es poden afegir.
+En Pablo s’encarregarà de preparar una primera proposta de modificacions, que després serà comentada per la resta de l’equip abans de la seva validació definitiva.
+5. Video MPIA
+En Jordi contactarà amb la Virginia Marugan per recordar-li que s’ha de fer el vídeo de presentació d’MPIA, el podrà fer, si ho considera convenient, amb un avatar creat per IA
+ACTA REUNIÓ SETMANAL 2 (Videotrucada)
+Data: 9 de setembre de 2025Hora: 12:02 a 12:59Assistents: Adam, Isa, Meriem, I PabloAbsent: JordiQui fa l’acta: Meriem
+
+TEMES TRACTATS:
+Descompte violència gènere
+Cursos anul·lats: oferiment descompte 25%
+Vimeo - tarifa
+Verifactu
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+1. Descompte violència gènere
+Es defineix la implementació d’un descompte especial per a participants afectats per situacions de violència de gènere.
+La verificació es farà mitjançant la targeta que acredita la situació de violència de gènere, tot garantint la confidencialitat dels participants. No cal que aquesta informació aparegui al slider dels cursos.
+Cal programar l’aplicació del descompte tant a la web com a la intranet.
+2. Cursos anul·lats: oferiment descompte 25%
+La Isa comenta que, durant l’agost, s’han ofert vals de descompte per evitar haver de retornar el 25 % de descompte aplicat en cursos del mateix mes que els cursos anul·lats, i que s’han presentat alguns dubtes en la seva aplicació.
+En parlar-ho amb la Meriem, es considera necessari tractar aquest tema en la propera reunió per decidir possibles modificacions que s’haurien d’incloure en la implementació del Verifactu.
+Caldrà analitzar diferents casos:
+Curs nou amb menys hores: s’ha de definir com es calcularà el val de descompte.
+Curs nou amb mateixes hores: si el participant ha pagat 80 €, el canvi seria 80 € i se li crearia un val promocional de 20 €.
+Curs nou amb més hores: s’ha de determinar la fórmula de compensació.
+En Pablo comenta que, aquest sistema no s’aplica als cursos anul·lats actuals, però és important tenir lo dels vals per quan es faci servir el Verifactu i garantir que aquests casos estiguin considerats en la seva implementació.
+De totes maneres, en el cas dels cursos que anul·lem nosaltres, el que s'ofereix per defecte és el retorn del curs o la diferència de preu.
+3. Vimeo - tarifa
+Arran de la pujada de preu prevista pel 6 d’octubre (564 € anuals sense impostos) i de la poca utilització en els nous cursos (s’intenta posar sempre la URL externa), s’ha contemplat canviar la tarifa a un pla inferior o considerar un altre proveïdor.
+De moment, descartem canviar de proveïdor a causa de les facilitats que ofereix Vimeo (reemplaçament dels vídeos) i perquè ja coneixem el funcionament de la plataforma.
+La millor opció és crear un altre compte ja que no és possible canviar de pla.
+Resposta de Vimeo:
+“Thank you for reaching out to Vimeo support.
+I understand you're interested in migrating your [name of the legacy plan] Vimeo account to [name of the seat plan]. While we cannot directly migrate your existing account, we're happy to offer a solution:
+Create a New Account: Please create a new Vimeo account.
+Transfer Your Videos: After your purchase is complete, we'll seamlessly transfer all your videos from your legacy account to your new seat-based membership.
+If you have any questions or need further assistance, please don't hesitate to reply to this email. We're ready to help you make a smooth transition.
+Once you've created your new account, please provide us with the account details so we can share the 5% discount code and initiate the video transfer procedure.
+We look forward to hearing from you soon!”
+No es necessita més espai, i el cost seria de 228 € anuals + impostos. L’equivalent actual del pla Pro és un euro més car (20 €) i ofereix menys capacitat (1 TB).
+La Isa s’encarregarà de:
+Crear el nou compte de Vimeo.
+Coordinar-se amb Vimeo per fer el traspàs dels vídeos.
+Parlar amb l’Adam per gestionar el pagament.
+Si els enllaços dels vídeos canvien durant el traspàs, la Isa s’encarregarà d’actualitzar els enllaços corresponents en els cursos.
+4. Verifactu
+S’ha d’aplicar el Verifactu en el nostre sistema informàtic. Es tracta d’un macroprojecte que implica molts canvis en tots els nostres sistemes i ha d’estar en funcionament l’1 de gener del 2026.
+La Meriem començarà preparant les especificacions i detallant els canvis necessaris, identificant en quins espais s’han de crear i establint un ordre de prioritats.
+Mentre durin les especificacions i els dubtes, la Meriem, en Pablo i l’Adam es reuniran setmanalment per aclarir els canvis.
+De moment, els punts que hem parlat són:
+Gestió del procés de pagament a la web
+S’implementarà un canvi en el procés de pagament a la web, afegint un pas intermig on els usuaris hauran d’indicar la seva adreça de facturació.
+Per defecte, apareixen les dades habituals, amb la possibilitat de modificar-les mitjançant un botó que indiqui: “Vull afegir unes altres dades de facturació”.
+Espai per factures manuals
+S’ha de generar un nou espai dins del sistema per poder crear factures manuals, pensat per casos especials com la Tripartita, USOC o formacions específiques.
+Les dades següents s’hauran d’introduir manualment:
+Raó social
+CIF
+Adreça
+Codi postal
+Població
+Concepte 1
+Concepte 2
+Entitat
+Forma de pagament
+Observacions
+Import
+El sistema calcularà automàticament les següents dades:
+Factura relacionada
+Any
+Ordre
+Número de factura
+Data de creació
+Data de pagament = null
+Actualització de la taula de factures
+S’eliminaran els atributs Curs i Hores de la taula de factures, ja que en principi no són necessaris però es mirarà que en el nous procediments deixen de ser necessaris
+Registre d’esdeveniments de facturació
+S’haurà de mantenir un registre de tots els esdeveniments relacionats amb les factures, amb l’objectiu de garantir un seguiment complet i la traçabilitat de qualsevol modificació o acció sobre les factures del sistema.
+Accés per Hisenda
+S’haurà de preparar un accés específic que permeti visualitzar tots els esdeveniments relacionats amb les factures, de manera que Hisenda pugui consultar-los fàcilment en cas de necessitat.
+Restricció d’accés a la taula de factures
+S’eliminarà l’accés de la taula de factures des de l’Access d'en Pablo i Isa, garantint que només es pugui consultar o modificar la informació sensible de facturació només des de la Intranet.
+Gestió de pagaments d’un sol curs aplicats a dos cursos
+En cas que un alumne vulgui utilitzar l’import d’un sol curs per pagar dos cursos diferents, el sistema haurà de gestionar-ho de la següent manera:
+Generar una factura rectificativa del preu original.
+Generar una factura positiva per al primer curs.
+Generar una factura positiva per al segon curs.

@@ -1,0 +1,77 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-03-10.docx
+SOURCE_LAST_WRITE: 2026-03-11 04:26:42
+EXTRACTED_AT: 2026-07-15 00:04:25
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 10 de març de 2026
+Hora: 10:00 a 13:30
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+MAILING PROJ
+CANVI IMATGE I DESCRIPCIÓ ACO
+ACO ▶ PROPOSTES D'IMATGES
+CALENDARI CANVA
+POSICIONAMENT
+MÍNIMS
+PROMOCIÓ SANT JORDI
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+MAILING PROJ
+Divendres passat vam fer una reunió exprés per decidir un canvi en l’ordre d'alguns mailings per poder promocionar PROJ abans de l’edició d’abril
+Quedem en la programació següent
+TASTET ACO al 16-17
+TASTET PROJ 20-23
+EDICIÓ ABRIL 26-27
+SANT JORDI 9 D’ABRIL
+TASTET DFD 14-15
+TASTET DE HTP 21-22
+CANVI IMATGE I DESCRIPCIÓ ACO
+Pablo ha contactat amb la Rosa Serra per parlar de la situació dels cursos i dels mínims i arran d'aquesta conversa li va comentar la possibilitat de canviar la imatge i i la descripció d’ACO i que ella va contestar:
+«La imatge no l'he entès mai, però en el seu moment a vosaltres us va agradar molt :).
+Provem de canviar-la.
+I la informació del curs ho hauríem de relacionar amb les situacions d'aprenentatge i així serà més actual.»
+Vam quedar que buscaríem una imatge i que ella podria fer una modificació de la descripció.
+Meriem s’ha posat i ha fet moltes propostes d’imatges per valorar-les de cares a la promoció del curs i del tastet dels dies 16 i 17 de març. Ho hauríem de tenir pel divendres 13 de març.
+Proposta de text de la Rosa
+"D'acord amb el currículum actual, les activitats competencials esdevenen un element clau per crear les situacions d'aprenentatge. Aquestes situacions es construeixen a partir d’activitats competencials que plantegen reptes significatius i contextualitzats, i que segueixen una mateixa lògica de disseny orientada a mobilitzar coneixements, habilitats i actituds per donar resposta a problemàtiques rellevants.
+En aquest marc, avui dia el sistema educatiu ha de fer front a dos grans reptes:
+Consolidar una escola que permeti el desenvolupament de les competències de cada persona respectant la diversitat, l'equitat i la igualtat.
+Afavorir la formació dels alumnes perquè siguin competents per afrontar situacions futures desconegudes, per prendre decisions a partir de la informació que tinguin al seu abast, i per participar de manera autònoma en la vida professional i social.
+Un dels principals objectius de l'educació ja no és proporcionar informació, sinó saber mobilitzar-la per transformar-la en coneixement i aprenentatge. A més, se'ns plantegen altres problemes més enllà de l'accés a la informació, com per exemple poder triar la informació veraç, saber utilitzar-la, ser crítics amb aquesta informació, poder utilitzar-la i aplicar-la en diferents contextos i situacions, saber comunicar-la, i saber treballar en equip per generar informació nova.
+Els docents cada vegada són més conscients de la importància de l'aprenentatge competencial. Amb aquest curs el que volem mostrar és com identificar, millorar i/o crear activitats competencials (bàsiques per crear situacions d'aprenentatge) que fomentin l'aprenentatge significatiu, és a dir, que posin l'alumnat davant de reptes, situacions o preguntes rellevants, reals i propers."
+ACO ▶ PROPOSTES D'IMATGES
+Meriem comparteix moltes propostes de imatges per decidir una que va ser aquesta.
+Parlem d’afegir alguns elements “educatius” com operacions matemàtiques, estris de laboratoris, codis informàtics, etc i a més retocar una mica els colors.
+Resposta de la Rosa sobre la imatge
+En relació amb la imatge em sorgeix una pregunta, cap a on van les fletxes, que cada fletxa acabi en un lloc em resulta un caos; ara bé, si totes les fletxes acabessin en un punt igual o similar, semblen els diferents camins per acabar de trobar una solució o per assolir un aprenentatge.(el missatge: procés d’aprenentatge i resolució de reptes.). Com ho veieu?
+CALENDARI CANVA
+Meriem prepara el calendari de seguiment d’elaboració de CANVA i ha completat amb les dates que va proposar la Cristina Carbonell.
+A més del calendari habitual va afegir un altre full amb altres dates de info i promoció.
+CANVA - Seguiment elaboració (3 mòduls).xlsx
+POSICIONAMENT
+Meriem proposa que estaria bé tenir preguntes freqüents de cada curs a les info de cada curs (Google recomana entre 2 i 5 preguntes en el FAQPage.). Comenta que això ho sabia però nosaltres no tenim un lloc on afegir preguntes freqüents a part de les generals i ho ha anat descartant per això però ajuda molt al posicionament. (També perquè si busquem el seu lloc ho hauriem de fer amb tots els cursos.)
+Hi ha l’opció d'afegir aquesta informació per el posicionament de Google amb un altre schema.org (JSON). De moment ho farà a CANVA però després estaria bé anar posant a cada curs. No estarà visible, sinó a la info oculta (JSON).
+Derivat d’això aplicarà un parell de millores en el JSON dels cursos. Separarà els JSON per diferents paths i canviarà la programació dels JSON per PHP i no per Javascript que és millor actualment. A més que serà més escalable per fer-ho per cursos, per les faqs dels cursos, per paths i etc.
+MÍNIMS
+Pablo comenta que gairebé tots els tutors i tutores de PrisMa han contestat i fet una contraproposta dels mínims que es cobrarà per curs.
+Contacte tutors/es
+Isa ja pot posar-lo a la taula per calcular les despeses a l’hora de decidir si podem començar un cur o no. Després anirà posant a la taula dels honoraris per calcular el preu a pagar. Mantindrem la frase o diem els mínims que es cobran en tots els casos que hàgim quedat en mínims. Amb el temps, quan sigui necessari, posarem un mínim als nous tutors i tutores (Virginia, Albert, etc)
+Amb l’Emili hem acordat que no caldrà fer revisions de cursos i que oferirem algunes edicions més de Mediació Escolar, que buscarem d'incloure'l a packs (per exemple MED + CEMI).
+Les formadores de NEURO plantegen tenir 12 per començar i si es donen de baixa assumir-les elles (no hauria un mínim). Pablo les comenta que seria complicat ja que s’hauria d’anul·lar moltes vegades ja que tenim persones que s’apunten durant la primera setmana. A més després d’anul·lar moltes vegades amb 8 o 9, la genet deixa d’intentar-lo (és un curs que s’ofereix cada dos mesos i la gent hauria d’esperar molt per fer-lo) Pablo li proposa pagar un mínim de 10. Esperem la seva resposta.
+PROMOCIÓ SANT JORDI
+Es parla de la possibilitat de fer un gran descompte de llibre per Sant Jordi (50%). No hi ha problema en els nostres llibres però hem de saber els criteris per poder aplicar el descompte a altres llibres.
+Fernandez Bravo
+Daniel Gabarró
+La Isa investigarà el tema per decidir el descompte a la propera reunió.
+Pablo té pocs llibres:
+1 Sonrisa del conocimiento
+2 de cada llibre d’en Daniel
+1 del peus
+3 de creativitat
+3 d’educació emocional
+3 de didáctica de las matemàticas
+3 de resolución de problemas
+2 de desarrollo del pensamiento matemàtico
+Necessitem saber si l’Adam té llibres com per poder enviar-los i si ha pogut fer la tramitació de la tarja de descompte per veure si podem oferir enviament gratuït i posar algún límit. Pablo li enviarà un correu.

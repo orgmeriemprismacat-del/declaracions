@@ -1,0 +1,84 @@
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 25 de juny de 2025Hora: 10:08 a 11:27Assistents: Isa, Meriem, Jordi i PabloAbsent: AdamQui fa l’acta: Pablo
+
+TEMES TRACTATS:
+DECIDIR ELS DIES QUE DEIXEM OBERT ELS CURSOS
+FAQ
+ESTAT CURSOS
+ESTAT RECONEIXEMENT DE CURSOS
+TALLER DE VEU
+VÍDEO MARINA
+TRELLOS
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+PROPERA REUNIÓ
+VACANCES PABLO (DESVIAMENT TELÈFON)
+ACORDS:
+DECIDIR ELS DIES QUE DEIXEM OBERT ELS CURSOS
+JULIOL
+30 h → 13/7
+40 h → 21/7
+50 h → 21/7
+60 h → 29/7
+100 h → 31/7
+AGOST
+30 h → 18/8
+40 h → 20/8
+50 h → 20/8
+De totes maneres, si arribem a 35 alumnes pagats per aula, tancarem les inscripcions abans.
+FAQ
+Parlem sobre el mail que s’enviarà el dia 3 de juliol, decidim treure la pregunta relacionada amb si poden fer dos cursos a la vegada i després afegim alguna més.
+Els canvis els deixem a l’Aula de màrqueting:
+https://campus.prisma.cat/mod/forum/discuss.php?d=47817
+ESTAT CURSOS
+GUST
+Fer la mediateca (Jordi) i després maquetar-la (Isa)
+Fer els canvis que pertoquen del l’agenda tradicional (Jordi) i preparar el model (Isa)
+Els comunicats (Jordi)
+La correcció dels qüestionaris (Jordi)
+Devolucions (Jordi i Isa)
+MPIA
+La ultima revisió de les lectures (Jordi)
+Els comunicats (Jordi i autora)
+Devolucions (Jordi i Isa)
+Traspàs activitats a LAB (Isa)
+ESTAT RECONEIXEMENT DE CURSOS
+CURS 2024-2025
+ADOP i RELAX han estat definitivament denegades
+CURS 2025-2026
+Confirmada sense data (no revisada)
+Activitats Competencials: Fonamentació, Anàlisi i Disseny
+Alteracions Greus de la Conducta en Entorns Educatius
+Conflicte i Emocions. Manual d'Instruccions per al Docent
+Quan el Cos Parla. Anàlisi i Estratègies de Comunicació No Verbal
+Acompanyar Infants i Adolescents en les Pèrdues i el Dol
+Introducció a la Pedagogia Sistèmica
+Aquestes estan presentades amb les que es van reconeixer el 14 de maig, però ja han passat almenys 3 reunions i continuen igual.
+Reconegut el 28 de maig
+Escoles Segures: Estratègies per Prevenir i Afrontar el Bullying
+Proposada (es van presentar a finals de juny, si no han entrat a la reunió del dia 2 de juliol, entraran en la del 16)
+Coaching per a Docents
+Gestió Emocional en Moments de Pèrdua i Dol
+Gestió del Temps i Docència
+Encanteris Literaris per Despertar el Gust per la Lectura
+Les Intel·ligències Múltiples i la Diversitat a l'Aula
+La Mediació Escolar com a Eina de Convivència
+Creació de Materials Pedagògics amb Intel·ligència Artificial
+La Programació Neurolingüística en Entorns Educatius
+Situacions d'Aprenentatge: Manual d'Usuari
+La Conducta Suïcida en l'Adolescència: Comprendre per Prevenir
+Pendent (han demanat canvis i accés al material)
+Ús i Aplicació de les TIC en l'Educació. Recursos i Estratègies per a l'Aula
+Van demanar reescriure els continguts i la Cristina Carbonell ho va fer i es va presentar a temps. Després he rebut la mateixa notificació (i demanen entrar)Pablo li ha recordat a la Natàlia que ja s’havien presentat i que a més tenen accés a la fitxa del GTAF). Natàlia li diu que entra per a la propera reunió del dia 16.
+TALLER DE VEU
+Li comentem a l’Alba per intentar fer una edició del taller a Barcelona, ella ens ha donat el contacte d’un lloc on ella fa formacions.
+El que porta el lloc es diu Àlex i la web és https://www.magokoro.cat/
+A l'última reunió comentàvem que havia de ser pel novembre o ja de cares al febrer/març de 2026.
+VÍDEO MARINA
+Marina ha fet un vídeo per promocionar l’última edició dels seus cursos. El farem servir per xarxes i el publicarem el dia 8 de juliol, que coincideix amb el dia que es fa el mailing recordatori (als subscriptors).
+TRELLOS
+Meriem ha fet una reorganització del Trello CONTROL DE TASQUES.
+La idea és que una vegada cada mes / trimestre (depenent del numero de targetes completades), les targetes a la columna de Completada (a la imatge la veureu marcada en blau) es mouren al trello de Completades, que sempre la podreu trobar a la columna “.” (a la imatge la veureu marcada en verd)
+Això ho he fet simplement perquè no es queixi més  endavant el trello de nombre màxim de targetes i per tema de eficiència (temps de càrrega) del trello, però a menys que necessiteu buscar alguna cosa crec que no necessiteu entrar en el trello de “completades”. En qualsevol cas, sempre hi ha l’accés des de CONTROL DE TASQUES.
+També vaig moure la columna de “Tasques per anar a fent” a un altre trello on podem tenir les tasques per anar fent separades una mica per temàtiques. Aquest trello sempre el podreu trobar també en la columna “.”
+En aquest trello estan les tasques com les teniem a la columna de tasques per anar fent i estan com “englobades” ja que la majoria de tasques que hi han, es deriven en moltes altres tasques. El que podeu fer es quan decidiu o decidim en reunió fer una d’aquestes tasques, és moure-la en el trello de control de tasques i dividir-la en les tasques que pertoquin i per qui pertoqui.
+Per moure les targetes d’un trello que es troba a Tasques per anar fent a Control de tasques només cal que cliqueu el botó “A realitzar” dins de la targeta.

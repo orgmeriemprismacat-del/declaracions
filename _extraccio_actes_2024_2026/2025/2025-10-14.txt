@@ -1,0 +1,80 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-10-14.docx
+SOURCE_LAST_WRITE: 2025-10-16 11:41:46
+EXTRACTED_AT: 2026-07-15 00:04:24
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 14 d’octubre de 2025
+Hora: 10:05 a 13:15
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam (a l’últim tema no hi va ser en Jordi, ja que era un tema de facturació)
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+CARNET DE VIOLÈNCIA DE GÈNERE
+MÍNIMS, ESPAI XS I TASTETS, FAQ
+HORARI MERIEM (i altres vacances)
+PERFILS
+MILLORES CURSOS
+FACTURES
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+CARNET DE VIOLÈNCIA DE GÈNERE
+Meriem comenta que ha revisat la informació oficial i com ho fan altres universitats i entorns que ofereixen descomptes i ha comprovat que, tot i que existeix el carnet de víctima de violència de gènere, no és l’únic mitjà d’acreditació d’aquesta condició.
+Segons la normativa vigent, la situació de víctima de violència de genère es pot acreditar mitjançant diversos documents.
+Per aquesta raó es canviarà la informació dels descompte per posar, en comptes de carnets (menys en Carnet Jove) que s’ha de presentar un document que acrediti la condició.
+Pàgina de descomptes:
+Socials
+Oferim un descompte del 20 % sobre el preu del curs a les persones que tingueu l'acreditació de família nombrosa, de família monoparental, de discapacitat del 33 % o més, o de situació de violència de gènere.
+Curs
+Preu original
+Preu amb descompte
+15 h
+110 €
+88 €
+30 h
+70 €
+56 €
+40 h
+90 €
+72 €
+50 h
+120 €
+96 €
+60 h
+135 €
+108 €
+100 h
+200 €
+160 €
+En el moment de fer la inscripció caldrà que adjunteu un document que justifiqui el descompte (carnet, resolució, etc.) i esperar a la validació des de PrisMa per rebre les dades per fer el pagament amb el descompte. Les acreditacions es mantindran mentre siguin necessàries per a la confirmació de l'import del curs.
+Es programarà perquè un cop validat el descompte, s’esborraran els fitxers (imatges, pdf, etc) de cares a acabar el canvis derivats del Verifactu. També es programarà que s’afegeixi una frase a la pàgina d’inscripcions. La Meriem ha pensat que sigui quan s’afegeixi l’adjunt que aparegui a sota. Ha preparat una frase derivada de la que haviem afegit a la pàgina de descomptes.
+MÍNIMS, ESPAI XS I TASTETS, FAQ
+Pablo anirà preparant un llistat de tutors i tutores per anar parlant de treu els mínims. Aquest llistat el compartirà amb l’Adam per començar a parlar amb els que no son autors i autores dels cursos. Estaria bé estar al dia amb el pagament dels cursos per poder començar a implementar aquests canvis. No tenim posada una data per aquests canvis però intentarem fer la reunió amb l’Adam durant el mes d’octubre.
+Independentment d’aquest canvi dels mínims implementarem una sèrie de millores pels tutors i tutores com l’enviament de comunicats, revisió de cursos, elaboració d’informes, etc. Pablo i Jordi es posaran amb un llistat d’elaboració de millores el dia 5 de novembre i ho compartiran amb la Isa per veure tot el que implica tècnicament. Després la Isa li comentarà a la Meriem per si no hi ha cap problema i tot es pot fer i segons això es tornaran a comunicar la Isa, en Pablo i en Jordi per fer les modificacions o aclaracions que pertoquin. Estaria bé que durant el mes de novembre s’aclarin les millores que es faran de cares al 2026 ja que després hi han vacances al mes de desembre, també així de cares al 2026, la Meriem s’hi pugui posar a programar el que pertoqui.
+Pablo, aquesta setmana seguirà contactant amb els tutors i tutores (només ho ha fet amb en Jordi Gonzalez) per explicar que afegirem un espai al Laboratori perquè puguin compartir idees, recursos, notícies, etc per promocionar el curs a les xarxes. També que poden elaborar un tastet.
+Contactar tutors/es
+Un cop estiguin els correus enviats, la Isa crearà l’espai a cada Laboratori. A finals d’aquesta setmana ha d’haver contactat amb la majoria, si no són tots.
+Pablo, pel dia 12 de desembre tindrà la revisió de les preguntes freqüents.
+HORARI MERIEM (i altres vacances)
+Meriem estarà fora del dia 30 d’octubre al 17 de novembre. Probablement el 30 d’octubre i el 17 de novembre s'agafi festa ja que viatja. En aquells dos dies ja s’ha agafat hores compensatòries.
+12, 13, 14 de novembre probablement també faci menys hores (ja s’ha agafat hores compensatòries ja que si al final treballa ja se les tornarà a sumar)
+Jordi agafarà vacances del 14 al 21 de novembre. Si surt CAT el podrà fer perquè estarà a casa.
+Isa ha demanat el 30 i el 31 d’octubre
+Pablo ha demanat el 4 i 5 de desembre.
+PERFILS
+Encara estan pendents els perfils de Plàstica (ART) i el de Metodologies (PROJ)
+També falten SIST i AGC (probablement perquè a Tipus d’activitat no tenen la data de validació) Pablo ha contactat amb el Departament i demà faré un recordatori.
+MILLORES CURSOS
+Fent les revisions de les mediateques i bibliografies, la Isa s’adonat que a les mediateques i devolucions dels cursos antics hi ha recursos molt antics.
+Després que s’acabi amb l’elaboració d'ÀLBUM, es farà una revisió de recursos antics (com notícies) i farem propostes als laboratoris perquè el tutor o la tutora validin o busquin més recursos.
+Començarem amb CLEE ja que tenim el pack juntament amb GUST i aquest és nou i després definirem altres cursos com prioritats.
+FACTURES
+Pablo, la setmana passada va trobar dos casos que es van generar noves factures després d’haver creat factures abans de pagar.
+Quan generem una factura abans de pagar, s’hauran d’eliminar els enllaços de pagament de les persones físiques i deixar només l’opció de transferència per les entitats. Per fer-ho, les id de pagament de les persones incloses en la factura s’han de canviar a 0. Afegir que a aquestes persones els hi aparegui un missatge d’error indicant que paga l’entitat. (la Meriem encara veura com farà  això i si posarà un 0 a IDPAG).
+El primer cas era de dues persones es van inscriure a MPIA sense dir que pagaria l'escola (i des de l'escola tampoc ens van dir res...)
+Un cop vam saber que eren de la Fundació Meritxell Pablo li va  fet la factura abans de pagar a nom de l'escola i vaig enviar a l'escola la factura i les instruccions per fer el pagament per transferència.... però en compte de fer una transferència, van pagar des de l’enllaç de cada inscripció  i ara tenim tres factures:
+He quedat amb la Fundació que deixarem la factura 2781 de 140 euros nom de la la Fundació però després, la Isa va fer la rectificativa de la 2872 i la 2871.
+Arran d’això vam trobar que va passar una cosa similar a CLEE, que van fer la Fundació al mes d’abril. Vam enviar una factura abans de pagar, i al moment de fer el pagament es va generar una altra.
+La que vam enviar a la Fundació Meritxell és la 452, però la que consta com pagada és la 570.
+S’hauria de deixar constància com pagada a la 452 i fer la rectificativa de la 570.
+Hem trobat alguna altra, la Meriem s’encarregarà de fer les rectificatives de forma manual. S’ha d’arreglar també la A2025/665 però abans Pablo ha de confirmar amb l’Adam si van pagar 273€ 0 300€
+Vam parlar també sobre temes que afecten en el Verifactu. Vam decidir que a les factures tinguin per defecte un únic concepte de “Curs reconegut de formació permanent”.  Si es necessiten un concepte diferent s’ha de fer una factura rectificativa i positiva amb el canvi. De manera que entre això i eliminem la columna curs i  hores, si hi ha un canvi de curs, no haguem de fer rectificativa i positiva per cada canvi d'edició i de curs que hi hagi.

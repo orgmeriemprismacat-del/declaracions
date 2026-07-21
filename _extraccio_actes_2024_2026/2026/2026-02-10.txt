@@ -1,0 +1,37 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-02-10.docx
+SOURCE_LAST_WRITE: 2026-03-02 23:58:04
+EXTRACTED_AT: 2026-07-15 00:04:25
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 10 de febrer de 2026
+Hora: 10:00 a 13:00
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Obertura cursos estiu?
+PACKS QUE ET PODEN INTERESSAR
+TSA TASTET: ESTAT
+ÀLBUM ▶ REVISIÓ TEXTOS I MUNTATGE VIDEO
+MAILINGS
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+Obertura cursos estiu?
+Tal i com estava programat hem obert els cursos d’estiu i apareix l’alerta al menu:
+En el desplegable de la pàgina de cursos es mostra fins el juliol. I a la pàgina d’informació també, excepte els cursos que no són mensuals, que poden tenir l’agost disponible.
+PACKS QUE ET PODEN INTERESSAR
+La Meriem i la Isa han parlat de com fer per afegir els packs relacionats i hem decidit afegir un altre carroussel “packs que et poden interessar” sota els “Altres cursos que et poden interessar” i així anar afegint els packs que tenim i que quan no hi hagin s’elimini la secció. (Treiem la paraula “Altres” perquè sigui més correcte.)
+Posarem els packs que incloguin el curs de la info. Si no té pack actiu, desapareix el carrusell.
+La Meriem ja ho havia començat a programar i ho va acabar el mateix dia per tenir-ho disponible quan obrissim el pack de ALBUM i GUST. La Isa ha de fer una proposta de tots els packs relacionats amb cada curs i en PAblo ho ha de validar. Això encara esta pendent de fer.
+De passada, la Meriem també canviarà la programació d’un pack perquè quan un pack no existeix no es mostri error i així la Isa no tingui que estar pendent de activar-los i desactivar-los.
+TSA TASTET: ESTAT
+La Meriem ja té tota la informació necessària per obrir el tastet a la web i ja n’ha parlat amb la Cristina Carbonell. La Isa ja té preparat la programació del tastet i queda pendents un dubtes que li ha plantejat a la Cristina Carbonell. La Cristina ja li ha respòs, la Isa ja ho ha aplicat i ara només queda activar-lo i l’activarem el dia 17 de febrer.
+ÀLBUM ▶ REVISIÓ TEXTOS I MUNTATGE VIDEO
+Mirem la proposta de vídeo editat per la Meriem i comentem algunes coses:
+Treure la frase final de la Teresa Colomer ja que és molt llarga
+Avançar el moment que apareix la frase «Propostes didàctiques reals»
+MAILINGS
+Revisió conjunta dels mailings que ha preparat la Meriem.
+Versió definitiva:
+PROMOCIÓ CURS TSA + TASTET TSA (17/02/2026)
+PROMOCIÓ GUST, ALBUM, PACK GUST+ALBUM

@@ -1,0 +1,83 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-09-30.docx
+SOURCE_LAST_WRITE: 2024-11-25 04:51:54
+EXTRACTED_AT: 2026-07-15 00:04:17
+---
+ACTA REUNIÓ SETMANAL
+Data: 30 de setembre de 2024
+Hora: 10:45 a 13:30
+Assistents: Isa, Meriem, Adam i Pablo
+Absent: Jordi
+Qui fa l’acta: Meriem i Isa
+TEMES TRACTATS:
+Pàgina cursos (què fem amb els cursos que només s'ofereixen a l'estiu)
+Botó de novetats ja no apareix
+Instagram (edició de descripció. estem al límit de caràcters)
+Pluja d'idees
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Cap, tots els hem inclòs en la pluja d’idees.
+ACORDS:
+Pàgina cursos (què fem amb els cursos que només s'ofereixen a l'estiu)
+Hem decidit que a la pàgina principal i a la pàgina de cursos surtin per defecte els cursos que s’ofereixen durant l’any.
+Tindrem tres opcions per poder mostrar els que només s’ofereixen a l’estiu, juntament amb la resta de cursos:
+Afegir un filtre al bloc esquerre:
+
+
+A la pàgina de cursos: afegir una frase al final de tot del bloc de cursos amb una icona (falta buscar-la) que en clicar-la s’activi el filtre de l’esquerre
+
+
+
+A la home: només posar el filtre de l’esquerre
+Afegir una url (https://www.prisma.cat/cursos/totes-edicions) on es carregaran tots els cursos inclòs els que s’ofereixen a l’estiu.
+Botó de novetats ja no apareix
+Com que no hi ha cursos nous (ja fa més de 4 mesos que vam estrenar els últims) no apareix el botó novetats.
+Estem pendents del que podria ser el proper curs, “ACOS”, ja que està enviat per al reconeixement.
+Instagram (edició de descripció, estem al límit de caràcters)
+Eliminem la frase «Posem en valor la tasca docent» per poder encabir la de que els nostres cursos compten per a oposicions, trasllats, etc. i no posem res de perfils. La Meriem anirà jugant amb les paraules perquè no hi caben gaires.
+Pluja d'idees
+Crear packs de cursos:
+TEL01 + CLEE04 (1 edició)
+EINES11 + IA12
+EINES12 + IA01
+IA02 + EINES03
+LING11 + CAT12
+LING01 + CAT02
+CAT02 + LING03
+JASOM01 + PROJ02 (1 edició) → canviar i fer coincidir edició JASOM amb el pack de CAT
+JASOM01 + CAT02 (1 edició) → canviar i fer coincidir edició JASOM amb el pack de PROJ
+PROJ12 + ACO02 (1 edició)
+SDA + TUT ?
+MICRO + ?? (en Pablo preguntarà a en Jordi G. quin creu que pot ser adient).
+HTP02 + DFD05 (1 edició) → canviar edició de DFD per fer coincidir dates
+
+S’hauria de crear un Excel per fer les combinacions i preparar tots els elements necessaris per a la creació dels packs (i anar completant): imatges, títol, edicions, reconeixement, preu, etc.: https://docs.google.com/spreadsheets/d/1nli1hv_yxyNwr6r3UZHwv0gsxoUdfaCgO98hod4YdXY/edit?usp=sharing
+Descompte del 25 % de CAT desembre (del 13 al 22 de novembre) per anar indexant la paraula descompte per al Black Friday. Mailing 13 de novembre.
+
+Oferir descompte del 25 % al regala curs (del 25 de novembre fins el 6 de gener). Mailing 27 de novembre.
+
+Cursos Marina (en Pablo torna a contactar amb ella per parlar de la seva proposta)
+
+Proposar als centres escolars el curs online ORT + quadernets + xerrada virtual Daniel Gabarró tot dins un pack. Mailing a centres.
+
+Concurs blog Educat: fer un concurs amb 3 guanyadors en què consistirà en enviar-nos un article inèdit que nosaltres vulguem publicar. Es donaran les bases dels articles d’Educat.
+Més endavant, si ho necessitem, podem fer una altra promoció de que ens enviïn articles (decents!!) a canvi del 25 o 50 % de descompte en un dels nostres cursos.
+
+Del 4 de novembre fins el 6 de gener treure les despeses d’enviament de la botiga.
+
+Per als professors novells que s’inscriguin a JASOM, els descomptarem els preu que han pagat al proper curs que facin a PrisMa. A JASOM hauran de marcar la casella i adjuntar la foto del títol tal i com fem amb els carnets monoparentals.
+A la inscripció de JASOM afegir una casella (només a aquest curs) juntament amb els descomptes: Sóc recent titulat.
+A la info de JASOM, a l’apartat del preu, afegir el text informatiu: Si ets professor recent titulat, l’import que paguis per aquest curs se’t descomptarà en el proper curs que realitzis a PrisMa.
+Afegir una frase a la confirmació de pagament amb el codi promocional que haurem generat automàticament a la taula «promocions» amb l’opció de qualsevol curs i a qualsevol edició (i guardant l’import pagat al PREU a descomptar).
+
+Es va parlar d’oferir subscripcions anuals al club PrisMa a canvi de descomptes… però és una cosa que s’ha de mirar molt bé i fer estimacions perquè surti a compte a tothom i no perdem diners. Ho deixem parat.
+“Signatures”
+Nom
+Data
+Pablo
+Meriem
+01/10/2024
+Jordi
+13/11/2024
+Isa
+01/10/2024
+Adam
+01/10/2024

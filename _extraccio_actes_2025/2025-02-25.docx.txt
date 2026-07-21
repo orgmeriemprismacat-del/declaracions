@@ -1,0 +1,72 @@
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 25 de febrer de 2025Hora: 10:00 a 10:50Assistents: Isa, Meriem, Jordi, Adam i PabloAbsent: CapQui fa l’acta: Pablo
+
+TEMES TRACTATS:
+Vídeo Taller Veu / Lloc a Barcelona
+Lectures i bibliografia
+Trello
+Estat canvi de servidor
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Tutors/es AUDOC i EIDOC
+Incidències SdA
+ACORDS:
+Vídeo Taller Veu / Lloc
+Alba vol enviar una nova versió del vídeo. Diu que l’enviarà avui. Pablo Li comenta que no l’enviï per Whatsapp sinò que el comparteixi per Drive o Dropbox. Estem a temps ja que hi ha hagut molt poques visualitzacions al YouTube (al YouTube no se substitueix el vídeo sinó que s’ha de crear un altre i perdem les estadístiques).
+Ella vol contactar amb una sala de Barcelona. Pablo li dirà que contacti i ens digui preus però hem de mirar la despesa ja que no canviarem el preu d’inscripció.
+L’Alba ja ha enviat al video i la Meriem ja l’ha editat i l’ha penjat,
+Lectures i bibliografia
+Isa pregunta si les referències bibliogràfiques de les lectures, tot i que estiguin en HTML, han d’estar enllaçades com fins ara.
+Ja es van treure dels PDFi ara s’acorda que tampoc han d’estar enllaçades al HTML. Si de cas, es posa l’enllaç (quan n’hi ha) a la «Bibliografia» de l’apartat general del curs.
+Trello
+Isa comenta que no s’han de modificar les targetes d’un altre (les reconeixem amb el color) sinó que si una targeta implica a una altra persona, ha de crear-ne una de nova (es pot crear una còpia de la targeta per aprofitar els ítems que hi hagi).
+Per no tenir-ho duplicat el que es recomana és tenir les pròpies al nostre tauler i després vincular-les al de CONTROL DE TASQUES. Només hem de copiar l’adreça web de la nostra tarja i enganxar-la a la del control de tasques, així quedaran vinculades.
+Podem triar una de les dues maneres que posem en aquests exemples:
+En aquest cas, creem una targeta, li posem un nom i mentre estigui oberta, enganxem a dins la URL de la nostra targeta i es transformarà automàticament en un fitxer adjunt de «Tarjetas de Trello»:
+L’altra opció és fer un enllaç directe, és a dir, clicar sobre «+ Añade una tarjeta:
+Enganxar l’enllaç directament i automàticament es transforma en una targeta vincle (accés directe):
+Estat canvi de servidor
+Hi ha hagut varis problemes que s’estan solucionant amb COMVIVE o directament ho fan la Meriem i la Isa.
+PhpMyAdmin durant tres dies consecutius no funcionava. El PhpMyAdmin es l’entorn per accedir a la Base de dades des de la web. Ja funciona.
+Hi ha un problema amb la traducció d’algunes dates (calendari i participacions als fòrums). S’ha solucionat que ara surt en català però hi sobre la preposició DE. És un problema de servidor i no de les cadenes de traducció del Moodle. PENDENT
+Cron: hem tingut molts problemes per parlar amb els de comvive per solucionar que no es realtizava el Cron. Al final, la Meriem i la Isa van conseguir que funciones el Cron. Els de comvive no els hi donaven resposta. A part de executar el Cron, també s’hauria de guardar un fitxer log. El fitxer log que es genera en la nova versió de Campus, no aporta informació útil. Va canviar respecte la versió anterior. La Isa i la Meriem s’han barallat molt elles i amb els de Comvive perquè es generes el fitxer. Com que no és util el fitxer cron que s’està generant, hem decidit que no es registri aquest fitxer i tancar el tema. FUNCIONA el cron cada dues hores entre les 6 i les 00
+Web: la setmana anterior ja vam solucionar alguns problemes i en aquesta setmana n’han sorgit alguns altres. El principal problema era els permisos. Per defecte, els van treure tots i els vam haver de canviar a mesura que els anàvem necessitant. El regala un curs, el descompte d’un curs i la pàgina de cada un dels perfils no funcionaven i la pàgina de perfils sortien tots com que només eren d’estiu. 
+Després d’investigar perquè no funciona, van sorgir altres problemes: el Dompdf no funcionava i les sessions no estaven activades. (Més endavant la Meriem explica en què consisteix cada cosa)
+“El Dompdf és un programa que utilitzem per generar pdfs (intranet, web, intranet vella). No és un programa propi que haguem creat nosaltres, és un dels mecanismes que existeix en php per generar PDFs. Aquest dompdf entenc que sempre ha donat error però que el servidor no el detectava. Degut al canvi de servidor, ara es detecten tots els errors i aleshores el servidor es queixa que hi ha una funcionalitat que no existeix. Revisant el codi extern, efectivament no existeix. Per solucionar-ho, s’havia d’instal·lar una nova versió del Dompdf. Per fer-ho, necessitava demanar en els de comvive que executessin una directiva per poder instalar una nova versió del dompdf. Com que tot això ho estava investigant a divendres a la nit, vaig executar la directiva en un servidor personalitzat que tinc, em va generar tot el codi que necessitava i el vaig copiar en el servidor de la web i al de la intranet nova.” Això ja està SOLUCIONAT.
+“Lo de les sessions de PHP, serveixen per emmegatzemar informació. La idea és emmegatzemar informació des del servidor temporalment per no anar-la demanant. Primer per eficiència (que vagi més ràpid), per eficàcia i per seguretat. En el cas del regala i del descompte, les dades que es generen a cada pàgina, internament es queden guardades a servidor mentre dura la sessió, de manera que no s’ha d’anar enviant a cada pas, cada vegada, tota la informació. En el cas de la Intranet (es recopila diguem les dades de l’usuari i les diferents consultes per no tenir que anar carregant-les a cada apartat que consulteu).” Això ja està SOLUCIONAT.
+Nova intranet: hi han hagut diferents problemes a causa del canvi de servidor i el que he comentat anteriorment. Al final, la Meriem ha traspassat tota la intranet a intranet.prisma.cat amb l’última versió de PHP (8.4) i la de mySQL (8.0.40). Com que ja havia de mirar apartat per apartat i funcionalitat per funcionalitat que funciones i arreglar el que pertoques, ja va aprofitar per actualitzar-ho en el PHP 8.4, de cares a diferents millores que es poden fer de codi. Ho va fer tot en el cap de setmana per assegurar que ningú toques i necessites la Intranet. En principi està tot i ha avisat a tots que si troben algun error que ho notifiquin a la Meriem. Queden alguns apartats que cal revisar-los (ja que la Meriem no disposava de temps per generar l’entorn de proves) i li ha comunicat en Pablo/Adam que els revisessin.
+Intranet vella: degut al canvi de servidor, com que no funcionaria en el servidor actual, la Isa ja va traspassar la intranet vella a old.prisma.cat i va comprovar alguns apartats. Ahir la Meriem va fer les modificacions pertinents de codi per el canvi de MySQL i afegir el que faltava. Per la part de gestió de pagaments, s’actualitzen els registres però no s’envien correus. Això es degut al canvi de servidor i a certs permisos que no tenim i que no podem obrir per seguretat. Per tant, de moment, l’Adam realitzarà la reclamació amb la Intranet vella i enviarà el correu manualment a esperes que estigui la programació feta a la nova Intranet. La resta de coses funcionen de moment.
+Connexió Microsoft Access: amb l’actualització del servidor, havien posat per defecte un “wait_timeout” molt curt i la base de dades d’Access es desconnectava molt ràpid i no et donava temps a fer quasi res. Hem demanat que l’ampliessin al que teníem nosaltres. SOLUCIONAT
+Des de la Intranet vella no s’envien els correus per tant la Meriem programarà les reclamacions a la Nova Intranet.
+Primera reclamació (cursos de març 10 de març)
+Segona reclamació (cursos de març 17 de març)
+Reclamació final de curs:
+30h febrer 26 de febrer (l’Adam la farà de forma manual)
+100h desembre 27 de febrer (l’Adam la farà de forma manual)
+40h febrer 5 de març
+15h febrer (GED) 5 de març
+60h febrer 19 de març
+Tutors/es AUDOC i EIDOC
+En Daniel ha comentat al seu newsletter que PrisMa necessita un formador per portar el dos cursos d’ell. De les respostes rebudes ens ha enviat un llistat amb un ordre de prioritat i Pablo Ja ha contactat amb 3 persones (2 ja han enviat el seu currículum)
+Les tres persones son docents que han fet la formació amb ell.
+El proposarem fer el curs El Català a les aules per veure com escriuen, com fan la formació i l'interès.
+Incidències SdA
+El Jordi González comenta, quan li enviam la proposta de tutorització que te problemes amb les dates de l'edició de març.
+Com que no pot els dilluns els canviem a dimecres a la web i contactem amb els alumnes per veure si tenen disponibilitat. Aquestes són les respostes:
+NOM | COGNOMS | Resposta | 
+Santi | Desvalls de Caralt | Em sap greu però no puc fer-ho en aquestes dates. Estaré de viatge en la majoria. Li he passat les dates de maig | 
+Ana | Reina León | Demana canviar-se al maig.... però perquè està de baixa | Passa al maig
+Raquel | Fernández Pintó | No pot el 26. Li oferim alternatives | Passa al maig
+Sheila | Exposito Verdejo | El dia 5/4 i el 26/4 ho tinc complicat. Hola! Al maig impossible… tinc un altre curs de formacio. | Li ofereixo donar-la de baixa i retornar diners 50€
+Cristina | Muñoz Castells | Bones, en aquestes dates no m'anirà be. Li proposo maig | Diu que farà el curs el curs vinent
+Agnès | Muntanyola Pablo | No pot la primera sessió. Li oferim alternatives | Recuperarà la primera “classe”
+Sílvia | Carbonell Manils | No pot la primera sessió. Li oferim alternatives | 
+Mariona | Mampel Gibert |  | 
+Candela | Carretero Roig | Perfecte, gràcies per avisar. | 
+
+Sobre el mes de maig, està de colònies la setmana del 19, per tant de les seves propostes, triem no fer sessió el 19 i allargar el curs i fer l’última el dia 2 de juny (com que aquesta era la data de finalització, haurem de contactar amb el Departament per canviar la data de finalització al 4 de juny (encara estem a temps).
+Sessió 1. El 5 de maig del 2025.
+Sessió 2. El 12 de maig del 2025.
+Sessió 3. El 26 de maig del 2025.
+Sessió 4. El 2 de juny del 2025.
+Pablo està a l’espera de la confirmació (va enviar la proposta divendres passat) Tornarà a contactar amb en Jordi.
+Pel proper curs escolar hem de buscar alternatives per no haver de marejar els alumnes. Quan es demanin les noves dates li enviarem les dates a tots els formadors i formadores de les formacions mitxes perquè ho validin. Després, si de cas, podem obrir només una edició, sempre que almenys estigui oberta una propera edició almenys amb 2 mesos de temps perquè hi hagi inscripcions.

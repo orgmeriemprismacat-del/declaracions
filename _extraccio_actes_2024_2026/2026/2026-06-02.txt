@@ -1,0 +1,59 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-06-02.docx
+SOURCE_LAST_WRITE: 2026-06-10 03:18:38
+EXTRACTED_AT: 2026-07-15 00:04:27
+---
+ACTA REUNIÓ SETMANAL (Presencial)
+Data: 2 de juny de 2026
+Hora: 10:00 a 13:00
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+Gravació: No
+TEMES TRACTATS:
+ESTAT CAT
+DUPLICAR CODIS GTAF - SUBVENCIÓ ESTIU
+ADS META
+MILLORES CAMPUS
+NOU TRELLO VERIFACTU
+NOTIFICACIONS INTRANET
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ALTRES TEMES
+ACORDS:
+ESTAT CAT
+Jordi Català ha comunicat que per impagament de l’autoria del curs, no vol que es continuï oferint els seu curs a PrisMa.
+L’edició de juny ja estava anul·lada per baixa inscripció (només 1 i no confirmat) i s’ha anul·lat la de juliol (que tenia 4 sol·licituds) i també la d’agost que no en tenia cap. Ja s’havia sol·licitat el reconeixement del 2026/2027 però com que encara el Departament no les havia confirmat, s’han pogut anul·lar.
+Pablo ha parlat amb l’Ariadna Puig per veure la possibilitat de preparar un curs sobre l’ús del català i com promocionar-lo a l’aula i parlarà amb la Marta Vilosa, ja que fa temps va oferir un curs complementari a LING.
+DUPLICAR CODIS GTAF - SUBVENCIÓ ESTIU
+A la reunió del Departament d’Educació sobre les subvencions d’estiu una entitat va preguntar si també es podrien duplicar els cursos per poder cobrar més diners de la subvenció ja que es paga per mòduls de 15 alumnes com mínim i l’any passat si tenien 30 persones en un curs, des de reconeixement es duplicaven les formacions i es posava un nou codi. A la reunió algunes entitats es van queixar d’aquest procediment ja que anava en contra dels que li costa arribar als 15. Van quedar parlar-ho i d’enviar la resolució per correu electrònic.
+Correu enviat:
+«Pel que fa a les activitats susceptibles de subvenció, únicament es podran duplicar quan el nombre de persones participants sigui superior a 35. En el cas que es detectin activitats formatives coincidents en contingut, durada i dates de realització, a efectes de la subvenció es considerarà que es tracta d'una mateixa activitat i només se'n computarà una d'elles.
+Considerem que aquest criteri permet afavorir una distribució equilibrada dels recursos i assegurar la viabilitat de les activitats subvencionades sense deixar de vetllar per la qualitat de l'acció formativa i fent una gestió eficient d'aquests recursos.»
+Arran de l’ambigu del missatge, Pablo va enviar un correu i per telèfon li van confirmar (ambiguament també) que a nivell de reconeixement s’havia de duplicar quan es superaven els 35 però a nivell de subvenció si dues activitats eren iguals comptaria només una.
+Pablo va contactar amb Reconeixement ja que a l’hora de de tancar la formació amb l’acte i l’informe, no quedava clar com s’havia de fer i van dir que:
+A partir de 35 participants es pot duplicar i que quedin dos grups de 20.
+Sobre la valoració i els assistents, pots crear un únic arxiu per les dues activitats però al gtaf sí que haurien de constar els dos grups, per poder cobrar la subvenció per activitat.
+En preguntar si era per normativa de reconeixement o per la subvenció li van contestar clarament i com havíem de fer la Natàlia va contestar:
+Aquestes activitats les pots duplicar al gtaf i no cal que sol·licitis el reconeixement per registre. Quan ho facis m'hauràs de dir quin és el codi mare i quins són els fills (els duplicats) per correu per tal d'actualitzar la data de resolució al gtf.  Sobre la nomenclatura de la valoració pots posar els codis de la següent manera REC001/0020467. També pots posar el mateix fitxer a les dues activitats. Com tu ho consideris.
+Quan va insistir si era per reconeixement o per la subvenció va dir:
+Només pel tema de la subvenció. Amb la resta pots fer el que et vagi millor.
+S’ha d'acabar de decidir que farem. De totes maneres a nivell de base de dades estem pensant en vincular el codi GTAF a la taula «aula». En principi sempre serà el mateix però tindrem la possibilitats de posar diferents.
+S’han de preveure tots els “danys col·laterals”
+Certificats
+Pujada GTAF
+Valoració Departament
+Web (vam dir de mostrar només l’aula A)
+Etc.
+ADS META
+Hem parlat de començar ja la publicitat de cursos de juliol, enfocant-nos en Google. Però la proposta era si es podia destinar una mica d’inversió a Canva i Juliol per a Instagram i Facebook. Més que res per tenir presència a aquestes xarxes ja que Somdocents i Doqua també fan publicitat (Somdocents de fa 2 mesos aprox.)
+MILLORES CAMPUS
+Isa està millorant el format a varis cursos que estan molt antics.
+Les activitats amb imatges es fan tot el responsive que sigui possible (comprovant amb 3 pestanyes, una amb pantalla ordinador, l’altra amb tablet i l’altra amb mòbil). Per tant, es fa servir Bootstrap en els cursos antics ja que amb el moodle anterior a la versió 3 no estava disponible tal i com el coneixem ara.
+Ja està acabat el recull de les activitats interactives així que, per tal d’arribar al juliol amb els cursos millorats, es prioritzen els que tinguin més inscripcions aquell mes. S’unificarà l’estil i colors sempre que sigui possible.
+NOU TRELLO VERIFACTU
+Per no haver de penjar tot a CONTROL TASQUES, Meriem crearà un nou Trello per treballar amb el Verifactu
+NOTIFICACIONS INTRANET
+Va haver una confusió en un missatge que va enviar la Meriem abans de Vacances. Ells parlava de Notificacions i pablo va entendre que eren un correu que s’enviaven 🫣
+Seran unes notificacions que apareixeran a la Intranet quan hi hagi error en el tema de Verifactu, Pagaments en general i gestió dels cursos. Per exemple Pablo va comentar la posibilitat de passar ahi els duplicats, quan aprova una persona i el tutor no ho comunica, etc.
+ALTRES TEMES
+Pablo assignarà els tutors i tutores de juliol per poder fer una previsió de guanys
+Demanar a Laura Domingo la possibilitat d’actualitzar el punt 1.3 del mòdul 2 de TEL ja que parla de la LOGSE. Laura diu que no es veu capaç de fer aquesta modificació i Pablo contacta amb la Elena Furió. En principi ho farà ella però de cares al setembre, ara no arriba per fer-lo per l’edició de juliol.

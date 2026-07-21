@@ -1,0 +1,71 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-12-17.docx
+SOURCE_LAST_WRITE: 2024-12-21 12:43:40
+EXTRACTED_AT: 2026-07-15 00:04:18
+---
+ACTA REUNIÓ SETMANAL
+Data: 17 de diciembre de 2024
+Hora: 10:20 a 12:30
+Assistents: Isa, Meriem, Jordi, Adam i Pablo
+Absent: Cap
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Taller de VEU
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Fundació Tripartita
+Cursos CRP
+Situació de SUI
+ACORDS:
+Taller de VEU
+De moment començarem amb un taller a Girona. Hem de definir si el farem el 15 o el 22 de febrer i el lloc.
+El preu serà de 80 euros i no hi haurà descomptes. En el cas del pack, el preu serà de 132,50€ (52,50 de VEU i 80 del taller)
+Pablo contactarà amb l’Alba per demanar:
+una presentació
+objectius del taller
+un esquema del que es farà al taller
+el video de presentació i xarxes
+Confirmació del lloc per veure si el fem aquí o a un altre lloc com un Centre cívic.
+Hem de saber si es imprescindible o opcional el fet de fer el curs de VEU per poder programar la inscripció ii que és recomanable portar aquell dia.
+A més demanar-li si pot fer la introducció del pack (curs + taller.)
+Adam ha de consultar altres sales.
+S’ha de programar de manera que tinguem un altre tipus de infos que sigui taller. Els tallers no sortiran a la pàgina de cursos en línia ni a la home ja que no estan reconeguts però si sortirà a la pàgina del tutor.
+A la info del taller disposarem de 5 pestanyes com en els cursos:
+Descripció
+Programa
+Docents
+Data i lloc
+Preu
+Valoracions
+La pestanya Descripció i Docents tindran la mateixa estructura que un curs.
+A la pestanya Programa es mostrarà un petit esquema del que es realitzarà en el taller.
+A la pestanya Data i lloc mostrarem una única edició que serà la pròxima i la seu on es realitzarà el taller. S’afegirà un text indicant que contactin amb nosaltres per a futures dates i seus.
+A la pestanya Preu només es mostrarà el preu ja que els tallers no disposen d’un descompte.
+A la secció de Més informació, es mostraran la Durada, els Nivells, la seu del pròxim taller (indicarem el poble/ciutat del lloc del taller), el botó d’Inscripció i el de Comparteix aquest curs.
+S’ha de programar els filtres de cursos de manera que no sortin aquest tipus de cursos. S’ha de retocar la programació de la pàgina del Docent perquè sortin els tallers.
+S’ha de preparar la programació de la inscripció del taller i tenir en compte els missatges que es modifiquen per informar que es un taller, que és presencial, etc. Dels texts com s’han de modificar s’encarregaran en Pablo i en Jordi amb instruccions de la Meriem si cal.
+S’afegirà l’etiqueta Taller en el format curs en tots els llocs que no sigui la info del taller.
+S’ha de revisar tots els llocs de la intranet nova, vella, alumne i tutor i reprogramar el que sigui necessari per aquest cas.
+S’afegirà el pack i el taller com a cursos que et poden interessar a la la info del curs de veu. S’afegirà també un requadre destacat per informar a la gent de VEU que poden fer també el taller (ho haurem de vendre depenent del ens digui l’Alba de la diferència entre els dos) o el pack per un aprenentatge complet de l’instrument vocal.
+La programació ha d’estar per el dia 15 de gener i la promoció per mailing, slider i xarxes es realitzarà el mateix dia.
+Fundació Tripartita
+Hem d’intentar fer més formacions per a escoles privades i concertades com CPSA. Pablo li comentarà a la Rosa Serra quan s’acabi CPSA.
+S’ha parlat també de fer el taller de veu per la tripartita, però el taller hauria de no necessitar haver de fer el curs de VEU.
+A més hem de preparar un catàleg de formacions que podem oferir a les escoles per poder fer visites i oferir aquestes formacions. Aquest catàleg l’hauriem de preparar per gener. Adam coneix a una persona que venia formacions i contactarà per veure si pot fer aquesta feina a comissió. Si cal, per vendre, es prepararà un espai intern on veure aquests cursos.
+Cursos CRP
+Pablo ha parlat amb la Glòria Iniesta i ha comentat que els CRPs poden oferir a les escoles formacions presencials que de vegades paguen ells o les escoles. Ella s’ha ofert per explicar-nos com va tot i hem de fer una reunió passat festes. En principi es paga uns 120€ l’hora. S’ha de preparar també un catàleg i contactar amb els col·laboradors i col·laboradores perquè ens facin propostes a partir d’una primera proposta que farem des de PrisMa. Glòria comenta que al maig, al menys el CRP on treballa, envien l’oferta a les escoles.
+Situació de SUI
+Pablo ha parlat amb la Glòria i comenta que intentarà elaborar el Pla d’avaluació per demanar el reconeixement de SUI asíncrono (encara no l’ha fet) i fer els vídeos per preparar el curs. Un cop es pugui demanar el reconeixement crearem el calendari.
+Proposa fer el curs síncrono els dilluns.
+Com que la propera edició de SUI mitx és el febrer. Esperarem als primers dies de gener per decidir que fem. Si s’anul·la SdA, podem fer SUI els dilluns (el dilluns 3 de febrer és l’última data de SdA i també l’última de CPSA)
+“Signatures”
+Nom
+Data
+Pablo
+20/12/2024
+Meriem
+18/12/2024
+Jordi
+19/12/2024
+Isa
+20/12/2024
+Adam
+20/12/2024

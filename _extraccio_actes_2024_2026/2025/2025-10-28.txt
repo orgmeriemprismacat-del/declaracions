@@ -1,0 +1,19 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-10-28.docx
+SOURCE_LAST_WRITE: 2025-11-03 23:09:52
+EXTRACTED_AT: 2026-07-15 00:04:24
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 28 d’octubre de 2025
+Hora: 10:50 a 11:30
+Assistents: Isa, Meriem, Adam i Pablo
+Absent: Jordi
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+REQUERIMENT API VERIFACTU PHP 8.0
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+REQUERIMENT API VERIFACTU PHP 8.0
+El CURL del verifactu (l’api) requereix que el servidor tingui PHP 8 com a mínim per seguretat.
+A la intranet no hi ha problemes ja que Meriem ja va adaptar-la (a la primavera quan vam fer el canvi de servidor) a l’última versió que deixava el servidor que era la 8.4. Per tant, en qüestió d’intranet no tenim problemes.
+La intranet antiga no fem procés de pagament on hem de generar factura així que no importa
+La web es on tenim problemes. Com que igualment s’ha d’adaptar el procés de pagament, la Meriem ha trobat la solució: moure’l en el servidor que ja ha creat per guardar les factures i ja ho havia posat com a la 8.4 perquè per seguretat interessa anar actualitzant tant la intranet com aquest servidor sempre a la ultima actualització disponible. Ara les urls de confirmació d'inscripció i de pagament començaran per https://pay.prisma.cat/

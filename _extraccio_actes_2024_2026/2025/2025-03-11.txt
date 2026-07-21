@@ -1,0 +1,56 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-03-11.docx
+SOURCE_LAST_WRITE: 2025-03-17 01:58:56
+EXTRACTED_AT: 2026-07-15 00:04:20
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 11 de març de 2025
+Hora: 10:10 a 11:15
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam (es va connectar els últims 15 minuts)
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+ESTAT TALLER VEU
+Estat cursos Albert Perich (EDUK)
+Afegir un espai per consultar dades dels col·laboradors/es
+Nous tutors/es: No es paguen mínims (BULL04)
+PROPOSTA REUNIÓ CONTROL PAGAMENTS
+SEGURETAT ORDINADORS
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+ESTAT TALLER VEU (TVEU)
+De moment tenim 3 inscrits al TVEU.
+L’Alba li ha preguntat a Pablo si pot enviar un comunicat al l’edició de març. Encara no ho ha fet (de totes maneres, la majoria dels participants són lluny de Girona)
+S’haurà de valorar el preu i possibles descomptes de cares a una altra edició.
+Estat cursos Albert Periche (EDUK)
+Hem començat a preparar la fitxa del GTAF de cares a demanar el reconeixement d’uns dels cursos proposats: - Atrapa'ls: encanteris per transformar-nos en menjallibres (hàbit lector).
+Pablo ha compartit un document amb l’autor per completar les dades necessaries. Encara s’ha de definir:
+El nom del curs
+Nom i numeració dels mòduls
+Etc
+PROPOSTA GTAF (ATRAPA'LS)
+Durant aquesta setmana hauriem de tenir aquestes dades per poder demanar el reconeixement.
+En Pablo també demanarà a l’Albert si té idees per les imatges dels cursos.
+La idea és demanar el reconeixement la setmana vinent perquè les properes edicions siguin les de juny, juliol i agost.
+Segons si ens donen problemes, o no, el curs de TSA, podem oferir el curs de TSA al juny i començar ATRAPA’LS al juliol o viceversa.
+Li proposarem a l’Albert, per un tema d’estratègia i disponibilitat, començar a oferir Rastreja'ls, encanteris per transformar-nos en Sherlock Holmes literaris (educació literària) de cares al 2025/2026 (cap el mes d’octubre)
+D’aquesta manera, aniriem tenint cursos nous progressivament i no oferir-los tots condensats en dos mesos…
+Afegir un espai per consultar dades dels col·laboradors/es
+S’ha de crear un espai de dades dels tutors a la Intranet per evitar errors derivats de fer servir les taules de l’Acces (o la BDD). Com que la Meriem no disposa de temps per programar-ho, per evitar problemes amb la pàgina i la Intranet, Pablo copiarà les dades a un Excel i ho consultarà des d’aquí.
+També mirarà si es por fer, de forma senzilla un formulari de consulta d’Acces, que no deixi modificar.
+Nous tutors/es: No es paguen mínims (BULL04)
+Als nous tutors i tutores no li estem oferint pagar un mínim de 15 alumnes, per tant s’ha de programar.
+La Isa ho parlarà amb la Meriem d’una possibilitat que té pensada i si veiem que no arribem per la propera edició de BULL (és a l’abril i podem esperar a finals d’abril que és quan les formadores han de fer la factura) els demanarem que ho facin de forma manual.
+S’ha de revisar que no tinguin l’apartat de la Intranet de Gestió de cobraments.
+PROPOSTA REUNIÓ CONTROL PAGAMENTS
+Isa està fent un recull de persones que deuen diners per fer unes reclamacions:
+Entitats o Empreses (FUNDAE, Ajuntaments, Diputació de Tarragona (l’Adam contactarà amb ells)
+Alumnes que han pagat una part i no han aprovat (la Isa els dona de baixa i s’envia un correu dient que els reservem els diners per pagar la part restant i fer el curs)
+Alumnes que han pagat una part i no tenen el certificat (contactem per oferir-los la possibilitat de pagar i tenir el certificat)
+Deutes antigues (buscar la manera de “perdonar” el deute perquè no surtin però després, si fan un altre curs, tenir una alarma per no donar-los l’accés fins que no paguin el nou curs.
+Després, quan es pugui, s’ha de tenir un lloc a la Intranet per fer el seguiment d’aquests casos (que hauria d’esta buit).
+Es farà un canvi al protocol de reclamació de pagament. A partir d’ara, la gent que no hagi fet cap pagament, si se li ha fet una primera reclamació, a la segona es donaran de baixa tot i que hagin participat al curs. És la manera que se n’adonin que passa res i preguntin.
+Protocol _ Reclamacions.docx
+SEGURETAT ORDINADORS
+S’està treballant per millorar la seguretat del servidor (web, intranets, campus)  i hem comentat que s’hauria de fer coses per millorar la seguretat dels ordinadors.
+Seria convenient de tenir una doble verificació als correus electrònics però tenim el problema dels correus compartits.
+El que tothom ha de tenir és una clau a l’ordinador i quan es deixa de treballar (tot i que sigui per un moment) bloquejar-lo.

@@ -1,0 +1,68 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-03-24.docx
+SOURCE_LAST_WRITE: 2026-03-30 04:04:22
+EXTRACTED_AT: 2026-07-15 00:04:26
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 24 de març de 2026
+Hora: 10:00 a 12:15
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+CANVA ▶ REVISAR CALENDARI
+CANVA PROPOSTA DE TÍTOLS
+MASTERCLASS ALTES CAPACITATS
+CANVA ▶ REVISAR PROMOCIÓ
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+MODIFICACIONS INTRANET PENDENTS DE COMENÇAR
+FÒRUM DE PRESENTACIÓ I EXPECTATIVES CANVA - RECOMANACIÓ DE CANVA EDUCATIU O VERSIÓ DE PROVA
+ACORDS:
+CANVA ▶ REVISAR CALENDARI
+Isa i Meriem han estat afegint una columna per la correcció de Canva. Pablo contactarà amb l’Ariadna Puig per confirmar-li el pressupost i donar-li accés al document:
+CANVA - Seguiment elaboració (3 mòduls).xlsx
+Pablo enviarà un correu a Ariadna donants accés a mostra de MPIA, CANVA i TSA i li comunicarà com podem fer aquesta correcció. També li donarà accés a la Cristina Carbonell als documents a corregir per si l’Ariadna té dubtes.
+Posteriorment Ariadna confirma que podrà complir els terminis i intentarà tenir-ho abans, si és possible.
+Pablo li recordarà a la Cristina que ha d’enviar la Guia i els audiovisuals.
+CANVA PROPOSTA DE TÍTOLS
+Vam estar parlant sobre la necessitat de diferenciar el nostre curs de Canva d’altres que s’estan oferint i com que trevalla molt la IA, en especial a l’últim mòdul, la Meriem ha provat altres títols:
+Proposa títols amb els paths que correspondrien ordenats de millor a pitjor (tot i que tots estarien be)
+Millors opcions:
+Creació de Recursos Educatius amb Canva i IA
+/creacio-recursos-educatius-canva-inteligencia-artificial
+Dissenya Recursos Educatius amb Canva i IA
+/dissenya-recursos-educatius-canva-inteligencia-artificial
+Correctes però menys potents:
+Creació de Recursos Educatius amb Canva i eines d’IA
+/creacio-recursos-educatius-canva-eines-inteligencia-artificial
+Creació de recursos educatius amb Canva amb suport d’IA
+/creacio-recursos-educatius-canva-inteligencia-artificial
+Creació de recursos educatius amb Canva i les seves eines d’IA
+/creacio-recursos-educatius-canva-eines-inteligencia-artificial
+Creació de Recursos Educatius amb Canva utilitzant IA
+/creacio-recursos-educatius-canva-inteligencia-artificial
+Canva amb IA per a la creació de recursos didàctics
+/canva-ia-creacio-recursos-educatius
+Integració de Canva i IA en la pràctica docent
+/integracio-canva-ia-practica-docent
+Canva i IA per a l’elaboració de recursos educatius
+/canva-ia-elaboracio-recursos-educatius
+Pablo li enviarà un correu a la Cristina amb la proposta de «Creació de Recursos Educatius amb Canva i IA»
+Com resposta la Cristina proposa «Canva per a docents: creació de recursos educatius i eines d’IA» però com que Canva per a Docents ja s’està oferint, finalment acordem «Creació de Recursos Educatius amb Canva i Eines IA»
+Amb el nom definit i el curs de mostra preparat, Pablo divendres ja ha pogut tramitar el reconeixement, que serà valorat a la reunió d’abril.
+MASTERCLASS ALTES CAPACITATS
+Pablo encara no ha contactat amb l’Àngel. Si la volem fer abans de l’edició de maig, haurem de preparar tot amb temps durant el mes d’abril. Necessitem demanar-li a l’Àngel la descripció i veure data i organització.
+Pablo contactarà en breu
+Finalment Pablo li envia un correu a l’Àngel per explicar-li la situació actual (reducció de personal, preparació de nou curs, reconeixement del curs 2026-2027….) i acordem tornar a parlar després de l’estiu per organitzar la xerrada.
+CANVA ▶ REVISAR PROMOCIÓ
+Revisem la promoció de Canva per poder-lo oferir quan ja estigui reconegut.
+Després de valorar la proposta de la Meriem acordem el missatge següent:
+https://www.prisma.cat/proves/meriem/canva.html
+MODIFICACIONS INTRANET PENDENTS DE COMENÇAR
+Meriem comenta que ha afegit el correu “alternatiu” del tutor quan anul·lem un curs (només s’enviava al de PrisMa). Per quan s’anul·li un curs d’abril, Pablo li avisarà a la Meriem perquè apliqui els canvis que ha preparat.
+Arran d’aquesta conversa, Pablo li comenta que quan envia el segon missatge de pendent de començar, aquesta vegada a tots, hagis pagat o no, després, quan s’avisa que el curs començarà, només li avisa als que hem contactat la primera vegada (els que no havien pagar res).
+Meriem mirarà com modificar-lo.
+FÒRUM DE PRESENTACIÓ I EXPECTATIVES CANVA - RECOMANACIÓ DE CANVA EDUCATIU O VERSIÓ DE PROVA
+Tot i que el nou curs de Canva es pot fer amb la versió gratuïta, sempre és millor fer-ho amb la versió Premium o la Educativa, que és gratuïta pels docents en actiu.
+Aquesta informació s’haurà de posar a la info de forma visible amb un enllaç per validar la versió educativa https://www.canva.com/es_es/educacion/requisitos-elegibilidad/#documentos-aprobados
+A més aquesta informació constarà al correu de confirmació de plaça.
+Pablo li proposarà a la Cristina que pregunti, al fòrum de presentació i expectatives, quina versió de Canva fan servir i si de cas, expliqui als que tenen la versió de prova, com han de fer per tenir l’educativa o si volen fer servir la de prova (per un mes).

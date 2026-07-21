@@ -1,0 +1,75 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-06-17.docx
+SOURCE_LAST_WRITE: 2025-06-18 09:04:38
+EXTRACTED_AT: 2026-07-15 00:04:22
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 17 de juny de 2025
+Hora: 10:15 a 11:50
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+PROMOCIÓ PEL JULIOL
+VERIFACTU
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+PROPERA REUNIÓ
+VACANCES PABLO (DESVIAMENT TELÈFON)
+ACORDS:
+PROMOCIÓ PEL JULIOL
+Meriem presenta dues propostes de mailing ja que no tenim el vídeo d’MPIA i no farem un mail especial (a més ja tenim 120 sol·licituds i la Virgínia i el Pere poden portar uns 180 tot i que podriem arribar a 210, una aula més)
+La primera és per fer un mail per triar cursos amb enllaços per temàtica, per nivell i per hores.
+https://campus.prisma.cat/mod/forum/discuss.php?d=47495
+Vam veure que cadascú veia diferents icones
+Captura de pantalla de Meriem:
+Captura de pantalla de Pablo
+També ha proposat un mailing de preguntes freqüents.
+Proposta 2:  FAQ d’estiu (preguntes que poden tenir sovint els mestres pel juliol)
+ Data aproximada: Aquest té sentit fer-lo a la primera setmana de juliol, màxim segona. Us acabo de confirmar segons el calendari de mailings del juliol (el preparo divendres ve i quan puguem ens el mirem amb la Isa).
+  Objectiu: Resoldre dubtes habituals sobre formació d’estiu i ajudar a que els docents ho tinguin clar i sense por i estrés.
+M'agradaria plantejar-lo en format preguntes i respostes tipus:
+"Quan he de fer els cursos si vull que em comptin pel nomenament?"
+"Puc fer més d’un curs a la vegada?"
+"Com sé si un curs serveix per acreditar un perfil?"
+ Pablo, Isa: Com vosaltres rebeu moltíssimes consultes per correu i telèfon, em podríeu dir un parell de preguntes que us fan sovint a l’estiu? Jo també tinc algunes de les xarxes, però segur que vosaltres teniu més control del que surt de secretaria.
+Si no teniu temps, cap problema! Ho adapto igualment amb el que tinc, trobi i sàpiga.
+Amb aquestes dues idees cobrim dues necessitats clares dels docents:
+Orientació clara i directa (Mailing per temàtiques)
+Resolució de dubtes pràctics (FAQ estiu)
+A més, mantenim el to proper i útil que ens representa, i reforcem la imatge de PrisMa com una entitat que entén el que realment preocupa i interessa al professorat.
+Tornarem a parlar a la reunió següent.
+VERIFACTU
+Meriem comenta que a partir de l’1 de gener les factures (i el seu registre) ha de tenir una característiques determinades:
+Generar un registre de facturació per a cada factura emesa nova, així com en cas d'anul·lació o rectificació. AIXÒ JA ES FA.
+Garantir la integritat, conservació, accessibilitat, llegibilitat i inalterabilitat dels registres de facturació.
+Per fer-ho és necessari que ningú utilitzi la taula factures des de l’acces i només s’utilitzi des de la Intranet, de tot lo altre ja m’encarregaré que es compleixi amb el que es demana.
+Permetre enviar de manera automàtica cada registre de facturació a Hisenda. això s’ha de fer automàticament i s’haurà de fer des d’una api que es connecti amb AEAT i li envii la informació necessària. Ho puc fer amb un CURL (un cURL és una eina de programació dissenyada per transferir dades utilitzant diferents protocols i que no necessita de la confirmació de petició del client. És una eina àmpliament utilitzada per desenvolupadors i administradors de sistemes per automatitzar el procés de comunicació entre servidors web i realitzar tasques com la descàrrega d’arxius i la interacció entre APIs) però encara tinc que veure quins són els paràmetres que me demana exactament AEAT per poder tramitar-ho i fer proves.
+Registrar esdeveniments per permetre la traçabilitat de l'activitat al programa de facturació. Aquest registre d'esdeveniments no podrà ser alterat i s'haurà de conservar fins que prescriuen les obligacions tributàries.
+Hi ha determinades característiques que permeten identificar les factures Verifactu.
+Codi QR. Les factures Verifactu hauran d'incorporar necessàriament un codi QR que contindrà una sèrie de dades identificatives. Necessari si s’ha d’enviar a Hisenda sense passar per la generació automàtica. Exemple en el nostre cas podria ser les factures electròniques que fem per les diputacions
+Referència al sistema Verifactu. Les factures també han d'indicar expressament que s'han generat mitjançant un sistema d'emissió de factures verificables, mitjançant l'expressió "Veri*Factu".
+Registre d'esdeveniments A més de tot això, hi haurà com a suport un registre de cada factura i esdeveniment.
+Derivat de tot això:
+no es pot fer servir manualment cap acció que impliqui un canvi de facturació. Tot ha de ser per la intranet, ha d’haver-hi un registre i ha de constar en el registre d’esdeveniments.
+s’ha d’actualitzar els diferents apartats per generar aquests registres, per guardar la informació de qui ho ha fet i quan i quina acció.
+generar l’enviament amb un CURL per el verifactu
+no es pot modificar ni consultar la taula factures des de l’Acces. Si us plau, elimineu-la i confirmeu que l’heu eliminat. Qualsevol acció que sigui necessaria fer s’haurà de fer des de la intranet. Aneu apuntant el que és necessari disposar respecte això.
+Hem de fer que es generi un codi qr que ha d’estar a la factura i en el registre d’events.
+De moment resolem de moment no deixar de fer servir la taula factures, però si apuntar el que necessitem perquè la Meriem després de l’estiu pugui fer les programacions.
+A partir de novembre s’han de desvincular totes les taules factura de l’Access i si hem de fer modificacions ho faran les informàtiques deixant constància al registre.
+Hem parlat que la modificació que es fa més sovint, i des de la Intranet, és canviar les dades quan paga una persona i després ens demanen la factura a nom de l’escola. En aquest cas, segurament, internament haurem de fer una rectificativa i després una nova factura a nom de l’escola.
+💡 Idea (no parlat a la reunió) No es podria modificar la pàgina de pagament i que abans de fer el pagament puguin posar unes altres dades?
+Resposta Meriem: Sí, de fet em sembla molt bona idea ja que facilitaria que no passes tant cas del que parlàvem.
+No podem posar-les automàtiques (per protecció de dades) ja que qualsevol persona que tingui l’accés a la url podria saber les dades, raó per la qual ara mateix també fem que introdueixin les dades.
+El que podem fer és:
+afegir una frase indicant que les dades de facturació seran les mateixes que les dades de la inscripció
+un botó de “vull afegir una altre direcció de facturació” i un modal on introduir aquestes dades.
+a la pàgina d’efectuar pagament s’haurien de mostrar les dades inicials i les dades de facturació i les dades de pagament.
+Hauriem de modificar una mica el correu de confirmació de pagament per indicar les dades de facturació i enviar-los la factura (almenys en aquests últims casos ja que la necessiten i per això modifiquen les dades de facturació)
+PROPERA REUNIÓ
+Dimarts vinent és Sant Joan. Passem la reunió pel dimecres 25 a la mateixa hora
+VACANCES PABLO (DESVIAMENT TELÈFON)
+Pablo marxa a UK del 19 al 24 de juny.
+Anirà contestant els correus que li marqui la Isa
+Enviarà certificats
+Control del calendari de Google
+Pablo li deixarà el telèfon a la Isa i ella s’encarregarà de l’atenció telefònica. El 23 li desviarà a en Jordi. Divendres 20, probablement li desviï a les 14.

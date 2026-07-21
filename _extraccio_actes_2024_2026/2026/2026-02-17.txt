@@ -1,0 +1,110 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-02-17.docx
+SOURCE_LAST_WRITE: 2026-02-19 00:58:22
+EXTRACTED_AT: 2026-07-15 00:04:25
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 17 de febrer de 2026
+Hora: 10:00 a 12:00
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+MÍNIMS
+PROBLEMES OUTLOOK SPAM
+NOU CURS DE CANVA
+PROTOCOL DE LA IA
+NOVA IMATGE MICRO?
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+PROPOSTA DE CANVIS INFO PROJ
+ACORDS:
+MÍNIMS
+Pablo ja ha contactat amb tots els tutors i tutores que portaran cursos al març i gairebé tots han definit una mínims.
+El resum de les respostes i els mínims proposats es poden consultar a Contacte tutors/es
+La Isa s’encarregarà de programar les despeses que apareixen a https://old.prisma.cat/resum_mes.php afegins una nova columna per decidir si obrim cursos o no amb els mínims modificats i a més servirà per valorar econòmicament el canvi.
+També modificarà la manera en que es calcula les quantitats a cobrar perquè es pugui fer la factura o rebut quan toqui. Hem parlat de programar que es calculi de manera diferent a partir de març de 2026 en els tutors i tutores que ja han dits els seus mínims.
+S’ha de treure en aquests casos la nota que diu que es cobren 15 alumnes. No posar res.
+PROBLEMES OUTLOOK SPAM
+Una altra vegada ens hem trobat que retornen correus que s'envien al Hotmail i a l’Outlook.
+Isa comparteix el que ha consultat al ChatGPT
+Microsoft Outlook (incluyendo cuentas de Outlook.com, Hotmail y Live) puede rechazar correos o enviarlos a spam por varias razones técnicas y de reputación. Aquí te explico las más comunes:
+📧 1. Problemas de autenticación (SPF, DKIM, DMARC)
+Si el dominio del remitente no tiene bien configurados:
+SPF
+DKIM
+DMARC
+Outlook puede marcar el mensaje como sospechoso o bloquearlo directamente.
+👉 Esto es muy común cuando:
+Se envían correos desde servidores nuevos.
+Se usa una plataforma de email marketing sin configurar bien el dominio.
+El DNS del dominio está mal configurado.
+🚩 2. Mala reputación de IP o dominio
+Microsoft mantiene sistemas de reputación. Si:
+La IP ha enviado spam antes.
+El dominio tiene quejas frecuentes.
+Hay muchos rebotes o usuarios marcan como “correo no deseado”.
+Entonces Outlook empezará a filtrar automáticamente esos correos.
+🧾 3. Contenido sospechoso
+El filtro de Outlook analiza:
+Muchas imágenes y poco texto.
+Palabras típicas de spam.
+Exceso de mayúsculas.
+Muchos enlaces.
+Enlaces acortados.
+Adjuntos ejecutables o sospechosos.
+⚠️ 4. Envío masivo sin calentamiento
+Si empiezas a enviar muchos correos desde un dominio o IP nueva sin “calentarla” progresivamente, Outlook puede bloquearlos temporalmente.
+📊 5. Baja interacción de los destinatarios
+Si la mayoría:
+No abre los correos.
+Los borra sin leer.
+Los marca como spam.
+El algoritmo de Outlook aprende que esos mensajes no son deseados.
+🔒 6. Políticas internas de empresa
+Si el destinatario usa:
+Microsoft Exchange
+Microsoft Defender for Office 365
+Puede haber filtros corporativos adicionales que bloqueen ciertos dominios o tipos de mensajes.
+🛠 Cómo solucionarlo
+Si tú eres quien envía:
+Verifica SPF, DKIM y DMARC.
+Revisa si tu IP está en listas negras.
+Reduce el envío masivo y haz “warm-up”.
+Mejora el contenido (menos enlaces, más texto natural).
+Pide a los usuarios que agreguen tu dirección a contactos.
+Isa ha de contactar amb Convive perquè busquin la solució.
+De moment:
+Meriem posarà un avís als formularis perquè quan posin una adreça Hotmail, Outlook o Live els avisem que han de posar una altra adreça ja que tenim problemes amb l'enviament a aquests correus.
+Si ens retorna algun correu Pablo contactarà per Whatsapp o si no tenim el telèfon per secretaria.prisma.cat@gmail.com explicant la situació.
+Mentre duri la incidència la Isa no farà mailing a adreces Hotmail, Outlook o Live.
+NOU CURS DE CANVA
+Cristina Carbonell ja ha completat la proposta del nou curs de Canva.
+CANVA - PROPOSTA GTAF (reconeixement)
+S’ha creat una carpeta compartida a partir de l’elaboració de TSA on la Cristina anirà penjant els documents: CANVA - Creació de recursos educatius amb Canva i després vincularem la carpeta amb el curs d’elaboració.
+ACTIVITAT:  Creació de recursos educatius amb Canva
+NOM CURT: CANVA
+HORES: 30
+NIVELL: Internivells
+Volem començar a oferir el curs a partir del mes de juny. Per fer-ho s’ha de presentar el reconeixement com màxim l’1 d’abril.
+Cristina proposa l'entrega de les activitats i lectures per fer el curs mostra durant el mes de març:
+Proposta calendari curs CANVA
+Li demanarem el vídeo de presentació pel dia 12 d’abril.
+Per la propera reunió hauríem d’acabar de completar la resta del calendari.
+Pablo li demana a la Cristina si té alguna idea d’imatge pel curs sense compromís sino la Meriem proposarà imatges i s’acabarà de decidir en una reunió. La idea és tenir-la pensada i parlar-ne el 17 de març.
+PROTOCOL DE LA IA
+Pablo ha elaborat un comunicat a partir del comunicat que envia en Pau Basart al seu curs. Li enviarà el text a la Meriem perquè el prepari de cares al mes de març.
+Normes d’ús d’eines d’intel·ligència artificial
+Pablo contactarà amb els tutors i tutores, començant pels de març per compartir el text i explicant el funcionament del protocol. També demanarà als autors i autores (o tutor freqüent) si hi ha alguna activitat en la que, per raons pedagògiques i per assolir els objectius, no es pugui fer servir la IA generativa.
+Quan hi hagi una activitat que no es pugui fer servir la IA, ho hauran de posar a propostes del laboratori i la Isa ho posarà al curs. Intentarem que es pugui fer abans que la Isa restauri els cursos de març.
+Isa està preparant un missatge per posar a les activitats independentment dels canvis de text que vulgui fer algun autor o autora.
+Ariadna Puig ha fet una proposta per CAT. Pablo la valorarà i li avisarà a la Isa per fer la modificació i posar l’”alerta”
+NOVA IMATGE MICRO?
+Arran dels canvis del pagament de mínims, com que en Jordi González ha dit que hauries de ser 10, li hem comentat que és possible que MICRO no es pugui fer moltes vegades, potser només al juliol.
+Li hem proposat fer un canvi a la imatge i ell ha estat d’acord. Buscarem de fer una amb IA que a més de les microhabilitats, relacioni el curs amb l’èxit escolar o a la millora dels resultats educatius. Meriem comenta que a la descripció no hi ha negretes i a més es podria millorar per a SEO.
+Li farem una proposta a en Jordi.
+A més hem decidit crear un nou pack (TUT04 + MICRO05).
+PROPOSTA DE CANVIS INFO PROJ
+Les autores del curs de Treball per Projectes comenten:
+«Pensem que el curs es podria oferir fins a batxillerat i graus professionals, ja que sempre tenim docents d'aquestes etapes educatives.
+També, en la descripció del curs apareix que es pot consultar un blog eduprisma. Preferiríem que no sortís ja que hi ha alguns aspectes en el quals discrepem.»
+Pablo envia un correu explicant la raó per la qual hem posat fins 1r cicle d’ESO (ella ho van dir a la primera reunió) i que es podria canviar si elles ho consideraven important però que podrien tenir queixes ja que els docents no trobarien exemples i recursos. També les va dir que es podria explicar a destinataris la possibilitat d’adaptar-lo a altres nivells; però finalment van decidir deixar-ho com estava.
+Isa ha tret article i Pablo les  ha dit que si volien podriem posar els Webinar que va fer a PrisMa. No han contestat res d’això.

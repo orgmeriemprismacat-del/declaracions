@@ -1,0 +1,258 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-05-06.docx
+SOURCE_LAST_WRITE: 2026-05-06 03:55:12
+EXTRACTED_AT: 2026-07-15 00:04:26
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 06 de maig de 2026
+Hora: 10:00 a 10:25
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+Gravació: video_2026-05-06.mp4
+TEMES TRACTATS:
+PROPOSTES DE DESPATX PER REUNIONS
+REVISIÓ DE MAILINGS I DE PACKS
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+TEMES EXTRES QUE APAREIXEN AL RESUM AUTOMÀTIC DEL IA COMPANION
+ACORDS:
+PROPOSTES DE DESPATX PER REUNIONS
+Isa presenta diferents propostes de tres llocs que lloguen espais de coworking.
+ESPAI
+WEB
+ADREÇA
+SETMANAL
+CONDICIONS
+PER DIES
+CONDICIONS
+PROS I CONTRES
+Parc central
+enllaç
+c/ Mestre Francesc Civil 8, bajos 17005 Girona
+665 € /mes
+Sense horaris
+240 € /mes aprox (15 € dia/persona)
+Taula no fixa, dia sencer
+No pàrquing. Sí parada L5 just al davant. Al costat de l'estació.
+b&co working place
+enllaç
+C/ Santa Coloma 99, 17005 Girona
+256 €/mes  aprox (16 € dia/persona)
+Taula no fixa, dia sencer
+Sí pàrquing. Sí parada L5 molt a prop. Serveis inclosos.
+Estudio3
+enllaç
+c/ Montseny 3, 17180 Vilablareix (Girona)
+390 €/mes
+Matins
+100 €/mes
+Matins i 2 dies fixos a triar
+Sí pàrquing. Sí parada L5 molt a prop. Serveis inclosos.
+A partir d’aquestes opcions, Pablo li enviarà a l’Adam per decidir quin és el millor lloc. Intentarem que la propera reunió sigui presencial, sinó serà a partir de juny, quan torni la Meriem de vacances.
+REVISIÓ DE MAILINGS I DE PACKS
+Meriem ha organitzat cada setmana fins el 28 de juliol per revisar un mailing (menys aquesta que ens toca dos) de manera que hi hagi marge abans de publicar-lo. També ha posat que en dos dies, escollim els títols de tots els packs nous i després en progressió anar validant els packs cada setmana.
+De manera que tindirem que més o menys validem packs i mailings cada setmana en excepció de dos que només escollim els noms de packs.
+Ha posat tot a les properes reunions corresponents del Trello
+TEMES EXTRES QUE APAREIXEN AL RESUM AUTOMÀTIC DEL IA COMPANION
+Pablo Farà una revisió del curs de mostra de CANVA per avisar-li a la Isa si troba alguna cosa rara o falta alguna cosa.
+Isa ha compartit un document de la resposta als packs de 2025-2026. Meriem comenta que hi s’ha de revisar la raó per la qual hi ha alguns amb decimals. Es comenta que podrien ser alguns canvis a partir de cursos es es va anul·lar i es va canviar l’alumne a un altre curs. De totes maneres, són pocs i serveix per veure la resposta global. Posteriorment, després de la reunió van fer la revisió
+ID
+PACK
+CODI
+OFERT A 25-26
+INSCRIPCIONS 25-26
+NOT FOUND
+10025
+Activitats Competencials i Microhabilitats Comunicatives
+ACOMICRO
+1
+0
+4
+10015
+Activitats Competencials i Treball per Projectes: Estratègies per a una Educació Integral
+ACOPROJ
+1
+0
+5
+10017
+Educant en la Diversitat
+ACREAGC
+5
+6
+8
+10018
+Neuroeducació i Altes Capacitats: Estratègies per a un Aprenentatge Efectiu
+ACRENEURO
+3
+6
+4
+10038
+Educació Segura: Bullying i Alteracions Greus de la Conducta
+AGCBULL
+3
+1
+4
+10021
+Gestionant Conflictes Quotidians i Alteracions de la Conducta
+AGCCEMI
+3
+4
+11
+10019
+Gestió de Conducta i Estratègies Neuroeducatives
+AGCNEURO
+5
+11
+3
+10023
+Tutoria i Problemes Greus de Conducta
+AGCTUT
+2
+1
+3
+10040
+Del Gust per la Lectura a l’Àlbum Il·lustrat
+ALBUMGUST
+2
+6
+10013
+Sinergies Educatives: Llenguatges Artístics i Neuroeducació
+ARTNEURO
+4
+5
+2
+10039
+Convivència Escolar: Bullying, Conflictes i Benestar Emocional
+BULLCEMI
+3
+1
+4
+10012
+Novell Essencial: Impulsant el Català a les Aules
+CATJASOM
+0
+0
+5
+10010
+Català i Diversitat Lingüística: Un Enfocament Inclusiu
+CATLING
+6
+28
+10037
+Tutoria Eficaç i Català: Millora l’Aprenentatge i la Comunicació
+CATTUT
+3
+0
+5
+10026
+Eines Essencials: el Català a les Aules i la Salut de la Veu
+CATVEU
+0
+0
+3
+10020
+Gestió Emocional a l'Aula: Estratègies per a Docents en Moments de Conflicte
+CEMIEDEM
+0
+0
+1
+10036
+Millora la Comprensió Lectora i Desperta el Gust per la Lectura
+CLEEGUST
+4
+1
+9
+10014
+Dificultats en Lectoescriptura i Comprensió: un Enfocament Pràctic
+CLEETEL
+4
+5
+7
+10029
+Comunicació No Verbal i Tutoria
+CNVTUT
+3
+1
+7
+10016
+Tècniques Projectives: Interpretació del Dibuix Infantil
+DFDHTP
+2
+7
+9
+10028
+Acompanyament al Dol: Eines d’Aula i Recursos Personals
+DOLGED
+1
+0
+7
+10009
+TIC i IA: Noves Fronteres Educatives
+EINESIA
+7
+4
+10033
+TIC Aplicades a l’Aula: Recursos i Estratègies Innovadors
+EINESTSA
+4
+3
+10035
+Veu i Encanteris Literaris: Fes que els Llibres Parlin als Alumnes
+GUSTVEU
+2
+0
+4
+10034
+Aprenentatge i Innovació: IA al Servei del Docent
+IAMPIA
+5
+11
+10032
+Competència Digital i Intel·ligència Artificial per a Docents
+IATSA
+7
+10
+10011
+Mestres Novells: Integrant el Treball per Projectes a l'Aula
+JASOMPROJ
+0
+0
+1
+10030
+Mestres Novells: l’Entrada a l’Aula i la Tutoria
+JASOMTUT
+0
+0
+2
+10024
+Microhabilitats Comunicatives i Situacions d’Aprenentatge
+MICROSDA
+0
+0
+3
+10041
+Potencia la Tutoria i les Microhabilitats Comunicatives a l’Aula
+MICROTUT
+3
+0
+3
+10031
+Creació de Recursos Digitals amb TIC i Intel·ligència Artificial
+MPIATSA
+6
+5
+2
+10022
+Tutoria i Situacions d’Aprenentatge. Acompanyament Educatiu
+SDATUT
+5
+0
+6
+10027
+Eines Essencials: Tutoria i Cura de la Veu
+TUTVEU
+1
+0
+5
+46147
+Actualització
+Pablo comenta que ha d’assistir una reunió informativa del Departament d’Educació per explicar els canvis de cares al 2026-2027 el proper dimarts i proposa canviar el dia de la reunió al dimecres 13, i explicar si hi ha canvis que afectin als nostres cursos. A partir de la reunió podrà començar a demanar el reconeixement del curs 2026/2027.

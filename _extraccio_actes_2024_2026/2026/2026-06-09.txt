@@ -1,0 +1,76 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-06-09.docx
+SOURCE_LAST_WRITE: 2026-06-29 03:58:14
+EXTRACTED_AT: 2026-07-15 00:04:27
+---
+ACTA REUNIÓ SETMANAL (Presencial)
+Data: 9 de juny de 2026
+Hora: 10:00 a 13:00
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+Gravació: No
+TEMES TRACTATS:
+DUPLICACIÓ DE CODIS GTAF
+T'AJUDEM A TROBAR EL TEU CURS ▶ 25/06 ▶ REVISAR CONTINGUT
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+PROPOSTA CURS SDA JORDI GONZALEZ
+BOTIGA PRISMA
+PROPERA REUNIÓ
+ACORDS:
+DUPLICACIÓ DE CODIS GTAF
+Per poder tenir un mateix curs amb diferent codi GTAF, el codi apareixerà a la taula aules en comptes de cursos. En principi tindran els mateixos codis però quan sigui necessari podran tenir diferent codi (ex: REC0010467 aules A i B i REC0020467 aules C i D)
+Meriem revisarà els “danys col·laterals” com certificats, valoracions, i tot el que faci servir el codi GTAF per modificar-lo a la BDD i si té algun dubte li consultarà a Pablo.
+Com que hi ha diferents versions del que es farà de cares a la subvenció i a la duplicació de cursos (segon la responsable de la subvenció si son dues formacions iguals, només comptarà una i segons reconeixement, s’han de duplicar per cobrar per acta) el que farem és duplicar només quan sobrepassem les places demanades (al juliol ja demanem més places que a la resta de mesos). Abans es demanaven més places i ara es duplicaran amb nou codi GTAF.
+T'AJUDEM A TROBAR EL TEU CURS ▶ 25/06 ▶ REVISAR CONTINGUT
+Revisem en grup el contingut del maig que s’enviarà al 25 de juny on oferim els cursos per temàtica, per nivell i per hores.
+Decidim
+Assumpte: Sabem que costa triar curs… t’ho posem fàcil
+Hook: T’ajudem a trobar el curs que necessites
+Títol: 🎯 Troba el curs que encaixa amb tu aquest estiu
+Meriem ha d’arreglar l’última part del missatge perquè en comptes de les hores està duplicada la info de cercar per nivell.
+A més s’ha d’afegir una frase a la part que es busca per nivell que digui alguna frase del tipus:  «hi ha cursos que serveixen per més d'una etapa educativa» perquè sàpiguen que quan es busca per un nivell, també surten els internivells.
+PROPOSTA CURS SDA JORDI GONZALEZ
+Pablo està en contacte amb en Jordi González per convertir la formació mixta de Situacions d’Aprenentatge en un curs asíncrono.
+Pre-pre-pre-pre-proposta d’en Jordi
+He estat donant voltes al tema de passar el curs de Situacions d'Aprenentatge a format plataforma asíncron. Actualment, una de les coses que fa saltar la banca és el tema de la IA. Vull dir que avui en dia, sempre que es tingui un bon guió, es pot crear amb l'ajuda de la IA, una situació d'aprenentatge totalment personalitzada en qüestió de minuts. Com veuries una proposta de curs que fos molt i molt pràctic que l'alumne tingués microseccions teòriques i, acte seguit, hagués de transformar-les en realitat amb ajuda de la IA?
+Exemple:
+Explicació escrita de què són els objectius didàctics, perquè són importants, quants n'hem de proposar,...
+Acte seguit una pantalla on l'alumne, amb l'ajuda de la IA, hagi de crear els objectius.
+Un cop fets que quedin ja guardats al document final.
+Així anar fent amb totes les coses que s'han de tenir en compte en una SdA.
+Inclouria fer possibles preguntes al tutor, exemples de casos i descobrir errors, ...
+Només és una pre-pre-pre-pre-proposta. Però veuries viable un format de curs que anés per aquí? Hauria de ser molt diferent d'estructura dels cursos convencionals. Es pot provar?
+Resposta Pablo
+La idea m'agrada i crec que és possible (a més veient l'èxit dels cursos de IA, jo crec que funcionarà). Després hauríem de veure la manera de muntar-lo però crec que moodle dona eines per fer-ho més enllà dels fòrums... tasques, lliçons, etc.
+Et dono accés a dos cursos nous de mostra que veuràs que tenen una altra estructura (fer una activitat, llegir el material i després fer-ne una altra). Veuràs tot i que són cursos de 40 hores, no fem 4 mòduls :
+No és ben bé el mateix però podria funcionar.
+Coses que hem de tenir en compte:
+Ha de passar el filtre del Departament. Això vol dir que ha d'estar molt justificat l'ús de la IA com suport i ha de seguir tota la normativa en relació al currículum. Hi ha un document del Departament amb els enllaços a les normatives, decrets, etc. que arribat el cas, puc compartir-te.... tot i que no serà cap novetat per tu.
+S'ha de poder justificar molt bé les hores comptant que almenys hauria de ser de 30.
+Podem fer material escrit o et pots gravar i també podem fer servir material del Departament (no tot, però es pot posar com material de consulta)
+Has de tenir el compte el que t'implicaria la tutorització. Per anar bé el preu del curs i el que es paga per autoria i tutorització ha de ser com qualsevol curs de 30 hores (si no, internament és un "lio")
+Bé.... són coses que he pensat a partir del que expliques.
+Resposta Jordi
+Per gravar les "lliçons" com ho hauríem de fer? No ho faré jo al mòbil. Això s'hauria de fer bé, rollo videopodcast, no? Si féssim així es tractaria de gravar-ho de forma professional, sobreimpressionar els continguts clau, donant material escrit extra i, després fer la pràctica amb IA. Ho veig relativament ràpid de fer (el discurs és el mateix del curs actual, de fet).
+Com hairíem de fer el tema de la gravació? Això ho podria ja anar avançant jo sense molestar-vos ara a l'estiu i, al setembre, ja ho planificaríem bé.
+Parlem a la reunió que no podem invertir en una gravació professional i Pablo li enviarà un correu a en Jordi explicant la situació i que faci alguna prova amb un mòbil per valorar-lo. Els vídeos hauries de ser curts i potser donar-li més pes al text escrit.
+Nosaltres podem dedicar-nos a l’edició i “sobreimprimir” textos.
+Isa comenta que podríem fer-lo a Studio3 però seria amb el nostre material.
+Si en Jordi pot gravar-los a casa seva, estaria bé perquè no caldria fer totes les gravacions en un dia.
+També vam fer proposta de fer enformat podcast i nosaltres transcriure el text…
+BOTIGA PRISMA
+Isa comenta que hi ha problemes de seguretat amb la versió del Prestashop i s’hauria d’actualitzar per evitar problemes. Meriem comenta que si es factura per la SL, s’hauria de deixar constancia al Verifactu.
+Amb aquesta situació i veient les guanys d’anys passat (i la despesa de temps que implica enviar un llibre de tant en tant) estem valorant la possibilitat de tancar definitivament la botiga a finals de juliol i des d’ara fins juliol posar tot a preu de liquidació (5 euros cada llibre)
+2022 105,69€
+2023 55,04€
+2024 54,40€
+2025 66,07€
+2026 (fins juny) 28,33€
+Un cop confirmat per l’Adam (Pablo li enviarà un correu) posarem tots els llibres a 5€ i enviarem un comunicat a les aules obertes relacionades amb les diferents temàtiques.
+Cursos Matemàtiques (MATINF, REP, PRIMAT, REGLETS, DAM)
+Educació Emocional
+ART i Marina (FANG, MANS, DIB)
+Cursos d’en Daniel (AUDOC, EIDOC, MKT, BULL)
+PROPERA REUNIÓ
+La setmana vinent no farem reunió ja que Pablo estarà de mitges vacances. Passem per a la del 23 de juny a les 10, quan Pablo torni de portar la seva filla a l’aeroport.
+Durant la setmana vinent, del 15 al 23 de juny el telèfon el portarà la Isa, Pablo li portarà el telèfon divendres 12 o dissabte 23 i el recuperarà el 23 a la reunió.

@@ -1,0 +1,82 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-07-07.docx
+SOURCE_LAST_WRITE: 2026-07-09 07:01:18
+EXTRACTED_AT: 2026-07-15 00:04:27
+---
+ACTA REUNIÓ SETMANAL (Presencial)
+Data: 07 de juliol de 2026
+Hora: 10:30 a 13:30
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+Gravació: No
+TEMES TRACTATS:
+ATENCIÓ TELEFÒNICA AGOST
+NOM ASSO PER TRANSFERÈNCIES
+CURSOS AMB PERFILS ▶ 07/07 ▶ REVISAR CONTINGUT
+CURA I BENESTAR DOCENT ▶ 15/07 ▶ REVISAR CONTINGUT
+DEPARTAMENT DE XARXES I MKT
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+FEINES JORDI
+REUNIONS PRESENCIALS
+ACORDS:
+ATENCIÓ TELEFÒNICA AGOST
+Atès que no s’ha pogut fer la coordinació prevista amb Jordi en les reunions, ni presencials, ni virtuals, i que l’atenció telefònica requereix conèixer els criteris, canvis i incidències vigents, es decideix mantenir la planificació inicial: durant el mes d’agost, especialment entre el 10 i el 31, no hi haurà atenció telefònica ordinària.
+Es posarà el mateix missatge al contestador que per Nadal i Setmana Santa i es posará al comunicat d’atenció telefònica i la la pàgina de contacte.
+De totes maneres, en Pablo agafarà telèfon fins el 6 d’agost. La Isa tindrà el telèfon per revisar el contestador i per si sorgeix alguna urgència i ha de fer alguna trucada.
+NOM ASSO PER TRANSFERÈNCIES
+L’Adam confirma el nom que s’ha de posar per fer una transferència a PrisMa, tant al BBVA com a Caixabank.
+De totes maneres, sempre podem fer una prova sense haver de completar la transferència.
+Hem de deixa clar que si hi ha qualsevol errada (un guió, un accent, etc) el banc avisarà que no concuerda.
+CURSOS AMB PERFILS ▶ 07/07 ▶ REVISAR CONTINGUT
+Revisem el contingut i acordem l’assumpte i el hook:
+Assumpte: Aquest juliol, suma mèrits i perfils amb els nostres cursos reconeguts!
+Hook: Quin cursos acrediten el teu perfil docent?
+Revisant text del missatge (https://www.prisma.cat/proves/meriem/cursos-perfils-2026.html) decidim:
+Treure:
+CAT (ja no s’ofereix)
+EDEM (es va anul·lar i no hi ha edició a l’agost)
+Etiqueta NOU a ALBUM.
+CURA I BENESTAR DOCENT ▶ 15/07 ▶ REVISAR CONTINGUT
+Revisem el contingut i acordem l’assumpte i el hook:
+Assumpte: Aquest estiu, forma't pensant en tu
+Hook: Temps per tornar a tu
+Revisant text del missatge (https://www.prisma.cat/proves/meriem/cura-benestar-emocional-2026.html) decidim obviar la frase «💛 Docent, aquest estiu et toca cuidar-te a tu»
+DEPARTAMENT DE XARXES I MKT
+​S’afegeix l’usuari «Correcció PrisMa» a l’espai de Xarxes perquè Jordi rebi automàticament les còpies de les publicacions que s’han de revisar.
+Correccions de Xarxes Socials
+Meriem compartirà amb Jordi el calendari de publicacions de Xarxes Socials. Jordi haurà de revisar i deixar corregides totes les publicacions previstes per a la setmana següent abans de les 8:00 h de cada divendres.
+Les publicacions es consideraran disponibles per a correcció quan Jordi rebi la còpia corresponent al fòrum de Xarxes, ja que en aquell moment Meriem ja haurà deixat definida la publicació. Si posteriorment Isa o Pablo introdueixen canvis que afectin el text o les imatges amb text, Jordi rebrà una nova còpia i revisarà únicament els elements modificats, si escau.
+Correccions de Màrqueting
+Jordi farà les correccions de Màrqueting quan la publicació indiqui expressament que ja està preparada per corregir. La correcció s’haurà de fer a partir del primer fil del fòrum o de la versió concreta que s’indiqui en el missatge.
+L’enllaç o el material de treball estarà disponible al primer fil del fòrum.
+Les correccions de Màrqueting sol·licitades durant la setmana hauran d’estar fetes abans de les 8:00 h del divendres d’aquella mateixa setmana, excepte que en el missatge de sol·licitud s’indiqui expressament un altre termini o una altra prioritat.
+FEINES JORDI
+Hem parlat de feines que hauria de fer en Jordi en aquest dies (fins el mes d’agost). Inicialment estava previst concretar les prioritats amb Jordi durant la reunió setmanal. Atès que no s’ha pogut fer aquesta coordinació conjunta i que Jordi havia indicat expressament que «decidíssiu per mi i jo faria el que em diguéssiu», Isa, Meriem i Pablo han definit les prioritats operatives següents fins al mes d’agost. . Pensem que no és la millor manera i hauria d'assistir a les reunions setmanals.
+L’assignació de tasques per correu s’adopta de manera puntual per garantir la continuïtat de les feines pendents i no substitueix el sistema ordinari de coordinació de l’equip.
+Les tasques, materials, enllaços, lliurables i terminis se li comunicaran també per correu corporatiu i als documents de seguiment corresponents.
+Les tasques acordades inicialment amb les seves dates límit corresponents són:
+Correcció del Mòdul 2.2 d’ALBUM. 
+En Jordi haurà de revisar el mòdul 2.2 i deixar-hi indicades les correccions necessàries abans del  divendres 10 de juliol a les 10 del matí. Aquest termini és necessari perquè la Isa pugui traspassar els canvis indicats al curs que està en actiu ja que a l’agost no hi ha curs.
+Articles del blog pendent de correcció. 
+En Jordi haurà de corregir els articles pendents que se li van indicar en un correu anterior abans del dilluns 13 de juliol a les 10:00 h, perquè la Isa pugui maquetar-los i en pugui programar la publicació.
+Correcció i elaboració de noves preguntes de les FAQs de PrisMa.  
+S’adjunta el document de treball que inclou les preguntes freqüents actuals i les propostes de noves preguntes i respostes per incorporar.
+En Jordi haurà de revisar les preguntes existents i les propostes, corregint-les o reformulant-les segons correspongui. També podrà afegir altres preguntes que consideri rellevants.
+Els dubtes o comentaris que requereixin validació es deixaran adreçats a Pablo dins del document. Hauria d’estar pel dimarts 14 de juliol a les 12:00 h, per tal que en Pablo, pugui revisar i respondre els dubtes pendents quan es reincorpori. També pot afegir altres preguntes que consideri importants.
+Reunió amb les formadores de SUI i Pablo el dimarts a les 16. Jordi assistirà juntament amb en Pablo a la reunió amb les formadores de SUI el dimarts 14 de juliol a les 16:00 h.Elles han demanat aquesta reunió per parlar sobre la conversió a curs asíncrono de SUI.
+Preparació de les dades per crear la web de Jornades i Trobades. 
+Isa tornarà a activar la web antiga de les trobades i les jornades a una servidor de proves (al subdomini test.prisma.cat). 
+Meriem crearà el document de recollida de dades corresponent.
+Un cop estiguin disponibles els accessos i el document de treball, Jordi començarà a completar la informació necessària per a la nova web. La recopilació de dades haurà d’estar enllestida abans de finals d’agost. Les fites intermèdies es definiran al document de seguiment. Meriem i Isa avisaran a en Jordi quan hagin completat la seves tasques a en Jordi per correu corporatiu.
+Elaboració de tastets. 
+S’han d’elaborar els tastets LOGO, DAM i GEST (a l’agost) i a partir de setembre BULL i PNL (com que tot i que estan previstos els cursos de BULL i PNL a l’agost, com que no es segur que es puguin realitzar i potser les formadores estan de vacances, els deixem per setembre per no molestar amb dubtes, però igualment es poden anar elaborant i deixar els dubtes per setembre. A partir de setembre en Jordi haurà de contactar amb les autores i autors dels cursos per començar a coordinar l’elaboració dels tastets de cursos amb autoria. 
+L’elaboració del guió complet del tastet (contingut, activitats, pregunta) no pot trigar més d’una setmana.
+Revisió de cursos antics (PNL, GEST, MED, COA, JASON, DAM, etc.). 
+Hi ha cursos molt antics que són de PrisMa i s’hauria de fer una revisió de continguts, activitats, devolucions, vídeos, etc. 
+En Pablo enviarà un correu a en Jordi amb un document compartit per poder fer aquesta revisió. En aquest correu acordaran l’ordre de prioritat de la revisió i les dates màximes.
+Després de la reunió Adam confirma uns dies de permís sense sou que ha demanat en Jordi des del 20 de juliol al 31 de juliol de 2026 i posteriorment li avisen a en Jordi que s’ha mort la seva àvia i marxarà a Menorca amb un permís de 5 dies naturals des del 9 al 13 (inclosos) i es reincorporarà el dimarts 14. Per aquesta raó hem canviat algunes dates d’entrega de feines:
+faqs -> divendres 17 a les 12h.
+dades web jornades i trobades -> entregues finals de la primera setmana d'agost i principis de la segona.
+REUNIONS PRESENCIALS
+Es manté el sistema de coordinació presencial de dos dies per setmana, juntament amb les reunions setmanals de seguiment.
+De manera excepcional, durant el mes d’agost es valorarà l’adaptació d’aquesta presencialitat en funció de les vacances d’Isa i Pablo i de les necessitats organitzatives del període.

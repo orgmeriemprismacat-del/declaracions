@@ -1,0 +1,55 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-09-12.docx
+SOURCE_LAST_WRITE: 2024-11-11 00:08:26
+EXTRACTED_AT: 2026-07-15 00:04:16
+---
+ACTA REUNIÓ SETMANAL DESPATX
+Data: 12 de setembre de 2024
+Hora: 10:30 a 13:00
+Assistents: Isa, Adam i Pablo
+Absent: Meriem i Jordi
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Què fem amb els tutors que estan a la web però que actualment no porten cursos perquè no els estem oferint (ja siguin per pendents o perquè no se'ls han mirat)
+Article sobre suïcidi. Quan el publiquem?
+Llistat escoles privades i concertades (mailing Fundae)
+Estat curs CEMI amb modificacions Marta
+Proposta Marina Borda
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Adreces centres que no han donat el consentiment per rebre mails
+ACORDS:
+Què fem amb els tutors que estan a la web però que actualment no porten cursos perquè no els estem oferint (ja siguin per pendents o per que no se'ls han mirat)
+Continuen apareixent com tutors i tutores però no apareixen els cursos que tutoritzen fins que estiguin actius (inscripcions obertes)
+Si és un autor o autora, a la informació de l’autor apareixen els cursos que estan pendent per reconèixer però sense enllaç.
+La Meriem ja ho ha fet.
+Article sobre suïcidi. Quan el publiquem?
+L’article es publicarà el 27 de setembre.
+Llistat escoles privades i concertades (mailing Fundae)
+Adam compartirà el que ha trobat fins ara i a més buscara altres adreces.
+(*) Han canviat la pàgina del Departament i ara es poden descarregar el llistat de centres (https://educacio.gencat.cat/ca/serveis-tramits/directoris-centres/index.html)
+Estat curs CEMI amb modificacions Marta
+La Isa ja ha creat l’html del primer mòdul.
+Ja està demanat el nou reconeixement. La reunió del Departament serà el 18 de setembre.
+La Marta ja ha fet les modificacions. En Jordi està fent les correccions.
+Proposta Marina Borda
+La Marina vol deixar d’oferir els cursos amb nosaltres. Volia deixar de fer-los de cares al 2025 però ens proposa oferir una última edició a mode de comiat. Diu:
+En principi, havia pensat que el proper any ja no tutoritzaré més cursos, però crec que m'agradaria fer una mena de cloenda, que també pot ser un reclam.
+Com veieu la possibilitat d'oferir un comiat a la primavera dels tres cursos explicant que serà l'última vegada que es realitzaran? Es podrien fer dos cada mes en tres mesos o busquem qualsevol altre opció.
+Contactarem per parlar amb ella però li comentarem:
+Millor fer-los a l’estiu
+Si s’ha de jubilar, no cal estar d’autònoma
+Fer una reunió per parlar de les possibilitats
+Adreces centres que no han donat el consentiment per rebre mails
+La Isa anirà afegint poc a poc les adreces que teníem abans de la llei de protecció de dades, donant de baixa els centres que ens ho demanin i les adreces que retornin.
+“Signatures”
+Nom
+Data
+Pablo
+17/09/2024
+Meriem
+24/09/2024
+Jordi
+11/11/2024
+Isa
+17/09/2024
+Adam
+24/09/2024

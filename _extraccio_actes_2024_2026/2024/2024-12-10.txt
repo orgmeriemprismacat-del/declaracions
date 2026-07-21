@@ -1,0 +1,54 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-12-10.docx
+SOURCE_LAST_WRITE: 2024-12-19 02:16:44
+EXTRACTED_AT: 2026-07-15 00:04:18
+---
+ACTA REUNIÓ SETMANAL
+Data: 10 de diciembre de 2024
+Hora: 10:15 a 12:00
+Assistents: Isa, Meriem, Jordi, Adam i Pablo
+Absent: Cap
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Estat actualització EINES (substitució programes)
+Estat actualització BULL - CEMI
+Organització espai MKT XS (creació de propostes i correcció)
+Nous cursos (SUI - ACOS - TSA)
+Propostes Escriptura Creativa
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Taller VEU
+ACORDS:
+Estat actualització EINES (substitució programes)
+Cristina ja ha acabat de fer les modificacions. Comenta que ho ha fet tot en unes 5 hores (lectures, activitat, vídeo). Adam li enviarà una proposta de pagament.
+Jordi està acabant de fer la correcció dels qüestionaris afectats. Isa acabarà de passar-ho tot al curs i s’encarregarà d’obrir el Mòdul 3 quan estigui tot passat.
+Estat actualització BULL - CEMI
+BULL: Pablo Ja ha enviat tot per demanar el reconeixement com un nou curs. Quan ja estigui reconegut (no sabem si al desembre o al gener), contactarà amb en Daniel Gabarró perquè faci una modificació de la Devolució del M4.
+S’ha de modificar lectures, activitats i guies. En principi ja hi ha temps ja que la propera edició és pel març però pot passar que el Departament demani accés, en aquest cas s’hauria de preparar abans (millor tenir-ho tot canviat cap el 15 de gener).
+CEMI: Jordi ha de fer una última revisió de les lectures que estan ja fetes en html i penjades al curs.
+Organització espai MKT XS (creació de propostes i correcció)
+Continuarem com feiem fins ara. La Meriem i la Isa faran les propostes en el departament de màrqueting per Mailing, XS i Slider i en Jordi farà la correcció en el Moodle. (En el departament de màrqueting estem tots subscrits.)
+Si s’ha de parlar de parts concretes, es realitzaran captures indicant la part que es tracta i així no cal copiar tot el text.
+Si eventualment es necessita elaborar un nou missatges o promoció més complexa podem fer servir un Google Docs però ha d’estar vinculat al Moodle i després continuar amb el fòrum del Moodle.
+Sobre XS, la Meriem li enviarà un correu a en Jordi quan ha de corregir alguna publicació i en Jordi contestarà en el fòrum. En el curs de XS només rebran correu la Meriem i la Isa.
+
+Nous cursos (SUI - ACOS - TSA)
+SUI: Gloria trucarà a Pablo per explicar en quina situació està i acordar unes noves dates per a elaborar SUI asíncrono. Preguntarà per la situació de SUI mixt a veure si ella o la Sandra podran tutoritzar-lo.
+ACOS: Ja estan fetes les modificacions de la guia i en Jordi ha acabat de preparar les modificacions del quadre de les àrees, competències i indicadors. L’ha de validar la Rosa per passar-lo al curs i contactar amb el Departament perquè ho validi. La Meriem té pendent canviar la programació perque pugui sortir ACOS (web, intranet prisma, alumne i tutor). Estan demanades dues edicions (març i maig) A l’estiu no es pot demanar perquè els profes han de aplicar-lo a l’aula.
+TSA: Pablo ha de contactar amb la Cristina Carbonell per fer un calendari i fer una previsió per començar TSA.
+Propostes Escriptura Creativa
+Ens ha arribat una proposta per fer un curs d’Escriptura Creativa. Pablo els ha dit que ens trobarem al febrer per fer una reunió. Farem la prova perquè per part de l’equip no haguem de carregar amb molta feina (que proposin tot el material, activitats, qüestionaris, etc i que no ens porti molta feina). A partir d’aquí valorar l’elaboració de nous cursos.
+Taller VEU
+Adam ha d’averiguar preu i condicions de llocs per fer el taller. Pablo reenviarà el correu a l’Alba on li feia algunes consultes.
+Amb aquesta nova informació, la setmana vinent ho tornem a parlar ja que s’ha de programar el gener de cares al febrer.
+“Signatures”
+Nom
+Data
+Pablo
+10/12/2024
+Meriem
+10/12/2024
+Jordi
+19/12/2024
+Isa
+10/12/2024
+Adam
+11/12/2024

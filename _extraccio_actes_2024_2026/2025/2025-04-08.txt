@@ -1,0 +1,55 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-04-08.docx
+SOURCE_LAST_WRITE: 2025-04-11 05:12:00
+EXTRACTED_AT: 2026-07-15 00:04:20
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 08 d’abril de 2025
+Hora: 12:30 a 14:00
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+GUST (Elaboració GUST)
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Neteja morosos
+Reconeixement AUDOC
+Reconeixements pendents (ADOP i RELAX)
+Reconeixement ASSIA
+Reconeixement 2025-2026
+TASTUT (Tastet de TUT)
+Comunicats
+ACORDS:
+GUST (Elaboració GUST)
+Albert ja ha penjat els lectures. Del mòdul 1 (que dura 15 dies i és la meitat de curs) hi ha 4 pdfs. En Jordi proposa fer-ne un. Parlarem amb l’Albert perquè ell ho tenia d’una altra manera a EDUK (lectura - activitat - lectura - activitat…) En principi intentarem mantenir l’estructura de PrisMa. Després de muntar-lo ho parlarem amb ell.
+Hi ha petites correccions de puntuació, de castellanismes, etc. En Jordi farà les correccions al HTML i li comentarà a l’Albert perquè sàpiga que no coincidirà exactament amb els àudios. Després valorarem si cal tornar-los a gravar més endavant… tot dependrà dels canvis fets, però en principi no s’hauria de fer.
+De moment les traduccions dels textos de Chambers no es faran. Posarem un pdf amb el logo de PrisMa.
+Treurem les referències a RASTREJA’LS fins que estigui el segon curs de l’Albert. En Jordi guardarà aquestes referències per afegir-les després.
+Neteja morosos
+Pablo farà una neteja dels no pagats antics al 2024. Prèviament li avisarà a la Meriem perquè no li enviï correu als alumnes però si còpia a PrisMa i que per defecte surti per no enviar.
+Si no han pagat, són del 2023 o anteriors, i no han aprovat els donarem de baixa des de la Intranet.
+Si no han pagat, són del 2023 o anteriors, i han aprovat els donarem de baixa des de la Intranet però apareixeran com DEUTORS.
+Als de TRIAJOC, tot i que són del 2023, els enviarem una última reclamació i quedaran com DEUTORS. En aquest cas, com hi ha una persona responsable, s’envia un correu per cada persona inscrita, hagin aprovat o no. Després manualment li posem M a cada alumne, perquè si no, continuen apareixent a Baixa Final.
+Després de fer la primera neteja, quedarà amb l’Adam per fer les altres baixes (+ 2023 i casos especials)
+Reconeixement AUDOC
+La raó per la qual va quedar denegat AUDOC és:
+«La reconciliació de cada persona de les seves ferides del passat, és una tasca de benestar molt important. Per aquesta activitat, vam indicar D1, ja que no figura cap motiu de denegació a teràpia, i creiem que aquesta activitat contempla tasques de teràpia, que no son certificables pel departament d'educació i formació professional.»
+Oferirem EIDOC pel mes de juliol i agost i demanarem el reconeixement de cares al 2025-2026 i si el reconeixen veurem que fer amb AUDOC. No demanarem el curs com tal però podem valorar l’opció de regalar-lo per fer-lo de forma automàtica (lectures, vídeos i qüestionaris) a la gent que s’inscrigui a EIDOC.
+Es valorarà un cop EIDOC estigui reconegut pel 2025-2026.
+Pablo I Jordi han de fer una reunió aquesta setmana per decidir el tutor o tutora que portarà el curs i si és nou, s’ha de demanar CV i foto (Jordi) i crear mail i configurar-lo (Isa).
+Reconeixements pendents (ADOP i RELAX)
+Pablo reenviarà els correus a en Jordi on parlem amb el Departament de la raó per la quan ADOP i RELAX van quedar denegats.
+Pablo trucarà a l’Amando per comentar-li l’estat de RELAX i el que farem per demanar el reconeixement.
+A partir de la resposta, en Jordi farà el canvis, primer de la fitxa i després del curs, si cal.
+Per poder-los oferir al juliol, s’han de presentar al Departament abans del 30 d’abril. Millor si és la setmana posterior a setmana santa
+Reconeixement ASSIA
+Crea el teu assistent d’IA per a l’elaboració de materials pedagògics s’hauria de presentar també la setmana posterior a setmana santa per poder-lo oferir de cares al mes de juliol. Virginia Marugán ja ja completat la fitxa i en Jordi li ha fet una consulta que encara no està contestada.
+PROPOSTA GTAF (reconeixement)
+A la reunió de Pablo amb en Jordi ho acabaran de parlar per tramitar el reconeixement. S’ha de crear un calendari d’elaboració ja que estem molt justos.
+Reconeixement 2025-2026
+Al mes de maig s’ha de presentar el reconeixement del curs 2025-2026. Pablo ja ha posat les dates dels cursos i la Isa ha fet una revisió. Han de quedar per aclarir algunes dates.
+Pablo Ha fet una proposta d’edicions (ha afegit alguns cursos) i ha de quedar amb l’Adam per validar-les.
+Pablo està fent una previsió de packs per assegurar-nos que hi ha edicions. Els packs seran des de cursos de novembre de 2025 a maig de 2026 (criteri fi: l’edició del segon curs del pack no pot acabar gaire més enllà de maig).  Ho compartirà al document de DATES 2025-2026 però no implica que aquest packs s’han de fer, només per saber que hi són aquestes edicions.
+TASTUT (Tastet de TUT)
+Hi ha uns comentaris per resoldre entre Jordi González i Jordi Català. En Jordi C li enviarà un correu a en Jordi G per acabar de quadrar alguns temes i fer el TASTUT. Hauria d’estar tot acabat pel 16 d’abril que és quan tenim programat el mailing.
+Comunicats
+Pablo farà una revisada dels comunicats i marcarà els diferents casos que hi ha perquè la Meriem ho pugui programar. Com a mínim sabem que s’ha de tenir en compte els casos de 15 hores i el curs de GUST que seran diferents als altres. Es crearan plantilles per els diferents comunicats i cursos si és necessari.

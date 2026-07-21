@@ -1,0 +1,358 @@
+# Resumen Trello - COMPLETADES
+
+Fuente: `C:\Users\Usuario\Downloads\eoi1jxiT - completades (1).json`
+Tauler: COMPLETADES - https://trello.com/b/eoi1jxiT/completades
+Ultima actividad del tauler: 2026-07-01 16:06
+
+## Contexto de uso aportado por Meriem
+
+Este tauler recoge tareas que han pasado del tablero de control de tareas y se han completado. Segun Meriem, solo se pasan aqui las targetas cuya finalizacion es necesario informar al resto del equipo, para evitar llamadas constantes o preguntas por telefono.
+
+## Volumen general
+
+- Targetas totales en export: 4964.
+- Targetas abiertas: 4818.
+- Targetas cerradas: 146.
+- Listas: 33.
+- Acciones incluidas en export: 1000. Nota: Trello suele limitar el export de acciones incluidas; aqui solo se analizan las acciones presentes en el JSON.
+
+## Recuento agregado por columna
+
+El export contiene varias listas internas con el mismo nombre. Para que el dato sea util en informe, este recuento agrupa por nombre de columna/lista.
+
+| Lista | Targetas abiertas | Targetas cerradas |
+| --- | ---: | ---: |
+| Completada | 2209 | 119 |
+| XARXES | 901 | 0 |
+| INTRANET | 321 | 0 |
+| MÀRQUETING | 259 | 0 |
+| CURSOS | 230 | 0 |
+| REUNIONS | 191 | 1 |
+| Completada 23/03/2026 - 16/04/2026 | 168 | 0 |
+| WEB | 163 | 1 |
+| MAILING | 147 | 0 |
+| Verifactu | 120 | 0 |
+| MOODLE | 46 | 0 |
+| Verifactu 2 | 41 | 25 |
+| GENERAL | 17 | 0 |
+| BLOG | 4 | 0 |
+| EN PROCÉS 2 | 1 | 0 |
+
+## Acciones incluidas en el export
+
+### Por tipo
+
+| Tipo | Acciones |
+| --- | ---: |
+| updateCard | 997 |
+| updateCheckItemStateOnCard | 2 |
+| moveCardFromBoard | 1 |
+
+### Por persona
+
+| Persona | Acciones |
+| --- | ---: |
+| Meriem | 1000 |
+
+### Por mes
+
+| Mes | Acciones incluidas |
+| --- | ---: |
+| 2026-06 | 506 |
+| 2026-07 | 494 |
+
+### Acciones de Jordi por mes
+
+| Mes | Acciones de Jordi incluidas |
+| --- | ---: |
+
+## Targetas relacionadas con Jordi
+
+Se detectan 277 targetas abiertas relacionadas con Jordi por creador, miembro, texto, menciones o acciones incluidas en el export.
+
+| Lista | Targeta | Creada | Darrera activitat | Creador | Membres | Motiu deteccio | Comentaris | Moviments | Accions Jordi | URL |
+| --- | --- | --- | --- | --- | --- | --- | ---: | ---: | ---: | --- |
+| BLOG | ARTICLE EDUCAT EDUCAR EN LA DERROTA [OCTUBRE] | 2025-06-20 21:32 | 2025-09-28 20:09 | Meriem | Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/QPm9tVpC/3228-article-educat-educar-en-la-derrota-octubre |
+| CURSOS | RECONEIXEMENT RELAX | 2025-06-21 15:38 | 2025-09-28 19:41 | Meriem | Pablo Martori, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/G6j3iSjD/3227-reconeixement-relax |
+| CURSOS | MPIA ▶ VIDEO INFO  ▶ SUBTITOL I DESTACATS | 2025-09-25 11:51 | 2025-10-01 01:42 | Meriem | Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/RrbBGUty/3502-mpia-%E2%96%B6-video-info-%E2%96%B6-subtitol-i-destacats |
+| CURSOS | ARREGLAR FUNCIONAMENT CURSOS (CORRECCIONS JORDI) | 2025-07-03 15:16 | 2025-10-25 22:51 | Isabel López | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/m6ZWwtFn/2752-arreglar-funcionament-cursos-correccions-jordi |
+| CURSOS | GUST ▶ LECTURA 1.1 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/hMpACBv1/2242-gust-%E2%96%B6-lectura-11-%E2%96%B6-aplicar-canvis-segona-correccio |
+| CURSOS | GUST ▶ LECTURA 1.2 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ho5CBs0y/2240-gust-%E2%96%B6-lectura-12-%E2%96%B6-aplicar-canvis-segona-correccio |
+| CURSOS | GUST ▶ LECTURA 1.4 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/LFNKY7Hy/2170-gust-%E2%96%B6-lectura-14-%E2%96%B6-aplicar-canvis-segona-correccio |
+| CURSOS | GUST ▶ LECTURA 1.5 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/qPOKFtZ7/2169-gust-%E2%96%B6-lectura-15-%E2%96%B6-aplicar-canvis-segona-correccio |
+| CURSOS | GUST ▶ LECTURA 3 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/w3w0TiGu/2233-gust-%E2%96%B6-lectura-3-%E2%96%B6-aplicar-canvis-segona-correccio |
+| CURSOS | GUST ▶ REUNIÓ CURS | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Isabel López, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/PSzpm8H2/2545-gust-%E2%96%B6-reuni%C3%B3-curs |
+| CURSOS | GUST. Elaboració del curs | 2025-01-15 13:49 | 2025-10-25 22:51 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/J2pJahfg/2905-gust-elaboraci%C3%B3-del-curs |
+| CURSOS | INFO GUST | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba0ff22 | Meriem, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/VnrmoMqU/2484-info-gust |
+| CURSOS | MPIA VIDEO | 2025-05-20 20:28 | 2025-10-25 22:51 | Meriem | Meriem, Isabel López, Jordi Català Llufriu, Pablo Martori | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/xN4xLukH/3464-mpia-video |
+| CURSOS | MPIA ▶ LECTURES I ACTIVITATS ▶ REVISIÓ D'IMATGES (SI HAN DE SER O NO)  | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Tuxji454/2166-mpia-%E2%96%B6-lectures-i-activitats-%E2%96%B6-revisi%C3%B3-dimatges-si-han-de-ser-o-no |
+| CURSOS | NOVA TUTORA CAT: SUSANA HERVÁS | 2025-07-22 14:32 | 2025-10-25 22:51 | Isabel López | Isabel López, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/Z0ekyUZb/2953-nova-tutora-cat-susana-herv%C3%A1s |
+| CURSOS | Preparar últim mòdul i apartat final de CPSA | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba0ff22 | Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/TDPmojiL/2503-preparar-%C3%BAltim-m%C3%B2dul-i-apartat-final-de-cpsa |
+| CURSOS | RECONEIXEMENT AUDOC/EIDOC | 2025-06-21 15:41 | 2025-10-25 22:51 | Meriem | Pablo Martori, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/wX8xsGJ8/3226-reconeixement-audoc-eidoc |
+| CURSOS | REUNIÓ RECONEIXEMENT (Pablo i Jordi) | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba0ff22 | Jordi Català Llufriu, Pablo Martori | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/lLLQgobt/2483-reuni%C3%B3-reconeixement-pablo-i-jordi |
+| CURSOS | TASTET TUT  ▶ CORRECCIÓ | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Jordi Català Llufriu | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/DsIRe8EF/2486-tastet-tut-%E2%96%B6-correcci%C3%B3 |
+| CURSOS | TASTET TUT ▶ PROGRAMACIÓ ▶ PANTALLA 6 | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Hn0VXlLj/2492-tastet-tut-%E2%96%B6-programaci%C3%B3-%E2%96%B6-pantalla-6 |
+| CURSOS | TSA Lectura 1 (primera correcció) | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba1009f | Jordi Català Llufriu | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/8vIAdkxj/2490-tsa-lectura-1-primera-correcci%C3%B3 |
+| CURSOS | TSA Lectura 2 (primera correcció) | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba1009f | Jordi Català Llufriu | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/O6FrC6fC/2526-tsa-lectura-2-primera-correcci%C3%B3 |
+| CURSOS | TSA Lectura 3 (primera correcció) | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba1009f | Jordi Català Llufriu | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/R8H24GfA/2525-tsa-lectura-3-primera-correcci%C3%B3 |
+| CURSOS | TSA Lectura 4 (primera correcció) | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba1009f | Jordi Català Llufriu | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/Q7df4aK8/2527-tsa-lectura-4-primera-correcci%C3%B3 |
+| CURSOS | TSA Lectura 5 (primera correcció) | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba1009f | Jordi Català Llufriu | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/m6VP6FE4/2521-tsa-lectura-5-primera-correcci%C3%B3 |
+| CURSOS | Tastet TUT | 2025-06-20 19:35 | 2025-10-25 22:51 | 68559bd5eef8313efba1009f | Jordi Català Llufriu | membre, text targeta | 0 | 0 | 0 | https://trello.com/c/pqQQgOWl/2505-tastet-tut |
+| CURSOS | RASTREJA'LS. ELABORAR PLANNING | 2025-09-09 12:00 | 2025-10-25 22:57 | Meriem | Jordi Català Llufriu, Isabel López, Pablo Martori, Adam Carmona NOU, Meriem | membre | 0 | 0 | 0 | https://trello.com/c/L2hoCCS0/3639-rastrejals-elaborar-planning |
+| Completada | Articles blog Educat | 2025-03-04 09:33 | 2025-06-20 19:28 | Jordi Català Llufriu |  | creador | 0 | 0 | 0 | https://trello.com/c/lZZwV5IV/1156-articles-blog-educat |
+| Completada | BOTIGA | 2025-03-24 15:04 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/Uq8Yk9Uu/775-botiga |
+| Completada | BOTIGA ▶ SANT JORDI ▶ CONTINGUT | 2025-03-21 18:12 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/CdNlsV5R/894-botiga-%E2%96%B6-sant-jordi-%E2%96%B6-contingut |
+| Completada | BOTIGA ▶ SANT JORDI ▶ IMATGES | 2025-03-21 18:13 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/a9m6e2E8/893-botiga-%E2%96%B6-sant-jordi-%E2%96%B6-imatges |
+| Completada | BOTIGA ▶ SANT JORDI ▶ REVISAR SLIDER | 2025-03-21 18:13 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/VA7UyOWU/891-botiga-%E2%96%B6-sant-jordi-%E2%96%B6-revisar-slider |
+| Completada | CORRECCIONS GUST A ELAB | 2025-06-09 14:04 | 2025-06-20 19:28 | Isabel López |  | text targeta | 0 | 0 | 0 | https://trello.com/c/lA6zeFxy/42-correccions-gust-a-elab |
+| Completada | ESTAT DELS CURSOS | 2025-05-30 19:27 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/Z5GKJHCu/71-estat-dels-cursos |
+| Completada | Estat TSA | 2025-03-04 09:33 | 2025-06-20 19:28 | Jordi Català Llufriu |  | creador | 0 | 0 | 0 | https://trello.com/c/fqzx6Lsp/1155-estat-tsa |
+| Completada | GUST ▶ LECTURA 1.1 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-08 02:30 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/RHSuoYfS/47-gust-%E2%96%B6-lectura-11-%E2%96%B6-aplicar-canvis-segona-correccio |
+| Completada | GUST ▶ LECTURA 1.2 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-08 02:30 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/tHQKSRnz/46-gust-%E2%96%B6-lectura-12-%E2%96%B6-aplicar-canvis-segona-correccio |
+| Completada | GUST ▶ LECTURA 1.4 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-08 02:30 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/qhoiVyDl/45-gust-%E2%96%B6-lectura-14-%E2%96%B6-aplicar-canvis-segona-correccio |
+| Completada | GUST ▶ LECTURA 1.5 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-08 14:59 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/pqxPkKkB/44-gust-%E2%96%B6-lectura-15-%E2%96%B6-aplicar-canvis-segona-correccio |
+| Completada | GUST ▶ LECTURA 3 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-09 15:22 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/tCy2g5dK/36-gust-%E2%96%B6-lectura-3-%E2%96%B6-aplicar-canvis-segona-correccio |
+| Completada | GUST ▶ VIDEO INFO  ▶ MUNTATGE | 2025-03-21 19:28 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/xXRlYO1R/841-gust-%E2%96%B6-video-info-%E2%96%B6-muntatge |
+| Completada | ICONES LECTURES GUST | 2025-06-09 14:07 | 2025-06-20 19:28 | Isabel López |  | text targeta | 0 | 0 | 0 | https://trello.com/c/A7yTZXRk/41-icones-lectures-gust |
+| Completada | MPIA ▶ LECTURES I ACTIVITATS ▶ REVISIÓ D'IMATGES (SI HAN DE SER O NO)  | 2025-05-30 12:40 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/sas3pFcd/72-mpia-%E2%96%B6-lectures-i-activitats-%E2%96%B6-revisi%C3%B3-dimatges-si-han-de-ser-o-no |
+| Completada | RECLAMACIÓ FINAL I BAIXES ▶ MSG APROVAT ▶ CORRECCIONS | 2025-04-01 10:01 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/zQ8RFG8m/654-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-aprovat-%E2%96%B6-correccions |
+| Completada | RECLAMACIÓ FINAL I BAIXES ▶ MSG NO APROVAT I NO PAGAT RES ▶ CORRECCIONS | 2025-04-01 10:02 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/A03mduVJ/653-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-no-aprovat-i-no-pagat-res-%E2%96%B6-correccions |
+| Completada | RECLAMACIÓ FINAL I BAIXES ▶ MSG NO APROVAT I PAGAT UNA PART ▶ CORRECCIONS | 2025-04-01 10:02 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/L3iYHMNs/652-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-no-aprovat-i-pagat-una-part-%E2%96%B6-correccions |
+| Completada | RECLAMACIÓ FINAL I BAIXES ▶ MSG TUTOR APROVAT ▶ CORRECCIONS | 2025-04-01 10:02 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/jtkVNo2b/651-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-tutor-aprovat-%E2%96%B6-correccions |
+| Completada | RECLAMACIÓ FINAL I BAIXES ▶ MSG TUTOR NO APROVAT ▶ CORRECCIONS | 2025-04-01 10:02 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/PUYhp6UA/650-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-tutor-no-aprovat-%E2%96%B6-correccions |
+| Completada | REUNIÓ RECONEIXEMENT (Pablo i Jordi) | 2025-04-09 13:13 | 2025-06-20 19:28 | Pablo Martori |  | text targeta | 0 | 0 | 0 | https://trello.com/c/lJMUTCAo/499-reuni%C3%B3-reconeixement-pablo-i-jordi |
+| Completada | REVISIÓ TOTES LES BIBLIOGRAFIES | 2025-06-09 14:27 | 2025-06-20 19:28 | Isabel López |  | text targeta | 0 | 0 | 0 | https://trello.com/c/GvnxbjPq/40-revisi%C3%B3-totes-les-bibliografies |
+| Completada | SANT JORDI ▶ PREPARAR CONTINGUT | 2025-03-26 00:22 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/RXyekmPc/675-sant-jordi-%E2%96%B6-preparar-contingut |
+| Completada | SANT JORDI ▶ PREPARAR CONTINGUT DEPT XARXES | 2025-03-26 00:22 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/PUkDPZyA/674-sant-jordi-%E2%96%B6-preparar-contingut-dept-xarxes |
+| Completada | SANT JORDI ▶ PREPARAR IMATGES | 2025-03-26 00:22 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/cANWl1S6/677-sant-jordi-%E2%96%B6-preparar-imatges |
+| Completada | SANT JORDI ▶ REVISAR CONTINGUT | 2025-03-26 00:22 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/fo2aTL13/676-sant-jordi-%E2%96%B6-revisar-contingut |
+| Completada | SANT JORDI. ENVIAMENT SUBSCRIPTORS | 2025-03-04 12:36 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/mAHMKp1i/1134-sant-jordi-enviament-subscriptors |
+| Completada | SANT JORDI. IMATGES | 2025-03-04 12:35 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/SHWOVGuC/1137-sant-jordi-imatges |
+| Completada | SANT JORDI. IMATGES | 2025-03-04 12:33 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/NjDfUNrF/1138-sant-jordi-imatges |
+| Completada | SANT JORDI. IMATGES | 2025-03-04 12:40 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/aC8s001f/1132-sant-jordi-imatges |
+| Completada | SANT JORDI. PREPARAR CONTINGUT | 2025-03-04 12:35 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/MEkmki8B/1136-sant-jordi-preparar-contingut |
+| Completada | SANT JORDI. PREPARAR CONTINGUT | 2025-03-04 12:40 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ZufPYhQA/1131-sant-jordi-preparar-contingut |
+| Completada | SANT JORDI. REVISAR CONTINGUT | 2025-03-04 12:40 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/9dic6mn4/1130-sant-jordi-revisar-contingut |
+| Completada | SANT JORDI. REVISAR CONTINGUT | 2025-03-04 12:35 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/MVkRYFQX/1135-sant-jordi-revisar-contingut |
+| Completada | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-03-04 12:42 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/SSo7Rf20/1129-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| Completada | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-04-07 18:28 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/0mmD6PQM/506-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| Completada | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-04-07 18:28 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/4REq8CQM/505-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| Completada | SORTEIG DE SANT JORDI ▶ DEPT | 2025-03-04 12:48 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/SwEZIY3B/1127-sorteig-de-sant-jordi-%E2%96%B6-dept |
+| Completada | SORTEIG DE SANT JORDI ▶ ENVIAMENT (CENTRES) | 2025-04-07 18:24 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/JG8DEzDE/509-sorteig-de-sant-jordi-%E2%96%B6-enviament-centres |
+| Completada | SORTEIG DE SANT JORDI ▶ ENVIAMENT (SUBSCRIPTORS) | 2025-04-07 18:24 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/52EdfQjC/511-sorteig-de-sant-jordi-%E2%96%B6-enviament-subscriptors |
+| Completada | SORTEIG DE SANT JORDI ▶ HTML | 2025-04-07 18:24 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/ZFt7zyo8/510-sorteig-de-sant-jordi-%E2%96%B6-html |
+| Completada | SORTEIG DE SANT JORDI ▶ HTML | 2025-04-07 18:29 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/RIPrQv0g/502-sorteig-de-sant-jordi-%E2%96%B6-html |
+| Completada | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-03-04 12:42 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ReKGyZuE/1128-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-03-04 12:38 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/xX4XLHj0/1133-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-04-07 18:22 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/0dyOIfYb/512-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-04-07 18:28 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/YKm3fmwr/507-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-04-07 18:28 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/lJsEjnND/508-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG DE SANT JORDI ▶ REVISAR CONTINGUT | 2025-04-07 18:29 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/VqFaGERr/503-sorteig-de-sant-jordi-%E2%96%B6-revisar-contingut |
+| Completada | SORTEIG DE SANT JORDI ▶ REVISAR CONTINGUT | 2025-04-07 18:29 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/mAnvRHxE/504-sorteig-de-sant-jordi-%E2%96%B6-revisar-contingut |
+| Completada | TASTET TUT  ▶ CORRECCIÓ | 2025-04-01 21:32 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/QWXFNQfd/556-tastet-tut-%E2%96%B6-correcci%C3%B3 |
+| Completada | TASTET TUT ▶ PROGRAMACIÓ ▶ PANTALLA 6 | 2025-04-01 16:18 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Erd1kwAg/622-tastet-tut-%E2%96%B6-programaci%C3%B3-%E2%96%B6-pantalla-6 |
+| Completada | TRELLO CONTROL DE TASQUES | 2025-05-05 14:54 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/NdsrqFhG/282-trello-control-de-tasques |
+| Completada | Tastet TUT | 2025-03-21 13:58 | 2025-06-20 19:28 | Jordi Català Llufriu | Meriem | creador, text targeta | 0 | 0 | 0 | https://trello.com/c/0zf2DPZS/899-tastet-tut |
+| Completada | Tastets Jordi Gonzalez | 2025-03-04 09:59 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/qU8dtyUY/1153-tastets-jordi-gonzalez |
+| Completada | VIDEO TALLER VEU ▶ APLICAR CORRECCIONS IMATGES | 2025-03-04 13:23 | 2025-06-20 19:28 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/6eWSMPDv/1119-video-taller-veu-%E2%96%B6-aplicar-correccions-imatges |
+| Completada | Vídeo GUST | 2025-04-04 10:23 | 2025-06-20 19:28 | Jordi Català Llufriu | Meriem | creador | 0 | 0 | 0 | https://trello.com/c/odgcxEdy/523-v%C3%ADdeo-gust |
+| Completada | Vídeo TSA | 2025-03-21 13:53 | 2025-06-20 19:28 | Jordi Català Llufriu | Meriem | creador | 0 | 0 | 0 | https://trello.com/c/QqaCkWb2/900-v%C3%ADdeo-tsa |
+| Completada | https://trello.com/c/b16ml0gT/11-article-educat-la-metodologia-de-la-simulaci%C3%B3-per-a-laprenentatge-dels-docents-aloma-cuin%C3%A9-comas-guanyadora-del-concurs | 2025-03-07 00:04 | 2025-06-20 19:28 | Jordi Català Llufriu |  | creador | 0 | 0 | 0 | https://trello.com/c/9iMRSSAW/1034-https-trellocom-c-b16ml0gt-11-article-educat-la-metodologia-de-la-simulacic3b3-per-a-laprenentatge-dels-docents-aloma-cuinc3a9-c |
+| Completada | «NOVA BOTIGA I SANT JORDI» | 2025-03-24 11:57 | 2025-06-20 19:28 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/u1QvpdU1/789-nova-botiga-i-sant-jordi |
+| Completada | DUBTE BIBLIOGRAFIA LECTURES | 2025-02-24 19:04 | 2025-06-20 19:29 | Isabel López |  | text targeta | 0 | 0 | 0 | https://trello.com/c/1QAeLiNE/1208-dubte-bibliografia-lectures |
+| Completada | Dates elaboració TSA | 2025-02-10 12:18 | 2025-06-20 19:29 | Jordi Català Llufriu |  | creador | 0 | 0 | 0 | https://trello.com/c/iTV6hO6C/1265-dates-elaboraci%C3%B3-tsa |
+| Completada | FUNDAE (ampliar text pàgina bonificacions) | 2025-02-17 11:02 | 2025-06-20 19:29 | Jordi Català Llufriu |  | creador | 0 | 0 | 0 | https://trello.com/c/YsicpF9W/1244-fundae-ampliar-text-p%C3%A0gina-bonificacions |
+| Completada | Missatges concurs blog Educat | 2025-02-10 12:19 | 2025-06-20 19:29 | Jordi Català Llufriu | Meriem | creador | 0 | 0 | 0 | https://trello.com/c/SAHH41Mh/1264-missatges-concurs-blog-educat |
+| Completada | PROMOCIÓ SANT JORDI | 2025-02-12 09:27 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/7whUlAAX/1259-promoci%C3%B3-sant-jordi |
+| Completada | PUBLICACIÓ 11/03/2025: CURS BULLYING. REVISIONS I CORRECCIONS | 2025-03-01 14:06 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Lrnko04S/1167-publicaci%C3%B3-11-03-2025-curs-bullying-revisions-i-correccions |
+| Completada | Promoció Sant Jordi. Botiga | 2025-02-12 09:27 | 2025-06-20 19:29 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/CWxVVJYD/1258-promoci%C3%B3-sant-jordi-botiga |
+| Completada | REDACCIÓ DE TEXT PRESENTACIÓ I EDICIONS | 2025-02-09 18:00 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Zq3goG2i/1269-redacci%C3%B3-de-text-presentaci%C3%B3-i-edicions |
+| Completada | SANT JORDI | 2025-01-22 12:28 | 2025-06-20 19:29 | Isabel López | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/DbBmvHU6/1322-sant-jordi |
+| Completada | SANT JORDI. ENVIAMENT CENTRES | 2025-02-28 20:21 | 2025-06-20 19:29 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/ETRBHmPK/1169-sant-jordi-enviament-centres |
+| Completada | SANT JORDI. MY MOODLE | 2025-02-28 20:21 | 2025-06-20 19:29 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/Ppv7bfN0/1172-sant-jordi-my-moodle |
+| Completada | SANT JORDI. SLIDER (BD) | 2025-02-28 20:21 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/xNxtcO8C/1170-sant-jordi-slider-bd |
+| Completada | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-03-01 13:47 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/XNElkUXD/1168-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| Completada | SORTEIG DE SANT JORDI ▶ REVISIONS I CORRECCIONS | 2025-02-28 20:21 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/5HWQVn1x/1171-sorteig-de-sant-jordi-%E2%96%B6-revisions-i-correccions |
+| Completada | TALLER DE VEU. TEXT CONFIRMACIÓ INSCRIPCIÓ | 2025-02-09 17:44 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/JMT7ZSti/1270-taller-de-veu-text-confirmaci%C3%B3-inscripci%C3%B3 |
+| Completada | TASTETS | 2025-02-14 11:18 | 2025-06-20 19:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/i556mbZG/1255-tastets |
+| Completada | TSA Lectura 1 (primera correcció) | 2025-02-04 10:25 | 2025-06-20 19:29 | Jordi Català Llufriu |  | creador, text targeta | 0 | 0 | 0 | https://trello.com/c/po4JsWXb/1296-tsa-lectura-1-primera-correcci%C3%B3 |
+| Completada | TSA Lectura 2 (primera correcció) | 2025-02-17 15:47 | 2025-06-20 19:29 | Jordi Català Llufriu |  | creador, text targeta | 0 | 0 | 0 | https://trello.com/c/0kxkdwZ0/1242-tsa-lectura-2-primera-correcci%C3%B3 |
+| Completada | TSA Lectura 3 (primera correcció) | 2025-02-17 15:47 | 2025-06-20 19:29 | Jordi Català Llufriu |  | creador, text targeta | 0 | 0 | 0 | https://trello.com/c/mQr7GFlq/1241-tsa-lectura-3-primera-correcci%C3%B3 |
+| Completada | TSA Lectura 4 (primera correcció) | 2025-02-17 15:46 | 2025-06-20 19:29 | Jordi Català Llufriu |  | creador, text targeta | 0 | 0 | 0 | https://trello.com/c/X8FQsUuN/1243-tsa-lectura-4-primera-correcci%C3%B3 |
+| Completada | TSA Lectura 5 (primera correcció) | 2025-02-24 13:06 | 2025-06-20 19:29 | Jordi Català Llufriu |  | creador, text targeta | 0 | 0 | 0 | https://trello.com/c/cUENek2t/1224-tsa-lectura-5-primera-correcci%C3%B3 |
+| Completada | Validacions dates TSA | 2025-02-04 10:27 | 2025-06-20 19:29 | Jordi Català Llufriu | Meriem | creador | 0 | 0 | 0 | https://trello.com/c/QgsA2oEq/1295-validacions-dates-tsa |
+| Completada | REENVIAMENT CORREUS CORRECCIÓ I TUTORIA | 2025-11-26 11:44 | 2026-02-02 12:51 | Isabel López | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/acTbGg8e/4054-reenviament-correus-correcci%C3%B3-i-tutoria |
+| Completada | REUNIO 21/10/2025 | 2025-10-21 07:48 | 2026-02-02 12:51 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/39SPy8aE/4031-reunio-21-10-2025 |
+| Completada | REUNIO 28/10/2025 | 2025-10-22 11:55 | 2026-02-02 12:51 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/0OpvSwZB/4043-reunio-28-10-2025 |
+| Completada | REUNIO 02/12/2026 | 2025-11-25 17:09 | 2026-02-02 12:52 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/2oIa2Yyj/4176-reunio-02-12-2026 |
+| Completada | REUNIO 10/12/2025 | 2025-12-09 11:03 | 2026-02-02 12:52 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/mbqnj6UY/4177-reunio-10-12-2025 |
+| Completada | REUNIO 19/11/02025 | 2025-11-19 10:26 | 2026-02-02 12:52 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/3I417cQY/4134-reunio-19-11-02025 |
+| Completada | REUNIO 25/11/2025 | 2025-11-24 20:32 | 2026-02-02 12:52 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/FH8bCEh8/4135-reunio-25-11-2025 |
+| Completada | REUNIO 15/12/2025 | 2025-12-10 18:53 | 2026-02-02 12:53 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/A8IOUz4r/4254-reunio-15-12-2025 |
+| Completada | NOVA IMATGE MICRO? | 2026-02-16 11:36 | 2026-02-26 17:12 | Pablo Martori |  | text targeta | 0 | 0 | 0 | https://trello.com/c/nUVFXkER/4531-nova-imatge-micro |
+| Completada | ENVIAMENT LLIBRES | 2025-07-29 09:41 | 2026-02-26 17:13 | Pablo Martori | Pablo Martori | text targeta | 0 | 0 | 0 | https://trello.com/c/iZwPHRCQ/4409-enviament-llibres |
+| Completada | NOU CURS: RASTREJA'LS | 2025-06-20 21:22 | 2026-02-26 17:13 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/c1BNLXoK/4410-nou-curs-rastrejals |
+| Completada | MAILING PROJ | 2026-03-05 22:03 | 2026-03-23 03:44 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/uyGogs4E/4710-mailing-proj |
+| Completada | PROMOCIÓ SANT JORDI | 2026-03-03 21:27 | 2026-03-23 03:44 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/u47JeuNo/4714-promoci%C3%B3-sant-jordi |
+| Completada | SORTEIG SANT JORDI ▶ PÀGINA SORTEJOS ▶ CONTINGUT | 2026-03-01 01:09 | 2026-03-23 03:44 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/jHM69K5I/4697-sorteig-sant-jordi-%E2%96%B6-p%C3%A0gina-sortejos-%E2%96%B6-contingut |
+| Completada | PROMOCIÓ DE SANT JORDI | 2026-03-10 13:29 | 2026-03-23 03:45 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/Ttc1MFq6/4808-promoci%C3%B3-de-sant-jordi |
+| Completada | SANT JORDI ▶ EDUCAT ▶ REFER IMATGE | 2026-03-18 08:45 | 2026-03-23 03:45 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ZIVtVd2b/4814-sant-jordi-%E2%96%B6-educat-%E2%96%B6-refer-imatge |
+| Completada | SANT JORDI ▶ REVISAR CONTINGUT | 2026-02-25 14:39 | 2026-03-23 03:45 | Meriem | Meriem, Isabel López, Pablo Martori | text targeta | 0 | 0 | 0 | https://trello.com/c/RkiNeT8q/4813-sant-jordi-%E2%96%B6-revisar-contingut |
+| Completada | SANT JORDI ▶ REVISAR CONTINGUT | 2026-01-28 11:27 | 2026-03-23 03:45 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Pablo Martori | text targeta | 0 | 0 | 0 | https://trello.com/c/cy7eDlgV/4812-sant-jordi-%E2%96%B6-revisar-contingut |
+| Completada | SANT JORDI ▶ CONTINGUT | 2026-01-28 11:28 | 2026-07-01 15:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/2IrOrMHc/4683-sant-jordi-%E2%96%B6-contingut |
+| Completada | SANT JORDI ▶ CONTINGUT | 2026-01-28 11:28 | 2026-07-01 15:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/yH7XqjqZ/4682-sant-jordi-%E2%96%B6-contingut |
+| Completada | SORTEIG SANT JORDI ▶ CONTINGUT | 2026-03-01 02:00 | 2026-07-01 15:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/XoVjV3Bv/4695-sorteig-sant-jordi-%E2%96%B6-contingut |
+| Completada | SORTEIG SANT JORDI ▶ CONTINGUT | 2026-03-01 01:34 | 2026-07-01 15:29 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/sGxEGkdv/4686-sorteig-sant-jordi-%E2%96%B6-contingut |
+| Completada | SANT JORDI ▶ CONTINGUT | 2026-03-01 02:01 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/FinuMbrr/4684-sant-jordi-%E2%96%B6-contingut |
+| Completada | SANT JORDI ▶ IMATGES | 2026-01-28 11:28 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Zppcuruf/4694-sant-jordi-%E2%96%B6-imatges |
+| Completada | SANT JORDI ▶ IMATGES | 2026-01-28 11:28 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/CtCl2FeZ/4690-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG SANT JORDI  ▶ 09/04 ▶ PREPARAR CONTINGUT | 2026-02-24 00:06 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ZlToznus/4685-sorteig-sant-jordi-%E2%96%B6-09-04-%E2%96%B6-preparar-contingut |
+| Completada | SORTEIG SANT JORDI ▶ CONTINGUT | 2026-03-01 01:37 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/aq8v7hvZ/4574-sorteig-sant-jordi-%E2%96%B6-contingut |
+| Completada | SORTEIG SANT JORDI ▶ IMATGES | 2026-03-01 01:59 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/A6svN2Ti/4696-sorteig-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG SANT JORDI ▶ IMATGES | 2026-03-09 07:46 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/pRuF7VOy/4691-sorteig-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG SANT JORDI ▶ PREPARAR BASES LEGALS | 2026-02-24 00:06 | 2026-07-01 15:30 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/EE1PUxZf/4692-sorteig-sant-jordi-%E2%96%B6-preparar-bases-legals |
+| Completada | SANT JORDI ▶ IMATGES | 2026-01-28 11:28 | 2026-07-01 15:31 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/9UJdcU5I/4688-sant-jordi-%E2%96%B6-imatges |
+| Completada | SANT JORDI ▶ IMATGES | 2026-01-28 11:27 | 2026-07-01 15:31 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/FcqA8xOZ/4693-sant-jordi-%E2%96%B6-imatges |
+| Completada | SORTEIG SANT JORDI  ▶ 09/04 ▶ PREPARAR IMATGES | 2026-02-24 00:06 | 2026-07-01 15:31 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/abM5MI7F/4689-sorteig-sant-jordi-%E2%96%B6-09-04-%E2%96%B6-preparar-imatges |
+| Completada | SORTEIG SANT JORDI ▶ PÀGINA SORTEJOS ▶ IMATGE | 2026-02-24 00:06 | 2026-07-01 15:31 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/4Ndb9Pgd/4687-sorteig-sant-jordi-%E2%96%B6-p%C3%A0gina-sortejos-%E2%96%B6-imatge |
+| Completada | SANT JORDI ▶ IMATGES | 2026-01-28 11:28 | 2026-07-01 15:39 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/SmGkKA8L/4817-sant-jordi-%E2%96%B6-imatges |
+| Completada 23/03/2026 - 16/04/2026 | CANVA | 2026-04-13 15:34 | 2026-04-16 19:46 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/n0VFLp47/5071-canva |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI  ▶ 23/04 ▶ PREPARAR CONTINGUT | 2026-03-02 12:12 | 2026-04-16 19:46 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/cFNADRCJ/4975-sant-jordi-%E2%96%B6-23-04-%E2%96%B6-preparar-contingut |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI  ▶ 23/04 ▶ PREPARAR IMATGES | 2026-03-02 12:12 | 2026-04-16 19:46 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ysV6PwaF/4974-sant-jordi-%E2%96%B6-23-04-%E2%96%B6-preparar-imatges |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI ▶ Descompte Sant Jordi | 2026-02-25 14:39 | 2026-04-16 19:46 | Meriem | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/cUERsxqh/4871-sant-jordi-%E2%96%B6-descompte-sant-jordi |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI ▶ ENVIAMENT (CENTRES) | 2026-02-25 14:40 | 2026-04-16 19:46 | Meriem | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/QSy2hVUV/5023-sant-jordi-%E2%96%B6-enviament-centres |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI ▶ ENVIAMENT (SUBSCRIPTORS) | 2026-02-25 14:40 | 2026-04-16 19:46 | Meriem | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/X3PXxO8t/5022-sant-jordi-%E2%96%B6-enviament-subscriptors |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI ▶ HTML | 2026-02-25 14:40 | 2026-04-16 19:46 | Meriem | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/pUbVgAbQ/4873-sant-jordi-%E2%96%B6-html |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI ▶ HTML | 2026-02-25 14:40 | 2026-04-16 19:46 | Meriem | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/xI1Phcs5/4872-sant-jordi-%E2%96%B6-html |
+| Completada 23/03/2026 - 16/04/2026 | SANT JORDI ▶ HTML | 2026-02-25 14:40 | 2026-04-16 19:46 | Meriem | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/s4T0ehJW/4867-sant-jordi-%E2%96%B6-html |
+| Completada 23/03/2026 - 16/04/2026 | SORTEIG SANT JORDI ▶ 09/04 ▶ PREPARAR IMATGES | 2026-04-08 20:05 | 2026-07-01 15:54 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/dkRHl0OC/5021-sorteig-sant-jordi-%E2%96%B6-09-04-%E2%96%B6-preparar-imatges |
+| GENERAL | REUNIÓ AMB EN JORDI - ORGANITZACIÓ CORRECCIONS DE COSES PENDENTS | 2025-09-28 20:10 | 2025-09-28 20:10 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/HjKECtAZ/3456-reuni%C3%B3-amb-en-jordi-organitzaci%C3%B3-correccions-de-coses-pendents |
+| GENERAL | ESCOLLIR ESLÒGAN BON ANY | 2025-09-25 16:19 | 2025-10-01 01:42 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/VVpb2X2V/3520-escollir-esl%C3%B2gan-bon-any |
+| GENERAL | ESCOLLIR ESLÒGAN BONES FESTES | 2025-09-25 16:18 | 2025-10-01 01:42 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/n4fyjZnN/3521-escollir-esl%C3%B2gan-bones-festes |
+| GENERAL | ESCOLLIR ESLÒGAN REGALA | 2025-09-25 17:01 | 2025-10-01 01:42 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/rouEcJX0/3519-escollir-esl%C3%B2gan-regala |
+| INTRANET | RECLAMACIÓ FINAL I BAIXES ▶ MSG APROVAT ▶ CORRECCIONS | 2025-06-20 19:35 | 2025-06-20 20:54 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/JXWIDYoY/1650-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-aprovat-%E2%96%B6-correccions |
+| INTRANET | RECLAMACIÓ FINAL I BAIXES ▶ MSG NO APROVAT I NO PAGAT RES ▶ CORRECCIONS | 2025-06-20 19:35 | 2025-06-20 20:54 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Pn1cc0g7/1649-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-no-aprovat-i-no-pagat-res-%E2%96%B6-correccions |
+| INTRANET | RECLAMACIÓ FINAL I BAIXES ▶ MSG NO APROVAT I PAGAT UNA PART ▶ CORRECCIONS | 2025-06-20 19:35 | 2025-06-20 20:54 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Bn890wW8/1648-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-no-aprovat-i-pagat-una-part-%E2%96%B6-correccions |
+| INTRANET | RECLAMACIÓ FINAL I BAIXES ▶ MSG TUTOR APROVAT ▶ CORRECCIONS | 2025-06-20 19:35 | 2025-06-20 20:54 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/aJia6L7f/1652-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-tutor-aprovat-%E2%96%B6-correccions |
+| INTRANET | RECLAMACIÓ FINAL I BAIXES ▶ MSG TUTOR NO APROVAT ▶ CORRECCIONS | 2025-06-20 19:35 | 2025-06-20 20:54 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/K5R3xZD7/1651-reclamaci%C3%B3-final-i-baixes-%E2%96%B6-msg-tutor-no-aprovat-%E2%96%B6-correccions |
+| MAILING | PROMOCIO PEL JULOL I FAQ ▶ REVISAR IDEA CONTINGUT | 2025-06-11 22:35 | 2025-09-26 15:57 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/oKtY1XIr/2717-promocio-pel-julol-i-faq-%E2%96%B6-revisar-idea-contingut |
+| MAILING | PACKS ▶ REVISAR CONTINGUT | 2025-06-21 03:45 | 2025-09-28 20:00 | Meriem | Meriem, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/njXIWCtr/3394-packs-%E2%96%B6-revisar-contingut |
+| MAILING | FUNDAE ▶ REVISAR CONTINGUT | 2025-06-21 03:45 | 2025-09-28 20:01 | Meriem | Meriem, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/UdhtjazL/3249-fundae-%E2%96%B6-revisar-contingut |
+| MAILING | SALUT MENTAL ▶ REVISAR CONTINGUT | 2025-06-21 03:44 | 2025-09-28 20:01 | Meriem | Meriem, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/HyHq9FiM/3236-salut-mental-%E2%96%B6-revisar-contingut |
+| MAILING | BON ANY ▶ REVISAR CONTINGUT | 2025-10-01 23:45 | 2025-10-25 22:53 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/7zuhnDjG/3646-bon-any-%E2%96%B6-revisar-contingut |
+| MAILING | FUNDAE + DTE GRUPS  ▶ REVISAR CONTINGUT | 2025-10-01 23:45 | 2025-10-25 22:53 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/9fLLj4Po/3644-fundae-dte-grups-%E2%96%B6-revisar-contingut |
+| MAILING | MPIA VIDEO ▶ REVISAR CONTINGUT | 2025-04-22 17:53 | 2025-10-25 22:53 | Meriem | Meriem, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/uFOLv8oC/3645-mpia-video-%E2%96%B6-revisar-contingut |
+| MAILING | PERFILS PROFESSIONALS ▶ REVISAR CONTINGUT | 2025-09-20 03:58 | 2025-10-25 22:53 | Meriem | Meriem, Jordi Català Llufriu, Pablo Martori, Isabel López, Adam Carmona NOU | membre | 0 | 0 | 0 | https://trello.com/c/aWzk7gPc/3647-perfils-professionals-%E2%96%B6-revisar-contingut |
+| MAILING | REGALA (RECORDATORI) ▶ REVISAR CONTINGUT | 2025-10-01 15:51 | 2025-10-25 22:53 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/xNH195iZ/3642-regala-recordatori-%E2%96%B6-revisar-contingut |
+| MAILING | REGALA ▶ REVISAR CONTINGUT | 2025-10-01 12:44 | 2025-10-25 22:53 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/y5hcvAhp/3641-regala-%E2%96%B6-revisar-contingut |
+| MOODLE | MPIA ▶ LECTURA 1 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-09 15:25 | 2025-09-28 20:05 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/AKkn25Lc/2719-mpia-%E2%96%B6-lectura-1-%E2%96%B6-aplicar-canvis-segona-correccio |
+| MOODLE | MPIA ▶ LECTURA 2 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-09 15:25 | 2025-09-28 20:05 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/JDAV6oEr/2720-mpia-%E2%96%B6-lectura-2-%E2%96%B6-aplicar-canvis-segona-correccio |
+| MOODLE | MPIA ▶ LECTURA 3 ▶ APLICAR CANVIS SEGONA CORRECCIO | 2025-06-09 15:25 | 2025-09-28 20:05 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/qgLra5Pd/2721-mpia-%E2%96%B6-lectura-3-%E2%96%B6-aplicar-canvis-segona-correccio |
+| MOODLE | SANT JORDI. MY MOODLE | 2025-06-20 19:35 | 2025-09-28 20:05 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/q4RprOSI/2054-sant-jordi-my-moodle |
+| MOODLE | SORTEIG DE SANT JORDI ▶ HTML | 2025-06-20 19:35 | 2025-09-28 20:05 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/6XcPOGNo/2055-sorteig-de-sant-jordi-%E2%96%B6-html |
+| MÀRQUETING | BOTIGA ▶ SANT JORDI ▶ CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/hNnEPW7p/2142-botiga-%E2%96%B6-sant-jordi-%E2%96%B6-contingut |
+| MÀRQUETING | BOTIGA ▶ SANT JORDI ▶ IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/hANo8rB3/2122-botiga-%E2%96%B6-sant-jordi-%E2%96%B6-imatges |
+| MÀRQUETING | BOTIGA ▶ SANT JORDI ▶ REVISAR SLIDER | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem, Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/6MKYdQoG/2629-botiga-%E2%96%B6-sant-jordi-%E2%96%B6-revisar-slider |
+| MÀRQUETING | PROMOCIÓ SANT JORDI | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ZWxeJCvH/2391-promoci%C3%B3-sant-jordi |
+| MÀRQUETING | SANT JORDI | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd5eef8313efba0ff34 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/qK8C67GY/2373-sant-jordi |
+| MÀRQUETING | SANT JORDI. ENVIAMENT CENTRES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/49iNNR6G/2090-sant-jordi-enviament-centres |
+| MÀRQUETING | SANT JORDI. ENVIAMENT SUBSCRIPTORS | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/8DPrsAEa/2089-sant-jordi-enviament-subscriptors |
+| MÀRQUETING | SANT JORDI. IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/O6A3kMsi/2121-sant-jordi-imatges |
+| MÀRQUETING | SANT JORDI. IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/bJDppotw/2149-sant-jordi-imatges |
+| MÀRQUETING | SANT JORDI. IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/6fG2z56q/2148-sant-jordi-imatges |
+| MÀRQUETING | SANT JORDI. PREPARAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/qextuwNA/2147-sant-jordi-preparar-contingut |
+| MÀRQUETING | SANT JORDI. PREPARAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/ALe236G7/2150-sant-jordi-preparar-contingut |
+| MÀRQUETING | SANT JORDI. REVISAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem, Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/jXCeT0zQ/1912-sant-jordi-revisar-contingut |
+| MÀRQUETING | SANT JORDI. REVISAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem, Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/zIYgpDCQ/1888-sant-jordi-revisar-contingut |
+| MÀRQUETING | SANT JORDI. SLIDER (BD) | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/DsXFSbPo/2397-sant-jordi-slider-bd |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/smRlCRZ3/2155-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/CLf4ahMe/2161-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/aRYB4cml/2157-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ ENVIAMENT (CENTRES) | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/L0czftJp/2091-sorteig-de-sant-jordi-%E2%96%B6-enviament-centres |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ ENVIAMENT (SUBSCRIPTORS) | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/0vWWlYvr/2092-sorteig-de-sant-jordi-%E2%96%B6-enviament-subscriptors |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ HTML | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/TgsIz9fJ/2392-sorteig-de-sant-jordi-%E2%96%B6-html |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/4EcjKOP4/2163-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/eTrQfiIo/2124-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/JSSzVdcZ/2162-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Mr0bf3g1/2159-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ REVISAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem, Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/ZIwE4vYZ/1908-sorteig-de-sant-jordi-%E2%96%B6-revisar-contingut |
+| MÀRQUETING | SORTEIG DE SANT JORDI ▶ REVISAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:47 | 68559bd2eef8313efba0db02 | Meriem, Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/ikiEsUBT/1909-sorteig-de-sant-jordi-%E2%96%B6-revisar-contingut |
+| MÀRQUETING | BON ANY ▶ REVISAR CONTINGUT | 2025-10-01 23:45 | 2025-10-25 22:57 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/yurUf9jh/3643-bon-any-%E2%96%B6-revisar-contingut |
+| MÀRQUETING | BONES FESTES ▶ REVISAR CONTINGUT | 2025-10-01 23:45 | 2025-10-25 22:57 | Meriem | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/dWUhcxrn/3640-bones-festes-%E2%96%B6-revisar-contingut |
+| REUNIONS | CORRECCIONS GUST A ELAB | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd5eef8313efba0ff34 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/hbcAZeW0/2022-correccions-gust-a-elab |
+| REUNIONS | ESTAT DELS CURSOS | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd2eef8313efba0db02 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/xXHQOfsh/2023-estat-dels-cursos |
+| REUNIONS | ICONES LECTURES GUST | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd5eef8313efba0ff34 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/tqlHrIo4/2021-icones-lectures-gust |
+| REUNIONS | REUNIO 03/06/2025 | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/wGuR8i5N/2037-reunio-03-06-2025 |
+| REUNIONS | REUNIO 06/05/2025 | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/FnqGdXmE/2033-reunio-06-05-2025 |
+| REUNIONS | REUNIO 10/06/2025 | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/gkKkZFDN/2038-reunio-10-06-2025 |
+| REUNIONS | REUNIO 12/05/2025 | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/kvZfHkte/2034-reunio-12-05-2025 |
+| REUNIONS | REUNIO 20/05/2025 | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Pablo Martori, Adam Carmona NOU, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/MeHBz4BC/2035-reunio-20-05-2025 |
+| REUNIONS | REUNIO 27/05/2025 | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/Xce7TilC/2036-reunio-27-05-2025 |
+| REUNIONS | REVISIÓ TOTES LES BIBLIOGRAFIES | 2025-06-20 19:35 | 2025-06-21 01:41 | 68559bd5eef8313efba0ff34 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/V7X65hg5/2020-revisi%C3%B3-totes-les-bibliografies |
+| REUNIONS | BOTIGA | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/xhhImSYE/2333-botiga |
+| REUNIONS | DUBTE BIBLIOGRAFIA LECTURES | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd5eef8313efba0ff34 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/7veEDD25/2348-dubte-bibliografia-lectures |
+| REUNIONS | REUNIO 15/04/2025 | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/d0tu7Ziq/2303-reunio-15-04-2025 |
+| REUNIONS | REUNIO 22/04/2025 | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/wPntq1W1/2301-reunio-22-04-2025 |
+| REUNIONS | REUNIO 29/04/2025 | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/8DWO5qmt/2304-reunio-29-04-2025 |
+| REUNIONS | TASTETS | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/kE9Wgohr/2352-tastets |
+| REUNIONS | TRELLO CONTROL DE TASQUES | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/poG18kAN/2311-trello-control-de-tasques |
+| REUNIONS | Tastets Jordi Gonzalez | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/C3AgW3XD/2345-tastets-jordi-gonzalez |
+| REUNIONS | «NOVA BOTIGA I SANT JORDI» | 2025-06-20 19:35 | 2025-06-21 02:25 | 68559bd2eef8313efba0db02 |  | text targeta | 0 | 0 | 0 | https://trello.com/c/8VYrVQ42/2331-nova-botiga-i-sant-jordi |
+| REUNIONS | REUNIO 01/04/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/MvUxiwts/2594-reunio-01-04-2025 |
+| REUNIONS | REUNIO 04/02/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Pablo Martori, Jordi Català Llufriu, Adam Carmona NOU | membre | 0 | 0 | 0 | https://trello.com/c/Mdltsk33/2595-reunio-04-02-2025 |
+| REUNIONS | REUNIO 04/03/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Pablo Martori, Adam Carmona NOU, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/aHA98yHv/2608-reunio-04-03-2025 |
+| REUNIONS | REUNIO 08/04/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/DVM3fbMT/2593-reunio-08-04-2025 |
+| REUNIONS | REUNIO 11/03/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Pablo Martori, Jordi Català Llufriu, Adam Carmona NOU | membre | 0 | 0 | 0 | https://trello.com/c/d4aJXePX/2605-reunio-11-03-2025 |
+| REUNIONS | REUNIO 18/02/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Pablo Martori, Jordi Català Llufriu, Adam Carmona NOU | membre | 0 | 0 | 0 | https://trello.com/c/UcAvjAeU/2612-reunio-18-02-2025 |
+| REUNIONS | REUNIO 18/03/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Pablo Martori, Jordi Català Llufriu, Adam Carmona NOU | membre | 0 | 0 | 0 | https://trello.com/c/9kOuHYQx/2601-reunio-18-03-2025 |
+| REUNIONS | REUNIO 21/01/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/i6zd6WNi/2606-reunio-21-01-2025 |
+| REUNIONS | REUNIO 25/02/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Pablo Martori, Adam Carmona NOU, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/dktuwpiI/2611-reunio-25-02-2025 |
+| REUNIONS | REUNIO 28/01/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Isabel López, Jordi Català Llufriu, Adam Carmona NOU, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/3957Nb0g/2600-reunio-28-01-2025 |
+| REUNIONS | REUNIÓ 11/02/2025 | 2025-06-20 19:35 | 2025-06-21 02:45 | 68559bd2eef8313efba0db02 | Meriem, Adam Carmona NOU, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/a65lRKyJ/2590-reuni%C3%B3-11-02-2025 |
+| REUNIONS | REUNIO 17/06/2025 | 2025-06-16 11:40 | 2025-09-26 15:57 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/GMmfLdXw/2677-reunio-17-06-2025 |
+| REUNIONS | REUNIO 25/06/2025 | 2025-06-19 00:09 | 2025-09-26 15:58 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/rFIeluUq/2839-reunio-25-06-2025 |
+| REUNIONS | PDF lectures GUST? | 2025-07-08 10:07 | 2025-09-26 15:59 | Jordi Català Llufriu |  | creador | 0 | 0 | 0 | https://trello.com/c/RVluqJQ9/2854-pdf-lectures-gust |
+| REUNIONS | REUNIO 08/07/2025 | 2025-06-30 22:59 | 2025-09-26 15:59 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/0HhZ7WaM/2856-reunio-08-07-2025 |
+| REUNIONS | REUNIO 15/07/2025 | 2025-07-10 22:22 | 2025-09-28 19:37 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/sKwL9aR5/3000-reunio-15-07-2025 |
+| REUNIONS | REUNIO 21/07/2025 | 2025-07-21 09:22 | 2025-09-28 19:37 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/qhGfbhEM/3001-reunio-21-07-2025 |
+| REUNIONS | VACANCES I HORARIS | 2025-07-24 14:40 | 2025-09-28 19:37 | Meriem | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/mUa2eoU4/3003-vacances-i-horaris |
+| REUNIONS | ESTAT CURSOS 15 HORES | 2025-08-21 13:21 | 2025-09-28 19:38 | Pablo Martori |  | text targeta | 0 | 0 | 0 | https://trello.com/c/ceKC4BQx/3193-estat-cursos-15-hores |
+| REUNIONS | PROXIMA REUNIO ENTRE TOTS (02/09/2025) | 2025-08-07 14:16 | 2025-09-28 19:38 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/7Ra4tBOH/3300-proxima-reunio-entre-tots-02-09-2025 |
+| REUNIONS | Packs | 2025-09-16 09:52 | 2025-09-28 19:38 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/atNpS9GJ/3417-packs |
+| REUNIONS | REUNIO 29/07/2025 | 2025-07-24 14:44 | 2025-09-28 19:38 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/Ow3qV3Ia/3040-reunio-29-07-2025 |
+| REUNIONS | REUNION (09/09/2025) | 2025-09-02 14:51 | 2025-09-28 19:38 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/5lUKvD1G/3301-reunion-09-09-2025 |
+| REUNIONS | MÍNIMS, ESPAI XS I TASTETS, FAQ | 2025-10-13 10:38 | 2025-10-25 22:53 | Meriem |  | text targeta | 0 | 0 | 0 | https://trello.com/c/BwoGNUNw/3671-m%C3%ADnims-espai-xs-i-tastets-faq |
+| REUNIONS | REUNIO 23/09/2025 | 2025-09-10 18:40 | 2025-10-25 22:53 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/iMErYIvE/3637-reunio-23-09-2025 |
+| REUNIONS | REUNIO 30/09/2025 | 2025-09-24 11:27 | 2025-10-25 22:53 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/rvu1gZaz/3650-reunio-30-09-2025 |
+| REUNIONS | REUNIO 07/10/2025 | 2025-09-30 17:46 | 2025-10-25 22:54 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/J2tTfcpH/3668-reunio-07-10-2025 |
+| REUNIONS | TÍTOL RASTREJA'LS | 2025-10-06 23:23 | 2025-10-25 22:54 | Jordi Català Llufriu |  | creador | 0 | 0 | 0 | https://trello.com/c/43Kzr8yP/3663-t%C3%ADtol-rastrejals |
+| REUNIONS | REUNIO 14/10/2025 | 2025-10-09 10:06 | 2026-04-16 19:56 | Meriem | Meriem, Isabel López, Adam Carmona NOU, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/Ts3j4hqr/3968-reunio-14-10-2025 |
+| WEB | GUST ▶ VIDEO INFO  ▶ MUNTATGE | 2025-06-20 19:35 | 2025-09-28 19:45 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/G0UP8i49/2411-gust-%E2%96%B6-video-info-%E2%96%B6-muntatge |
+| WEB | INFO TSA | 2025-06-20 19:35 | 2025-09-28 19:45 | 68559bd5eef8313efba0ff22 | Meriem, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/5CkkKMqV/2555-info-tsa |
+| WEB | Promoció Sant Jordi. Botiga | 2025-06-20 19:35 | 2025-09-28 19:45 | 68559bd2eef8313efba0db02 | Isabel López | text targeta | 0 | 0 | 0 | https://trello.com/c/j7yDZq5n/2579-promoci%C3%B3-sant-jordi-botiga |
+| WEB | REDACCIÓ DE TEXT PRESENTACIÓ I EDICIONS | 2025-06-20 19:35 | 2025-09-28 19:45 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/hdD67uxU/2457-redacci%C3%B3-de-text-presentaci%C3%B3-i-edicions |
+| WEB | TALLER DE VEU. TEXT CONFIRMACIÓ INSCRIPCIÓ | 2025-06-20 19:35 | 2025-09-28 19:45 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/hxWDMbIO/2454-taller-de-veu-text-confirmaci%C3%B3-inscripci%C3%B3 |
+| WEB | Vídeo TSA | 2025-06-20 19:35 | 2025-09-28 19:45 | 68559bd5eef8313efba1009f | Meriem, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/LxpKYAmd/2413-v%C3%ADdeo-tsa |
+| WEB | FUNDAE (ampliar text pàgina bonificacions) | 2025-06-20 21:18 | 2025-09-28 19:50 | Meriem | Adam Carmona NOU, Jordi Català Llufriu, Meriem | membre | 0 | 0 | 0 | https://trello.com/c/cTddHaWp/3272-fundae-ampliar-text-p%C3%A0gina-bonificacions |
+| WEB | PERFILS PROFESSIONALS ▶ AFEGIR QUE PODEN VEURE LES PREGUNTES MÉS FREQÜENTS A LA PART INFERIOR DE LA PÀGINA | 2025-07-08 13:26 | 2025-09-28 19:50 | Meriem | Isabel López, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/5iMw1gBL/3282-perfils-professionals-%E2%96%B6-afegir-que-poden-veure-les-preguntes-m%C3%A9s-freq%C3%BCents-a-la-part-inferior-de-la-p%C3%A0gina |
+| WEB | NOUS PACKS ▶ CORREGIR PRESENTACIÓ, SHORT I META DESCRIPTION | 2025-09-10 16:21 | 2025-09-28 19:51 | Meriem | Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/wHiOo2HQ/3416-nous-packs-%E2%96%B6-corregir-presentaci%C3%B3-short-i-meta-description |
+| WEB | NOUS PACKS ▶ ESCOLLIR I REVISAR TITOLS PACKS | 2025-09-10 16:19 | 2025-09-28 19:51 | Meriem | Meriem, Isabel López, Jordi Català Llufriu, Pablo Martori | membre | 0 | 0 | 0 | https://trello.com/c/CRVokWys/3385-nous-packs-%E2%96%B6-escollir-i-revisar-titols-packs |
+| WEB | NOVA TUTORA CAT: MARTA TREIG | 2025-07-24 09:11 | 2025-09-28 20:07 | Isabel López | Isabel López, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/g54XWUS8/2918-nova-tutora-cat-marta-treig |
+| WEB | NOVA TUTORA: BERTA CALZADA | 2025-08-28 15:09 | 2025-09-28 20:08 | Isabel López | Isabel López, Jordi Català Llufriu | membre | 0 | 0 | 0 | https://trello.com/c/E5gU5FLG/3147-nova-tutora-berta-calzada |
+| XARXES | PUBLICACIÓ 11/03/2025: CURS BULLYING. REVISIONS I CORRECCIONS | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/sU6OsOEI/1924-publicaci%C3%B3-11-03-2025-curs-bullying-revisions-i-correccions |
+| XARXES | SANT JORDI ▶ PREPARAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/GoQIp6Wl/1565-sant-jordi-%E2%96%B6-preparar-contingut |
+| XARXES | SANT JORDI ▶ PREPARAR CONTINGUT DEPT XARXES | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/Jbf5ojyM/1568-sant-jordi-%E2%96%B6-preparar-contingut-dept-xarxes |
+| XARXES | SANT JORDI ▶ PREPARAR IMATGES | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/p6zKldA6/1567-sant-jordi-%E2%96%B6-preparar-imatges |
+| XARXES | SANT JORDI ▶ REVISAR CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/FSVw4Bxw/1351-sant-jordi-%E2%96%B6-revisar-contingut |
+| XARXES | SORTEIG DE SANT JORDI ▶ CONTINGUT | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/gxTjMcHG/1469-sorteig-de-sant-jordi-%E2%96%B6-contingut |
+| XARXES | SORTEIG DE SANT JORDI ▶ DEPT | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/2aRBcCzU/1468-sorteig-de-sant-jordi-%E2%96%B6-dept |
+| XARXES | SORTEIG DE SANT JORDI ▶ IMATGES | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/GYw2fFsI/1472-sorteig-de-sant-jordi-%E2%96%B6-imatges |
+| XARXES | SORTEIG DE SANT JORDI ▶ REVISIONS I CORRECCIONS | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/gqCEymh6/1474-sorteig-de-sant-jordi-%E2%96%B6-revisions-i-correccions |
+| XARXES | VIDEO TALLER VEU ▶ APLICAR CORRECCIONS IMATGES | 2025-06-20 19:35 | 2025-09-28 19:36 | 68559bd2eef8313efba0db02 | Meriem | text targeta | 0 | 0 | 0 | https://trello.com/c/hkA1HFXA/1923-video-taller-veu-%E2%96%B6-aplicar-correccions-imatges |
+
+## Lectura probatoria prudente
+
+- Este tauler prueba la existencia de un sistema de comunicacion interna por Trello para informar tareas completadas que afectan al equipo.
+- No debe presentarse como prueba de incumplimiento por si solo: es un registro de finalizacion/comunicacion.
+- Es util para demostrar que el equipo usaba Trello para reducir llamadas, dejar trazabilidad y compartir estado de tareas.
+- Las targetas relacionadas con Jordi deben contrastarse con el tablero de origen/control de tareas, porque este tauler registra la fase de completado o comunicacion posterior.

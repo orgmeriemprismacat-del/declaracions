@@ -1,0 +1,68 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-04-15.docx
+SOURCE_LAST_WRITE: 2025-05-06 00:36:46
+EXTRACTED_AT: 2026-07-15 00:04:20
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 15 d’abril de 2025
+Hora: 10:10 a 12:00
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Tastet TUT
+ASSIA
+GUST (Calendari)
+Cursos (Proposta de calendari de promocions segons dispo)
+ENTITATS / FACTURES ABANS DE PAGAR / RECLAMACIONS
+Pack Marina
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Preguntes freqüents CDD
+Reconeixement GUST i TSA
+ACORDS:
+Tastet TUT
+Ja tenim el tastet a punt i l’acabem de revisar durant la reunió. S'han proposat alguna canvis I la Meriem els ha programat. Pablo li envia un Whatsapp a en Jordi G. perquè li doni el vist i plau per poder-lo promocionar demà. Per la tarda en Jordi valida el tastet:
+«Magnífic!! Està genial. Disculpeu no haver dit res abans, és que estic de viatge. El tastet em sembla molt xulo. Ostres, fer-ne difusió a les escoles i instituts via correu electrònic seria una molt bona idea!!! Dona ja alguna pauta moooolt important i queda magnífic amb aquest disseny. Merci per la feinada de tots!!!»
+Decidim el nom del tastet perquè Google l’entengui ja que Les Tres Potes de la Tutoria tot i ser un bon nom no serviria tant per cercar i tenir un bon posicionament. El nom triat és Millora la Teva Tutoria https://campus.prisma.cat/mod/lesson/view.php?id=70491
+Traiem l’accent a l’activitat 9
+En Jordi C. farà una revisió i enviarà un correu amb totes les correccions per poder enviar el mailing demà.
+ASSIA
+L’autora del curs demana fer un canvi al títol del curs, en comptes de Crea el Teu Assistent d’IA per Elaborar Materials Pedagògics diu que el voldria canviar per Crea materials pedagògics amb intel·ligència artificial.
+Finalment ens decidim per: Creació de Materials Pedagògics amb Intel·ligència Artificial.
+Pablo ja ho ha modificat al GTAF i demà demanarà el reconeixement.
+L’autora es compromet a entregar la 1a lectura el 25 d'abril (en Jordi li farà la retroacció en 2 o 3 dies), la 2a el 9 de maig i la 3a el 16 de maig.  Pel 23 de maig vol tenir tot entregat. El 25 d’abril pablo i Jordi tindran una reunió per preparar un calendari d’elaboració.
+GUST (Calendari)
+A la reunió que faran Pablo i Jordi prepararan també un calendari d’elaboració de GUST (que ja està reconegut). Jordi farà una revisió de tot el que ha enviat per preparar el calendari el 25 d’abril.
+La Isa hauria de començar a passar lectures a HTML la setmana del 28 d’abril.
+La idea és seguir l’ordre proposat per l’Albert per no haver de fer massa canvis (lectura-activitat, lectura-activitat, …, tot i que podem anar inserint dins les lectures els vídeos que vagin fora i hi pertanyin a aquesta.
+Albert ja ha penjat molt de material al curs d’elaboració.
+Cursos (Proposta de calendari de promocions segons dispo)
+Tot i que GUST ja està reconegut per començar-lo al juny, el començarem al juliol. Jordi els recordarà que han d’enviar els vídeos, currículums i fotos a l’Albert i la Cristina (solo vídeo).
+La setmana vinent (dimarts o potser millor dimecres) hauríem d’enviar el mailing de TSA sense vídeo. I plantegem enviar a finals d’abril o la primera setmana de maig depenent del calendari de GUST el mailing de GUST, quan ja tinguem una mica clar l’organització.
+Quan tinguem els vídeos tornarem a fer un mailing per cada curs amb el video. Hauria de ser la primera i la segona setmana de maig.
+ASSIA hem de fer la promo a la tercera o quarta setmana de maig depenent del Reconeixement.
+Entre tot això hem de fer promoció dels cursos de la marina i dels cursos de 15h amb edició intensiva.
+La idea seria aquesta:
+
+CURS TSA → 3A SETMANA D’ABRIL → IMPORTANT
+CURS GUST → 4A SETMANA D’ABRIL / 1A MAIG  → IMPORTANT
+VIDEO TSA → 1A SETMANA MAIG → SEGONS SI TENIM EL VIDEO
+VIDEO GUST → 2A SETMANA MAIG → SEGONS SI TENIM EL VIDEO
+CURS ASSIA → 3A SETMANA MAIG → IMPORTANT
+CURSOS MARINA. ULTIMA EDICIO → 4A SETMANA MAIG → ES PODEN MOURE SEGONS ALTRES PROMOCIONS
+CURSOS MIXTOS. EDICIONS INTENSIVES → 1A SETMANA JUNY→ ES PODEN MOURE SEGONS ALTRES PROMOCIONS
+VIDEO ASSIA →  2A SETMANA JUNY
+Hem treballat en els documents compartits:
+GUST CAMPS INFO WEB
+TSA CAMPS INFO WEB
+ENTITATS / FACTURES ABANS DE PAGAR / RECLAMACIONS
+Pablo i Meriem queden després de la reunió perquè una persona que havia contractat un pack i que el pagava l’entitat (Consell de l’Urgell) li vam reclamar i després la vam donar de baixa.
+Tot i que aquesta persona tenia el CIF al camp de l’entitat, no sabem per què, però va rebre tot (baixa i reclamació) quan l’hauria d’haver rebut l’empresa.
+Arran d’aquest tema hem vist que al moment de fer la factura abans de pagar no es posa automàticament el CIF a ENTITAT i quan puguila Meriem ho afegirà ja que sempre son entitats quan es fa aquest tipus de factures.
+Pack Marina
+Ho deixem per a la propera reunió.
+Pablo ha parlat amb la Marina i ens assegura que aquestes seran les últimes edicions dels cursos. És difícil fer packs ja que s’haurien de fer al mateix més. Segurament s’hauran d’anul·lar els cursos d’agost.
+Preguntes freqüents CDD
+Isa tornarà a activar les preguntes de la pàgina de la INFO CDD perquè Pablo pugui fer la validació i correcció d’aquesta informació:
+https://www.prisma.cat/competencia-digital
+Reconeixement GUST i TSA
+GUST i TSA ja estan reconeguts com formació permanent del professorat. Pablo contactarà amb el Departament d’Educació perquè a més GUST compti pel perfil de Biblioteca i TSA pel de Competència Digital.

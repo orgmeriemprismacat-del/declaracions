@@ -1,0 +1,60 @@
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 25 de juny de 2025Hora: 10:08 a 11:30Assistents: Isa, Meriem, Jordi i PabloAbsent: AdamQui fa l’acta: Pablo
+
+TEMES TRACTATS:
+DECIDIR ELS DIES QUE DEIXEM OBERT ELS CURSOS D’ESTIU
+FAQ
+ESTAT CURSOS
+ESTAT RECONEIXEMENT DE CURSOS
+TALLER DE VEU
+VÍDEO MARINA BORDA
+TRELLOS
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+PROPERA REUNIÓ
+VACANCES PABLO (DESVIAMENT TELÈFON)
+ACORDS:
+DECIDIR ELS DIES QUE DEIXEM OBERT ELS CURSOS D’ESTIU
+JULIOL
+30 h → 13/7
+40 h → 21/7
+50 h → 21/7
+60 h → 29/7
+100 h → 31/7
+SDA  primera edició l’1 de juliol a les 15 i la segona el 21 de juliol a les 15
+SUI  l’1 de juliol a les 15
+GED 2 de juliol pel mati
+AGOST
+30 h → 18/8
+40 h → 20/8
+50 h → 20/8
+De totes maneres, si veiem que hem de tancar algun curs es pot fer manualment
+VERIFACTU
+Meriem comenta que a partir de l’1 de gener les factures (i el seu registre) ha de tenir una característiques determinades:
+Generar un registre de facturació per a cada factura emesa nova, així com en cas d'anul·lació o rectificació. AIXÒ JA ES FA.
+Garantir la integritat, conservació, accessibilitat, llegibilitat i inalterabilitat dels registres de facturació.
+Per fer-ho és necessari que ningú utilitzi la taula factures des de l’acces i només s’utilitzi des de la Intranet, de tot lo altre ja m’encarregaré que es compleixi amb el que es demana.
+Permetre enviar de manera automàtica cada registre de facturació a Hisenda. això s’ha de fer automàticament i s’haurà de fer des d’una api que es connecti amb AEAT i li envii la informació necessària. Ho puc fer amb un CURL (un cURL és una eina de programació dissenyada per transferir dades utilitzant diferents protocols i que no necessita de la confirmació de petició del client. És una eina àmpliament utilitzada per desenvolupadors i administradors de sistemes per automatitzar el procés de comunicació entre servidors web i realitzar tasques com la descàrrega d’arxius i la interacció entre APIs) però encara tinc que veure quins són els paràmetres que me demana exactament AEAT per poder tramitar-ho i fer proves.
+Registrar esdeveniments per permetre la traçabilitat de l'activitat al programa de facturació. Aquest registre d'esdeveniments no podrà ser alterat i s'haurà de conservar fins que prescriuen les obligacions tributàries.
+Hi ha determinades característiques que permeten identificar les factures Verifactu.
+Codi QR. Les factures Verifactu hauran d'incorporar necessàriament un codi QR que contindrà una sèrie de dades identificatives. Necessari si s’ha d’enviar a Hisenda sense passar per la generació automàtica. Exemple en el nostre cas podria ser les factures electròniques que fem per les diputacions
+Referència al sistema Verifactu. Les factures també han d'indicar expressament que s'han generat mitjançant un sistema d'emissió de factures verificables, mitjançant l'expressió "Veri*Factu".
+Registre d'esdeveniments A més de tot això, hi haurà com a suport un registre de cada factura i esdeveniment.
+Derivat de tot això:
+no es pot fer servir manualment cap acció que impliqui un canvi de facturació. Tot ha de ser per la intranet, ha d’haver-hi un registre i ha de constar en el registre d’esdeveniments.
+s’ha d’actualitzar els diferents apartats per generar aquests registres, per guardar la informació de qui ho ha fet i quan i quina acció.
+generar l’enviament amb un CURL per el verifactu
+no es pot modificar ni consultar la taula factures des de l’Acces. Si us plau, elimineu-la i confirmeu que l’heu eliminat. Qualsevol acció que sigui necessaria fer s’haurà de fer des de la intranet. Aneu apuntant el que és necessari disposar respecte això.
+Hem de fer que es generi un codi qr que ha d’estar a la factura i en el registre d’events.
+De moment resolem de moment no deixar de fer servir la taula factures, però si apuntar el que necessitem perquè la Meriem després de l’estiu pugui fer les programacions.
+A partir de novembre s’han de desvincular totes les taules factura de l’Access i si hem de fer modificacions ho faran les informàtiques deixant constància al registre.
+Hem parlat que la modificació que es fa més sovint, i des de la Intranet, és canviar les dades quan paga una persona i després ens demanen la factura a nom de l’escola. En aquest cas, segurament, internament haurem de fer una rectificativa i després una nova factura a nom de l’escola.
+💡 Idea (no parlat a la reunió) No es podria modificar la pàgina de pagament i que abans de fer el pagament puguin posar unes altres dades?Resposta Meriem: Sí, de fet em sembla molt bona idea ja que facilitaria que no passes tant cas del que parlàvem.No podem posar-les automàtiques (per protecció de dades) ja que qualsevol persona que tingui l’accés a la url podria saber les dades, raó per la qual ara mateix també fem que introdueixin les dades.El que podem fer és:afegir una frase indicant que les dades de facturació seran les mateixes que les dades de la inscripcióun botó de “vull afegir una altre direcció de facturació” i un modal on introduir aquestes dades.a la pàgina d’efectuar pagament s’haurien de mostrar les dades inicials i les dades de facturació i les dades de pagament.Hauriem de modificar una mica el correu de confirmació de pagament per indicar les dades de facturació i enviar-los la factura (almenys en aquests últims casos ja que la necessiten i per això modifiquen les dades de facturació)
+
+PROPERA REUNIÓ
+Dimarts vinent és Sant Joan. Passem la reunió pel dimecres 25 a la mateixa hora
+VACANCES PABLO (DESVIAMENT TELÈFON)
+Pablo marxa a UK del 19 al 24 de juny.
+Anirà contestant els correus que li marqui la Isa
+Enviarà certificats
+Control del calendari de Google
+Pablo li deixarà el telèfon a la Isa i ella s’encarregarà de l’atenció telefònica. El 23 li desviarà a en Jordi. Divendres 20, probablement li desviï a les 14.

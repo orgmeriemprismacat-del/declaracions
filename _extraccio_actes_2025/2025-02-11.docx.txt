@@ -1,0 +1,71 @@
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 11 de febrer de 2025Hora: 10:10 a 12:20Assistents: Isa, Meriem, Jordi, Adam i PabloAbsent: CapQui fa l’acta: Pablo
+
+TEMES TRACTATS:
+Reconeixement cursos pendents (ACOS i BULL)
+Trello. Comentaris
+Taller de Veu / Lloc
+Estat actualització PHP
+Dates elaboració TSA
+Missatges concurs blog Educat
+Màrqueting mensual
+FUNDAE
+Sant Jordi
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Preguntes freqüents
+ACORDS:
+Reconeixement cursos pendents (ACOS i BULL)
+El dia 19 de febrer ens confirmaran que Bullying ja està reconegut (des del Departament ens ho han confirmat però la reunió serà el dia 19.
+Pablo està parlant amb dues possibles formadores que ja tenen accés a dues edicions (una és anterior i té alumnes i l’altra és la que hem ensenyat al Departament d’Educació, amb els canvis que hem fet per tenir el reconeixement).
+No arribem a oferir l’edició de març i la propera és la de maig. Si les tutores pensen que poden fer el curs a l’abril, Pablo contactarà amb el Departament per veure si podem canviar les dates de l’edició de març i posar les d’abril.
+Li comentarem a en Daniel Gabarró per si vol ser-hi a la reunió quan parlem del curs o només li comentem qui són i si necessita que li enviem el currículum.
+Dimecres 12 de febrer Pablo té una reunió amb la Rosa (autora de ACOS) per buscar alternatives ja que han denegat el reconeixement. La reunió és a la 16 per valorar CPSA amb les directores del Rocaprevera però ens quedarem després una estona per parlar d’ACOS.
+Trello. Comentaris
+Meriem i Isa comenten que no reben resposta de comentaris que elles fan al Trello. Hem de buscar la manera de tenir-ho controlat, o amb els correus o amb les notificacions.
+Perquè no ens arribin tantes coses del Trello al correu es pot configurar quin tipus de missatges rebre:
+Meriem comenta que la millor manera és fer un seguiment de les notificacions des del Trello
+Taller de Veu / Lloc
+Adam comenta que a l’Espai Sistèmic i Humanístic lloguen sales. Per un matí, un dissabte costaria 100 euros. Per la ubicació, les característiques de la sala, que coneixem les persones i que també tenen sala a Barcelona és una bona opció.
+Adam trucarà per veure si tenen disponible pel 22 de març (ja no arribem a l’1) que és una de les dates proposades per l’Alba. Sinó ella havia proposat d’altres (que s’han de confirmar)
+Març: 1, 8 i 22
+Abril: 12
+Maig: 3, 10 i 31
+Juny: 7 i 28
+Juliol: qualsevol dissabte
+Estat actualització PHP
+El servidor s’ha d’actualitzar i també s’ha d’actualitzar el PHP. El dia 18 de febrer Comvive farà el canvi i prèviament Meriem i Isa faran el trasllat de l’Intranet vella a un subdomini (old.prisma.cat) que funcioni mentre acaben de passar les funcions que encara es fan aquí (reclamacions, comunicats, certificats digitals grupals, etc) a la nova intranet.
+La Intranet nova hi serà també a un altre subdomini (intranet.prisma.cat) per tenir-la actualitzada tot i que el Moodle (campus.prisma.cat) (i altres coses) no ho estiguin.
+Després s’haurà d’actualitzar la botiga: es farà una instal·lació nova de Prestashop amb la darrera versió perquè no hi hagi problemes amb Google Merchant.
+S’ha creat un altre subdomini (test.prisma.cat) per fer totes les proves prèvies.
+Educat també tindrà el PHP actualitzat per tenir la darrera versió de WordPress amb els plugins correctes.
+Dates elaboració TSA
+Cristina Carbonell ja ha enviat material dels mòduls 1, 2 i 3.
+Pablo i Jordi han completat el calendari de seguiment marcant quan han d’estar entregats, validats i corregits els materials. S’ha posat un format condicional per marcar si s’arriba a la data i encara no s’ha fet.
+Un cop feta la tasca es treu la data i es posa FET.
+La Isa posarà la data quan en Jordi marqui com feta la correcció ja que ella no pot posar una data fins que no vegi el que s’ha de fer. De totes maneres, té TSA com a prioritat i de seguida que en Jordi li passi la feina, s’hi posarà.
+TSA - Seguiment elaboració.xlsx
+El dia 20 d’abril ha d’estar tot preparat per obrir les inscripcions tan bon punt el curs estigui reconegut.
+S’ha de recuperar el document que es feia servir per crear les info dels cursos (descripció, slider, objectius, relacionats,etc) ja que sembla que aquest s’ha suprimit.
+Part de la informació es pot fer servir des de TSA - PROPOSTA GTAF (reconeixement)
+Missatges concurs blog Educat
+Jordi enviarà un correu a la persona guanyadora del concurs amb còpia a secretaria perquè Pablo li pugui demanar les dades i el curs que vol fer per matricular-la de forma gratuïta.
+A les altres dues persones li ha d’enviar un correu dient que si fan unes correccions podem publicar l’article i fer un descompte del 25% en un curs.
+Màrqueting mensual
+Pablo, Meriem i Isa es reuniran el tercer dilluns de cada mes per buscar maneres de promocionar PrisMa. Intentar esbrinar quines són les necessitats dels docents, mirar que fa la competència, que està fent el Departament, l’oferta que fan, notícies, etc.
+Després de la reunió es queden una estona i han sortit un parell d’idees:
+Modificar l’enquesta de satisfacció
+Contactar amb els autors i formadors perquè expliquin el seu curs de forma esquemàtica que li servirà a la Meriem per promocionar per xarxes. Pablo contactarà primer amb la Núria Banal perquè ho pensi pels seus cursos (ART, EDEM i AGC). Ho anirem fent a cada laboratori per tenir-ho tot recollit.
+FUNDAE
+S’ha de posar més informació a la pàgina de les bonificacions. Adam i Jordi s’han de posar d’acord per elaborar el text. Poden agafar algunes idees d’aquestes pàgines:
+https://iddocente.com/ca/formacio-bonificada/
+https://somdocents.com/serveis-per-a-centres-escolars
+https://www.doqua.cat/formacio-en-centres-educatius/
+Sant Jordi
+Repetirem el sorteig com l’any passat: Un curs de 30 o 40 hores.
+També farem ofertes de Sant Jordi a la Botiga entre l’1 i el 30 d’abril:
+Sense despeses d’enviament
+Descompte del 15% en tots els productes
+Tots els llibres de PrisMa (col·lecció PrisMàtics) els posarem a 10€ a partir de ja.
+Preguntes freqüents
+Pablo farà una revisió de les preguntes freqüents de la pàgina de PrisMa i n’afegirà més.
+Després buscarem de classificar-les i distribuir-les per títol.

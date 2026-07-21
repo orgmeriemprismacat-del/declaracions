@@ -1,0 +1,112 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-03-18.docx
+SOURCE_LAST_WRITE: 2025-04-02 03:15:42
+EXTRACTED_AT: 2026-07-15 00:04:20
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 18 de març de 2025
+Hora: 10:05 a 13:00
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Títol curs Albert Periche (ATRAPA'LS)
+Nom intern curs Albert Periche (ATRAPA'LS)
+Imatge curs Albert Periche (ATRAPA'LS)
+TSA Vídeo info del curs
+Tastet TUT
+Baixa cursos / baixa pack?
+Estat Botiga
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Reconeixement 2025-2026
+Descompte alumne / percentatge tutorització
+Actualització DOL
+Estat taller VEU
+Reclamacions pagaments i gestió de morosos
+ACORDS:
+Títol curs Albert Periche (ATRAPA'LS)
+Dimecres 19 de març tenim una reunió amb l’Albert per parlar del nom de les formacions proposades i altres aspectes necessaris per demanar el reconeixement de «ATRAPA'LS»
+Pablo li ha enviar un correu amb algunes idees i els criteris:
+Hem estat pensant alguns noms alternatius... en realitat ajudats pel Chat GPT () i aquestes són algunes de les idees de la IA:
+Encanteris per Crear Menjallibres: Fomenta l’Hàbit Lector
+Fomenta l’Hàbit Lector. Encanteris per Crear Menjallibres
+Fomenta l’Hàbit Lector: Claus per Fer Créixer Lectors Apassionats
+Educar en l’Amor per la Lectura
+L’Art de Contagiar la Passió per la Lectura
+Lectura i Motivació: Estratègies per Fer Lectors Entusiastes
+Màgia Lectora: Claus per Enamorar-se dels Llibres
+L'Encant de Llegir: Com Contagiar la Passió pels Llibres
+Llibres que Atrapen: Claus per Crear l’Hàbit Lector
+A partir d'aquí (o no...) podem pensar un nom on a més de l criteri creatiu (que crida l'atenció a les persones) ha de tenir una part que "expliqui" de que va el curs (per GOOGLE i també per les persones)
+Un exemple el tenim amb el curs Quan el Cos Parla. Anàlisi i Estratègies de Comunicació No Verbal (tot i que hauria d'haver sigut al reves... i és per això que he pensat en aquests noms que et dono com exemple:
+Fomenta l’Hàbit Lector. Encanteris per Crear Menjallibres (tot i que prefereixo Foment de l’Hàbit Lector. Encanteris per Crear Menjallibres ja que també és per fomentar l'hàbit propi, oi?)
+Lectura i Motivació: Estratègies per Fer Lectors Entusiastes
+L'Encant de Llegir: Com Contagiar la Passió pels Llibres
+Son només idees per ajudar-te a triar un nom...
+També està la possibilitat de relacionar els dos cursos... per exemple
+L'Encant de Llegir: Com Contagiar la Passió pels Llibres (per Atrapa'ls)
+L'Encant de Llegir: xxxxx xxxxxxx (per Rastreja'ls)
+Nosaltres ho tenim en dos cursos relacionats amb l'Interpretació del Dibuix Infantil:
+Interpretació del Dibuix Infantil: Casa-Arbre-Persona
+Interpretació del Dibuix Infantil: la Família
+Després de la reunió amb en Albert i de consultar-lo amb les informàtiques ens hem decidit per:
+Encanteris Literaris per Despertar el Gust per la Lectura
+Nom intern curs Albert Periche (ATRAPA'LS)
+A partir del nom crearem el “nom curt” que sigui fàcil de dir i identificar.
+Després de triar el nom ens hem decidit per:
+GUST
+Imatge curs Albert Periche (ATRAPA'LS)
+L’Albert ha compartit les imatges que tenia al curs. A la reunió hem de parlar de com adaptar-les perquè puguin servir per tots els espais (imatge curs, mailing, xarxes, etc). Ell ens hauria de donar la idea per poder crear varies propostes.
+                    atrapa’ls                                        rastreja’ls
+TSA Vídeo info del curs
+Jordi contactarà amb la Cristina per demanar-li un vídeo. Meriem li enviarà alguns models i les característiques que hauria de tenir el vídeo. L’hauria de presentar abans de l’1 de maig.
+Tastet TUT
+En Jordi Gonzalez ha fet la proposta de tastet al Laboratori:
+Proposta Tastet TUT
+Hi ha algunes coses per definir i en Jordi (Català) crearà un document compartit amb el que ha proposat en Jordi G. per fer preguntes i comentaris. Aquest document també es vincurarà al Laboratori TUT.
+Baixa cursos / baixa pack?
+Ens trobem que quan es dona de baixa a una persona que hi és a un pack perquè no ha pagat, com que encara té actiu un curs, pot intentar fer el pagament des de l’enllaç i li surt el preu del segon curs, no el del pack sencer.
+Com que el preu del 25% del descompte es fa si s’agafa tot el pack, hem decidit que si es dona de baixa del curs, s’ha de donar de baixa del pack. Si després contesta que el vol fer, li hem de donar d’alta de l’altre curs també i si només vol fer el segon curs, li hem de posar el preu que li correspon (nou alumne, alumne PrisMa o descompte social, si ho demostra).
+La baixa ha de ser automàtica, la resta de canvis es fa de forma manual.
+Estat Botiga
+La Isa està treballant en l’actualització de la Botiga. Ella preveu que estarà activa a final d’aquesta setmana a: https://shop.prisma.cat/. Ara està en mode manteniment.
+Està preparada per a dos idiomes (català i castellà).
+El disseny de la botiga està quasi fet i hi ha un primer producte entrat. Es decideix fer-ho tot de nou (copiant, modificant i adaptant) ja que són pocs productes i així detectem possibles canvis incompatibles amb la nova versió de Prestashop.
+Estèticament seguim el disseny de la web de PrisMa però amb el color taronja de la botiga:
+Hi ha alguna cosa que cal millorar però ara la prioritat és entrar els productes per poder enviar mailing el 27 de març.
+Reconeixement 2025-2026
+Per evitar el problema que vam tenir aquest curs escolar, es demanarà el reconeixement del curs 2025-2026 en dues tandes. Primer, al maig els cursos que s'ofereixen tot l’any i després que estiguin en tràmit (encara que encara quedin alguns cursos pendents), es demanaran els que només s’ofereixen a l’estiu.
+D’aquesta manera no enviarem un número tan gran d’edicions per reconèixer i intentarem que no desapareguin de la pàgina Cursos que s'ofereixen només a l'estiu. Els cursos que no es trobarien si no tenen edicions reconegudes. Cap al juny es parlarà de què fem exactament a la web amb els cursos que només s’ofereixen a l’estiu.
+Descompte alumne / percentatge tutorització
+Estem treballant perquè a les noves tutores no se’ls pagui el mínim de 15 alumnes. El que veiem complicat de fer és pagar un percentatge del facturat per varies raons:
+El tutor no sabrà mai el que cobrarà fins el moment de fer la factura.
+Hauríem de compartir a la intranet, per ser transparents, el que ha pagat cada alumne.
+No serem lliures (o ràpids) al moment de decidir descomptes i promocions.
+Quan es faci els nous acord amb els tutors i autors hem de valorar el que s’ofereix i si de cas ells poden posar el mínim d’alumnes per tutoritzar el curs. El podran fer acords puntuals i personals però sempre amb un preu fix per per alumne i si de cas, podem posar un mínim per pagar.
+Actualització DOL
+Encara està pendent l’actualització del curs de DOL. La Isa farà els canvis que es poden fer sense necessitat de la proposta de les autores però hi ha propostes que ells les han de fer. En Jordi recordarà a l’Àngels i la Neus la tasca pendent al fil del LAB, demananat-los si ho podran tenir fet per a l’edició d’abril.
+Estat taller VEU
+ Pablo contactarà amb les dues persones que s’han inscrit per dir-les que probablement el taller no es farà. Dilluns es va fer un mailing i no hem tingut més inscripcions.
+No es va parlar a la reunió: L’Alba va enviar un Whatsapp dimarts a la nit per preguntar com anaven les inscripcions perquè es probable que s’hagi d’avisar al centre que no es farà la formació. Diu que potser ens cobren un 10% però intentarà que no (són 15 euros… tampoc varia gaire).
+Estaria bé buscar una sala i provar de fer-la a Barcelona. Es proposa oferir un descompte de 10€ per alumnes PrisMa (més que res per fer un detall als nostres alumnes)
+Reclamacions pagaments i gestió de morosos
+El recordari de final de curs s’enviarà 3 dies abans de finalitzar i dirà que tenen fins a X dia per fer el pagament on X serà 3 dies després de la data de fi de curs.
+Aquesta setmana (dimecres) acaba PROJ02, LOGO01 i TEL01. Pablo enviarà els missatges de forma manual.
+El missatge és el que s’enviava abans, no hem dit res que els donarem de baixa si no paguen
+Passat una setmana des de que s’ha acabat el curs:
+Si no han aprovat: es dona de baixa a tots els que no han acabat de pagar (o no han pagar res) i s’envia un correu avisant que li reservem els diners per més endavant. Al correu ha de dir que contactin amb secretaria per consultar les condicions (canvi gratuït, despeses de gestió, etc)
+Si han aprovat. Es dona de baixa i es posa automàticament un M a inscripció (camp INSC CURS de la taula inscripcions). Al correu ha de quedar clar que un cop acabin de fer el pagament els tornarem a donar d’alta al curs, podràn demanar l’accés a l’aula oberta i tramitarem el certificat.
+S’han de revisar tots els danys col·laterals
+Nombre d’alumnes
+Que puguin pagar amb l’enllaç
+Que es compti per pagar al tutor
+Si paguen s’ha de canviar de M a 1 (estaria bé rebre un correu a secretaria)
+Quan una persona té una M, ha de sortir una alerta a la seva fitxa. També ha de tenir un missatge a la seva intranet i hauríem de saber-ho al moment de fer la pujada (hauria de sortir una alerta i que per defecte es poses «no pujar».
+S’ha de crear un nou apartat per aquesta quarta reclamació que serà Baixa final de curs.
+També s’ha de crear un nou apartat de per poder gestionar els morosos anteriors i els que poden aparèixer més endavant.
+A aquesta secció hauria de sortir (haurien d’estar agrupats).
+Entitats o Empreses (FUNDAE, Ajuntaments, Diputació de Tarragona ( perquè l'Adam ha de fer el seguiment amb les empreses ja que els alumnes no són els responsables del pagament). Aquestes persones tenen el certificat i també poden demanar l’accés a l’aula oberta.
+Alumnes superats sense certificat: han pagat una part, han superat el curs i no tenen el certificat (i enviat un correu des de «Baixa finalització del curs»). Els hem donat de baixa i hem posat una M a INSC. Tenen l’enllaç i les M els permet fer el pagament. Si paguen, surten automàticament per fer la pujada al GTAF.
+Deutes antigues (amb certificat) (tenen el certificat però una M a INSC i no hi són al curs). Surten a aquest apartat i a la fitxa tenen una alerta que ens indica que té un curs pendent de pagament. Si fan un altre curs, tenir una alerta per no donar-los l’accés fins que no paguin el nou curs.
+Protocol _ Reclamacions.docx
+Un cop enllestida aquesta última secció Pablo i Adam faran una neteja (donar de baixa, posar M, enviar correus manuals, etc) per tenir-ho tot tot enllestit per continuar des de la Intranet de Facturació.
+Dilluns 24 de març hem de fer una reunió per acaba de definir la gestió de les reclamacions i dels morosos.

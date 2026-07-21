@@ -1,0 +1,61 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2026\2026-07-02.docx
+SOURCE_LAST_WRITE: 2026-07-08 00:59:08
+EXTRACTED_AT: 2026-07-15 00:04:27
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 02 de juliol de 2026
+Hora: 10:00 a 11:00
+Assistents: Isa, Meriem i Pablo
+Absent: Jordi i Adam
+Qui fa l’acta: Pablo
+Gravació: No
+Fem reunió curta i online perquè és el segon dia de cursos de juliol i tenim moltes trucades i molts de correus. A més la Isa està fent modificacions on necessita el seu ordinador de sobretaula i accés a la base de dades per Access.
+TEMES TRACTATS:
+COMUNICAT IA
+REVISIÓ CURSOS (MED, ACRE, LOGO, CLEE, TEL i ORT)
+FACTURA BULL 07 TERESIANES GANDUXER
+ATENCIÓ TELEFÒNICA AGOST
+NOM ASSO PER TRANSFERÈNCIES
+PROPOSTA MODIFICACIÓ BIBLIOGRAFIES
+COMVIVE (SERVIDOR)
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+AFEGIR TELÈFON DE PERSONAL DE PABLO ALS CORREUS QUE PORTA ELL
+AUTORIA SIST
+ACORDS:
+COMUNICAT IA
+Pablo ha contactat amb els formadors que només porten cursos d’estiu i alguns que estaven pendents de definir com seria el comunicat sobre l’ús de la IA.
+Li comenta a la Meriem perquè pugui actualitzar-ho ja que avui s’ha d’enviar el missatge.
+COA i PNL Comunicat normal
+AGC Comunicat normal (de moment)
+ART i MED (no enviar) Preparar missatge agenda
+REVISIÓ CURSOS (MED, ACRE, LOGO, CLEE, TEL i ORT)
+Vam acordar fa temps amb la Laura Domingo i l’Emili Bosch, com contraprestació de treure o baixar els mínims d’alumnes que ens podríem encarregar de la revisió dels cursos.
+Dels cursos que porta la Laura, nosaltres revisem bibliografia, mediateca i els últims mòduls (els que són de recursos, els cinquens de TEL, CLEE i LOGO i el quart d’ORT). Dels que porta l’Emili, fem la revisió completa del curs entrant com ell per fer el formulari i quedi registrada la revisió.
+Fins ara ho ha fet la Isa i a partir del proper mes s’encarregarà en Jordi. Haurà de revisar-los 15 dies abans de l’inici, sempre que hagi cursos.
+Per exemple, els propers són els cursos d’agost que comencen el dia 3. S’haurien de revisar la setmana del 20 al 24 de juliol.
+Si en Jordi no troba el recurs per reemplaçar, li ha de demanar a la Laura o l’Emili amb còpia a suport (Isa).
+FACTURA BULL 07 TERESIANES GANDUXER
+Des de l’escola Ganduxer ens comenten que per raons personals i urgents, una persona no podrà fer el curs. Com que la factura està generada, Pablo (ara que encara es pot) canvia el preu des de la BDD i treu el nom de la persona. Meriem li treu la factura relacionada i canvia de G a I (inscripció grupal a individual)
+Pablo ho comunicarà a l’escola per poder el pagament dels 210 euros en comptes del 280.
+A partir de la implementació del nou sistema de facturació no es podrà fer. Meriem ho tindrà en compte.
+ATENCIÓ TELEFÒNICA AGOST
+Com que Pablo farà vacances i marxa a l’Argentina del 8 d’agost al 4 de setembre i la Isa hi haurà dies que també marxarà, vam parlar en una reunió anterior, abans de sol·licitar els dies de vacances, en no fer atenció telefònica durant el mes d’agost (com hem fet per Setmana Santa i Nadal) per poder realitzar-les, però com que són molts dies, estem valorant la possibilitat que en Jordi pugui atendre telèfon dins el seu horari fix, de 10 a 14 h, per urgències (bàsicament actualització de contrasenyes i informació de cursos).
+Si és un canvi de cursos, consulta de certificats, de pagaments, de generació de factures i altres temes que no pugui resoldre, prendrà nota i enviarà un correu a secretaria@prisma.cat o a suport@prisma.cat ja que tant en Pablo com la Isa s’aniran connectant. Si alguna cosa és urgent, ho pot posar al grup de Whatsapp de PrisMa o enviar un missatge a un telèfon particular.
+En Jordi té accés a la Intranet per fer consultes. Si no es recorda la contrasenya li pot demanar una de nova a la Meriem.
+Un cop es decideixi si ho farem així, hem de modificar les l’horari a la pàgina web, al contestador i al comunicat d’atenció telefònica d’agost i enviar un comunicat als cursos de 50, 60 i 100 hores de juliol.
+NOM ASSO PER TRANSFERÈNCIES
+Des de fa temps, les persones que volen fer una transferència, es troben que si no posen correctament el nom del destinatari apareix una alerta i dubten si veritablement és PrisMa.
+Pablo li consultarà a Adam per confirmar nom exacte del remitent en cada banc per posar-lo al correu de confirmació d’inscripció i altres llocs on surti la info de la transferència.
+PROPOSTA MODIFICACIÓ BIBLIOGRAFIES
+Com que les tutores i tutors revisen la bibliografia a cada edició, hem decidit que la data de la darrera consulta sigui la de la revisió del curs, aula A.
+D’aquesta manera no quedarà com que no revisem mai, quan en realitat sí que es revisa.
+COMVIVE (SERVIDOR)
+El dia 2 de juliol, Comvive farà unes tasques a les 8 o 9 h del matí que esperem que no ens afectin. He parlat amb ells per confirmar l’hora i traslladar-los el nostre neguit i m’han dit que no hauríem de veure’ns afectats.
+Aquest punt era pel dia 30. Si Convive ha realitzat les tasques, no ens han afectat en res.
+AFEGIR TELÈFON DE PERSONAL DE PABLO ALS CORREUS QUE PORTA ELL
+Per no dependre del telèfon de PrisMa, en especial quan no el té ell, Pablo afegirà el seu telèfon personal per poder validar l’accés al correu següents:
+secretaria.prisma.cat@gmail.com
+consultes.prisma.cat@gmail.com
+gestio.prisma.cat@gmail.com
+inscripcions.prisma@gmail.com
+En especial per quan estigui a l’Argentina, que tot i que porta l’ordinador de PrisMa, com agafarà una altra IP, potser necessita tornar a validar.

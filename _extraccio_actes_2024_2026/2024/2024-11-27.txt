@@ -1,0 +1,87 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2024\2024-11-27.docx
+SOURCE_LAST_WRITE: 2024-12-03 23:47:16
+EXTRACTED_AT: 2026-07-15 00:04:17
+---
+ACTA REUNIÓ SETMANAL
+Data: 27 de novembre de 2024
+Hora: 10:15 a 11:30
+Assistents: Isa, Meriem, Jordi, Adam i Pablo
+Absent: Cap
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+Filtre "incloure cursos només estiu"
+Proposta Alba (VEU)
+Modificació Lectures EINES (Jamboard i Flipgrid)
+Estat reconeixements (ACOS, SIST, BULL, RELAX, ADOP, AUDOC, )
+Estat Elaboració (TSA, SUI_A)
+Proposta il·lustracions per mailing / xxss. Exemple edició gener
+Promoció JASOM novells
+Material i vídeo de curs per a Universitat
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+Fer un nou pack: JASOM i TUT
+ACORDS:
+Filtre "incloure cursos només estiu"
+La Meriem modificarà els filtres perquè funcionin conjuntament l’ultim (incloure curs només d’estiu) amb la resta de filtres (temàtiques, hores, nivells…), de manera que si escollim una opció del filtre i l’opció de “incloure cursos només estiu” apareguin els cursos filtrats que es fan sempre més els cursos que es fan només a l’estiu que tinguin la temàtica seleccionada. En resum: que apareguin tots els cursos (tant els anuals com els d’estiu amb el filtre).
+Proposta Alba (VEU)
+Alba proposa fer un taller de 4 hores per a les persones que han fet el curs de VEU.
+Tenint en compte les properes edicions de VEU serien en aquestes dates:
+15 o 22 de febrer
+12 o 19 d’abril
+14 o 21 de juny
+L’Alba té contacte amb centre de Sarrià de Ter que li lloga una sala per 150€ però per tema de distància buscarem la possibilitat de fer-lo a un Centre Cívic a Girona (prop de l’estació).
+L’Alba cobrarà uns 50 o 60 euros l’hora per tant hem calculat que si els alumnes paguen 80€, amb un mínim de 6 el podriem fer.  De totes maneres buscant altres preus de sales podem pensar un altre preu o un altre mínim. El màxim d’alumnes que poden fer el taller és 15.
+El taller s’oferirà com un “curs” a la web però no sortirà entre la resta de cursos (més endavant decidirem què es posa i que no). Oferirem també un pack amb el curs i el taller.
+Més info a : https://docs.google.com/document/d/1XSJ96kfy6I9PpFelS0Xxldxo-DVpDpET5tSF7qhq8is/edit?usp=sharing
+Modificació Lectures EINES (Jamboard i Flipgrid)
+Flipgrid ha deixat de funcionar i Jamboard deixarà de funcionar al setembre. L’autor (en Llorenç Granado) ja no cobra les autories des del 2024 per tant li proposarem a la tutora fer els canvis.
+De moment ocultem aquest dos programes a les lectures 1 i 2.
+Ocultem el mòdul 3 perquè és molt de material i a més es fa servir Flipgrid a una activitat.
+Pablo contactarà amb la Cristina Carbonell per fer-li la proposta de modificació. Li consultarem el que li comporta la feina i quant ens cobraria ja que ella no és l’autora.
+Pablo li demanarà a en Llorenç amb quin programa fa les captures perquè les imatges siguin similars. Valorar la necessitat de fer els vídeo tutorials o no.
+Estat reconeixements (ACOS, SIST, BULL, RELAX, ADOP, AUDOC, )
+ACOS: Des del Departament ens han enviat una notificació i han deixat el curs pendent de reconeixement: - Àrea 5: no es pot assolir només amb lectures /- Els continguts s'han de redactar correctament: amb substantius indicadors dels coneixements, destreses, habilitats i actituds que es desenvolupen.
+La Rosa ha fet els canvis al indicadors de l’àrea 5 i ara en Jordi els està integrant a cada indicador.
+Pablo ha canviat alguns continguts que estaven en format de pregunta i li ha demanat a la Rosa que faci una revisió.
+Un cop revisat li passarem a la Isa perquè ho actualitzi al curs de mostra (ACOS03)
+SIST: Ja estan fetes les modificacions però encara surt com proposat (encara no està valorat)
+BULL: En Jordi està fent modificacions al curs, a la fitxa del GTAF i a les lectures. Faran una revisió amb en Pablo el 5 de desembre per passar-lo al GTAF i al curs per demanar un nou reconeixement.
+RELAX: Pablo li ha comunicat a l’autor però encara no ha contestat. Esperem a que es regularitzin els pagaments per tornar a contactar amb ell.
+ADOP: Es tornarà a presentar però adreçat a EAPs. Modificarem només una mica la fitxa del GTAF. Si no el reconeixen, valorarem què fer (l’autora diu que no li compensa invertir molt de temps en aquest curs).
+AUDOC: Encara estem sense tutor/a. S’ha de contactar amb en Daniel per veure les modificacions que s'han de fer ja que el curs està denegat.
+Estat Elaboració (TSA, SUI_A)
+TSA: Cristina Carbonell té accés a una aula d'Elaboració però encara no ha penjat res. Ja ha presentat tota la informació per demanar el reconeixement però fins que el curs no estigui muntat no es pot demanar perquè el Departament, quan són cursos que acrediten la CDD, demana accedir als materials abans de reconèixer el curs.
+SUI (asincrono) Estem a l’espera dels vídeos i que la Glòria expliqui el pla d’avaluació (activitats) per poder demanar el reconeixement del curs. Pablo ha contactat el 26 de novembre dient que per començar el curs al febrer hem de demanar el reconeixement el 3 de desembre i muntar el curs abans de Nadal. Encara no hem rebut resposta.
+Proposta substitució iconos per a les il·lustracions dels mailings/xarxes
+La Meriem ja ha fet la proposta de substitució i encara cal retocar-les per adaptar-les al nou estil.
+Promoció JASOM novells
+A la pestanya Presentació de la info de JASOM, afegirem un requadre destacat en blau amb el missatge “Si fa menys d'un any que t'has titulat com a docent, l'import que paguis per a aquest curs se't descomptarà del pròxim curs de PrisMa que realitzis (abans d'un any).”
+A la pestanya Preu de la info de JASOM, afegirem una frase sota el preu:
+A la pestanya Inscripció, afegirem una opció “Sóc recent titulat” després del “Vull fraccionar el pagament”.
+En Pablo i en Jordi prepararan els models de missatges de confirmació d’inscripció el dijous 28 de novembre tinguent en compte cada tipus de missatge amb el cas possible de “ser recent titulat”.
+Ser recent titulat sense cap descompte
+Ser recen titulat amb descompte alumne o carnet jove
+Ser recent titulat amb descompte de discapacitat, família nombrosa, monoparental (ens adjunten un dni i cal comprovar-ho)
+Ser recent titulat amb descompte usoc (s’ha de comprovar si es afiliat usoc o no)
+El que ha de dir en comú en els diferents tipus de missatges és que comprovarem si és recent titulat (ja que també han d’adjuntar el títol, resguard, etc.) i que en el cas en què ho sigui, rebrà un codi de descompte que podrà utilitzar-lo en qualsevol curs (aquest codi és personal i intransferible).
+S’afegirà el destacat blau “Atenció! Per celebrar el teu pas al món educatiu, et regalem XX € de descompte en qualsevol dels nostres cursos. Per utilitzar-lo només cal que introdueixis el codi promocional* RECENTTITULAT#1103 en el camp Codi promocional de la inscripció del curs a realitzar.
+*Personal i intransferible. Vàlid fins el XXXXX.
+El codi promocional serà vàlid un any des del moment del pagament.
+La Meriem programarà el que pertoqui entre divendres 29 de novembre i dilluns 2 de desembre.
+La setmana que ve s’haurà de mirar el mailing, slider i xarxes.
+Material i vídeo de curs per a Universitat
+Ja hem pixelat la cara de la filla de la Marta per poder passar-li el vídeo a la Martina Morell Gonzalo de la Universitat Rovira i Virgili. Pablo contactarà amb ella per passar-li l’enllaç i els materials. Si ella vol embedir-lo ens ha de dir l’adreça per permetre-ho a través de la URL.
+Fer un nou pack: JASOM i TUT
+S’oferirà un nou pack: JASOM01 i TUTXX. Jordi prepararà la info.
+“Signatures”
+Nom
+Data
+Pablo
+27/11/2024
+Meriem
+28/11/2024
+Jordi
+28/11/2024
+Isa
+28/11/2024
+Adam
+28/11/2024

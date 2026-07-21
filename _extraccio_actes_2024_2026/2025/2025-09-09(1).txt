@@ -1,0 +1,102 @@
+SOURCE_DOCX: C:\Users\Usuario\Documents\Jordi\_actes_zips_2024_2026_raw\2025\2025-09-09(1).docx
+SOURCE_LAST_WRITE: 2025-09-10 06:31:58
+EXTRACTED_AT: 2026-07-15 00:04:23
+---
+ACTA REUNIÓ SETMANAL (Videotrucada)
+Data: 2 de setembre de 2025
+Hora: 10:00 a 12:15
+Assistents: Isa, Meriem, Jordi i Pablo
+Absent: Adam
+Qui fa l’acta: Pablo
+TEMES TRACTATS:
+REVISIÓ MAILING ENTRE TOTS
+WOFFU i CONVENI
+ESTAT CURSOS 15 HORES
+ESTAT RECONEIXEMENT DE CURSOS
+MPIA PER USOC | OCTUBRE
+DANYS COL·LATERALS WEB
+NOVA TUTORA VEU
+TALLER MARINA
+PROPERA REUNIÓ
+TEMES TRACTATS FORA DE L’ORDRE DEL DIA:
+ACORDS:
+REVISIÓ MAILING ENTRE TOTS
+Per saber que tots hem llegit els missatges que s’envien al Departament de màrqueting les informàtiques recorden que s’ha de “valorar” els posts com OK, pendent de parlar o llegit independentment que es contesti.
+WOFFU i CONVENI
+Falta afegir al Woffu els 16 dies de descans retribuït. Pablo li comentarà a l’Adam.
+Queda pendent el pagament de la pujada de la nòmina pel conveni de forma retroactiva (de gener a juny). Pablo parlarà amb l’Adam.
+S’ha de comprovar que tinguem el Woffu al dia (confirmat fins a 31/8).
+Properes vacances:
+Pablo
+Del 10 al 19 de setembre
+Portarà el telèfon a la Isa i a més instal·larà la firma digital a l’ordinador.
+S’encarregarà de les tasques del calendari i els missatges que li marqui la Isa al correu. De totes maneres, com que ja ha actualitzat molts dels protocols, la Isa podràs encarregar-se de més feines del calendari i certificats
+La Isa agafarà telèfon però algun dia s'haurà de desviar.
+Depenent de la situació en Anglaterra, potser agararà algun dies més (el vol de tornada no està tancat) Si de cas, ho comentarà més endavant.
+Isa
+Vol fer pont i agafar-se el 12 de setembre. Desviarà el telèfon
+Meriem
+Primera setmana de novembre
+Alguna setmana de desembre (a partir del 22 més o menys)
+Jordi
+Dies de setembre un cop hagin començat els cursos i depenent si comença VEU o no.
+ESTAT CURSOS 15 HORES
+GED:
+Educació: No validat. Estem a l’espera que el Departament validi el curs. Segurament hi ha reunió al setembre.
+FISS: Presentat
+SUI
+FISS: Presentat
+Educació Reconegut
+SDA
+Estàvem a l’espera que en Jordi Gonzalez confirmès que podia fer les sessions dimarts. Vam obrir inscripcions tard però com que teníem una sola sol·licitud, vam tancar-la divendres.
+ESTAT RECONEIXEMENT DE CURSOS
+Formació permanent:
+No validats: ACO, GED, GEST, MED
+57PR Activitats Competencials: Fonamentació, Anàlisi i Disseny
+65PR Gestió Emocional en Moments de Pèrdua i Dol
+42PR Gestió del Temps i Docència
+14PR La Mediació Escolar com a Eina de Convivència
+Pendents:
+05PR Coaching per a Docents
+- La metodologia no s'ajusta als objectius
+24PR L'Educació Emocional dins el Currículum Escolar
+- Els continguts i objectius no s'ajusten a la prioritat seleccionada / - El material està dirigit a infantil primària. L'aplicació a l'aula de secundària no està desenvolupada . Aconsellem de dirigir l'activitat només a infantil-primària
+Denegats:
+19PR Les Intel·ligències Múltiples i la Diversitat a l'Aula
+S’han programat correu a la Natàlia Puyuelo pel dilluns 8 per cada cas i a més s’ha afegit una consulta sobre RELAX i ADOP (que van ser denegats pel 2024-2025) per valorar que fem amb aquest cursos de cares al 2025-2026
+Perfils
+Tots els que estan reconeguts, tenen el perfil demanat. Al cercador només hi ha cursos del Departament.
+Després de la reunió hem vist que han afegit cursos del Perfil de Competència Digital, de PrisMa, fins divendres 5 només han afegit MPIA.
+FISS
+Reconeguts fins desembre però falten SUI i GED (que ja estan demanats). A l’octubre demanem dins agost del 2026
+MPIA PER USOC | OCTUBRE
+Tot i que en principi, des de la USOC ens van demanar MPIA pel mes de novembre, han contactat per fer-lo per l’octubre.
+Meriem prepararà el formulari
+Pablo enviarà la info a la USOC amb l’enllaç.
+S’ha afegit un missatge al formulari que diu: «Aquest formulari és exclusiu per a persones afiliades a la USOC. Si no ho ets, t’hi pots inscriure des de la pàgina d'Inscripció del curs Creació de Materials Pedagògics amb Intel·ligència Artificial.». D’aquesta manera, les persones que rebin la publicitat de la USOC però que no siguin afiliades, podran enviar la sol·licitud des de la web de PrisMa.
+Nº màxim, de moment fins a 54, quan ens acostem a 50 avaluem si ampliem fins a 70. La USOC començarà a fer la difusió dilluns a les 8h.
+DANYS COL·LATERALS WEB
+Amb cursos anul·lats o no reconeguts, hem hi ha danys col·laterals a la pàgina web:
+Cursos relacionats (afegir on falten fins arribar a 4).
+Pablo farà una revisió i vincularà el document a la targeta de Trello del seu document de cursos relacionats. De totes maneres com que també s’han de vincular els packs, no es seguirà 100% aquest document fins no tancar novament els packs.
+Pàgina cursos només estiu: Cursos exclusius d'estiu | PrisMa
+De moment només tenim PNL ja que hi ha cursos que no estan reconeguts (com COA, MED i INTEL) i d’altres que eren només estiu i els oferim més vegades (ORT, DAM). Treurem l’enllaç del footer però deixarem l’etiqueta a PNL (i altres que poden ser reconeguts aviat)
+NOVA TUTORA VEU
+L’Alba ens va passar les dades d’una formadora que la pot reemplaçar quan ella no pugui portar el curs ja que la Jana ha sigut mare i de moment no portarà cursos.
+Com que en Jordi estava de vacances, Pablo ha fet la primera entrevista i li ha enviat el correu per demanar-li la foto i el currículum breu.
+L’Alba, que marxava de vacances el 2 ha quedat amb la Berta per explicar-li com va tot i fer-li l’explicació pedagògica però també tècnica. De totes maneres en Jordi quedarà amb ella per fer-li la “masterclass”.
+No sabem si l’edició tirarà endavant perquè tenim 3 alumnes. Es decidirà entre diumenge a la nit i dilluns a primera hora.
+El Jordi li farà el seguiment si finalment podem començar amb el curs.
+TALLER MARINA
+Fem una revisió de la pàgina de Formació i assessorament dels nostres col·laboradors hem decidit seguir el mateix criteri que amb en Fernandez Bravo i treure el taller de la Marina Borda.
+Propera reunió (informàtiques i secretaria)
+La reunió de la setmana vinent (9 de setembre) tindrà dues parts:
+La que fem cada dimarts:
+Packs
+Tasques per anar fent
+Etc
+Una amb les informàtiques i direcció (Pablo i Adam) per parlar d’alguns temes pendents que no impliquen a en Jordi:
+Descompte violència de gènere
+Cursos anul·lats: Oferiment descompte 25%
+Verifactu
+Etc
