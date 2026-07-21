@@ -91,7 +91,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 **Punts que acredita:** l'automatitzacio estava comunicada, tenia finalitat organitzativa i no substituia tots els canals de contacte.
 
-**A validar:** afegir captures netes del correu del 06/02/2025 i de la resposta de Jordi si encara no estan a annexos.
+🟨 **EVIDÈNCIA PENDENT:** afegir captures netes del correu del 06/02/2025 i de la resposta de Jordi si encara no estan als annexos.
 
 ## E. Xarxes I Correccions Tardanes
 

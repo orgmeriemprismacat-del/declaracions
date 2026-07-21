@@ -144,7 +144,7 @@ Jordi vincula vacances acumulades i manca de descans amb un volum de tasques ina
 
 **Resposta proposada**
 
-Les vacances acumulades s'han de contrastar amb Woffu, dies de permis, baixes, compensacions i descansos efectivament gaudits. El fet que hi hagi saldo acumulat no acredita per si sol pressio empresarial o mobbing. Tambe cal incorporar les ocasions en que l'empresa o companyes li van recomanar descansar, agafar vacances o prioritzar salut.
+Les vacances acumulades s'han de contrastar amb Woffu, dies de permis, baixes, compensacions i descansos efectivament gaudits. El fet que hi hagi saldo acumulat no acredita per si sol pressio empresarial o mobbing. 🟨 **EVIDÈNCIA PENDENT:** incorporar les ocasions en que l'empresa o companyes li van recomanar descansar, agafar vacances o prioritzar salut.
 
 En la mateixa linia, l'existencia d'hores puntuals o saldos de compensacio no acredita imposicio d'hores extres si no hi ha una ordre concreta de l'empresa. Cal diferenciar hores realment fitxades, saldos administratius, hores compensades i replanificacions acceptades.
 
@@ -305,7 +305,7 @@ Pel 2025, el recull intern situa la feina principal de Jordi abans de la baixa e
 - Cursos TSA, MPIA i GUST.
 - Redaccio, com a novetat, dels subtitols i textos destacats dels videos de presentacio de MPIA, GUST i TSA.
 
-Meriem indica que els subtitols/textos destacats d'ALBUM i CANVA els va fer ella, no Jordi. Sobre GUST, cal afegir que no es tractaria d'un curs creat des de zero per Jordi. Segons Meriem, GUST era un curs muntat o substancialment preparat, i les proves de campus mostren materials previs creats per l'autor. Aquesta conclusio s'ha de presentar nomes si queda validada amb Trello, actes, campus, seguiments i Woffu.
+Meriem indica que els subtitols/textos destacats d'ALBUM i CANVA els va fer ella, no Jordi. Sobre GUST, cal afegir que no es tractaria d'un curs creat des de zero per Jordi. Segons Meriem, GUST era un curs muntat o substancialment preparat, i les proves de campus mostren materials previs creats per l'autor. 🟨 **EVIDÈNCIA PENDENT:** validar aquesta conclusio amb Trello, actes, campus, seguiments i Woffu abans de presentar-la.
 
 Pel periode gener-juny de 2025, que Jordi vincula a una carrega especialment inassumible pels tres cursos, el resum Woffu preparat mostra:
 
@@ -422,7 +422,7 @@ L'us de Trello no-reply va ser explicat previament per Meriem el 06/02/2025. La 
 
 **Validacio pendent**
 
-- Adjuntar captures netes del correu i del no-reply.
+- 🟨 **EVIDÈNCIA PENDENT:** adjuntar captures netes del correu i del no-reply.
 
 ## Punt 11. Xarxes: Correccions, Recordatoris I Publicacions
 
@@ -500,7 +500,7 @@ Segons la informacio aportada, Adam va presenciar el conflicte del 05/12/2024. E
 
 Meriem reconeix que, en aquesta conversa, parlava amb un to elevat, especialment en un context de tensio i discrepancia professional, pero nega haver perdut les formes o haver escridassat Jordi de males maneres. Aixo s'ha de diferenciar d'insults, expressions vexatories o desqualificacions personals, que no consten acreditades. Segons Meriem, quan posteriorment Pablo i Adam li van traslladar que Jordi havia viscut negativament aquest to, ella va passar a controlar-lo expressament i a parlar mes baix en les interaccions posteriors.
 
-Segons la resposta recollida, Adam va aclarir que Meriem era la responsable de marketing i que Jordi havia de seguir aquests criteris. Si a mes es documenten exemples posteriors en que Jordi va continuar qüestionant o refent criteris de mailings i textos comercials en contra de les instruccions de marketing/SEO, aixo reforçaria que el conflicte era professional i de delimitacio de funcions, no una persecucio personal. Cal aportar exemples concrets i evitar formular-ho com una valoracio general sense prova.
+Segons la resposta recollida, Adam va aclarir que Meriem era la responsable de marketing i que Jordi havia de seguir aquests criteris. Si a mes es documenten exemples posteriors en que Jordi va continuar qüestionant o refent criteris de mailings i textos comercials en contra de les instruccions de marketing/SEO, aixo reforçaria que el conflicte era professional i de delimitacio de funcions, no una persecucio personal. 🟨 **EVIDÈNCIA PENDENT:** aportar exemples concrets abans de formular-ho com una valoracio general.
 
 **Proves**
 

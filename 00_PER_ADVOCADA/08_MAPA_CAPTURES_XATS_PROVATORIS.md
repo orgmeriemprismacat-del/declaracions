@@ -182,9 +182,9 @@ Aquest grup pot contenir informacio personal o familiar. Cal que l'advocada deci
 
 **Fitxers**
 
-- Pendent d'afegir/localitzar: WhatsApp de Pablo en que indica a Jordi que no torni per PrisMa i que prioritzi la seva salut.
-- Pendent d'afegir/localitzar: WhatsApps previs on se li recomana prioritzar salut.
-- Pendent d'afegir/localitzar: missatges de Meriem sobre no treballar caps de setmana, si no queden ja inclosos en el grup 1.
+- 🟨 **EVIDÈNCIA PENDENT:** WhatsApp de Pablo en que indica a Jordi que no torni per PrisMa i que prioritzi la seva salut.
+- 🟨 **EVIDÈNCIA PENDENT:** WhatsApps previs on se li recomana prioritzar salut.
+- 🟨 **EVIDÈNCIA PENDENT:** missatges de Meriem sobre no treballar caps de setmana, si no queden ja inclosos en el grup 1.
 
 **Que acrediten**
 

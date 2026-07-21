@@ -166,7 +166,7 @@ No consta cap registre que acrediti que PrisMa imposes a Jordi la realitzacio d'
 **Validacio pendent:**
 
 - Adam hauria de confirmar que no hi ha cap ordre empresarial d'hores extres obligatories.
-- L'advocada hauria de revisar si cal aportar exemples concrets de replanificacio com GUST, TSA, ALBUM, xarxes i mailings.
+- 🟨 **EVIDÈNCIA PENDENT / DECISIÓ DE L'ADVOCADA:** revisar si cal aportar exemples concrets de replanificacio com GUST, TSA, ALBUM, xarxes i mailings.
 
 ## 10. Implicacio De Meriem En L'Ampliacio De Jornada
 

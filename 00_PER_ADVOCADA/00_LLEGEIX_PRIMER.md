@@ -2,6 +2,8 @@
 
 Aquest directori recull una versio depurada del dossier per facilitar la revisio de l'advocada. No substitueix l'assessorament legal ni preten ser la contestacio definitiva: esta pensat per separar els fets acreditables de les valoracions internes i per indicar quines proves cal adjuntar o validar abans de presentar res.
 
+> 🟨 **EVIDÈNCIA PENDENT:** aquesta marca identifica visualment qualsevol captura, document, testimoni o comprovacio que encara s'ha d'adjuntar, localitzar o validar.
+
 ## Ordre Recomanat
 
 1. `01_RESUM_EXECUTIU_PER_ADVOCADA.md`

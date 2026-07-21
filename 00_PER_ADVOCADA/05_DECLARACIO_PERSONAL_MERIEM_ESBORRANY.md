@@ -242,7 +242,7 @@ Quan vam preguntar per que haviem fet la reunio si no tenia res preparat, i com 
 
 El planning general posterior recull precisament aquesta necessitat de reorganitzar GUST, TSA, MPIA i la resta de tasques compartides. Per mi, aquest document mostra que la meva resposta va ser intentar ordenar i adaptar el calendari, no atacar Jordi personalment.
 
-**Annexos a citar:** actes 08/04, 15/04, 29/04, 06/05, 12/05, captures Moodle, planning 20/05, prova pendent del 16/05.
+🟨 **EVIDÈNCIA PENDENT:** annexar les actes 08/04, 15/04, 29/04, 06/05 i 12/05, les captures Moodle, el planning del 20/05 i la prova pendent del 16/05.
 
 ### 6B. TSA, MPIA, CANVA I Comparacio Amb Correccio Externa
 
