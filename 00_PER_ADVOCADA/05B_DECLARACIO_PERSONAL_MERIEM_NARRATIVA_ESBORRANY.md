@@ -222,6 +222,8 @@ Abans que el conflicte s'agreuges, una part important d'aquest seguiment es feia
 
 Aquesta gestio incloïa revisar l'estat de cada fase, enviar missatges, fer trucades, recordar compromisos i estar disponible per resoldre dubtes immediatament. Si Jordi tenia un dubte sobre una tasca seva l'ultim dia d'entrega, jo intentava estar allà i solucionar-lo en aquell moment perquè pogues lliurar. Per tant, que una tasca acabes sortint no significa necessàriament que Jordi l'hagues gestionada de manera autonoma ni que el seguiment fos innecessari; en diversos casos, el resultat es va aconseguir precisament perquè jo sostenia activament la coordinacio fins al lliurament.
 
+Vaig procurar estar disponible per a Jordi sempre que calia desbloquejar una tasca o garantir la continuïtat de les fases posteriors. La meva prioritat era que cap altra persona quedes aturada per una incidencia que jo pogues resoldre. Quan no es podia evitar del tot l'impacte, sovint preferia absorbir-lo jo —reorganitzant la meva feina, allargant la jornada o traslladant tasques propies— abans que deixar bloquejada Isa o perjudicar la continuïtat de la resta de l'equip. Aquesta disponibilitat no eliminava el problema de coordinacio: era una de les maneres amb que jo n'evitava o reduïa les conseqüencies.
+
 Per mi, aquests casos mostren que la meva insistencia en calendaris, terminis i coordinacio no era un atac personal. Era una resposta a una necessitat real: si una entrega es movia, altres persones havien de correr, reprogramar, treballar caps de setmana o comprimir fases posteriors.
 
 ## Sobre La Carrega De Feina I La Jornada Efectiva
