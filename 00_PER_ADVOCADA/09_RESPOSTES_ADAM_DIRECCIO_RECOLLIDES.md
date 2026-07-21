@@ -245,3 +245,25 @@ Aquest punt s'ha de presentar nomes quan Adam/gestoria confirmin com consta form
 - Nomines o documentacio del permis, si l'advocada ho considera necessari.
 - Confirmar si formalment aquell mes consta com a vacances, permis, absencia justificada, compensacio o una altra figura.
 - Confirmar amb Adam que la finalitat de la concessio era ajudar Jordi i evitar perjudicar-lo.
+
+## 14. Pagaments: Retards No Selectius
+
+**Pregunta:** Si hi va haver retard, va afectar nomes Jordi o tambe altres persones?
+
+**Resposta recollida:** Sempre afectava a tots.
+
+**Formulacio defensable:**
+
+Segons la informacio recollida, si en algun moment hi va haver retards en pagaments o nomines, aquests no haurien afectat exclusivament Jordi, sino el conjunt de persones treballadores afectades per la situacio economica o administrativa del moment. Per tant, aquesta circumstancia, si es confirma documentalment, no acreditaria per si sola un tracte discriminatori especific contra Jordi.
+
+**Proves/testimonis:**
+
+- Adam/comptabilitat.
+- Gestoria.
+- Dates de pagament de nomines de Jordi.
+- Dates de pagament de nomines de la resta de treballadors en els mateixos mesos.
+- Extractes bancaris o justificants comptables, si l'advocada ho considera necessari.
+
+**Cautela:**
+
+No negar l'existencia de retards si consten documentalment. El punt defensable es distingir entre retard generalitzat i retard selectiu o discriminatori. Cal evitar afirmar-ho com a fet tancat sense revisar comptabilitat, nomines i dates reals de pagament.

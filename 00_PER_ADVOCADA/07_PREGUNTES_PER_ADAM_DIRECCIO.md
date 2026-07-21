@@ -44,8 +44,11 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 4. Pagaments, Nomines, Rebuts I Autories
 
+**Estat actual:** Meriem indica que, si hi va haver retards, afectaven sempre a tots i no nomes Jordi. Cal validar-ho amb Adam/comptabilitat/gestoria i, si es pot, amb comparativa de dates de pagament.
+
 1. Hi ha nomines de Jordi pagades amb retard? Quines dates exactes?
 2. Si hi va haver retard, va afectar nomes Jordi o tambe altres persones?
+   - Resposta preliminar de Meriem: sempre afectava a tots; pendent de validacio comptable.
 3. Durant la baixa, per quin motiu Jordi podia cobrar en un moment diferent de la resta?
 4. Hi ha autories o rebuts de Jordi pendents de pagar? Quins imports i dates?
 5. Jordi va presentar rebuts fins a 1.000 euros per feina extra? Quan? Es van pagar?

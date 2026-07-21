@@ -422,12 +422,16 @@ Jordi afirma retards, impagaments i tracte discriminatori.
 
 Aquest punt s'ha de contestar amb comptabilitat, nomines, intranet, rebuts d'autoria i criteris de pagament. Si reclama autories, cal veure imports, dates, factures/rebuts i si altres persones estaven en situacio comparable. Si la resta de treballadors no eren autors, no es pot comparar automaticament amb el mateix criteri.
 
+Segons la informacio recollida, si hi va haver retards en pagaments o nomines, aquests afectaven el conjunt de treballadors i no nomes Jordi. Per tant, pendent de validacio comptable, aquesta dada permetria contestar que no consta un tracte selectiu o discriminatori contra Jordi pel que fa als retards. La resposta no ha de negar els retards si existeixen, sino exigir que es comparin dates de pagament de Jordi amb les de la resta de la plantilla en els mateixos mesos.
+
 **Proves**
 
 - Nomines.
+- Dates de pagament de Jordi i de la resta de treballadors en els mateixos mesos.
 - Rebuts/factures d'autoria.
 - Intranet de gestio de pagaments.
 - Extractes comptables, si escau.
+- `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 **Validacio pendent**
 

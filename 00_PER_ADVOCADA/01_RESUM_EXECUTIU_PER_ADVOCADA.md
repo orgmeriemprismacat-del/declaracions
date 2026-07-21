@@ -109,6 +109,8 @@ Tambe consta que determinades tasques de correccio si es van poder externalitzar
 
 Els punts relatius a baixa medica, ICAM/SGAM, pagaments, autories, nomines, paternitat i decisions contractuals han de ser validats per Adam, gestoria i advocada. L'empresa no ha d'emetre judicis sobre la realitat medica de Jordi. Si l'alta va ser per ICAM/SGAM, cal indicar que no es una decisio emesa per Meriem, Isa, Pablo, Adam ni PrisMa, sense entrar a valorar criteris medics.
 
+En materia de pagaments, segons la informacio recollida, si hi va haver retards aquests afectaven el conjunt de treballadors i no exclusivament Jordi. Aquesta dada s'ha de validar amb comptabilitat, nomines i dates reals de pagament, pero es rellevant per rebatre la idea de tracte discriminatori selectiu.
+
 Pel que fa al permis de paternitat, segons la informacio recollida no consta que PrisMa demanes formalment a Jordi canviar dates per necessitats de l'empresa. Aquest punt s'ha de validar amb Adam, gestoria, Woffu i sol.licituds del permis abans de donar-lo per tancat.
 
 Tambe hi ha testimoni de Meriem que Jordi havia vinculat l'interes per la jornada completa al calcul economic del permis de paternitat. Mentre no es localitzi prova escrita, aquest punt s'ha de presentar nomes com a testimoni i context, no com a fet documental tancat.

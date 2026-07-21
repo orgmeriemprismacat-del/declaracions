@@ -32,6 +32,8 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Adam/comptabilitat han de revisar nomines, dates de pagament i imports.
 - Confirmar si hi ha rebuts d'autoria pendents, dates de gestio i criteris de pagament.
 - Confirmar si altres treballadors estaven en situacio comparable abans de parlar de discriminacio.
+- Confirmar amb comptabilitat si, quan hi va haver retards, aquests van afectar tota la plantilla i no nomes Jordi.
+- Preparar comparativa per mesos: data de pagament de Jordi i data de pagament de la resta de treballadors.
 
 ## 5. Baixa Medica I ICAM/SGAM
 
