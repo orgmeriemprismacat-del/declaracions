@@ -158,6 +158,27 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 11. Conducta I Reunions Amb Jordi
 
+### Origen de la responsabilitat de marketing
+
+1. Adam confirma que ell i Pablo van parlar presencialment amb Meriem, entre finals de 2022 i principis de 2023, per preguntar-li que es podia fer per millorar la situacio de PrisMa? Recorda una data o ubicacio mes aproximades? Confirma que va ser Meriem qui va plantejar la importancia de Google Ads, que es va informar i en va preparar l'ús abans que les campanyes es poguessin utilitzar efectivament?
+2. Adam confirma que el 26/04/2023 Meriem ja assumia la creacio de les imatges perquè PrisMa no tenia pressupost per externalitzar aquesta feina? Recorda quines peces o promocions es van tractar en aquella conversa?
+3. Quin era el context economic o comercial que va motivar aquella conversa?
+4. A partir d'aquell moment, Adam i Pablo consideraven que Meriem assumia la iniciativa o responsabilitat de marketing, encara que el carrec no s'hagues formalitzat immediatament per escrit?
+5. Poden confirmar que Meriem va començar a aportar idees, revisar el que s'estava fent i formar-se en marketing, SEO, xarxes, mailings i captacio?
+6. Adam confirma que, despres d'aquella conversa, Meriem va començar a seleccionar i enviar informacio rellevant per a marketing i a organitzar promocions, imatges i sliders? Confirma que els correus dels dies 8-11/05 reflecteixen aquesta nova funcio?
+7. Quan Adam va indicar el 05/12/2024 que Meriem era la responsable de marketing, estava reconeixent una funcio que ella ja exercia des de temps abans?
+8. Poden confirmar que els mailings es construïen amb aportacions de Cristina, Laura, Isa i Meriem, amb funcions pedagogiques, de redaccio, contrast i marketing diferenciades?
+9. Poden confirmar que les xarxes les planificaven principalment Meriem i Laura en reunions aproximadament mensuals, que Meriem preparava les imatges o videos i Laura redactava els textos?
+10. Consta que Laura passes ordinariament els seus textos de xarxes a Jordi perquè els corregis?
+11. Jordi va entrar posteriorment en el circuit de revisio de xarxes perquè ell va manifestar que aquesta correccio era important per a ell?
+12. Poden confirmar que Meriem va decidir incloure'l encara que la resta de l'equip no considerava imprescindible aquesta revisio?
+13. La decisio posterior que Meriem redactes directament determinats textos responia a mes formacio i a una reorganitzacio operativa davant discrepancies recurrents?
+14. Despres de marxar Laura i Cristina, Jordi es va oferir a redactar les xarxes i els mailings que Meriem indiques, com abans feia Laura?
+15. Adam recorda que posteriorment Jordi va manifestar que les xarxes li suposaven molta feina i que Meriem en va assumir la redaccio, deixant-li nomes la correccio?
+15. Abans de l'Excel compartit, es van provar un tauler presencial i anotacions en paper per ajudar Jordi a organitzar les tasques?
+16. L'Excel documentat a l'acta del 23/07/2024 es va crear perquè Jordi tingues una visio global de tasques, dates i prioritats, i perquè Adam en pogues controlar la finalitzacio?
+17. Adam pot confirmar que el cas JASOM recollia una discrepancia ja repetida entre correccio linguistica i claredat/eficacia comercial, i no un conflicte personal sorgit aquell dia?
+
 1. Adam va presenciar el conflicte del 05/12/2024 sobre xarxes/marketing?
    - Resposta preliminar de Meriem: si. Adam hi era present. El conflicte era sobre un mailing: Jordi defensava una redaccio mes elaborada, mentre Meriem i Isa defensaven que en un mailing calia prioritzar lectura facil, claredat, captacio i criteris de marketing/SEO.
 2. Que recorda exactament d'aquella reunio?
@@ -166,15 +187,18 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
    - Resposta recollida: si. Adam va dir que Meriem era la responsable de marketing i que Jordi havia de seguir aquests criteris en aquest ambit.
 4. Hi va haver escridassada, insults o expressions vexatories?
    - Resposta recollida de Meriem: no hi va haver insults ni expressions vexatories. Meriem reconeix que podia parlar amb un to elevat, pero ho diferencia d'un tracte vexatori. Posteriorment, en una reunio amb Pablo i Adam, Pablo li va traslladar que Jordi havia indicat que no li agradava que Meriem parles/crides amb aquell to. Meriem indica que, a partir d'aquell moment, va controlar expressament el to i va passar a parlar mes baix.
+5. Adam confirma la disposicio de la taula: Meriem amb Isa al costat; Adam davant de Meriem; Pablo al costat d'Adam; i Jordi al cap de taula?
+6. Des d'aquesta posicio, que va veure i sentir Adam exactament? Meriem va insultar, amenaçar, humiliar o desqualificar Jordi, o la discussio es va mantenir en arguments de feina amb un to alt?
    - Punt general aportat per Meriem: en la trajectoria laboral a PrisMa no li consten insults ni expressions vexatories de cap membre de l'equip cap a Jordi.
    - A validar amb Adam/Pablo/Isa: si recorden insults o expressions vexatories; si recorden que el problema era el to; si recorden que Meriem va modificar la manera de parlar despres.
 5. Adam va oferir a Jordi parlar en privat en alguna ocasio i Jordi va preferir fer-ho davant de Meriem i Isa?
-   - Resposta recollida de Meriem: si. En l'episodi en que Jordi retreia a Adam la jornada completa i imports que considerava deguts, Adam li hauria ofert parlar en privat o en un espai separat. Jordi hauria preferit parlar alla mateix davant Meriem i Isa perque volia testimonis.
-   - Segons Meriem, ella i Isa van viure la situacio com a incomoda i no van buscar presenciar aquella conversa.
+   - Data de l'episodi: 23/07/2024. Conve contrastar-la amb la documentacio contemporania disponible.
+   - Resposta: si. En l'episodi en que Jordi retreia a Adam la jornada completa i imports que considerava deguts, Adam li va oferir parlar en privat o en un espai separat. Jordi va preferir parlar alla mateix davant Meriem i Isa perque volia testimonis.
+   - Meriem i Isa van viure la situacio com a incomoda i no van buscar presenciar aquella conversa.
 6. En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o formules no compatibles amb la situacio economica/legal de l'empresa?
-   - Resposta recollida de Meriem: si. Jordi insistia que Adam podia haver-li fet el contracte o haver buscat alguna formula per pagar-li com si tingues jornada completa malgrat la situacio de perdues. Segons Meriem, Jordi si va plantejar opcions irregulars o no compatibles amb la situacio economica/legal de l'empresa, i ella i Isa van intervenir per explicar que aixo no era viable ni correcte.
+   - Resposta: si. Jordi insistia que Adam podia haver-li fet el contracte o haver buscat alguna formula per pagar-li com si tingues jornada completa malgrat la situacio de perdues. Va plantejar opcions irregulars o no compatibles amb la situacio economica/legal de l'empresa, i Meriem i Isa van intervenir per explicar que aixo no era viable ni correcte.
 7. Com ho va viure Adam i qui era present?
-   - Present segons Meriem: Adam, Jordi, Meriem i Isa. Pablo no hi era.
+   - Presents: Adam, Jordi, Meriem i Isa. Pablo no hi era.
    - Meriem indica que ella i Isa ho van viure molt malament i amb molta incomoditat; encara recorda la sensacio d'aquell moment.
    - Sobre Adam, Meriem no pot afirmar com ho va viure internament. La seva percepcio es que Adam va portar millor aquella conversa que Meriem i Isa, pero cal validar-ho directament amb Adam.
    - A validar amb Adam/Isa: to de la conversa, oferiment de parlar en privat, negativa de Jordi i paraules exactes sobre jornada completa/formules irregulars.

@@ -45,11 +45,49 @@ Meriem entra a l'empresa i progressivament assumeix funcions de suport informati
 
 **Valor:** serveix per explicar que la coordinació amb Jordi no apareix de cop el 2025, sinó que ve d'una trajectòria llarga de dependència operativa i suport.
 
+### Novembre de 2022 - primeres propostes de xarxes i reels amb Laura
+
+Meriem comença a parlar amb Laura sobre idees que té per a les xarxes socials. En aquesta primera etapa encara no crea les imatges, pero si elabora alguns reels que l'equip utilitza per promocionar cursos. Aquesta dada situa l'inici de la seva participacio en continguts de xarxes abans de Google Ads, de la sortida de Cristina i dels conflictes posteriors amb Jordi.
+
+**Valor:** mostra una evolucio gradual de les funcions de marketing: primer idees i alguns reels en col·laboracio amb Laura; mes endavant Ads, imatges, promocions, mailings i organitzacio del circuit. Cal localitzar i annexar, si es conserven, els reels, arxius o converses de novembre de 2022.
+
 ### 2023-2024: reorganitzacio de l'equip
 
 Amb la sortida de diverses persones, Meriem assumeix mes tasques: imatges de marketing, ads, xarxes socials, mailings, programacio i coordinacio. L'equip queda reduit i les dependencies entre tasques es tornen mes sensibles.
 
 **Valor:** contextualitza que qualsevol retard en correccio o resposta podia impactar en un equip petit, amb poca capacitat d'absorbir incidencies.
+
+### Entre finals de 2022 i principis de 2023 - conversa presencial sobre la situacio de PrisMa
+
+Entre finals de 2022 i principis de 2023, Adam i Pablo demanen presencialment a Meriem que es pot fer per millorar la situacio de PrisMa. Meriem no recorda la data exacta ni pot precisar amb seguretat en quin despatx va tenir lloc. Planteja a Adam que Google Ads es important si volen millorar i salvar la situacio de l'empresa. La iniciativa d'Ads parteix de Meriem, no d'un encarrec d'Adam.
+
+Meriem recorda que abans de poder utilitzar Ads de manera efectiva es va informar i en va preparar l'ús. El 23/02/2023 apareix una primera fita relacionada amb aquest treball i els correus de març sobre Google Ads, criteris tecnics de les imatges, propostes promocionals i accessos a Analytics documenten aquesta fase preparatoria o inicial. No considera probable haver iniciat l'ús efectiu durant el periode de vacances; cal comprovar amb l'historial del compte, facturacio, campanyes i calendari de vacances si l'activacio va ser abans o en tornar. Entre el 8 i l'11/05 ja consta una ampliacio clara de les altres funcions: compra, creacio i adaptacio d'imatges, promocions, slider i mailing. Com a minim el setembre de 2023, Meriem ja proposava idees per a xarxes i creava també les imatges i els videos. El 16/10/2023 reorganitza i consolida el circuit mitjançant el curs `Departament màrqueting`, amb aprovacio d'Adam i Cristina.
+
+### 26 d'abril de 2023 - Meriem ja crea les imatges per manca de pressupost extern
+
+El 26/04/2023 Meriem ja assumeix la creacio de les imatges. Conserva una conversa amb Adam en que es tracta que PrisMa no disposava de pressupost per externalitzar aquesta feina. Aquesta evidencia explica l'origen empresarial de l'assumpcio de les imatges: cobrir internament una necessitat que no es podia contractar fora. Cal annexar la conversa completa i identificar les imatges vinculades d'aquella data.
+
+**Valor:** contradiu que Meriem s'atribuís aquesta funcio després de la sortida de Cristina o arran del conflicte amb Jordi. La funcio ja existia documentalment l'abril de 2023, amb coneixement d'Adam i per una limitacio pressupostaria concreta.
+
+A partir d'aquell moment, Meriem assumeix de fet la iniciativa de marketing: analitza que s'estava fent, aporta idees per millorar la promocio i la captacio i es forma externament i per iniciativa propia per complir la responsabilitat amb rigor. Els mailings es construïen en equip: Cristina aportava la visio pedagogica, Laura redactava i tambe aportava criteri, Isa hi feia observacions i Meriem coordinava les idees i el criteri de marketing. Les xarxes seguien un circuit diferent entre Meriem i Laura: aproximadament un cop al mes es reunien per planificar-les, contrastaven idees i propostes, Meriem assumia les imatges o els videos i Laura redactava els textos. Les captures del 22-23/01/2024 i del 22/02/2024 documenten propostes de Meriem a Laura i l'organitzacio de l'Excel d'estat dels videos. Laura no passava ordinariament aquests textos a Jordi perquè els corregis. Meriem recorda que Jordi va reclamar participar-hi, malgrat que Laura, Julia i Cristina no ho consideraven necessari, i que ella el va incloure perquè per a ell era important. Aquesta part s'ha de corroborar. Cristina i Laura ja no treballen a PrisMa; nomes si fos possible i l'advocada ho consideres convenient, podrien corroborar el funcionament historic. Isa pot confirmar la part que va presenciar.
+
+**Valor:** mostra una seqüencia iniciada possiblement amb la conversa, les idees de xarxes i els reels de novembre de 2022; seguida de formacio i preparacio d'Ads durant els primers mesos de 2023; i ampliada, com a maxim el 26/04/2023, amb l'assumpcio de les imatges per manca de pressupost per externalitzar-les. L'activacio efectiva d'Ads s'ha de validar, tenint en compte que Meriem no considera probable haver-la iniciat durant les vacances. Tot aixo es anterior a la sortida de Cristina i als conflictes posteriors amb Jordi.
+
+### 2024 - Jordi assumeix temporalment redaccio de xarxes i mailings
+
+Quan Laura i Cristina marxen, Jordi manifesta verbalment en una reunio que pot redactar les publicacions de xarxes i els mailings que Meriem li indiqui, com abans feia Laura. En aquell moment encara no es feien actes i cal identificar altres presents que ho puguin corroborar. Meriem accepta la proposta perquè preveu mantenir un circuit semblant a l'anterior: ella defineix necessitats i criteris, produeix o coordina el contingut visual i Jordi redacta, de manera que despres nomes calgui una revisio final integrada de text i peça visual.
+
+En la practica, Meriem descriu discrepancies recurrents sobre els requisits que comunicava per a cada peça: estructura, extensio, lectura rapida, jerarquia, claredat, objectiu comercial i integracio amb imatge o video. Els dimarts i dijous, coincidint amb la presencialitat i coordinacio, es convertien sovint en espais de recordatori i revisio extensa de publicacions i mailings. Davant les queixes de Jordi sobre la carrega de xarxes, Meriem li retira la redaccio i deixa la seva intervencio limitada a la correccio. Aquest canvi redueix funcions a peticio o en benefici de la seva carrega, no l'exclou d'una competencia originaria.
+
+La pissarra de tasques era un sistema general de l'equip, situada a la paret del despatx i emplenada entre tots, especialment per Meriem i Pablo mentre s'ordenaven les feines. No va ser substituïda per un Excel general. L'Excel amb tasques, dates i prioritats es va crear especificament per a Jordi davant oblits d'encarrecs i dates. Jordi tampoc mantenia una llibreta estable: podia anotar tasques en fulls solts que quedaven al despatx i no funcionaven com a registre recuperable. L'acta del 23/07/2024 documenta l'Excel i que Adam controlaria l'estat `Completada`; cal confirmar amb testimonis el funcionament anterior de la pissarra i els papers.
+
+**Valor:** explica l'evolucio funcional mitjançant adaptacions successives abans del conflicte de desembre de 2024: incorporacio a la redaccio, recordatoris i suport organitzatiu, retirada de la redaccio de xarxes per reduir carrega i manteniment de la correccio.
+
+### 23/10/2023 - Substitucio prevista durant desembre i gener
+
+En el grup de WhatsApp de PrisMa, Jordi comunica que aquell dia havia parlat amb Lia i que ella tenia "el desembre i gener [...] reservats sencers per a PrisMa" perquè el substituis. Tambe indica que Lia aniria al despatx a principis de novembre per preparar la tutoritzacio i ultimar la substitucio.
+
+**Valor:** acredita que abans del naixement ja hi havia una previsio organitzativa de substitucio de Jordi durant desembre de 2023 i gener de 2024. Aquesta dada es compatible amb els primers dos mesos de permis que Jordi descriu a la carta i, per si sola, no acredita quin era el pla inicial per a la resta del permis ni el motiu exacte d'un canvi posterior. S'ha de creuar amb la sol·licitud inicial, les modificacions tramitades, Woffu, gestoria i comunicacions posteriors.
 
 ### 18/06/2024 - Vacances, paternitat i planificacio d'estiu
 
@@ -62,6 +100,8 @@ L'acta de 18/06/2024 recull vacances de diverses persones, previsio de paternita
 L'acta de 23/07/2024 recull que Adam s'encarrega de regularitzar hores de Jordi a Woffu i que es decideix tancar l'edicio de setembre del curs CAT perque Jordi tindria vacances i permis de paternitat, i fer el seguiment d'un tutor nou era complicat.
 
 **Valor:** prova documental que l'empresa va adaptar una edicio/curs tenint en compte vacances i paternitat de Jordi.
+
+**Conversa presencial sobre la jornada completa:** El mateix 23/07/2024 va tenir lloc la conversa entre Adam i Jordi sobre la jornada completa i els imports que Jordi considerava pendents, davant de Meriem i Isa. Adam va oferir parlar en privat, Jordi va preferir mantenir la conversa davant de testimonis i va plantejar que es podia haver buscat alguna formula irregular per pagar-lo o tractar-lo com si tingues jornada completa. Meriem i Isa van intervenir per indicar que aquesta via no era viable ni correcta. Conve contrastar la data i les paraules exactes amb la documentacio contemporania disponible.
 
 ## Gener-febrer 2025: normes de teletreball i sistema reforcat
 

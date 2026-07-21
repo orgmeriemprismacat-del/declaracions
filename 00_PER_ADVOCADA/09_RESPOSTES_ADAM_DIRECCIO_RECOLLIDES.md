@@ -192,23 +192,25 @@ Si no es localitza prova escrita, formular aquest punt com a testimoni/context c
 
 ## 10B. Conversa Sobre Jornada Completa Davant De Meriem I Isa
 
+**Data de l'episodi:** 23/07/2024. Conve contrastar-la amb la documentacio contemporania disponible.
+
 **Pregunta:** Adam va oferir a Jordi parlar en privat en alguna ocasio i Jordi va preferir fer-ho davant de Meriem i Isa?
 
-**Resposta recollida de Meriem:** Si. Segons Meriem, en l'episodi en que Jordi retreia a Adam la jornada completa i imports que considerava pendents, Adam li va oferir parlar en privat o en un espai separat. Jordi va preferir mantenir la conversa davant Meriem i Isa perque volia testimonis.
+**Resposta:** Si. En l'episodi en que Jordi retreia a Adam la jornada completa i imports que considerava pendents, Adam li va oferir parlar en privat o en un espai separat. Jordi va preferir mantenir la conversa davant Meriem i Isa perque volia testimonis.
 
 **Context recollit:**
 
-Meriem indica que Jordi portava temps queixant-se davant l'equip i que Meriem i Isa li havien dit diverses vegades que, si tenia queixes, havia de parlar directament amb Adam quan coincidien al despatx, en una sala de reunions o en un cafe. Segons Meriem, aquell dia Jordi va reclamar parlar amb Adam en un to elevat i, quan Adam va proposar anar a un espai privat, Jordi va preferir parlar alla mateix.
+Jordi portava temps formulant queixes davant l'equip. Meriem i Isa li havien dit diverses vegades que, si tenia queixes, havia de parlar directament amb Adam quan coincidien al despatx, en una sala de reunions o en un cafe. Aquell dia Jordi va reclamar parlar amb Adam en un to elevat i, quan Adam va proposar anar a un espai privat, Jordi va preferir parlar alla mateix.
 
-Meriem i Isa van viure la situacio com a incomoda i no van buscar presenciar-la. Segons Meriem, van intentar no intervenir i fins i tot van marxar en algun moment a fer un cafe per la incomoditat de la situacio.
+Meriem i Isa van viure la situacio com a incomoda i no van buscar presenciar-la. Van intentar no intervenir i fins i tot van marxar en algun moment a fer un cafe per la incomoditat de la situacio.
 
 Meriem afegeix que ella i Isa ho van viure molt malament i que encara recorda la sensacio d'aquell moment. Sobre Adam, Meriem no pot afirmar com ho va viure internament; nomes pot dir que, segons la seva percepcio, Adam va portar millor aquella conversa que elles. Aquest extrem s'hauria de validar directament amb Adam si es vol utilitzar.
 
 **Pregunta:** En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o formules no compatibles amb la situacio economica/legal de l'empresa?
 
-**Resposta recollida de Meriem:** Si. Segons Meriem, Jordi insistia que Adam podia haver-li fet el contracte a jornada completa o haver buscat alguna formula per pagar-li com si tingues jornada completa, malgrat que Adam li explicava que no havia promes una data concreta i que l'ampliacio depenia de la subvencio i de la situacio economica de PrisMa. Meriem afirma que Jordi si va plantejar opcions irregulars o no compatibles amb la situacio economica/legal de l'empresa.
+**Resposta:** Si. Jordi insistia que Adam podia haver-li fet el contracte a jornada completa o haver buscat alguna formula per pagar-li com si tingues jornada completa, malgrat que Adam li explicava que no havia promes una data concreta i que l'ampliacio depenia de la subvencio i de la situacio economica de PrisMa. En aquesta conversa, Jordi va plantejar opcions irregulars o no compatibles amb la situacio economica/legal de l'empresa.
 
-Meriem indica que va intervenir per explicar que, si l'empresa tenia perdues, no podia ampliar jornada sense justificacio ni buscar formules irregulars. Isa hauria intervingut en el mateix sentit.
+Meriem va intervenir per explicar que, si l'empresa tenia perdues, no podia ampliar jornada sense justificacio ni buscar formules irregulars. Isa va intervenir en el mateix sentit.
 
 **Formulacio defensable:**
 
@@ -737,6 +739,24 @@ La manca de full d'estil formal s'ha de presentar com una incidencia organitzati
 **Cautela:**
 
 No afirmar que Jordi "no tenia criteri" o que la seva feina era incorrecta de forma general. La formula mes segura es: "no consta un full d'estil formal documentat i aixo generava dependencia del criteri personal del corrector intern".
+
+## 27B. Origen De La Responsabilitat De Marketing De Meriem
+
+**Informacio recollida:**
+
+Entre finals de 2022 i principis de 2023, Adam i Pablo van demanar presencialment a Meriem que es podia fer per millorar la situacio de PrisMa. Meriem no recorda la data exacta ni pot precisar amb seguretat en quin despatx va tenir lloc. Va plantejar a Adam que Google Ads era important per millorar i salvar la situacio de l'empresa, es va informar i en va preparar l'ús. El 23/02/2023 apareix una primera fita i el 16/03 ja consta activitat documental en Google Ads. No considera probable haver iniciat l'ús efectiu durant les vacances; cal validar si l'activacio va ser abans o en tornar mitjançant l'historial del compte. Entre el 8 i l'11/05 ja consten altres funcions de marketing. El 16/10/2023 Meriem reorganitza el curs `Departament màrqueting` al nou Moodle amb aprovacio d'Adam i Cristina.
+
+El 26/04/2023 Meriem ja assumia directament la creacio de les imatges. Conserva una conversa amb Adam en que es tracta que no hi havia pressupost per externalitzar aquesta feina. Aquesta dada situa la funcio abans de la sortida de Cristina i n'explica la causa empresarial concreta: cobrir internament una necessitat per a la qual no es podia assumir el cost d'un proveïdor extern.
+
+A partir d'aquesta peticio, Meriem va revisar el que s'estava fent, va aportar propostes i es va formar en promocio, captacio, xarxes, mailings, web, SEO, imatges i anuncis. Els mailings es construïen amb aportacions de Cristina, Laura, Isa i Meriem. Les xarxes les planificaven principalment Meriem i Laura: Meriem preparava imatges o videos i Laura redactava els textos, sense passar-los ordinariament a Jordi perquè els corregis. Meriem va incorporar Jordi posteriorment a la revisio de xarxes perquè ell va manifestar que li importava. Amb mes formacio i experiencia acumulada, i davant els desacords repetits amb Jordi, Meriem va acabar redactant directament determinats textos.
+
+**Valor:**
+
+Aquesta cronologia situa la responsabilitat de marketing de Meriem abans dels conflictes posteriors amb Jordi. Permet explicar que els criteris que Meriem defensava no van ser improvisats per desautoritzar-lo, sino que derivaven d'una peticio previa de direccio i d'una funcio exercida de manera continuada.
+
+**Validacio pendent:**
+
+Adam i Pablo han de confirmar, si es possible, que la conversa presencial va tenir lloc entre finals de 2022 i principis de 2023 i precisar-ne millor la data i ubicacio. Adam ha de confirmar que va ser Meriem qui va proposar la importancia de Google Ads. Cal revisar l'historial del compte i les vacances per distingir la preparacio iniciada abans, la fita del 23/02/2023 i l'activacio efectiva, sense mantenir provisionalment juliol com a data. Isa pot confirmar la part que va presenciar. Cristina i Laura ja no treballen a PrisMa i no s'han de presentar com a testimonis disponibles.
 
 ## 28. Conflicte Del 05/12/2024 Sobre Marketing I Mailing
 

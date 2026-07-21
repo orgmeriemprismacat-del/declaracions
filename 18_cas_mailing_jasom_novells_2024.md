@@ -123,6 +123,39 @@ Formulacio recomanada:
 
 > En el cas de la promocio JASOM novells, les captures mostren que Meriem i Isa formulen observacions concretes de claredat i marketing sobre el mailing. Jordi defensa que la seva estructura funcionava, i Meriem concreta que el problema no era l'estructura sino la redaccio i la comprensibilitat del missatge. Aquesta prova situa la discrepancia en un pla professional i operatiu, no personal.
 
+## Context funcional anterior aportat per Meriem
+
+El cas JASOM s'ha de situar al final d'una evolucio de funcions. Despres de la sortida de Laura i Cristina, Jordi es va oferir a redactar les publicacions i els mailings que Meriem indiques, com ho havia fet Laura. Meriem va acceptar perquè preveia definir els criteris i necessitats de marketing, preparar la part visual i rebre de Jordi una redaccio compatible amb aquests criteris.
+
+Amb el temps es van repetir discrepancies sobre estructura, extensio, claredat, lectura rapida i objectiu comercial. Quan Jordi va manifestar que les xarxes li generaven molta feina, Meriem va assumir-ne la redaccio i va mantenir Jordi en la correccio. JASOM no va ser, per tant, una discussio aillada ni un rebuig arbitrari de la correccio linguistica: va ser el punt en que es va fer evident una discrepancia recurrent entre considerar que un text `ja s'entenia` i exigir que un mailing fos immediatament comprensible, visualment agradable i facil de llegir per evitar perdre l'atencio del client.
+
+En les captures del 03/12/2024 no es tracta nomes d'una opinio individual de Meriem. Isa tambe formula una observacio de comprensibilitat i Meriem hi coincideix. Jordi defensa la seva proposta perquè considera que l'estructura ja funciona. El fet que dues persones implicades en el circuit no interpretessin el missatge amb la claredat esperada reforça que la discrepancia era real i professional. Aquesta seqüencia desemboca en la reunio del 05/12/2024, on cal confirmar amb Adam que es van delimitar les responsabilitats de correccio i marketing.
+
+Aquest desacord no implica negar la competencia linguistica de Jordi. La questio no era si sabia corregir, sino si incorporava en una peça comercial altres requisits que quedaven fora de la correccio estricta. Una redaccio pot ser linguisticament defensable i, alhora, no ser prou immediata, atractiva o funcional per a un mailing. Meriem no desacreditava la seva especialitat: defensava que aquesta no podia substituir ni prevaldre automaticament sobre la lectura rapida, la jerarquia visual, la crida a l'accio, la captacio i la conversio.
+
+**Validacio pendent:** Laura i Cristina ja no treballen a PrisMa; nomes valorar una eventual corroboracio seva sobre el relleu funcional si es possible i l'advocada ho considera convenient. Prioritzar actes, correus i missatges contemporanis. Confirmar amb Isa el significat exacte del seu comentari a JASOM i amb Adam la delimitacio formulada a la reunio del 05/12/2024.
+
+## Relacio amb l'expressio `la bronca de na Meriem`
+
+A la carta, Jordi descriu la reunio del 05/12/2024 dient que Meriem el va `escridassar de males maneres`, li va `tirar en cara coses` i va `perdre completament les formes`. Mes endavant resumeix l'episodi com `la bronca de na Meriem`. No hi identifica cap insult literal ni cap expressio vexatoria concreta atribuïda a Meriem.
+
+La resposta no ha de negar que hi hagués tensio ni discutir la vivencia emocional que Jordi diu haver tingut. Ha de precisar que:
+
+- Meriem nega haver perdut les formes o haver escridassat Jordi de males maneres i reconeix unicament que parlava amb un to alt en una conversa tensa;
+- no consten insults, amenaces, humiliacions ni desqualificacions personals concretes;
+- les captures anteriors a la reunio documenten una discrepancia professional real sobre la comprensibilitat del mailing;
+- Isa tambe havia formulat una objeccio de claredat;
+- el desacord venia precedit per dificultats repetides sobre criteris de marketing i organitzacio;
+- la intervencio d'Adam va delimitar responsabilitats funcionals, no va validar cap atac personal.
+
+Formulacio recomanada:
+
+> La denominacio `la bronca de na Meriem` es la qualificacio subjectiva que Jordi dona a una reunio professional tensa. Meriem nega haver perdut les formes o haver-lo escridassat de males maneres i reconeix unicament que parlava amb un to elevat. Tambe nega haver insultat, humiliat o desqualificat Jordi. La documentacio contemporania situa la conversa en un desacord concret i acumulat sobre el mailing JASOM, la seva comprensibilitat i els criteris de marketing. No consta a la carta cap insult o expressio vexatoria literal atribuïda a Meriem.
+
+L'acta del 05/12/2024 fixa una durada total de 10:20 a 12:00 i inclou altres punts de l'ordre del dia. Hi consten els cinc assistents —Isa, Meriem, Jordi, Adam i Pablo— i la signatura posterior de Jordi el 19/12/2024. L'acta confirma que Jordi havia de modificar el mailing amb els comentaris rebuts i recull acords d'organitzacio i comunicacio; no recull insults, humiliacions ni cap incident personal. Aquesta absencia no permet provar el to exacte, pero si reforça que el contingut i el resultat de la reunio van ser professionals.
+
+Segons la disposicio recordada per Meriem, ella tenia Isa al costat; davant hi havia Adam; al costat d'Adam, Pablo; i Jordi estava al cap de taula. Aquesta distribucio identifica Isa, Adam i Pablo com a testimonis presencials directes de la conversa i permet demanar-los separadament que concretin el contingut, el to i si van sentir cap insult o expressio vexatoria.
+
 ### Si Jordi ho presenta com a conflicte personal
 
 La resposta hauria de ser:
