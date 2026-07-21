@@ -1,0 +1,129 @@
+# Preguntes Per A Adam / Direccio
+
+Aquest document recull punts que Meriem no pot tancar sola i que caldria preguntar a Adam, direccio, gestoria o comptabilitat abans de presentar una resposta definitiva.
+
+## 1. Jornada Completa I Promeses Contractuals
+
+1. Quan es va parlar per primera vegada amb Jordi de passar de mitja jornada a jornada completa?
+2. Es va donar a Jordi alguna data concreta i tancada per fer-li el contracte a jornada completa?
+3. Si es va parlar d'una data, aquesta estava condicionada a la situacio economica de PrisMa, subvencions o noves tasques?
+4. Quines tasques noves havia d'assumir Jordi amb l'ampliacio de jornada?
+5. Jordi es va comprometre a reduir costos o assumir cursos/tasques concretes per justificar l'ampliacio?
+6. Hi ha correus, WhatsApps, actes o documents interns sobre aquestes converses?
+7. Adam recorda si Jordi havia refusat anteriorment ampliar jornada o havia dit que preferia mantenir la mitja jornada?
+
+## 2. Woffu, Hores, Vacances I Compensacions
+
+1. Com interpreta PrisMa/gestoria les hores de Woffu: el calcul correcte es `sortida - entrada - descansos`?
+2. Les icones d'hores compensatories indiquen hores ja restades o només incidencies administratives?
+3. Entre gener i agost de 2023, consta formalment que Jordi treballes jornada completa?
+4. El setembre de 2023, consta que Jordi va fer jornada completa o mes hores per algun motiu concret?
+5. Quines hores extres o compensatories tenia Jordi acumulades abans del canvi de jornada?
+6. Quines vacances o descansos va gaudir Jordi el 2023, 2024 i 2025?
+7. Quan Jordi acumulava hores, l'empresa li permetia compensar-les posteriorment amb descansos?
+8. Hi ha algun registre on consti que l'empresa li obligava a fer hores extres o que ell les fes per imposicio?
+
+## 3. Permis De Paternitat
+
+1. Quines dates exactes va demanar Jordi inicialment pel permis de paternitat?
+2. Va modificar Jordi aquestes dates? Si si, per quin canal i amb quina justificacio?
+3. PrisMa li va demanar formalment que canvies dates del permis per necessitats de l'empresa?
+4. Jordi va explicar que volia jornada completa per cobrar el permis de paternitat sobre jornada completa?
+5. Que va passar exactament amb el mes que internament s'ha descrit com a "regalat" o no descomptat?
+6. Com consta formalment aquest mes a Woffu/nomina/gestoria: vacances, permis, absencia justificada, compensacio o una altra figura?
+7. Qui havia d'informar Jordi del tramit necessari per cobrar la part restant del permis?
+8. Hi ha correus o comunicacions amb gestoria sobre aquest punt?
+
+## 4. Pagaments, Nomines, Rebuts I Autories
+
+1. Hi ha nomines de Jordi pagades amb retard? Quines dates exactes?
+2. Si hi va haver retard, va afectar nomes Jordi o tambe altres persones?
+3. Durant la baixa, per quin motiu Jordi podia cobrar en un moment diferent de la resta?
+4. Hi ha autories o rebuts de Jordi pendents de pagar? Quins imports i dates?
+5. Jordi va presentar rebuts fins a 1.000 euros per feina extra? Quan? Es van pagar?
+6. Des del 2023, quins rebuts d'autoria consten gestionats, pendents o pagats?
+7. La resta de treballadors tenien situacions comparables d'autoria o no?
+8. Com s'hauria de respondre a l'acusacio de tracte discriminatori en pagaments?
+
+## 5. Acomiadaments, Cristina I Decisions Empresarials
+
+1. Que es va comunicar exactament a l'equip sobre la necessitat de fer acomiadaments?
+2. En alguna reunio es va dir que Jordi ja sabia que s'acomiadaria Cristina?
+3. Es va dir que Jordi havia afirmat que podia assumir tasques de Cristina? En quins termes?
+4. Qui era present quan es va parlar d'aixo?
+5. Hi ha acta, correu o missatge que ho acrediti?
+6. Quins criteris empresarials es van tenir en compte per decidir acomiadaments?
+7. Es pot o convé explicar aquests criteris a la contestacio, o millor limitar-se a dir que son decisions organitzatives?
+8. Jordi va formular opinions sobre acomiadar Laura o una informatica? On consta?
+
+## 6. Despatx, Teletreball I Organitzacio
+
+1. Per quin motiu es va mantenir el despatx durant un temps abans de deixar-lo?
+2. Quin cost tenia el despatx i quin cost hauria tingut prescindir-ne o mantenir-lo?
+3. El despatx es va mantenir per necessitats de coordinacio presencial?
+4. Hi havia problemes concrets de coordinacio amb Jordi en teletreball?
+5. S'havia detectat que els dimarts i dijous presencials facilitaven que Jordi avances feina?
+6. Quan es va decidir tornar a reunions presencials o espais de coworking?
+7. Hi ha actes que acreditin horaris, reunions o disponibilitat presencial?
+
+## 7. ERTE
+
+1. Es va demanar o valorar formalment un ERTE?
+2. Si es va demanar, quan i amb quin resultat?
+3. Si no es va concedir, quin motiu es va donar?
+4. Es va comunicar a Jordi o a l'equip?
+5. La feina hauria desaparegut amb un ERTE o s'hauria hagut de redistribuir igualment?
+
+## 8. Alta Voluntaria, Baixa I Vacances Posteriores
+
+1. Jordi va demanar alta voluntaria l'1 de desembre de 2025? Hi ha document?
+2. L'empresa li va demanar que tornes o va ser decisio de Jordi?
+3. Quan Jordi va tornar, se li va recomanar agafar vacances o descansar?
+4. Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances?
+5. L'equip va acceptar assumir feina mentre Jordi descansava?
+6. Hi ha correus o WhatsApps que acreditin que PrisMa prioritzava la seva salut/descans?
+
+## 9. ICAM / SGAM I Alta Medica
+
+1. L'alta de Jordi va venir per resolucio d'ICAM/SGAM?
+2. L'empresa va sol.licitar alguna revisio o va ser un proces ordinari de mutua/administracio?
+3. Quins documents oficials te PrisMa sobre l'alta?
+4. Com recomana l'advocada respondre sense valorar el criteri medic?
+
+## 10. Tasques Reals De Jordi Des De 2023
+
+1. Quines tasques principals tenia Jordi el 2023?
+2. Quines tasques principals tenia Jordi el 2024?
+3. Quines tasques principals tenia Jordi el 2025 abans de la baixa?
+4. A banda de tres cursos, xarxes/mailings i tasques puntuals, consta algun altre bloc substancial de feina el 2025?
+5. Quines tasques va deixar pendents o es van haver de redistribuir durant la baixa?
+6. Quines tasques es van externalitzar posteriorment, com CANVA, i amb quin resultat?
+7. Quin cost va tenir la correccio externa de CANVA?
+8. Consta documentalment que amb correccio externa es va avançar sense el mateix nivell de dependencia interna?
+
+## 11. Conducta I Reunions Amb Jordi
+
+1. Adam va presenciar el conflicte del 05/12/2024 sobre xarxes/marketing?
+2. Que recorda exactament d'aquella reunio?
+3. Adam va dir que Meriem era responsable de marketing i que Jordi havia de seguir aquests criteris?
+4. Hi va haver escridassada, insults o expressions vexatories?
+5. Adam va oferir a Jordi parlar en privat en alguna ocasio i Jordi va preferir fer-ho davant de Meriem i Isa?
+6. En la conversa sobre jornada completa, Jordi va plantejar opcions irregulars o pagaments en negre?
+7. Com ho va viure Adam i qui era present?
+
+## 12. Comunicacio Amb Jordi Despres Del Retorn
+
+1. Quan Jordi es va reincorporar el 2026, se li va indicar horari o canal de coordinacio?
+2. Consta que havia d'estar disponible de 10 a 14 h?
+3. Consta que havia de mirar el correu en entrar i abans de marxar?
+4. Va fitxar sense avisar o sense entrar a reunions?
+5. Quins dies concrets son rellevants per acreditar-ho?
+
+## 13. Pregunta Final Per A L'Advocada
+
+Amb tota aquesta informacio, cal preguntar a l'advocada:
+
+1. Quins punts han d'anar a la contestacio formal?
+2. Quins punts nomes han de quedar com a prova de suport?
+3. Quins punts no convé obrir per no generar fronts innecessaris?
+4. Quines proves personals o WhatsApps es poden aportar sense vulnerar proporcionalitat o privacitat?
