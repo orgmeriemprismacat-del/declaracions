@@ -108,6 +108,20 @@ Tambe hi ha converses on jo li explico que havia treballat de nit o que estava d
 
 **Annexos a citar:** captures Google Chat 10/04/2025; captures Google Chat 14/04/2025; export WhatsApp/Google Chat; annex de comunicacions directes.
 
+### 1C. Interpretacions Sense Base Factual Suficient I Distancia Professional
+
+Segons la meva vivencia, abans i durant aquest periode ja havia vist en diverses ocasions que Jordi podia construir interpretacions greus a partir de fets insuficients o sense base provatoria clara. Mes d'una vegada li havia dit que havia d'evitar fer aixo, perque podia fer molt de mal. No ho plantejo com una valoracio psicologica, sino com una observacio laboral i relacional que vaig viure directament.
+
+El conflicte de l'"OJU" es un exemple que considero rellevant. Jordi va interpretar que jo li enviava correus al Gmail o actuava amb una intencio personal contra ell, quan despres es va veure que la situacio tenia una explicacio tecnica i organitzativa vinculada a les adreces de correu i signatures. En el seu WhatsApp del 16/03/2025, segons la meva lectura, ell mateix reconeixia que s'havia "muntat la pel.licula" en aquell punt.
+
+Despres de diversos conflictes i greuges, vaig decidir reduir la implicacio emocional amb Jordi i mantenir una relacio mes estrictament professional. Aixo volia dir que, si podia evitar converses personals o no vinculades a la feina, ho faria. Tot i aixi, aquesta distancia no va ser absoluta: quan el veia mes calmat o quan sorgia de manera natural, encara li preguntava per la salut, per la seva filla o per com estava portant determinades situacions.
+
+Durant un temps vaig pensar que, despres del WhatsApp del 16/03/2025 i de la resposta que ell va dir que faria, potser podriem arribar a entendre els diferents punts de vista i reconduir la situacio. Finalment, aquella resposta no va arribar i la relacio va continuar deteriorant-se.
+
+**Cautela:** formular-ho com a vivencia i patró relacional observat per Meriem, no com a diagnosi ni com a intencio provada de Jordi. Conve recolzar-ho en l'episodi documentat de l'"OJU", el WhatsApp del 16/03/2025 i les captures posteriors on queda pendent una resposta que no arriba.
+
+**Annexos a citar:** cadena correus "OJU"; WhatsApp personal 16/03/2025-17/03/2025; captures Google Chat 10/04/2025; correu explicant automatitzacions/no-reply; possibles testimonis si algú recorda avisos previs sobre interpretacions sense base.
+
 ### 2. Adaptacions I Organitzacio
 
 Durant molt temps vaig adaptar la meva manera de treballar a les necessitats de Jordi. Quan hi havia dificultats amb les correccions de xarxes, li vaig preguntar com preferia rebre els avisos i vaig intentar donar-li marge. Vaig crear automatitzacions de Trello per evitar duplicar correus manuals i perque rebés sempre la data i l'enllac de cada correccio.

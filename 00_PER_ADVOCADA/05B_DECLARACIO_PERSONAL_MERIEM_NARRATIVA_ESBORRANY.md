@@ -96,6 +96,14 @@ El 17/03/2025 Jordi em va respondre que m'havia volgut contestar la nit anterior
 
 Aquesta sequencia es rellevant perque mostra que jo no vaig impedir el dialeg ni li vaig exigir una resposta immediata. Al contrari, li vaig donar temps expressament. La continuacio de la conversa va quedar pendent d'una resposta que ell mateix havia anunciat.
 
+Abans i durant aquest periode, jo ja havia vist en diverses ocasions que Jordi podia construir interpretacions molt greus a partir de fets insuficients o sense base provatoria clara. Mes d'una vegada li havia dit que havia d'evitar fer aixo, perque podia fer molt de mal. Ho dic amb especial cautela, pero ho considero rellevant perque, amb el temps, aquesta manera d'interpretar situacions tambe l'he acabat vivint en primera persona.
+
+El conflicte de l'"OJU" es un exemple clar d'aquesta dinamica: Jordi va interpretar que jo li enviava correus al Gmail o que actuava d'una determinada manera amb una intencio personal contra ell, quan despres es va veure que la situacio tenia una explicacio tecnica i organitzativa vinculada a les adreces de correu i signatures. En el seu propi WhatsApp del 16/03/2025, segons la meva lectura, ell reconeixia que s'havia muntat una pelicula en aquell punt.
+
+Despres de diversos greuges i conflictes, jo vaig decidir que havia de reduir la implicacio emocional amb Jordi i mantenir una relacio mes estrictament professional. Aixo volia dir que, si podia evitar converses personals o no vinculades a la feina, ho faria. Tot i aixi, aquesta distancia no va ser absoluta ni artificial: quan el veia mes calmat o quan sorgia de manera natural, jo encara li preguntava per la seva salut, per la seva filla o per com estava portant determinades situacions.
+
+Durant un temps vaig pensar que, despres del WhatsApp del 16/03/2025 i de la resposta que ell va dir que faria, potser podriem arribar a entendre els diferents punts de vista. Aquest era, segons la meva vivencia, el que jo havia intentat fer des que hi havia conflicte amb Jordi: buscar una manera d'explicar-nos, entendre'ns i reconduir la situacio. Finalment, aquella resposta no va arribar i la relacio va continuar deteriorant-se.
+
 **Annexos orientatius:** WhatsApp personal 16/03/2025-17/03/2025; captures Google Chat 10/04/2025; comunicacions directes; correus individuals.
 
 ## GUST, TSA, MPIA, ALBUM I La Repercussio Dels Retards
