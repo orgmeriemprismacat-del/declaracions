@@ -159,8 +159,9 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - Meriem pregunta per temes personals o familiars i dona temps per contestar.
 - Jordi respon en un to cordial.
 - Jordi reconeix que te pendent contestar una comunicacio directa de Meriem, cosa que acredita que existien comunicacions directes que no eren nomes reunions, grups o no-reply.
-- Si es vincula amb el WhatsApp/export del 16/03/2025, acredita una sequencia en que Jordi assumeix que contestara mes endavant, el 10/04/2025 reconeix que encara ho te pendent i Meriem li dona temps expressament.
-- Pendent de confirmar amb export/captures si consta o no resposta posterior de Jordi a aquella comunicacio.
+- Vinculat amb l'export WhatsApp personal del 16/03/2025-17/03/2025, acredita una sequencia en que Jordi envia un missatge llarg a Meriem, Meriem contesta, Jordi assumeix que contestara mes endavant, el 10/04/2025 reconeix que encara ho te pendent i Meriem li dona temps expressament.
+- Aquest bloc tambe permet matisar la frase de Jordi segons la qual el WhatsApp del 16/03/2025 era nomes per explicar la situacio i demanar comprensio: en aquell missatge tambe formula retrets i interpretacions sobre Meriem, i reconeix que en el conflicte de l'"OJU" s'havia "muntat la pel.licula".
+- Pendent de revisio final de WhatsApp/Google Chat per confirmar si consta o no resposta posterior de Jordi a aquella comunicacio.
 - Jordi arriba a dir que Meriem no els fara anar malament, malgrat tot el que s'esta carregant.
 - Acrediten que la relacio no era nomes de retrets o hostilitat.
 - Algunes captures acrediten que Meriem indicava o facilitava que Jordi no treballes caps de setmana.

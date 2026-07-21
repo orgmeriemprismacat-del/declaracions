@@ -62,12 +62,13 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - ZIP de suport: `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`.
 - Captures copiades a `annexos_captures/GC_google_chat_jordi/`, especialment el bloc del 10/04/2025 sobre comunicacio directa, conciliacio i tracte cordial.
 - Export WhatsApp personal amb Jordi.
-- WhatsApp/export del 16/03/2025, si es localitza, per vincular-lo amb el 10/04/2025 i acreditar que Jordi havia assumit contestar una comunicacio directa que va quedar pendent.
+- Export WhatsApp personal `whatsapp_exports_raw/whatsapp_jordi_personal.txt`, bloc 16/03/2025-17/03/2025: Jordi explica malestar, pero tambe formula retrets i interpretacions sobre Meriem; Meriem respon; Jordi diu el 17/03/2025 que contestara quan tingui un moment; Meriem li dona marge.
+- Captures Google Chat 10/04/2025: Jordi reconeix que encara te pendent contestar aquella comunicacio i Meriem li torna a donar temps.
 - Captures on Meriem pregunta per disponibilitat, salut, conciliacio, terminis o canals.
 
-**Punts que acredita:** no es cert que les comunicacions fossin nomes en reunio, grup o no-reply; existia comunicacio directa i sovint cordial/operativa. El bloc del 10/04/2025 tambe acredita que Jordi reconeixia tenir pendent contestar una comunicacio directa de Meriem. Si es vincula amb el 16/03/2025, acredita que Meriem no va impedir el dialeg ni va exigir resposta immediata, sino que va donar marge a una resposta que Jordi havia assumit com a propia.
+**Punts que acredita:** no es cert que les comunicacions fossin nomes en reunio, grup o no-reply; existia comunicacio directa i sovint cordial/operativa. El bloc del 16/03/2025 permet matisar la frase de Jordi segons la qual nomes demanava comprensio: el missatge tambe contenia retrets i atribucions d'hostilitat, i ell mateix reconeixia que s'havia "muntat la pel.licula" en relacio amb l'"OJU". La sequencia 17/03/2025 + 10/04/2025 acredita que Jordi va assumir contestar mes endavant, que Meriem li va donar marge i que, segons la documentacio revisada fins ara, aquella resposta no consta produida.
 
-**A validar:** seleccionar nomes captures proporcionals i necessaries; confirmar si consta o no resposta posterior de Jordi a aquell missatge.
+**A validar:** seleccionar nomes captures proporcionals i necessaries; confirmar amb revisio final de WhatsApp/Google Chat si consta o no resposta posterior de Jordi a aquell missatge.
 
 ## C2. Context Sobre L'Ampliacio De Jornada I Absencia De Voluntat Hostil
 

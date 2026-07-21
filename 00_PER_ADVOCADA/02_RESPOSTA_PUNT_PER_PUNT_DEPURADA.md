@@ -362,9 +362,19 @@ Aquesta afirmacio no es correcta. Consten comunicacions directes per Google Chat
 
 En particular, les captures del 10/04/2025 mostren una conversa directa en que Meriem pregunta per una situacio familiar/de conciliacio, dona marge a Jordi per contestar un missatge llarg pendent i Jordi respon en un to cordial. Aquestes captures tambe mostren que Jordi reconeixia tenir pendent contestar una comunicacio directa de Meriem, cosa que contradiu que no hi hagues interaccio directa o que la comunicacio fos nomes grupal/no-reply.
 
-Segons la informacio aportada, aquesta comunicacio pendent provenia de l'intercanvi del 16/03/2025. Despres d'aquell intercanvi, Jordi va indicar que respondria quan disposes d'un moment. El 10/04/2025, gairebe un mes despres, ell mateix va reiterar per escrit: "Tinc pendent contestar-te, pero de debo que no he tingut un moment encara...". Meriem li va respondre que estigues tranquil i que, atesa l'extensio del tema, necessitava temps per contestar. Segons la informacio recollida, no consta que Jordi arribes a efectuar aquella resposta.
+### Subpunt. WhatsApp Del 16/03/2025 I Suposada Peticio De Comprensio
 
-Si es valida amb captures o exportacions, aquesta sequencia acredita que Meriem no va impedir el dialeg ni va exigir una resposta immediata. Al contrari, li va donar expressament temps per respondre. La continuacio de la conversa va quedar pendent d'una actuacio que Jordi havia assumit com a propia.
+Jordi afirma a la seva carta que el 16/03/2025 va escriure un WhatsApp a Meriem "explicant-li la situacio i demanant-li comprensio" i que la resposta de Meriem "no va ser amable ni gaire comprensiva".
+
+L'export de WhatsApp permet matisar aquesta afirmacio. El missatge de Jordi no es limita a explicar el seu malestar ni a demanar comprensio. Tambe contesta el conflicte previ de l'"OJU" i atribueix a Meriem conductes com alçar-li la veu, respondre amb hostilitat, ignorar-lo, posar-lo en dubte, discutir el seu rendiment davant els companys, organitzar les tasques per tenir el minim contacte amb ell i enviar-li comunicacions amb no-reply. En el mateix missatge, Jordi reconeix que, arran de l'"OJU", s'havia "muntat la pel.licula" que Meriem no volia que ell li respongues.
+
+Per tant, no es pot presentar aquell WhatsApp nomes com una peticio neutra de comprensio. Era una comunicacio llarga que combinava malestar personal, explicacions sobre la seva situacio familiar i laboral, disculpes per haver estat absent, i alhora retrets i interpretacions subjectives sobre la conducta de Meriem.
+
+La resposta de Meriem, encara que directa i marcada pel malestar acumulat, no talla el dialeg ni evita contestar. Meriem reconeix que tampoc estava be, manifesta que entenia que Jordi no podia viure la feina com un suplici, explica el seu propi malestar, contextualitza per que se sentia acusada en el conflicte de l'"OJU", explica que els correus no-reply responien a una necessitat organitzativa i no a una voluntat d'aillar-lo, i acaba agraint-li que li hagi escrit per WhatsApp i no hagi continuat el conflicte per correu.
+
+El 17/03/2025 Jordi respon: "Gracies, Meriem. Anit et volia respondre pero no vaig poder; quan tingui un moment ho faig :)". Meriem li contesta: "Ok quan puguis tranquil". El 10/04/2025, gairebe un mes despres, Jordi encara reconeix per Google Chat que te pendent contestar-li i que no ha tingut un moment. Meriem li torna a donar temps i li diu que, com que es un tema llarg, necessita el seu temps per contestar.
+
+Segons la documentacio revisada fins ara, no consta que Jordi arribes a efectuar aquella resposta pendent. Aquesta sequencia acredita que Meriem no va impedir el dialeg ni li va exigir una resposta immediata; al contrari, va acceptar que Jordi contestes quan pogues. La continuacio de la conversa va quedar pendent d'una actuacio que Jordi havia assumit com a propia.
 
 La prioritzacio de canals traçables responia a la necessitat de deixar constancia de tasques, terminis i dependencies, especialment en context de teletreball i quan hi havia manca de resposta o retards.
 
@@ -377,7 +387,8 @@ Tambe cal tenir en compte que, durant bona part de la relacio laboral, moltes in
 - Correus individuals.
 - Captures sobre organitzacio de xarxes i cursos.
 - Captures Google Chat 10/04/2025 sobre conciliacio, resposta pendent i tracte cordial, si l'advocada considera proporcional aportar-les.
-- WhatsApp o export del 16/03/2025 que origina la comunicacio pendent, si es localitza.
+- Export WhatsApp personal `whatsapp_exports_raw/whatsapp_jordi_personal.txt`, bloc 16/03/2025-17/03/2025.
+- WhatsApp 16/03/2025: missatge de Jordi de les 11:12, resposta de Meriem de les 15:15-15:38, resposta de Jordi del 17/03/2025 a les 09:43 i resposta de Meriem del 17/03/2025 a les 15:31.
 - Revisio de converses posteriors per confirmar si consta o no una resposta posterior de Jordi a aquell missatge.
 - Testimonis sobre comunicacions verbals, suport presencial i resolucio directa d'incidencies.
 

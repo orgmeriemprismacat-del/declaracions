@@ -36,11 +36,15 @@ Durant bona part de la relacio laboral, moltes incidencies, retards i qüestions
 
 En algunes converses, com la del 10/04/2025, tambe vaig preguntar per la seva situacio familiar/de conciliacio i li vaig donar temps per contestar una comunicacio pendent. Jordi va respondre en un to cordial i va reconeixer que tenia pendent contestar-me. Aquest tipus de conversa no encaixa amb la idea que jo nomes em comuniques amb ell per retreure-li coses o davant de tercers.
 
-Despres de l'intercanvi del 16/03/2025, Jordi va indicar que em contestaria quan disposes d'un moment. El 10/04/2025, gairebe un mes despres, ell mateix va escriure que tenia pendent contestar-me i que encara no havia tingut un moment. Jo li vaig respondre que estigues tranquil i que, com que era un tema llarg, necessitava temps per contestar. Que jo recordi, i segons la documentacio revisada fins ara, aquella resposta no es va arribar a produir.
+El 16/03/2025 Jordi em va escriure un WhatsApp llarg. En aquest missatge explicava el seu malestar i la seva situacio personal i familiar, pero tambe em feia retrets i interpretacions sobre la meva conducta: deia que jo li alçava la veu, que el responia amb hostilitat, que l'ignorava, que el posava en dubte, que discutia el seu rendiment davant dels companys, que organitzava les tasques per tenir el minim contacte amb ell i que els correus no-reply li feien malpensar. Tambe reconeixia, en relacio amb el conflicte de l'"OJU", que s'havia "muntat la pel.licula" que jo no volia que em respongues.
+
+La meva resposta va ser directa i reflectia el malestar acumulat, pero no va tallar la comunicacio. Li vaig dir que jo tampoc estava be, que entenia que no podia viure la feina com un suplici, vaig explicar per que em sentia acusada en el tema de l'"OJU", vaig explicar que els correus no-reply no eren per evitar parlar amb ell sino per no duplicar feina, i al final li vaig agrair que m'hagues escrit per WhatsApp i no hagues continuat el conflicte per correu.
+
+El 17/03/2025 Jordi em va respondre que m'havia volgut contestar la nit anterior pero no havia pogut, i que ho faria quan tingues un moment. Jo li vaig contestar: "Ok quan puguis tranquil". El 10/04/2025, gairebe un mes despres, ell mateix va escriure que tenia pendent contestar-me i que encara no havia tingut un moment. Jo li vaig respondre que estigues tranquil i que, com que era un tema llarg, necessitava temps per contestar. Que jo recordi, i segons la documentacio revisada fins ara, aquella resposta no es va arribar a produir.
 
 Aquesta sequencia es rellevant perque mostra que jo no vaig impedir el dialeg ni li vaig exigir una resposta immediata. Al contrari, li vaig donar temps expressament. La continuacio de la conversa va quedar pendent d'una resposta que ell mateix havia anunciat.
 
-**Annexos a citar:** captures Google Chat directes, WhatsApp personal, correus individuals, captures Google Chat 10/04/2025 si l'advocada considera proporcional aportar-les, WhatsApp/export del 16/03/2025 si es localitza, testimonis sobre comunicacions verbals i suport presencial.
+**Annexos a citar:** captures Google Chat directes, WhatsApp personal, correus individuals, captures Google Chat 10/04/2025 si l'advocada considera proporcional aportar-les, export WhatsApp personal `whatsapp_exports_raw/whatsapp_jordi_personal.txt` bloc 16/03/2025-17/03/2025, testimonis sobre comunicacions verbals i suport presencial.
 
 ### 2. Adaptacions I Organitzacio
 

@@ -157,8 +157,9 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Identificar persones de confiança a qui Meriem va explicar reiteradament la situacio buscant consell o solucions, i valorar amb l'advocada si algun testimoni es util i proporcional.
 - Recollir testimonis d'Isa, Adam, Pablo o altres persones sobre comunicacions verbals, suport presencial, recordatoris directes i actuacions de coordinacio que no sempre van quedar per escrit.
 - Identificar indicis documentals indirectes que ajudin a reconstruir aquestes situacions: canvis de dates posteriors, Woffu, actes, Trello, xats de continuacio o tasques assumides despres de converses verbals.
-- Localitzar WhatsApp/export del 16/03/2025 i vincular-lo amb les captures del 10/04/2025 on Jordi reconeix que te pendent contestar Meriem.
-- Revisar converses posteriors per confirmar si consta resposta posterior de Jordi a aquell missatge o si va quedar sense contestar.
+- El WhatsApp/export del 16/03/2025 ja esta localitzat a `whatsapp_exports_raw/whatsapp_jordi_personal.txt`; cal seleccionar el bloc exacte 16/03/2025-17/03/2025 i valorar amb l'advocada si s'aporta sencer o nomes captures/fragments proporcionals.
+- Vincular aquest bloc amb les captures del 10/04/2025 on Jordi reconeix que te pendent contestar Meriem.
+- Revisar converses posteriors per confirmar si consta resposta posterior de Jordi a aquell missatge o si va quedar sense contestar; segons la documentacio revisada fins ara, no consta resposta.
 
 ## 12C. Retorn 2026, Horari I Coordinacio
 
