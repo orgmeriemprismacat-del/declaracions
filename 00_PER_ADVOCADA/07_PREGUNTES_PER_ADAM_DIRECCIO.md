@@ -112,6 +112,8 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 1. Jordi va demanar alta voluntaria l'1 de desembre de 2025? Hi ha document?
 2. L'empresa li va demanar que tornes o va ser decisio de Jordi?
+   - Resposta preliminar de Meriem: va ser iniciativa de Jordi. Jordi va contactar amb Pablo dient que agafaria l'alta voluntaria. Pablo li va respondre que per nosaltres no ho fes, que seguiem perfectament sense ell i que se centres en la seva salut.
+   - Pendent de validar/localitzar prova: missatge, correu o WhatsApp entre Jordi i Pablo; si no, testimoni de Pablo.
 3. Quan Jordi va tornar, se li va recomanar agafar vacances o descansar?
 4. Adam va consultar amb l'equip si els semblava be que Jordi agafes vacances?
 5. L'equip va acceptar assumir feina mentre Jordi descansava?

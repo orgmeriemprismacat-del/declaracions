@@ -82,6 +82,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Les captures personals han de ser proporcionals.
 - Evitar exposar converses familiars o de salut que no siguin necessaries.
 - Si s'aporten captures on Meriem pregunta per salut o conciliacio, retallar o anonimitzar parts no pertinents si l'advocada ho recomana.
+- Localitzar, si existeix, la comunicacio en que Jordi diu a Pablo que agafaria l'alta voluntaria i Pablo li respon que no ho faci per PrisMa i que se centri en la salut. Si no existeix captura/document, recollir-ho com a testimoni de Pablo.
 
 ## 10. Tasques 2025 De Jordi
 

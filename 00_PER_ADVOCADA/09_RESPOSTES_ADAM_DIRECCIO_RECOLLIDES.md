@@ -473,3 +473,26 @@ La referencia de Jordi a l'ERTE no acredita per si sola cap manipulacio ni negli
 **Cautela:**
 
 No afirmar que l'ERTE va ser concedit, denegat o tramitat en uns termes concrets fins que Adam/gestoria ho confirmin documentalment. La resposta formal pot limitar-se a dir que va ser una mesura valorada en el context economic de l'empresa, comunicada a l'equip, i que no hauria fet desapareixer totes les necessitats de feina.
+
+## 23. Alta Voluntaria I Reincorporacio De Jordi
+
+**Pregunta:** L'empresa li va demanar que tornes o va ser decisio de Jordi?
+
+**Resposta recollida:**
+
+Segons la informacio aportada, la iniciativa va sortir de Jordi. Jordi hauria contactat amb Pablo dient que agafaria l'alta voluntaria. Pablo li hauria respost que no ho fes per PrisMa, que l'equip seguia perfectament sense ell i que se centres en la seva salut.
+
+**Formulacio defensable:**
+
+No consta que PrisMa demanes a Jordi que interrompes la baixa o que es reincorpores per necessitat empresarial. Segons la informacio recollida, quan Jordi va comunicar la intencio d'agafar l'alta voluntaria, la resposta de Pablo va anar en sentit contrari: no fer-ho per l'empresa i prioritzar la seva salut. Aixo contradiu la idea que la reincorporacio fos exigida o pressionada per PrisMa.
+
+**Proves/testimonis:**
+
+- Pablo.
+- Missatge, correu o WhatsApp entre Jordi i Pablo, si existeix.
+- Comunicacions internes sobre redistribucio de tasques durant la baixa, si existeixen.
+- Missatges en que l'equip recomana descans, vacances o prioritzar salut, si existeixen.
+
+**Cautela:**
+
+Cal evitar formular-ho com una valoracio medica o com una negacio del malestar de Jordi. El punt util es estrictament laboral i probatori: iniciativa de Jordi, resposta de Pablo i absencia de peticio empresarial de reincorporacio.

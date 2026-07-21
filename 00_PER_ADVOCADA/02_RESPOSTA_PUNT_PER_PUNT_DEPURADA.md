@@ -485,6 +485,35 @@ Cal respectar el relat medic de Jordi i no entrar a discutir el seu estat de sal
 
 - Advocada i gestoria.
 
+## Punt 17B. Alta Voluntaria I Suposada Pressio Per Reincorporar-Se
+
+**Afirmacio de Jordi**
+
+Jordi presenta la seva tornada o l'alta voluntaria com un esforç per no perjudicar PrisMa o com una situacio vinculada a la pressio de l'empresa.
+
+**Resposta proposada**
+
+Segons la informacio recollida, no consta que PrisMa li demanes que tornes de la baixa ni que li exigis agafar una alta voluntaria. Al contrari, la informacio aportada indica que va ser Jordi qui va contactar amb Pablo comunicant que agafaria l'alta voluntaria, i que Pablo li va respondre que no ho fes per PrisMa, que l'equip seguia funcionant sense ell i que se centres en la seva salut.
+
+Aixo es rellevant per contradir la idea que l'empresa li imposes o induis la reincorporacio per necessitats de feina. Si Jordi va decidir agafar l'alta voluntaria, aquesta decisio no es pot atribuir automaticament a una exigencia empresarial sense prova concreta.
+
+**Proves**
+
+- Missatge, correu o WhatsApp entre Jordi i Pablo sobre l'alta voluntaria, si existeix.
+- Testimoni de Pablo.
+- Testimoni de l'equip sobre el fet que ja s'havien redistribuit o assumit tasques durant la baixa.
+- Comunicacions on es recomana a Jordi prioritzar salut o descans, si existeixen.
+
+**Validacio pendent**
+
+- Confirmar data exacta de la comunicacio.
+- Localitzar el canal utilitzat per Jordi per comunicar-ho a Pablo.
+- Confirmar amb Pablo la literalitat de la seva resposta.
+
+**Cautela**
+
+No qüestionar la baixa ni l'estat de salut de Jordi. La resposta s'ha de limitar a la iniciativa de la comunicacio i a la posicio de l'empresa: no demanar-li que tornes per necessitats de PrisMa i recomanar-li prioritzar la salut.
+
 ## Punt 18. Pagaments, Autories I Tracte Discriminatori
 
 **Afirmacio de Jordi**
