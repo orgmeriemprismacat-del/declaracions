@@ -31,6 +31,21 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 **A validar:** interpretacio formal de compensacions, permisos i diferencies amb gestoria/advocada.
 
+## B2. Tasques 2025 I Volum Real
+
+- Trello de tasques Jordi.
+- Trello de completades.
+- Actes 2025.
+- Correccions de mailings i xarxes assignades o fetes per Jordi.
+- Tastets previstos per Jordi i evidencia de quants es van completar.
+- Seguiments i calendaris dels cursos TSA, MPIA i GUST.
+- Captures de campus/materials previs que acreditin que GUST ja estava muntat o amb contingut de l'autor.
+- Woffu gener-juny 2025, per contrastar hores, absencies, descansos i compensacions amb tasques efectivament entregades.
+
+**Punts que acredita:** inventari real de tasques abans de la baixa i contrast amb el relat de tasques inassumibles.
+
+**A validar:** no afirmar que no hi havia cap altre bloc substancial si no s'ha revisat tot; utilitzar la formula prudent "segons la documentacio revisada fins ara, no consten altres blocs substancials comparables".
+
 ## C. Comunicacions Directes Meriem-Jordi
 
 - Captures de Google Chat directes sobre cursos, xarxes i marketing.

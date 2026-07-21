@@ -141,6 +141,9 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 1. Quines tasques principals tenia Jordi el 2023?
 2. Quines tasques principals tenia Jordi el 2024?
 3. Quines tasques principals tenia Jordi el 2025 abans de la baixa?
+   - Resposta preliminar de Meriem: correccio de mailings, correccio de xarxes, quatre tastets que havia de fer pero dels quals nomes n'hauria fet un, i els cursos TSA, MPIA i GUST.
+   - GUST no s'hauria de descriure com un curs creat de zero per Jordi: segons Meriem era un curs ja muntat o substancialment preparat, pendent de correccions/organitzacio.
+   - Validar amb Trello, actes, campus, seguiments i Woffu.
 4. A banda de tres cursos, xarxes/mailings i tasques puntuals, consta algun altre bloc substancial de feina el 2025?
 5. Quines tasques va deixar pendents o es van haver de redistribuir durant la baixa?
 6. Quines tasques es van externalitzar posteriorment, com CANVA, i amb quin resultat?

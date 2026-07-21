@@ -519,3 +519,39 @@ El fet que l'equip ja hagues assumit tasques durant la baixa tambe permet contex
 **Cautela:**
 
 Cal evitar formular-ho com una valoracio medica o com una negacio del malestar de Jordi. El punt util es estrictament laboral i probatori: iniciativa de Jordi, resposta de Pablo i absencia de peticio empresarial de reincorporacio. La qualificacio de vacances "imposades" s'ha de revisar amb l'advocada abans d'utilitzar-la formalment; cal veure com consta a Woffu i en les comunicacions.
+
+## 24. Tasques Principals De Jordi El 2025 Abans De La Baixa
+
+**Pregunta:** Quines tasques principals tenia Jordi el 2025 abans de la baixa?
+
+**Resposta recollida:**
+
+Segons la informacio aportada per Meriem, abans de la baixa les tasques principals de Jordi el 2025 eren:
+
+- Correccio de mailings.
+- Correccio de xarxes.
+- Quatre tastets que havia de fer, dels quals nomes n'hauria completat un.
+- Cursos TSA, MPIA i GUST.
+
+Sobre GUST, Meriem indica que era un curs muntat o substancialment preparat, no un curs creat des de zero per Jordi. Aquesta dada s'ha de relacionar amb les captures del campus/materials previs de l'autor i amb les actes en que es parla de petites correccions, calendari i replanificacions.
+
+**Formulacio defensable:**
+
+Si Jordi afirma que la carrega de 2025 era inassumible, la resposta hauria de contrastar aquesta afirmacio amb un inventari objectivable de tasques, entregues i hores. Segons la documentacio revisada fins ara, el gruix de la seva feina abans de la baixa es concentraria en correccions de mailings i xarxes, tastets, i els cursos TSA, MPIA i GUST. No s'hauria d'afirmar de manera absoluta que no feia res mes si no s'ha completat tota la revisio, pero si es pot utilitzar una formula prudent: "segons la documentacio revisada fins ara, no consten altres blocs substancials comparables".
+
+El fet que GUST ja tingues materials previs o estes muntat/substancialment preparat es rellevant per matisar el relat d'una elaboracio completa o d'una carrega extraordinaria atribuible nomes a Jordi.
+
+**Proves/testimonis:**
+
+- Trello de tasques Jordi.
+- Trello de completades.
+- Actes 2025.
+- Seguiments TSA, MPIA i GUST.
+- Captures de campus i materials previs de GUST.
+- Proves dels tastets previstos i dels tastets completats.
+- Woffu gener-juny 2025.
+- Testimoni de Meriem i Isa sobre impacte de retards, replanificacions i tasques assumides posteriorment.
+
+**Cautela:**
+
+No utilitzar la frase "Jordi no va fer res mes" com a afirmacio tancada. Per a l'advocada, es millor formular-ho com a inventari documental revisat: "amb la documentacio revisada fins ara, la feina principal identificada es..." i deixar obert que direccio validi si hi havia algun altre bloc menor o puntual.

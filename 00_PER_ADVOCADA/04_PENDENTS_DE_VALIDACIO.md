@@ -93,6 +93,8 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 ## 10. Tasques 2025 De Jordi
 
 - Validar amb Trello, actes i Woffu la frase: "la feina documentada de Jordi el 2025 es concentra principalment en tres cursos, correccions de xarxes/mailings i tasques puntuals".
+- Validar la concrecio aportada per Meriem: abans de la baixa, les tasques principals de Jordi eren correccio de mailings, correccio de xarxes, quatre tastets previstos dels quals nomes se n'hauria completat un, i els cursos TSA, MPIA i GUST.
+- Validar documentalment que GUST era un curs ja muntat o amb materials previs creats per l'autor, i que la feina de Jordi no era una elaboracio completa des de zero.
 - Si no es pot validar al 100%, utilitzar una formula mes prudent: "segons la documentacio revisada fins ara, no consten altres blocs substancials de feina comparables".
 
 ## 11. Annexos
