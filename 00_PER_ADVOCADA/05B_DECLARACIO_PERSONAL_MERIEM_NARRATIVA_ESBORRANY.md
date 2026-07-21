@@ -218,6 +218,10 @@ En GUST, per exemple, constava material al campus des del 28/03/2025 i 04/04/202
 
 En TSA i MPIA tambe vaig viure que les dates previstes i les entregues reals no sempre coincidien. En ALBUM, el 07/10/2025 es va acordar no moure dates i Jordi va modificar el seguiment el 14/10/2025 del 13/10 al 27/10, quan la data del 13/10 ja havia passat. Aquesta modificacio no afectava nomes Jordi, perque condicionava la feina posterior d'Isa, la meva i la resta del proces.
 
+Abans que el conflicte s'agreuges, una part important d'aquest seguiment es feia verbalment i, per tant, no sempre en queda una prova escrita completa. Aixo obliga a ser prudent amb cada episodi anterior, pero la documentacio posterior permet veure la dinamica operativa. Quan jo no intervenia o no insistia en el calendari, van aparèixer problemes i replanificacions en cursos com TSA i GUST. En canvi, des que vaig preparar el planning general del maig de 2025, les tasques van anar sortint amb un ordre mes clar. El planning, pero, no funcionava tot sol: exigia una gestio intensa per part meva per assegurar el compliment de les fites.
+
+Aquesta gestio incloïa revisar l'estat de cada fase, enviar missatges, fer trucades, recordar compromisos i estar disponible per resoldre dubtes immediatament. Si Jordi tenia un dubte sobre una tasca seva l'ultim dia d'entrega, jo intentava estar allà i solucionar-lo en aquell moment perquè pogues lliurar. Per tant, que una tasca acabes sortint no significa necessàriament que Jordi l'hagues gestionada de manera autonoma ni que el seguiment fos innecessari; en diversos casos, el resultat es va aconseguir precisament perquè jo sostenia activament la coordinacio fins al lliurament.
+
 Per mi, aquests casos mostren que la meva insistencia en calendaris, terminis i coordinacio no era un atac personal. Era una resposta a una necessitat real: si una entrega es movia, altres persones havien de correr, reprogramar, treballar caps de setmana o comprimir fases posteriors.
 
 ## Sobre La Carrega De Feina I La Jornada Efectiva

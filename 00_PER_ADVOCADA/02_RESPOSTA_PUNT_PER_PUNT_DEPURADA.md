@@ -322,6 +322,8 @@ Aquesta situacio s'ha de contrastar amb els registres i comunicacions que mostre
 
 El planning general treballat a la reunio del 20/05/2025 reforca aquesta lectura. Meriem va preparar un calendari global de tasques de TSA, MPIA, GUST, xarxes, intranet, web, cursos i marketing per ordenar dependencies, veure si calia modificar dates i evitar que els retards d'un bloc traslladessin pressio a la resta. Segons la informacio aportada, aquest planning es va modificar in situ compartint pantalla i va ser validat a la reunio, precisament per assegurar que tothom entenia el mateix calendari i que les dates eren conegudes.
 
+El compliment posterior de diverses fites no s'ha d'atribuir automaticament a l'existencia del document. Segons Meriem, el planning exigia seguiment actiu: comprovacions d'estat, missatges, trucades, recordatoris i disponibilitat per resoldre dubtes de Jordi fins i tot el mateix dia de l'entrega perquè pogues completar-la. Cal localitzar aquestes comunicacions i registres. Si es confirmen, acrediten que la coordinacio efectiva comportava una carrega de gestio addicional per a Meriem i que el resultat final no elimina la necessitat d'aquell seguiment.
+
 Aquest planning mostra una adaptacio organitzativa, no una actuacio d'acarnissament. Meriem va moure o concentrar tasques seves en caps de setmana o franges molt ajustades per donar marge a Jordi i intentar que Isa disposes de temps posterior per muntar els cursos. Si es valida amb actes, captures i testimonis, aquest fet contradiu la idea d'una pressio hostil dirigida contra Jordi: el que s'observa es una replanificacio compartida per sostenir el calendari i evitar que el projecte quedes bloquejat.
 
 **Proves**
