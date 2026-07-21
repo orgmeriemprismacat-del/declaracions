@@ -158,10 +158,15 @@ Jordi afirma que Adam va mentir o el va incriminar davant l'equip en relacio amb
 
 Aquesta afirmacio requereix concrecio exacta. Cal indicar que no acredita cap actuacio de Meriem, Isa o Pablo contra Jordi. En tot cas, es tracta d'una interpretacio sobre una decisio empresarial i sobre una conversa interna que ha de contestar direccio.
 
+Segons la informacio recollida, no es va dir mai en una reunio que Jordi ja sabes que s'acomiadaria Cristina. El que si s'hauria comentat es que Jordi havia afirmat que es veia capacitat per assumir algunes tasques de Cristina i que ja les havia fet anteriorment. Aquesta afirmacio va sorprendre l'equip, perque Meriem indica que no s'ajustava a la realitat en aquests termes. Si s'utilitza aquest punt, s'ha de presentar com a testimoni/context i no com a prova documental, ja que no consta acta, correu o missatge concret.
+
+Pel que fa als acomiadaments, la informacio recollida apunta a una situacio economica negativa, perdues constants i necessitat d'una reorganitzacio. La formulacio mes prudent per a una contestacio externa seria indicar que es tractava de decisions economiques i organitzatives de direccio, sense entrar en una comparacio detallada de terceres persones si no es imprescindible.
+
 **Proves**
 
 - Actes de reunions sobre reorganitzacio, si existeixen.
 - Testimonis dels assistents.
+- Respostes de direccio recollides a `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
 **Validacio pendent**
 
@@ -183,15 +188,47 @@ Aquesta afirmacio es una opinio personal de Jordi sobre la prescindibilitat d'al
 
 El fet que una persona tingui o no un pla B no acredita cap motiu objectiu d'acomiadament ni cap actuacio irregular de l'empresa.
 
+Segons la informacio recollida, Jordi si va participar almenys en una conversa sobre possibles acomiadaments, en la qual va coincidir amb la idea que Laura podia ser una de les persones afectades. Aixo no converteix aquella conversa en criteri formal d'empresa, pero si contradiu una posicio completament passiva o aliena a les valoracions sobre qui podia sortir.
+
 **Proves**
 
 - Document d'abast de funcions IT.
 - Actes i captures sobre feina real d'IT.
 - Comparativa amb externalitzacio puntual de correccio CANVA.
+- Carta de Jordi, on formula opinio sobre acomiadar una informatica.
+- Testimonis sobre converses informals relatives a possibles acomiadaments.
 
 **Validacio pendent**
 
 - Costos i abast objectiu amb direccio/gestoria.
+
+## Punt 07B. Despatx, Teletreball I Coordinacio
+
+**Afirmacio de Jordi**
+
+Jordi vincula la mala gestio dels acomiadaments i de l'abandonament del despatx amb negligencia empresarial.
+
+**Resposta proposada**
+
+El manteniment temporal del despatx es pot explicar com una decisio organitzativa orientada a garantir coordinacio, reunions presencials i seguiment de tasques. Segons la informacio recollida, el despatx era especialment util per coordinar feines que en teletreball quedaven sense resposta, sense entrega o requerien recordatoris reiterats. Amb Jordi hi havia problemes recurrents de coordinacio i seguiment, pero Meriem tambe indica que el problema de comunicacio i organitzacio afectava el funcionament general de l'equip quan no hi havia reunions presencials.
+
+El cost aproximat del despatx seria d'uns 700 euros mensuals amb tot inclos, pendent de documentar. En tot cas, la decisio de mantenir-lo primer i deixar-lo despres respondria a criteris economics i organitzatius, no a una actuacio dirigida contra Jordi.
+
+**Proves**
+
+- Cost del despatx, pendent de documentar.
+- Actes o missatges sobre reunions presencials/coordinacio, si existeixen.
+- Testimonis d'Adam, Meriem, Isa i Pablo.
+- Evidencies de dificultats de coordinacio en teletreball, si es decideix aportar-les.
+
+**Validacio pendent**
+
+- Adam i advocada.
+- Confirmar cost exacte i motiu formal de manteniment/supressio del despatx.
+
+**Cautela**
+
+No convertir aquest punt en una discussio economica excessiva si no es necessari. En resposta externa pot ser suficient dir que eren decisions organitzatives i economiques de direccio.
 
 ## Punt 08. Tasques Inassumibles
 

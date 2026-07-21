@@ -61,21 +61,34 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 ## 5. Acomiadaments, Cristina I Decisions Empresarials
 
 1. Que es va comunicar exactament a l'equip sobre la necessitat de fer acomiadaments?
+   - Resposta preliminar de Meriem: Adam havia informat diverses vegades que l'empresa no arribava al minim per cobrir nomines i que hi havia perdues constants. Mes endavant va indicar que, si la situacio continuava igual, haurien de marxar dues persones, sense concretar encara quines.
 2. En alguna reunio es va dir que Jordi ja sabia que s'acomiadaria Cristina?
+   - Resposta preliminar de Meriem: no, mai.
 3. Es va dir que Jordi havia afirmat que podia assumir tasques de Cristina? En quins termes?
+   - Resposta preliminar de Meriem: si, s'hauria dit que Jordi havia afirmat que es veia capacitat per assumir algunes tasques de Cristina i que ja les havia fet anteriorment; Meriem indica que l'equip ho va considerar inexacte o sorprenent.
 4. Qui era present quan es va parlar d'aixo?
+   - Resposta preliminar de Meriem: Isa, Meriem, Pablo, Cristina, Laura i Adam. Jordi no hi era per un tema relacionat amb el seu pare.
 5. Hi ha acta, correu o missatge que ho acrediti?
+   - Resposta preliminar de Meriem: no.
 6. Quins criteris empresarials es van tenir en compte per decidir acomiadaments?
+   - Resposta preliminar de Meriem: necessitat economica, una persona de l'Associacio i una de la SL, cost de cada lloc i criteri de prescindibilitat/reorganitzacio. Cal validar amb Adam.
 7. Es pot o convé explicar aquests criteris a la contestacio, o millor limitar-se a dir que son decisions organitzatives?
+   - Resposta preliminar de Meriem: probablement millor limitar-se a decisions organitzatives/economiques; validar amb advocada.
 8. Jordi va formular opinions sobre acomiadar Laura o una informatica? On consta?
+   - Resposta preliminar de Meriem: en conversa informal va coincidir que Laura podia sortir; l'opinio sobre acomiadar una informatica consta a la carta de Jordi.
 
 ## 6. Despatx, Teletreball I Organitzacio
 
 1. Per quin motiu es va mantenir el despatx durant un temps abans de deixar-lo?
+   - Resposta preliminar de Meriem: sobretot per coordinacio presencial, reunions i seguiment de tasques.
 2. Quin cost tenia el despatx i quin cost hauria tingut prescindir-ne o mantenir-lo?
+   - Resposta preliminar de Meriem: aproximadament 700 euros mensuals amb tot inclos; pendent de validar.
 3. El despatx es va mantenir per necessitats de coordinacio presencial?
+   - Resposta preliminar de Meriem: si.
 4. Hi havia problemes concrets de coordinacio amb Jordi en teletreball?
+   - Resposta preliminar de Meriem: si; no entregava tasques, calia recordar-li-les i presencialment sovint les feia quan se li recordaven.
 5. S'havia detectat que els dimarts i dijous presencials facilitaven que Jordi avances feina?
+   - Resposta preliminar de Meriem: si, especialment per recordar-li tasques i resoldre pendents.
 6. Quan es va decidir tornar a reunions presencials o espais de coworking?
 7. Hi ha actes que acreditin horaris, reunions o disponibilitat presencial?
 

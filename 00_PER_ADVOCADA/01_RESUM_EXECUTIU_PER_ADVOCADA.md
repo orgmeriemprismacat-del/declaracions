@@ -105,6 +105,14 @@ Les tasques d'IT no es limiten al manteniment informatic: inclouen Moodle, web, 
 
 Tambe consta que determinades tasques de correccio si es van poder externalitzar puntualment, com CANVA, amb menys dependencia interna i sense el mateix nivell de conflicte o replanificacio. Aquest punt s'ha d'utilitzar amb cautela: serveix per rebatre el criteri abstracte de subcontractacio, no per menystenir Jordi.
 
+### 9B. Acomiadaments, Cristina I Despatx
+
+Segons la informacio recollida, l'equip va ser informat en diverses ocasions de la situacio economica negativa de PrisMa, perdues constants i dificultat per cobrir nomines. Mes endavant s'hauria comunicat que, si la situacio continuava igual, haurien de marxar dues persones, sense concretar inicialment quines.
+
+No consta, segons la informacio aportada, que en cap reunio es digues que Jordi ja sabia que Cristina seria acomiadada. El que si s'hauria comentat es que Jordi havia afirmat que es veia capacitat per assumir algunes tasques de Cristina, extrem que Meriem considera inexacte i que va sorprendre l'equip. Aquest punt s'ha de tractar amb cautela i, preferentment, com a resposta a una acusacio concreta, sense entrar en el fons de l'acomiadament de terceres persones si no es necessari.
+
+Pel que fa al despatx, la informacio recollida indica que es va mantenir temporalment per necessitats de coordinacio presencial, reunions i seguiment de tasques, amb un cost aproximat pendent de validar d'uns 700 euros mensuals. La resposta formal probablement hauria de limitar-se a indicar que es tractava de decisions economiques i organitzatives de direccio.
+
 ### 10. Salut, ICAM, Pagaments I Paternitat
 
 Els punts relatius a baixa medica, ICAM/SGAM, pagaments, autories, nomines, paternitat i decisions contractuals han de ser validats per Adam, gestoria i advocada. L'empresa no ha d'emetre judicis sobre la realitat medica de Jordi. Si l'alta va ser per ICAM/SGAM, cal indicar que no es una decisio emesa per Meriem, Isa, Pablo, Adam ni PrisMa, sense entrar a valorar criteris medics.

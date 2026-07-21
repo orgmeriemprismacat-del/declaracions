@@ -314,3 +314,116 @@ Si hi ha imports pendents d'autoria, cal revisar-los i tractar-los per la seva p
 **Cautela:**
 
 No usar aquest punt per negar imports si existeixen. El punt defensable es que la comparacio amb la resta de treballadors no es homogenea si aquests no tenien una situacio equivalent d'autoria.
+
+## 17. Comunicacio A L'Equip Sobre La Necessitat D'Acomiadaments
+
+**Pregunta:** Que es va comunicar exactament a l'equip sobre la necessitat de fer acomiadaments?
+
+**Resposta recollida:**
+
+Segons la informacio aportada per Meriem, Adam havia informat en diverses ocasions que l'empresa no arribava al minim necessari per cobrir nomines i que hi havia perdues constants. En aquest context, Cristina hauria plantejat si Adam tenia algun "pla B" i que, abans d'arribar a una situacio de no poder pagar, potser hauria de prescindir d'alguna persona, especialment tenint en compte que venien mesos pitjors.
+
+Mes endavant, Adam hauria comunicat que, si la situacio continuava igual, haurien de marxar dues persones, sense que encara se sabes quines. L'equip parlava al despatx de la preocupacio per qui serien aquestes persones. Segons Meriem, Jordi no es mostrava especialment implicat en aquesta preocupacio general fins que Isa li va dir que ell tambe podia estar inclos dins les persones afectades.
+
+**Formulacio defensable:**
+
+La comunicacio a l'equip s'emmarca en una situacio economica negativa i en possibles mesures organitzatives, no en una actuacio dirigida especificament contra Jordi. El relat de Jordi sobre els acomiadaments s'ha de separar de les decisions empresarials generals i de les converses informals de l'equip sobre la situacio economica.
+
+**Proves/testimonis:**
+
+- Adam.
+- Isa.
+- Meriem.
+- Pablo.
+- Cristina i Laura, si l'advocada ho considera necessari.
+- Actes o comunicacions economiques, si existeixen.
+
+**Cautela:**
+
+Segons la informacio recollida, no hi ha acta, correu o missatge concret que acrediti totes aquestes converses. Per tant, s'ha de presentar com a relat testifical i context intern, no com a prova documental tancada.
+
+## 18. Acomiadament De Cristina: No Es Va Dir Que Jordi Ja Ho Sabia
+
+**Pregunta:** En alguna reunio es va dir que Jordi ja sabia que s'acomiadaria Cristina?
+
+**Resposta recollida:** No, mai.
+
+**Formulacio defensable:**
+
+Segons la informacio recollida, no es va dir en cap reunio que Jordi ja sabes que s'acomiadaria Cristina. El que si s'hauria dit es que Jordi havia afirmat que es veia capacitat per assumir algunes feines de Cristina i que ja les havia fet anteriorment. Meriem considera que aquesta afirmacio no s'ajustava a la realitat i que l'equip es va sorprendre, perque entenien que Jordi no havia assumit realment aquelles tasques en els termes que ell indicava.
+
+**Qui era present:**
+
+Segons la informacio aportada, hi eren Isa, Meriem, Pablo, Cristina, Laura i Adam. Jordi no hi era perque estava amb el tema del seu pare.
+
+**Proves/testimonis:**
+
+- Testimonis de les persones presents.
+- Carta de Jordi, on ell tambe faria referencia a haver assumit o poder assumir tasques.
+
+**Cautela:**
+
+No convertir aquest punt en una discussio sobre si l'acomiadament de Cristina va ser encertat o no. El punt util es contestar una acusacio concreta: no consta que es digues que Jordi ja sabia que Cristina seria acomiadada.
+
+## 19. Criteris Empresarials Dels Acomiadaments
+
+**Pregunta:** Quins criteris empresarials es van tenir en compte per decidir acomiadaments?
+
+**Resposta recollida:**
+
+Segons la informacio aportada, la decisio partia d'una necessitat economica i organitzativa: havia de sortir una persona de l'Associacio i una persona de la SL. Despres es valorava el cost que implicava cada persona i fins a quin punt la seva feina es considerava prescindible o redistribuible.
+
+En l'ambit de l'Associacio hi havia Cristina, Jordi i Pablo. Pablo no es considerava prescindible perque exercia funcions de direccio pedagogica, comunicacio amb el departament i tasques que l'empresa no podia deixar d'assumir. Entre Cristina i Jordi, segons la informacio aportada, Adam hauria pres la decisio partint d'una percepcio incompleta de les tasques de Cristina, entenent que feia sobretot cursos nous i revisio de tutors, i tenint en compte que Jordi havia manifestat que podia fer tasques de revisio, creacio de cursos i contacte amb tutors. Tambe es va tenir en compte el cost salarial.
+
+**Formulacio prudent per a contestacio externa:**
+
+Pot ser mes convenient limitar la resposta formal a indicar que els acomiadaments van respondre a criteris economics i organitzatius, vinculats a la situacio de perdues i a la necessitat de reorganitzar l'activitat, sense entrar en una comparacio detallada de persones treballadores si no es necessari per defensar el cas.
+
+**Cautela:**
+
+Aquest apartat ha de ser revisat per Adam i advocada abans d'incorporar-lo. Es sensible perque afecta terceres persones i criteris empresarials d'acomiadament.
+
+## 20. Opinions De Jordi Sobre Laura I Altres Possibles Acomiadaments
+
+**Pregunta:** Jordi va formular opinions sobre acomiadar Laura o una informatica? On consta?
+
+**Resposta recollida:**
+
+Segons la informacio aportada, en una conversa Jordi va coincidir amb la idea que Laura podia ser una de les persones afectades, ja que havia arribat per ajudar Pablo a Secretaria i portar textos de xarxes quan Julia marxava. La percepcio compartida era que Pablo podia tornar a assumir Secretaria amb suport d'Isa, i que Meriem podia assumir xarxes perque ja participava habitualment en propostes, imatges i videos, mentre Laura principalment redactava textos.
+
+Pel que fa a l'opinio sobre acomiadar una informatica, aquesta afirmacio consta en la carta de Jordi, on formula un judici sobre la prescindibilitat del departament informatic. Aquesta opinio es subjectiva i no acredita per si mateixa cap criteri objectiu d'empresa.
+
+**Formulacio defensable:**
+
+La participacio de Jordi en converses sobre qui podia sortir mostra que no era completament aliè a les especulacions o valoracions internes de l'equip. Ara be, cal distingir aquestes converses informals de la decisio empresarial final, que corresponia a direccio.
+
+**Cautela:**
+
+No convé presentar converses informals com a criteri formal d'acomiadament. El punt util es rebatre que Jordi fos una figura passiva o completament aliena a les valoracions sobre terceres persones.
+
+## 21. Despatx, Cost I Necessitat De Coordinacio Presencial
+
+**Pregunta:** Per quin motiu es va mantenir el despatx durant un temps abans de deixar-lo?
+
+**Resposta recollida:**
+
+Segons la informacio aportada, el despatx es va mantenir sobretot per necessitats de coordinacio presencial. Amb Jordi hi havia problemes recurrents de coordinacio: no entregava tasques, calia recordar-li coses continuament i sovint deia que les faria en aquell moment quan se li recordaven presencialment. Quan havia de fer tasques en teletreball, sovint no les feia o calia insistir-li quan l'equip tornava al despatx. Meriem indica que no era nomes un problema amb Jordi: sense reunions presencials, l'equip tambe perdia comunicacio i organitzacio clara.
+
+El cost aproximat del despatx seria d'uns 700 euros mensuals amb tot inclos, una quantitat inferior al cost d'una nomina. Quan es va decidir prescindir del despatx per la situacio economica, Meriem va expressar preocupacio per com mantenir la coordinacio des de casa, precisament perque ja existien problemes de comunicacio i seguiment. Es va decidir reforçar l'us de Trello i anar ajustant l'organitzacio sobre la marxa.
+
+**Formulacio defensable:**
+
+El manteniment temporal del despatx es pot explicar com una decisio organitzativa orientada a preservar coordinacio, reunions i seguiment de tasques en un moment de dificultat economica i reorganitzacio. No acredita negligencia per si sol, ni tampoc una actuacio especifica contra Jordi.
+
+**Proves/testimonis:**
+
+- Adam.
+- Meriem.
+- Isa.
+- Pablo.
+- Cost aproximat del despatx, pendent de documentar.
+- Actes o missatges sobre reunions presencials, Trello i coordinacio, si existeixen.
+
+**Cautela:**
+
+Cal validar el cost exacte del despatx i evitar presentar-lo com a justificacio economica tancada sense documentacio. La resposta externa pot limitar-se a dir que el despatx es va mantenir per necessitats de coordinacio presencial i que la seva supressio posterior va respondre a una reorganitzacio economica.

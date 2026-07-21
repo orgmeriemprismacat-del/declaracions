@@ -48,6 +48,12 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Adam ha de validar que es pot dir i que no.
 - Evitar entrar en el fons de decisions sobre terceres persones si no es imprescindible.
 - Si Jordi afirma que Adam el va incriminar, demanar concrecio de la frase, data i testimonis.
+- Confirmar amb Adam que no es va dir mai que Jordi ja sabia que Cristina seria acomiadada.
+- Confirmar si es pot dir que Jordi havia afirmat que podia assumir algunes tasques de Cristina i en quins termes.
+- Confirmar si convé limitar la resposta formal a criteris economics i organitzatius, sense detallar comparatives entre persones.
+- Confirmar si hi ha alguna acta o comunicacio sobre la situacio economica, perdues o necessitat de possibles acomiadaments.
+- Confirmar cost exacte del despatx i motiu formal de manteniment/supressio.
+- Confirmar documentalment, si existeix, que el despatx es mantenia per coordinacio presencial i reunions de seguiment.
 
 ## 7. GUST, Reunio Del 16/05/2025
 
