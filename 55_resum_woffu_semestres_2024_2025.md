@@ -14,14 +14,14 @@ Aquest criteri no es el mateix que el resum administratiu de Woffu:
 - `Hores totals justificades`: temps justificat que no equival a presencia efectiva.
 - `Hores ordinàries + Extr. a compensar`: treball efectiu que consta a l'export.
 
-Com a control, `Total d'hores - Hores totals justificades` coincideix amb el treball efectiu, excepte els dies 01/09/2025 i 02/09/2025: consten com a vacances i amb `Total d'hores = 0`, pero els fitxatges queden registrats com a `Extr. a compensar`. Per això la formula principal ha de ser `ordinàries + extra`.
+Com a control, `Total d'hores - Hores totals justificades` coincideix habitualment amb el treball efectiu, excepte els dies 01/09/2025 i 02/09/2025: consten com a vacances i amb `Total d'hores = 0`, pero els fitxatges queden registrats com a `Extr. a compensar`. Hi ha, a més, una excepció material a l'octubre de 2024: Adam, Isa, Meriem i Jordi coincideixen que va ser un mes addicional de descans sense cap fitxatge real, però Woffu genera o imputa 167 h 12 m amb horaris exactament teòrics. Aquestes hores no s'han de considerar treball efectiu encara que apareguin a la columna d'hores ordinàries.
 
 ## Resum semestral
 
 | Periode | Horari teoric | Treball efectiu | Diferencia | Hores justificades | Total computat | Extra inclosa | Lectura prudent |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | --- |
 | 2024 gener-juny | 851 h 12 m | 640 h 12 m | -211 h 00 m | 272 h 56 m | 913 h 08 m | 61 h 57 m | La diferencia inclou temps justificat; no es pot qualificar automaticament d'incompliment. |
-| 2024 juliol-desembre | 866 h 24 m | 745 h 10 m | -121 h 14 m | 219 h 36 m | 964 h 46 m | 99 h 27 m | Hi ha absencies i permisos; cal separar-los de la presencia efectiva. |
+| 2024 juliol-desembre | 866 h 24 m | 577 h 58 m confirmades | -288 h 26 m | 219 h 36 m | 964 h 46 m administratiu | 99 h 27 m | S'exclouen 167 h 12 m imputades per Woffu a l'octubre, mes concedit sense fitxatges reals segons els quatre testimonis. |
 | 2025 gener-juny | 744 h 48 m | 738 h 40 m | -6 h 08 m | 145 h 15 m | 883 h 55 m | 139 h 25 m | El treball efectiu queda lleugerament per sota del teoric, no 48 h per sobre. |
 | 2025 juliol-desembre | 737 h 12 m | 376 h 29 m | -360 h 43 m | 418 h 22 m | 784 h 34 m | Inclou mesos de baixa/IT o altres absencies; no interpretar la diferencia com a incompliment global. |
 
@@ -38,7 +38,7 @@ Com a control, `Total d'hores - Hores totals justificades` coincideix amb el tre
 | 2024-07 | 144 h 24 m | 187 h 05 m | +42 h 41 m | 22 h 09 m | 209 h 14 m | 64 h 50 m |
 | 2024-08 | 144 h 24 m | 138 h 02 m | -6 h 22 m | 24 h 41 m | 162 h 43 m | 18 h 19 m |
 | 2024-09 | 152 h 00 m | 56 h 17 m | -95 h 43 m | 100 h 08 m | 156 h 25 m | 5 h 31 m |
-| 2024-10 | 167 h 12 m | 167 h 12 m | 0 h 00 m | 0 h 00 m | 167 h 12 m | 0 h 00 m |
+| 2024-10 | 167 h 12 m | 0 h 00 m confirmades | -167 h 12 m | 0 h 00 m | 167 h 12 m imputades | 0 h 00 m |
 | 2024-11 | 152 h 00 m | 109 h 13 m | -42 h 47 m | 49 h 58 m | 159 h 11 m | 7 h 10 m |
 | 2024-12 | 106 h 24 m | 87 h 21 m | -19 h 03 m | 22 h 40 m | 110 h 01 m | 3 h 37 m |
 | 2025-01 | 83 h 36 m | 66 h 33 m | -17 h 03 m | 35 h 17 m | 101 h 50 m | 18 h 14 m |
@@ -59,6 +59,7 @@ Com a control, `Total d'hores - Hores totals justificades` coincideix amb el tre
 - El calcul principal es `Hores ordinàries + Extr. a compensar`.
 - Les hores justificades, permisos, vacances i IT es mostren separadament i no equivalen a presencia efectiva.
 - Les extres s'inclouen en el treball efectiu, fins i tot en els dos dies de setembre de 2025 marcats simultaniament com a vacances.
+- L'octubre de 2024 s'exclou del treball efectiu: no hi va haver cap fitxatge real i les 167 h 12 m són una imputació de l'horari teòric durant el mes addicional de descans reconegut per Adam, Isa, Meriem i Jordi.
 - Les diferencies respecte del teoric no s'han de qualificar automaticament d'incompliment sense analitzar el motiu de cada absencia.
 
 ## Cautela

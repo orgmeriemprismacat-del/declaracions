@@ -163,7 +163,7 @@ Pel que fa al permis de paternitat, segons la informacio recollida no consta que
 
 Tambe hi ha testimoni de Meriem que Jordi havia vinculat l'interes per la jornada completa al calcul economic del permis de paternitat. Mentre no es localitzi prova escrita, aquest punt s'ha de presentar nomes com a testimoni i context, no com a fet documental tancat.
 
-Respecte a l'octubre de 2024, els testimonis coincidents d'Adam, Isa, Meriem i Jordi confirmen que Adam el va concedir com un mes addicional de descans no descomptat d'una borsa, com a decisio flexible i favorable a Jordi. Woffu imputa exactament 167 h 12 m ordinàries amb horaris idèntics als teòrics; queda pendent que gestoria expliqui aquesta forma d'imputació, no la concessió reconeguda per totes les parts.
+Respecte a l'octubre de 2024, els testimonis coincidents d'Adam, Isa, Meriem i Jordi confirmen que Adam el va concedir com un mes addicional de descans no descomptat d'una borsa, com a decisio flexible i favorable a Jordi, i que no hi va haver cap fitxatge real. Woffu genera o imputa 167 h 12 m amb horaris idèntics als teòrics; no són hores treballades confirmades. Queda pendent que gestoria expliqui aquesta forma d'imputació, no la concessió reconeguda per totes les parts.
 
 ## Recomanacio De Presentacio
 

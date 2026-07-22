@@ -277,7 +277,7 @@ No atribuir una motivacio exclusiva a Jordi sense prova escrita. No qüestionar 
 
 **Resposta recollida:**
 
-Adam, Isa, Meriem i Jordi coincideixen que Adam va concedir a Jordi l'octubre de 2024 com un mes addicional de descans no descomptat d'una borsa, tenint en compte la seva situació i amb voluntat d'ajudar-lo i no perjudicar-lo. Woffu imputa aquell mes com 167 h 12 m ordinàries amb horaris exactament coincidents amb els teòrics.
+Adam, Isa, Meriem i Jordi coincideixen que Adam va concedir a Jordi l'octubre de 2024 com un mes addicional de descans no descomptat d'una borsa, sense cap fitxatge real, tenint en compte la seva situació i amb voluntat d'ajudar-lo i no perjudicar-lo. Woffu genera o imputa aquell mes com 167 h 12 m amb horaris exactament coincidents amb els teòrics; aquestes hores no són treball efectiu confirmat.
 
 **Formulacio prudent:**
 

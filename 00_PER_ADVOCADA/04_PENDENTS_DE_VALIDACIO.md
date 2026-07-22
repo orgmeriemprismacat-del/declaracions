@@ -26,7 +26,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Revisar sol.licituds, dates, Woffu, gestoria i comunicacions amb Seguretat Social.
 - Confirmar amb Adam que PrisMa no li va demanar formalment canviar dates del permis per necessitats de l'empresa.
 - Confirmar si l'empresa li va concedir o "regalar" dies/vacances i com consta formalment.
-- La concessio de l'octubre de 2024 com a mes addicional de descans no descomptat consta per testimonis coincidents d'Adam, Isa, Meriem i Jordi. Pendent nomes que gestoria o administracio de Woffu expliquin per què s'imputa com 167 h 12 m ordinàries amb horaris exactament teòrics.
+- La concessio de l'octubre de 2024 com a mes addicional de descans no descomptat i sense cap fitxatge real consta per testimonis coincidents d'Adam, Isa, Meriem i Jordi. Pendent nomes que gestoria o administracio de Woffu expliquin per què el sistema genera o imputa 167 h 12 m amb horaris exactament teòrics; no computar-les com a treball efectiu.
 - Buscar si hi ha correu, WhatsApp o altre document on Jordi expliqui que volia jornada completa pel calcul economic del permis de paternitat.
 - Si no es localitza prova escrita, deixar aquest punt nomes com a testimoni de Meriem i no com a fet documental tancat.
 - No atribuir motivacions personals de Jordi si no hi ha missatge o testimoni clar.

@@ -43,7 +43,7 @@ El testimoni de Meriem situa també el malestar de Jordi en un context anterior 
 
 L'existència d'un acord per ampliar la jornada tampoc acredita, per si mateixa, que la mitja jornada ja fos insuficient. La mateixa carta descriu altres motius concrets de l'acord: incloure la tutorització del curs dins la nòmina per resoldre el problema fiscal que Jordi atribuïa al cobrament separat; continuar abonant només l'autoria de manera diferenciada; dedicar els mesos sense curs o amb menys volum a traduccions i adaptacions; i la possibilitat que assumís algunes funcions noves. L'acord es pot entendre, per tant, com una reorganització contractual, retributiva i funcional de futur, i no com el reconeixement que Jordi ja executava de forma estable una jornada completa o que la seva feina ordinària no cabia en la mitja jornada.
 
-Els testimonis coincidents d'Adam, Isa, Meriem i el mateix Jordi confirmen que, quan Adam no va poder aplicar l'ampliació en el moment previst, va concedir a Jordi l'octubre de 2024 com un mes addicional de descans, sense descomptar-lo d'una borsa. Woffu no el categoritza com a vacances o absències: imputa exactament l'horari teòric de cada dia laborable —primer 07:30-15:06 i després 08:00-15:36—, sense descansos ni cap diferència, fins a sumar exactament 167 h 12 m. La concessió no depèn només del relat de Meriem; queda sostinguda per la coincidència de totes quatre persones. Gestoria o l'administració de Woffu només han d'aclarir per què el sistema presenta el mes concedit com a hores ordinàries.
+Els testimonis coincidents d'Adam, Isa, Meriem i el mateix Jordi confirmen que, quan Adam no va poder aplicar l'ampliació en el moment previst, va concedir a Jordi l'octubre de 2024 com un mes addicional de descans, sense descomptar-lo d'una borsa. Jordi no va efectuar cap fitxatge real durant aquell mes. Woffu no el categoritza com a vacances o absències: genera o imputa exactament l'horari teòric de cada dia laborable —primer 07:30-15:06 i després 08:00-15:36—, sense descansos ni cap diferència, fins a mostrar 167 h 12 m. Aquest total no correspon a hores treballades confirmades i no s'ha d'utilitzar com a treball efectiu. La concessió no depèn només del relat de Meriem; queda sostinguda per la coincidència de totes quatre persones. Gestoria o l'administració de Woffu només han d'aclarir el mecanisme d'imputació automàtica o administrativa.
 
 Tambe consta, segons testimonis de Meriem/Isa, que en diverses converses Jordi havia manifestat que preferia mantenir-se a mitja jornada i que aquell model li anava be, amb acumulacions puntuals d'hores que despres podia compensar amb descansos o vacances.
 
@@ -68,7 +68,7 @@ Proves documentals:
 - `54_calcul_woffu_2023_hores_fitxades_i_compensades.md`
 - `55_resum_woffu_semestres_2024_2025.md`
 - `39_recull_tasques_jordi_2023_2026.md`
-- `[WF-PRES-2024-10]`: octubre imputa exactament 167 h 12 m, amb entrades i sortides idèntiques a l'horari teòric, sense descansos ni diferències.
+- `[WF-PRES-2024-10]`: no conté fitxatges reals; mostra 167 h 12 m generades o imputades amb entrades i sortides idèntiques a l'horari teòric, sense descansos ni diferències. No computar-les com a treball efectiu.
 - Testimonis coincidents d'Adam, Isa, Meriem i Jordi sobre la concessió i la no deducció d'una borsa.
 - 🟨 Explicació de gestoria o administració de Woffu sobre la imputació del mes concedit com a hores ordinàries.
 
@@ -156,7 +156,7 @@ Resposta de l'empresa:
 Aquesta afirmacio s'ha de contrastar amb les sol·licituds formals de paternitat, Woffu, comunicacions i resolucions corresponents. No consta, segons la informacio interna aportada fins ara, que l'empresa imposes o demanes aquest canvi com una exigencia laboral contra Jordi.
 
 Context:
-Segons Meriem, Jordi havia comentat que dividia el permis perquè si el cobrava referenciat a mitja jornada no li sortia a compte. Adam, Isa, Meriem i Jordi coincideixen que Adam li va concedir l'octubre de 2024 com un mes addicional de descans sense descomptar-lo d'una borsa. Woffu imputa aquell mes com 167 h 12 m ordinàries, amb horaris exactament coincidents amb la jornada teòrica cada dia; queda pendent explicar tècnicament aquesta imputació, no la concessió reconeguda per totes les parts.
+Segons Meriem, Jordi havia comentat que dividia el permis perquè si el cobrava referenciat a mitja jornada no li sortia a compte. Adam, Isa, Meriem i Jordi coincideixen que Adam li va concedir l'octubre de 2024 com un mes addicional de descans sense descomptar-lo d'una borsa i sense cap fitxatge real. Woffu genera o imputa 167 h 12 m amb horaris exactament coincidents amb la jornada teòrica cada dia; aquestes hores no són treball efectiu confirmat. Queda pendent explicar tècnicament la imputació, no la concessió reconeguda per totes les parts.
 
 Fets acreditats:
 - Hi va haver permisos de paternitat i periodes de vacances o absencia relacionats.

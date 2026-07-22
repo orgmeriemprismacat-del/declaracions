@@ -29,7 +29,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 ## 3. Permis De Paternitat
 
-**Estat actual:** Meriem ha aportat resposta preliminar que PrisMa no va demanar formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Tambe indica que pot testificar que Jordi havia explicat que volia jornada completa per cobrar el permis sobre jornada completa, pero no sap si hi ha correu o prova escrita. Adam, Isa, Meriem i Jordi coincideixen que Adam va concedir l'octubre de 2024 com a mes addicional de descans no descomptat. La pregunta pendent per a Adam/gestoria és per què Woffu l'imputa com 167 h 12 m ordinàries amb horaris exactament teòrics.
+**Estat actual:** Meriem ha aportat resposta preliminar que PrisMa no va demanar formalment a Jordi que canvies dates del permis per necessitats de l'empresa. Tambe indica que pot testificar que Jordi havia explicat que volia jornada completa per cobrar el permis sobre jornada completa, pero no sap si hi ha correu o prova escrita. Adam, Isa, Meriem i Jordi coincideixen que Adam va concedir l'octubre de 2024 com a mes addicional de descans no descomptat i sense cap fitxatge real. La pregunta pendent per a Adam/gestoria és per què Woffu genera o imputa 167 h 12 m amb horaris exactament teòrics, que no s'han de tractar com a treball efectiu confirmat.
 
 1. Quines dates exactes va demanar Jordi inicialment pel permis de paternitat?
 2. Va modificar Jordi aquestes dates? Si si, per quin canal i amb quina justificacio?
