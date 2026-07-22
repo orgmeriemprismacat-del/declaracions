@@ -1038,6 +1038,8 @@ La frase «a mi mentint no m'hi han trobat mai; de n'Adam no es pot dir el matei
 
 També afirma que «n'Eva havia reunit un grup de professionals competents i que funcionaven bé, com demostren tots els anys de bon rotllo i bona feina de l'equip». Segons Meriem, ella és l'única incorporació produïda quan Eva ja estava greument malalta i no exercia efectivament amb normalitat. Si la cronologia ho confirma, la frase exclou implícitament Meriem del grup anterior qualificat de competent i la situa com l'element personal diferencial de l'etapa posterior. No és una desqualificació nominal aïllada, però dins del relat complet pot operar com una desqualificació indirecta de la seva competència professional. No s'ha d'atribuir intenció només a partir de la frase: cal comprovar les dates d'incorporació i qui exercia realment les funcions de selecció o direcció en aquell moment.
 
+La carta afirma igualment que Cristina «no estava ni molt menys entre les dues persones de qui PrisMa pogués prescindir més» i atribueix el seu acomiadament a «un tema personal» d'Adam. La primera frase pressuposa que existien almenys dues altres persones més prescindibles. Si Jordi es presenta a si mateix com a necessari i la composició real de la plantilla redueix les alternatives principalment a Meriem i Isa, la frase pot funcionar com una desqualificació indirecta de les dues professionals informàtiques i de les seves funcions transversals. Aquesta inferència s'ha de verificar amb la plantilla, els llocs i les funcions del moment. La motivació personal atribuïda a Adam, la suposada negligència, el cost net de l'acomiadament i quines alternatives eren realment viables són afirmacions separades que Jordi ha d'acreditar; no es desprenen de la seva valoració sobre la utilitat de Cristina.
+
 Context:
 La resposta no ha de discutir el bloc de manera global, sino desglossar cada afirmacio amb documents objectius: contractes, Woffu, nomines, banc, correus, WhatsApps, actes, Trello, Google Docs/Sheets i testimonis.
 
@@ -1051,6 +1053,7 @@ Proves documentals:
 - `32_taula_revisio_comentaris_acta.md`
 - `40_mapa_annexos_i_captures.md`
 - 🟨 Cronologia d'incorporacions i documentació sobre qui exercia les funcions de selecció o direcció quan es va incorporar Meriem, sense incorporar dades de salut d'Eva més enllà del que sigui imprescindible.
+- 🟨 Composició de la plantilla, funcions, costos i dependències en el moment de l'acomiadament de Cristina; documentació de la decisió i testimoni de direcció. Cal identificar si la referència a «les dues persones» permetia reconèixer Meriem i Isa.
 
 Testimonis possibles:
 - Segons cada subpunt.

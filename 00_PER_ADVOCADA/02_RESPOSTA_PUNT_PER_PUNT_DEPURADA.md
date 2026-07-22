@@ -721,6 +721,10 @@ S'ha de valorar també la frase segons la qual «n'Eva havia reunit un grup de p
 
 🟨 **Prova pendent:** cronologia d'incorporacions, documentació de la incorporació de Meriem i confirmació de qui exercia les funcions de direcció o selecció en aquell moment, limitant qualsevol dada de salut d'Eva al mínim imprescindible.
 
+També s'ha d'analitzar l'afirmació que Cristina «no estava ni molt menys entre les dues persones de qui PrisMa pogués prescindir més». La frase implica l'existència de dues altres persones que Jordi considerava més prescindibles. Si la composició de la plantilla, unida al fet que ell defensa la necessitat de la seva pròpia funció, permet identificar principalment Meriem i Isa, pot constituir una desqualificació indirecta de les dues professionals informàtiques i una reducció de les seves funcions transversals. Això no es pot donar per tancat sense reconstruir la plantilla i les alternatives reals. Igualment, l'afirmació que Adam va acomiadar Cristina «per un tema personal», que la decisió va ser negligent i que perjudicava l'economia requereix prova pròpia sobre motivació, costos, estalvis, necessitats empresarials i viabilitat de les alternatives.
+
+🟨 **Prova pendent:** plantilla i funcions en la data de l'acomiadament; informe de funcions de Meriem i Isa; cost laboral i cost d'extinció; criteris econòmics i organitzatius de direcció; i identificació contextual de les dues persones suposadament més prescindibles.
+
 🟨 **Prova pendent:** identificar els correus, xats, actes i versions de mailings o continguts on constin els qüestionaments sobre Google, SEO, màrqueting, recuperació d'elements anteriors i l'ajornament d'un mes que deixava menys d'una setmana per a les fases d'Isa i Meriem.
 
 **Fets acreditats o a acreditar**
