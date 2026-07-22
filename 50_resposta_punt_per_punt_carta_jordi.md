@@ -638,7 +638,7 @@ Les preguntes sobre horari o disponibilitat no eren un control personal ni una a
 Context:
 Si una feina de Jordi condicionava una publicacio, correccio, maquetacio, web, reunió o seguiment de tutors, l'equip necessitava saber si Jordi treballava, a quina hora estaria disponible o si calia reprogramar. Woffu ajuda a contextualitzar la variabilitat de jornades, absencies, permisos i fitxatges.
 
-Alguns dies en què Jordi havia finalitzat abans de les 14 h es van registrar o regularitzar posteriorment com a festa. Per tant, la qüestió no és qualificar automàticament aquelles hores com a absència injustificada. El problema organitzatiu subsistia si l'equip no havia estat informat en aquell moment que marxava, que no tornaria o que el dia es tractaria com a festa, perquè la resta no podia saber si havia d'esperar-lo o reprogramar les tasques dependents.
+L'export actual marca 40 dates de 2025 com a `Vacances`. Onze coincideixen amb el recompte brut de dies amb alguna sortida entre les 10 i les 14 h i representen 12 sortides; sis d'aquests dies no tenen cap entrada posterior. Segons Meriem, la consideració com a vacances es va produir posteriorment, extrem que requereix historial de Woffu, comunicacions o testimonis perquè l'export només acredita l'estat final. Per tant, la qüestió no és qualificar automàticament aquelles hores com a absència injustificada. El problema organitzatiu subsistia si l'equip no havia estat informat en aquell moment que Jordi marxava, que no tornaria o que el dia es tractaria com a vacances, perquè la resta no podia saber si havia d'esperar-lo o reprogramar les tasques dependents.
 
 Fets acreditats:
 - Hi havia franges de disponibilitat acordades o recordades.
