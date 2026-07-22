@@ -84,6 +84,8 @@ Segons la practica interna indicada per Isa, els cursos d'autoria no es compren 
 
 La mateixa carta explica que Jordi atribuïa un perjudici fiscal al fet de cobrar separadament la mitja jornada, la tutorització i l'autoria. Segons la informació aportada per Meriem, la solució adoptada per evitar-li aquest problema va ser integrar la tutorització dins la jornada ampliada i completar-la amb altres funcions, mantenint diferenciada l'autoria. Això reforça que l'ampliació responia també a una acomodació retributiva i fiscal sol·licitada en benefici de Jordi, no a la constatació que les seves tasques laborals ordinàries ja ocupessin estructuralment una jornada completa.
 
+Meriem recorda que Jordi es va queixar durant mesos que la declaració de la renda li sortia a pagar. La reiteració acredita l'existència de la queixa, però no n'acredita la causa. Per atribuir el resultat a PrisMa caldria analitzar la documentació fiscal completa de Jordi, els ingressos declarats, les retencions practicades i les seves circumstàncies personals. La investigació del resultat de la seva declaració corresponia a Jordi o al seu assessor, sens perjudici que PrisMa hagi d'acreditar que els pagaments, certificats i retencions que li corresponien es van tramitar correctament.
+
 PrisMa treballava amb diversos tutors i, segons Meriem, no consten altres comunicacions equivalents sobre una penalització en la declaració de la renda. Aquesta comparació és contextual, però no permet concloure que el relat fiscal de Jordi fos fals perquè la situació tributària pot variar entre persones. Si Jordi atribueix a la forma de pagament de PrisMa un perjudici fiscal concret, correspon exigir documentació que identifiqui l'import, el tractament aplicat, la causa i el nexe amb aquella forma de cobrament. Sense aquest suport, és una explicació personal no verificada.
 
 Fets acreditats:
@@ -96,6 +98,8 @@ Proves documentals:
 - `[GM-CAT-2024-01]`: correus sobre CAT/curs de catala/autoria, si existeixen.
 - `[DOC-CAT-AUTORIA-01]`: acord d'autoria o document equivalent, pendent.
 - `[DOC-REBUTS-AUTORIA-01]`: rebuts/liquidacions, pendent.
+- Certificats de retencions i documentació comptable de PrisMa relativa als pagaments a Jordi, limitada al necessari.
+- Documentació fiscal o informe de l'assessor de Jordi que identifiqui la causa concreta del resultat de la renda, només si ell fonamenta en aquesta causa una reclamació contra PrisMa.
 
 Testimonis possibles:
 - Adam: acord economic i laboral.

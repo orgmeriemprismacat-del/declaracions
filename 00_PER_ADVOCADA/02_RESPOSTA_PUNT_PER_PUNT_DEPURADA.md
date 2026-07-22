@@ -50,6 +50,8 @@ Cal diferenciar la feina ordinaria com a treballador de PrisMa de l'autoria/tuto
 
 La mateixa carta vincula l'ampliació amb el problema fiscal que Jordi deia patir en cobrar separadament la nòmina, la tutorització i l'autoria. Segons la informació aportada, PrisMa va procurar evitar-li aquest problema incorporant la tutorització dins la jornada ampliada i assignant-li altres funcions per completar-la, mentre l'autoria continuava diferenciada. Aquest antecedent presenta l'ampliació com una acomodació contractual i retributiva en benefici seu i una previsió de tasques futures; no com la prova que les funcions ordinàries de la mitja jornada ja exigissin vuit hores.
 
+Meriem recorda que Jordi va mantenir durant mesos la queixa que la declaració de la renda li sortia a pagar. Aquesta reiteració acredita el seu malestar i la seva explicació del problema, però no demostra que la causa fos la forma de pagament de PrisMa. Determinar-la exigia que Jordi o el seu assessor revisessin la seva situació fiscal completa. PrisMa, per la seva banda, ha de poder acreditar la correcció dels pagaments, certificats i retencions que li corresponien; acreditat això, el resultat global de la declaració personal no se li pot imputar sense una anàlisi causal específica.
+
 El fet que PrisMa disposés de diversos tutors i no constin altres queixes equivalents sobre la declaració de la renda pot aportar context, però no resol per si sol la qüestió fiscal perquè cada situació personal pot ser diferent. Per atribuir a PrisMa una penalització tributària concreta caldria aportar el càlcul, la documentació fiscal i el nexe causal amb la forma de pagament. Fins aleshores, s'ha de descriure com un problema manifestat per Jordi al qual l'empresa va intentar donar resposta, no com un perjudici causat i quantificat de manera objectiva.
 
 **Proves**
@@ -59,6 +61,7 @@ El fet que PrisMa disposés de diversos tutors i no constin altres queixes equiv
 - Comunicacions sobre autoria i tutoritzacio.
 - Documentació o càlcul fiscal en què Jordi fonamenti el perjudici que atribueix al cobrament separat.
 - Criteri contractual i retributiu aplicat als altres tutors, sense incorporar dades fiscals personals innecessàries.
+- Certificats de retencions i comprovació de gestoria sobre els pagaments i retencions practicats a Jordi.
 
 **Validacio pendent**
 
