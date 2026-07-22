@@ -24,7 +24,7 @@ Aquest bloc no s'ha de presentar com a "control personal" ni com a conflicte emo
 | --- | --- | --- | --- |
 | 20/05/2024 13:20 | WhatsApp personal | Meriem pregunta si pot venir a les 8:45 per avançar el que han de parlar l'endema i perquè sembla que tambe ha de parlar amb Pablo. | Coordinacio previa de reunio/feina conjunta. No usar com incompliment. |
 | 03/06/2024 13:49 | WhatsApp personal | Meriem pregunta com esta i si l'endema vindra. | Pregunta de disponibilitat/presencia, no hostil. Usar nomes com context si cal. |
-| 16/07/2024 18:52 | WhatsApp personal | Meriem pregunta a quina hora li podra donar `lo de CLEE` l'endema. | Pregunta de termini/entrega per organitzar feina posterior. |
+| 16/07/2024 18:52 | WhatsApp personal | Meriem pregunta a quina hora li podra donar `lo de CLEE`, referit al tastet de CLEE, l'endema. | Coordinació d'una dependència per organitzar feina posterior; no prova per si sola un retard. |
 | 11/07/2025 15:09 | WhatsApp personal | Meriem pregunta si es connectara despres o ja fins dilluns perquè hi ha un mailing de dilluns per corregir. | Pregunta vinculada a termini imminent de marketing. |
 | 12/07/2025 16:05 | WhatsApp personal | Despres que Jordi digui que no s'ha pogut connectar, Meriem proposa que, si pot, es connecti dilluns a primera hora. | Mostra adaptacio: no exigeix cap de setmana, recondueix al dilluns. |
 | 21/07/2025 13:20 | WhatsApp personal | Meriem pregunta si pot corregir aquell dia un mailing que s'havia d'enviar l'endema. | Seguiment d'una tasca concreta amb termini, no missatge personal. |
