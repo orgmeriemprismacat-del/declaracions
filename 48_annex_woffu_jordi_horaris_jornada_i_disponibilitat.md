@@ -146,6 +146,43 @@ Proves vinculades:
 - actes on consta l'acord de disponibilitat;
 - correus o WhatsApps on se li pregunta si treballa o quan estarà connectat.
 
+#### Recompte verificat de sortides dins la franja
+
+L'acta del 04/02/2025 fixa per a Jordi la franja de disponibilitat de 10 a 14 h i estableix que, si dins d'aquest horari algú no es pot connectar o ha de sortir, ho ha d'avisar al grup de WhatsApp. La revisió de la columna `Fitxatges` de l'export `Presència diari Jordi - 2023-2026`, des del febrer de 2025 fins al 16/07/2026, dona el resultat següent:
+
+- **54 dies** amb almenys una sortida registrada entre les 10:00 i les 14:00, en el recompte brut iniciat l'01/02/2025;
+- **55 sortides** dins d'aquesta franja, perquè el 14/02/2025 n'hi consten dues;
+- **17 dies** en què l'últim fitxatge del dia és una sortida entre les 10:00 i les 14:00 i no consta cap entrada posterior aquell mateix dia;
+- si s'exclou el 03/02/2025, anterior a l'acord del 04/02/2025, queden **53 dies i 54 sortides**;
+- si, a més, es compten només els dies posteriors a l'acord amb `Horari teòric` superior a zero, queden **36 dies amb 36 sortides**, dels quals **7** acaben definitivament dins la franja sense entrada posterior.
+
+El total de 54 dies es distribueix en **50 dies entre febrer i desembre de 2025** i **4 dies després de la reincorporació, el juny i juliol de 2026**. Per tant, no s'ha de presentar tot el recompte com si correspongués exclusivament al període anterior a la baixa.
+
+Dies amb alguna sortida dins la franja:
+
+- febrer de 2025, 10 dies: 03/02 13:54; 04/02 13:29; 07/02 13:33; 08/02 11:38; 12/02 13:55; 14/02 10:31 i 12:54; 16/02 11:41; 18/02 12:36; 20/02 11:42; 25/02 12:25;
+- març, 8 dies: 04/03 12:16; 05/03 11:06; 09/03 10:35; 14/03 13:34; 17/03 10:41; 18/03 13:28; 24/03 13:56; 31/03 11:56;
+- abril, 3 dies: 11/04 12:24; 14/04 11:52; 15/04 13:57;
+- maig, 6 dies: 02/05 11:04; 07/05 11:14; 12/05 13:02; 16/05 11:47; 19/05 13:59; 26/05 12:51;
+- juny, 9 dies: 04/06 13:54; 10/06 11:15; 11/06 13:47; 12/06 13:01; 13/06 11:43; 14/06 13:37; 18/06 13:13; 20/06 11:37; 30/06 11:49;
+- juliol, 2 dies: 14/07 13:58; 26/07 13:04;
+- agost, 3 dies: 01/08 13:31; 04/08 13:34; 06/08 12:13;
+- setembre, 5 dies: 04/09 11:43; 05/09 12:12; 16/09 12:58; 17/09 13:26; 18/09 12:57;
+- octubre, 2 dies: 07/10 13:15; 12/10 12:38;
+- desembre, 2 dies: 01/12 13:49; 03/12 12:49;
+- juny de 2026, 1 dia: 29/06 12:16;
+- juliol de 2026, 3 dies: 02/07 11:28; 07/07 12:30; 16/07 13:10.
+
+Els 17 dies en què no consta cap entrada posterior són: 04/02/2025 13:29; 08/02/2025 11:38; 14/02/2025 12:54; 16/02/2025 11:41; 24/03/2025 13:56; 12/05/2025 13:02; 14/06/2025 13:37; 18/06/2025 13:13; 14/07/2025 13:58; 04/08/2025 13:34; 04/09/2025 11:43; 05/09/2025 12:12; 17/09/2025 13:26; 18/09/2025 12:57; 12/10/2025 12:38; 01/12/2025 13:49; i 03/12/2025 12:49.
+
+**Cautela probatòria:** les 55 sortides brutes no equivalen automàticament a 55 absències injustificades. El 03/02 és anterior a l'acord i en 17 de les dates posteriors l'export mostra `Horari teòric = 0`, inclosos caps de setmana, vacances o altres dies sense jornada teòrica; aquests casos no s'han de presentar com a vulneració de la franja obligatòria sense una anàlisi addicional. En 37 dels 54 dies consta una entrada posterior i les interrupcions poden ser pauses, gestions o incidències. Fins i tot en els 7 dies amb jornada teòrica en què la sortida és definitiva dins la franja cal comprovar, abans de qualificar cap incompliment, si existia avís al grup, permís, justificació, canvi acordat o compensació. El que l'export acredita directament és que hi havia interrupcions de disponibilitat i, per això, una necessitat objectiva de comunicar les sortides i coordinar les tasques dependents.
+
+Fonts:
+
+- Acta de la reunió del 04/02/2025 (`_extraccio_actes_2025/2025-02-04.docx.txt`).
+- `Presència diari Jordi - 2023-2026.pdf`, columna `Fitxatges`.
+- `Presència diari Jordi - 2023-2026.xlsx`, columna `Fitxatges`, emprat per verificar les hores que al PDF apareixen partides entre línies.
+
 ### 2. Vacances i hores compensades
 
 Objectiu:

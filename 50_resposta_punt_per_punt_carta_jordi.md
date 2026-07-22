@@ -642,12 +642,15 @@ Fets acreditats:
 - Hi havia franges de disponibilitat acordades o recordades.
 - Les captures Woffu mostren presencies, vacances, permisos i distribucions horàries.
 - En diversos casos, les preguntes de disponibilitat estan vinculades a tasques pendents.
+- L'acta del 04/02/2025 fixa per a Jordi la disponibilitat de 10 a 14 h i l'obligació d'avisar al grup si dins d'aquesta franja no es podia connectar o havia de sortir.
+- El recompte brut iniciat l'01/02/2025 mostra 54 dies amb almenys una sortida entre les 10 i les 14 h, 55 sortides en total i 17 dies sense entrada posterior. Per valorar la franja acordada cal excloure el 03/02, anterior a l'acta, i els dies amb horari teòric zero: queden 36 dies posteriors a l'acord amb jornada teòrica i una sortida dins la franja, 7 dels quals no tenen entrada posterior.
 
 Proves documentals:
 - `48_annex_woffu_jordi_horaris_jornada_i_disponibilitat.md`
 - `49_index_captures_woffu_jordi.md`
 - `[WF-REG-2024]`, `[WF-REG-2025]`, `[WF-REG-2026]`
 - `[WF-PRES-2025-02]`, `[WF-PRES-2025-09]`, `[WF-PRES-2026-07]`
+- Acta del 04/02/2025 i exports `Presència diari Jordi - 2023-2026` en PDF i XLSX.
 - `[WA-VACANCES-01]`, `[GC-TASQUES-01]`
 
 Testimonis possibles:
@@ -655,7 +658,7 @@ Testimonis possibles:
 - Meriem/Isa/Pablo: necessitat de coordinar tasques dependents.
 
 Cautela:
-Woffu no prova per si sol que una persona no treballes o treballes malament. Sempre s'ha de creuar amb tasques, comunicacions i terminis concrets.
+Woffu no prova per si sol que una persona no treballes o treballes malament. Les sortides intermèdies poden correspondre a pauses, gestions o incidències, i els 17 dies sense entrada posterior s'han de contrastar amb avisos, permisos i justificacions. La dada serveix per explicar la necessitat de comunicació i coordinació, no per qualificar automàticament cada sortida com a incompliment.
 
 ## Punt 21. Tracte hostil, agressiu o vexatori atribuït a Meriem
 
