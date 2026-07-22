@@ -350,3 +350,9 @@ El bloc contrasta, amb episodis concrets, una descripció general de WhatsApp co
 - `[CAP-MPIA-IMATGES-2025-06-16]`: `annexos_captures/CAP-MPIA-2025-06-16_anotacio-mateix-model-propostes-filtres.png` — mostra l'anotació «Imatges nostres (amb el mateix model tota l'estona)» i sis propostes del mateix personatge en estils diferents.
 
 Acredita directament el contingut visible i l'existència de diverses alternatives preparades. Contextualitza que Meriem no es va limitar a rebutjar una indicació, sinó que va materialitzar opcions per decidir. No acredita qui va escriure l'anotació, la data interna del document, el contingut de la trucada, que no existissin tots els models demanats ni quina opció va escollir Jordi. L'acta del 03/06/2025 confirma només que ja havien parlat de les imatges i del format. Conté la representació recognoscible d'una persona: limitar-ne l'aportació al necessari i valorar anonimització fora del procediment.
+
+## Annex GC 02/10/2025 - Xarxes, Rastreja'ls i càrrega compartida
+
+- `[CAP-GC-PRIORITATS-2025-10-02-01..07]`: `annexos_captures/CAP-GC-JORDI-2025-10-02-01_no-vist-xat-gust-xarxes.png` fins a `CAP-GC-JORDI-2025-10-02-07_assumeix-malentes.png`.
+
+S'han d'aportar com una única seqüència. Acrediten una confusió de prioritats, el reconeixement de Jordi que havia prioritzat Rastreja'ls i no havia vist el xat, la dependència de Meriem per preparar imatges i l'assumpció final del malentès. També contenen afirmacions favorables a Jordi sobre les hores que feia, l'esforç per no deixar ningú tirat i el perjudici que ell també percebia. No proven hores efectives, saldos de vacances, una ordre de treballar el cap de setmana, assetjament ni intencions. La data 02/10/2025 no és visible dins del xat: deriva del nom original dels fitxers.

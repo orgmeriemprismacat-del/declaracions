@@ -63,6 +63,8 @@ Meriem gestionava xarxes, mailings, imatges, campanyes, Ads, web i publicacions.
 
 Hi ha casos en que Jordi corregia tard, no responia o feia observacions quan la publicacio ja estava penjada. Aixo generava impacte operatiu: Meriem havia d'esperar, reprogramar, publicar sense correccio si ja no hi havia marge o refer imatges si la correccio arribava fora de termini.
 
+El fil capturat aparentment el 02/10/2025 documenta una confusió concreta: Jordi havia prioritzat Rastreja'ls i no havia vist el xat, mentre Meriem esperava totes les correccions per preparar imatges. Jordi acaba assumint que no havia entès la pressa. El mateix fil mostra càrrega i perjudici percebuts per totes dues parts, de manera que s'ha d'utilitzar complet i no com una prova unilateral. `[CAP-GC-PRIORITATS-2025-10-02-01..07]`
+
 **Resposta curta recomanada:**
 
 > Les discrepàncies en xarxes i mailings responen a criteris de treball: correccio, terminis, format de marketing i impacte en publicacions. No acrediten assetjament. Al contrari, la documentacio mostra que es van crear sistemes especifics per facilitar a Jordi la recepcio de tasques i dates.

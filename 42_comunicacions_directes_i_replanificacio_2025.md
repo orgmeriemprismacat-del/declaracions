@@ -91,6 +91,22 @@ Text més complet:
 
 > La documentació de Google Chat mostra una relació comunicativa directa i operativa entre Meriem i Jordi. Les converses no es limiten a retrets ni a canals grupals: hi ha correccions, consultes, agraïments, propostes de text, criteris de marketing, revisió d'imatges, organització de lectures i replantejaments segons l'estat de la feina. Això no impedeix que, en altres moments, Meriem prioritzés canals escrits i traçables per garantir terminis i dependències, però desmenteix que la comunicació directa fos inexistent o que l'ús de Trello/no-reply respongués a una voluntat d'aïllar Jordi. `[CAP-GC-DIRECTE-CURSOS-2025-02..06; CAP-GC-DIRECTE-XARXES-2025-01..03; CAP-GC-DIRECTE-MKT-2025-01..08]`
 
+## 02/10/2025 segons el nom dels fitxers - priorització entre xarxes i Rastreja'ls
+
+Les set captures `[CAP-GC-PRIORITATS-2025-10-02-01..07]` formen una seqüència contínua. La interfície només mostra «Avui»; la data 02/10/2025 deriva dels noms dels fitxers originals i s'ha de confirmar amb un export o metadades del canal si es vol usar com a data probatòria autònoma.
+
+Fets directament visibles:
+
+- Meriem pregunta a les 12:29 si Jordi treballarà l'endemà i torna a avisar a les 13:07 i 14:08.
+- Jordi respon a les 14:32 que no havia vist el xat; diu que està amb GUST i que ha vist contingut de màrqueting que mirarà l'endemà.
+- Davant la pregunta sobre les correccions de xarxes, Jordi diu que havia prioritzat Rastreja'ls, tot i tenir present el que havien acordat, i que no havia tornat a obrir aquella pestanya.
+- Meriem recorda que dimarts li havia preguntat si podia tenir totes les correccions per preparar imatges i evitar doble feina; Jordi respon que havia reconfigurat els terminis de Rastreja'ls i torna a prioritzar xarxes.
+- Jordi admet que no havia entès que la petició abastava totes les publicacions, afirma que les acabarà aquell dia o l'endemà i que aparcarà Rastreja'ls.
+- La conversa deriva cap a la càrrega de totes dues parts. Meriem diu que, si les correccions arriben aquell dia o l'endemà, haurà de treballar el cap de setmana. Jordi reconeix que Meriem ho està patint més, però també afirma que ell treballa totes les hores que pot, que tots fan més del que haurien de fer i que intenta no deixar ningú tirat.
+- Al final, Jordi diu que és culpa seva no haver entès la pressa de les darreres publicacions i que ja les tindrà.
+
+Valor probatori prudent: la seqüència contextualitza el seguiment amb una dependència concreta —Meriem necessitava les correccions per preparar imatges— i mostra una confusió de prioritats reconeguda per Jordi. També documenta sobrecàrrega i tensió compartides; no s'ha de presentar com si només afavorís Meriem ni com a prova que la càrrega de Jordi fos falsa. No acredita assetjament, una ordre de treballar fora d'horari, les hores efectivament treballades o la situació general de vacances. Cal aportar les set captures juntes.
+
 ## Cauteles
 
 - Aquest annex no ha de substituir l'exportació original de Google Chat si es pot obtenir. Les captures són útils, però és millor conservar també exportacions completes o captures amb data, nom i continuïtat del fil.

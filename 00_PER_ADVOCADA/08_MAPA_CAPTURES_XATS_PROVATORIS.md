@@ -255,3 +255,9 @@ La captura del 17/03 mostra la proposta visible de l'autor i el missatge inicial
 **Contrast amb la carta:** contextualitzen les afirmacions de persecució per WhatsApp, pressió indiscriminada, manca de comunicació directa o imposició de feina fora d'horari. No permeten negar el malestar subjectiu de Jordi, provar una pràctica general amb només aquests episodis, ni atribuir intencions a cap participant.
 
 **Privacitat:** són converses privades. La del 12/09 conté una referència genèrica a salut i s'ha d'aportar només si és necessari per acreditar la reprogramació; cal valorar ocultar dades personals no imprescindibles. No consten dades de menors a les sis captures incorporades.
+
+## 11. Google Chat: confusió de prioritats entre xarxes i Rastreja'ls
+
+**Fitxers:** `annexos_captures/CAP-GC-JORDI-2025-10-02-01_no-vist-xat-gust-xarxes.png` fins a `CAP-GC-JORDI-2025-10-02-07_assumeix-malentes.png`.
+
+El fil acredita que Jordi no havia vist el xat, havia prioritzat Rastreja'ls malgrat un acord sobre correccions de xarxes, entén després que la petició abastava totes les publicacions i acaba assumint la responsabilitat pel malentès. Contextualitza els recordatoris amb la necessitat de Meriem de preparar imatges i evitar doble feina. També acredita tensió i càrrega compartides: Jordi diu que treballa totes les hores que pot, que intenta no deixar ningú tirat i que també resulta perjudicat. No permet quantificar hores, determinar saldos de vacances ni acreditar assetjament o intencions. La data només deriva dels noms originals perquè la interfície diu «Avui»; conservar les set captures juntes.
