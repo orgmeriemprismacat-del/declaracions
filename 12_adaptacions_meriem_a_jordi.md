@@ -65,6 +65,8 @@ Amb l'experiència, l'equip va aprendre que en determinats cursos o aplicacions 
 
 Aquest funcionament no s'ha de descriure com una incapacitat personal, sinó com una adaptació operativa sorgida de les incidències prèvies. Alhora, implicava una càrrega addicional de preparació, coordinació i disponibilitat simultània per a Meriem i Isa. Es pot contrastar amb els casos CLEE del 16/07/2024, GUST del 14-16/05/2025, MPIA del 19/06/2025 i ALBUM de l'octubre de 2025, juntament amb les actes i els xats corresponents.
 
+El cas del Tastet TUT reforça aquest patró: la proposta de l'autor consta el 17/03/2025; l'01/04 gran part de la reunió es dedica a definir pantalles i es fixa el termini del 17/04; el 08/04 encara hi ha comentaris pendents i es concreta que ha d'estar acabat el 16/04 pel mailing; Trello concentra múltiples tasques de programació de Meriem entre el 10 i el 15/04; Isa diu l'11/04 que es connectarà durant les vacances per acabar el tastet; i el 15/04 encara es revisa conjuntament i Meriem programa nous canvis. Vegeu `56_cas_tastet_tut_marc_abril_2025.md`.
+
 ## Tipus de perjudici operatiu a acreditar
 
 ### Temps duplicat

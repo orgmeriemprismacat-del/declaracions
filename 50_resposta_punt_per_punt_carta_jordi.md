@@ -764,6 +764,8 @@ La frase segons la qual, si hagués pogut continuar fent més hores, hauria arri
 
 L'equip va acabar adaptant el funcionament: determinades tasques es programaven amb més antelació, es reservava una sessió perquè Jordi revisés l'aplicació o el curs complet i Meriem o Isa procuraven estar disponibles per aclarir dubtes i aplicar els canvis en aquell mateix moment. La finalitat era evitar que una revisió parcial, un dubte final o una modificació pendent tornessin a bloquejar la fase posterior. Aquestes reunions i recordatoris no s'han de presentar com a control personal, sinó com una mesura organitzativa apresa arran d'incidències anteriors i que, a més, generava càrrega addicional de preparació, coordinació i disponibilitat per a Meriem i Isa.
 
+El Tastet TUT ho exemplifica documentalment. La proposta de l'autor consta el 17/03/2025; l'01/04 gran part de la reunió es dedica a definir les pantalles i es fixa el 17/04; el 08/04 encara hi ha comentaris pendents i s'avança el tancament operatiu al 16/04 pel mailing. Les targetes de Trello concentren múltiples programacions de pantalles de Meriem entre el 10 i el 15/04; l'11/04 Isa diu que es connectarà durant les vacances per acabar el tastet; i el 15/04 encara es revisa conjuntament i Meriem programa canvis durant la reunió. El cas mostra que el temps consumit en la fase de definició i revisió comprimia les fases posteriors de programació, maquetació i proves. Vegeu `56_cas_tastet_tut_marc_abril_2025.md`.
+
 Fets acreditats:
 - Jordi formula una qualificacio greu.
 - No n'hi ha prou amb la qualificacio; cal prova dels fets.
