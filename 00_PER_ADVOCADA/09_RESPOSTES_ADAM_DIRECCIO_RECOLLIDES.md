@@ -97,7 +97,7 @@ Els informes exportats permeten calcular el treball efectiu com `Hores ordinàri
 
 No consta formalment que Jordi treballes a jornada completa entre gener i agost de 2023. Aquesta dada encaixa amb el calcul visible de Woffu, que no mostra una jornada completa sostinguda en aquest periode.
 
-Entre gener i maig de 2023, les hores puntuals de mes no acrediten insuficiencia estructural de la mitja jornada, especialment si es tenen en compte les hores compensades o restades posteriorment. Entre juny, juliol i agost de 2023 tampoc consta que Jordi treballes jornada completa. Per tant, la formulacio de Jordi segons la qual ja feia jornada completa en aquell periode no queda sostinguda pels registres revisats.
+Entre gener i maig de 2023, les hores puntuals de mes no acrediten insuficiencia estructural de la mitja jornada, especialment si es tenen en compte les hores compensades o restades posteriorment. Entre juny, juliol i agost de 2023 tampoc consta un excés sostingut sobre la mitja jornada. La carta no afirma literalment que Jordi ja treballés a jornada completa; el que no queda sostingut pels registres revisats és el relat general d'un excés continuat durant aquells mesos.
 
 **Proves:**
 

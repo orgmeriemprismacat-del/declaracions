@@ -24,7 +24,7 @@ La resposta hauria de separar:
 
 ### 1. Jornada, Woffu I Suposada Jornada Completa El 2023
 
-La carta presenta la mitja jornada com insuficient i afirma que Jordi ja feia jornada completa de manera sostinguda abans del canvi contractual. Les captures de Woffu disponibles no sostenen aquesta afirmacio en aquests termes.
+La carta presenta la mitja jornada com insuficient i afirma que, mentre esperava el canvi contractual des del juny, Jordi «feia més hores», a més d'assegurar que «sempre acabava fent hores extres» per arribar als terminis. No afirma literalment que treballés una jornada completa sostinguda. Els registres de Woffu permeten contrastar l'abast real d'aquest relat d'excés recurrent.
 
 Segons el criteri de calcul acordat per revisar Woffu, les hores reals visibles s'han de calcular com:
 
@@ -34,7 +34,7 @@ Les icones o camps de diferencia extra poden reflectir compensacions o tractamen
 
 Del gener al maig de 2023, l'export registra 355 h 39 m de treball efectiu (`hores ordinàries + extra`) davant 371 h 15 m teoriques, i 57 h 27 m justificades separadament. Del juny a l'agost registra 210 h 23 m treballades davant 221 h 15 m teoriques i 55 h 58 m justificades. Aquestes dades no mostren una jornada completa sostinguda de gener a agost. El setembre, en canvi, registra 170 h 21 m treballades davant 75 h teoriques i s'ha de tractar com un periode excepcional vinculat, segons la informacio recollida, a la subvencio d'ACOS i TICS i a la necessitat de tenir els cursos preparats per a l'octubre. Les diferencies negatives no es qualifiquen com a incompliment, perquè cal considerar els permisos i altres absencies justificades.
 
-Conclusio defensable: no queda acreditat que Jordi fes jornada completa de manera sostinguda des del juny de 2023 ni que la mitja jornada fos estructuralment insuficient en els termes exposats.
+Conclusio defensable: entre juny i agost de 2023 no queda acreditat que Jordi treballés de manera sostinguda per sobre de la seva mitja jornada ni que aquesta fos estructuralment insuficient en els termes exposats. El setembre sí mostra un excés extraordinari i s'ha de reconèixer separadament.
 
 Segons les respostes de direccio recollides el 21/07/2026, tampoc es va donar a Jordi una data concreta i tancada per fer-li el contracte a jornada completa. Es va parlar d'una possibilitat vinculada a la recepcio d'una subvencio per als cursos d'ACOS i TICS i a la situacio economica de PrisMa, que tenia perdues. L'ampliacio comportava assumir tasques noves o internalitzades: tutoritzacio del seu curs de CAT, cursos de PrisMa sense autoria, reduccio de despesa externa i creacio de cursos per a Mirada Pedagogica.
 

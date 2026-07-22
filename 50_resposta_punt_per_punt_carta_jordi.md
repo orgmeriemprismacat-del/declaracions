@@ -26,14 +26,16 @@ Cita de Jordi:
 Resposta de l'empresa:
 Aquesta afirmacio no queda acreditada en aquests termes amb els informes exportats de Woffu. El treball efectiu es calcula com `Hores ordinàries + Extr. a compensar`. Les `Hores totals justificades` es mostren separadament i no equivalen a presencia efectiva; el `Total d'hores` es un comput administratiu que, en general, agrega totes dues magnituds.
 
-Feta la lectura de les captures mensuals de 2023 amb aquest criteri, no queda acreditat que la mitja jornada fos estructuralment insuficient ni que Jordi estigues fent jornada sencera de manera sostinguda des de juny de 2023. El periode que mostra un salt clar de volum és setembre de 2023, no gener-maig ni juny-agost.
+Feta la lectura de les captures mensuals de 2023 amb aquest criteri, no queda acreditat que la mitja jornada fos estructuralment insuficient ni que Jordi treballés de manera sostinguda per sobre d'aquesta jornada entre juny i agost de 2023. La carta no afirma literalment que ja fes una jornada sencera. El periode que mostra un salt clar de volum és setembre de 2023, no gener-maig ni juny-agost.
 
 Context:
 Abans del pas a jornada completa, Jordi treballava a mitja jornada. Woffu mostra que entre gener i agost de 2023 continua apareixent majoritariament amb `Horari Jordi 1/2`. Si es calcula el temps real visible per entrada, sortida i descansos, el resultat queda molt lluny d'una jornada completa sostinguda.
 
 En concret, de gener a maig de 2023, consten 355 h 39 m de treball efectiu davant 371 h 15 m teoriques, a mes de 57 h 27 m justificades separadament. Aixo no soste que la mitja jornada fos estructuralment insuficient ni que Jordi fes jornada completa.
 
-Entre juny i agost de 2023 consten 210 h 23 m de treball efectiu davant 221 h 15 m teoriques, a mes de 55 h 58 m justificades. Per tant, aquest periode no soste que Jordi fes jornada completa durant juny, juliol i agost. El canvi clar de volum es concentra sobretot al setembre de 2023, amb 170 h 21 m treballades davant 75 h teoriques. Els mesos posteriors s'han de llegir separadament perquè hi apareixen canvis de jornada, absencies, permisos i la situacio vinculada al naixement/paternitat.
+Entre juny i agost de 2023 consten 210 h 23 m de treball efectiu davant 221 h 15 m teoriques, a mes de 55 h 58 m justificades. Per tant, aquest periode no soste un excés continuat sobre la mitja jornada durant juny, juliol i agost. El canvi clar de volum es concentra sobretot al setembre de 2023, amb 170 h 21 m treballades davant 75 h teoriques. Els mesos posteriors s'han de llegir separadament perquè hi apareixen canvis de jornada, absencies, permisos i la situacio vinculada al naixement/paternitat.
+
+La carta combina dues formulacions de diferent abast: primer parla d'una quantitat significativa d'hores extres «en determinades temporades», cosa compatible amb puntes puntuals; després afirma que «sempre acabava fent hores extres» perquè la mitja jornada no bastava. Si aquesta insuficiència era realment recurrent al llarg d'una relació iniciada el 2011, cal concretar des de quan passava, en quins mesos, quantes hores generava, com es compensaven i si abans de 2023 havia sol·licitat una ampliació de jornada. L'absència d'una ampliació anterior no demostra per si sola que no existissin hores extres, però sí impedeix convertir sense més unes puntes estacionals en prova d'una insuficiència estructural i continuada de la mitja jornada.
 
 Tambe consta, segons testimonis de Meriem/Isa, que en diverses converses Jordi havia manifestat que preferia mantenir-se a mitja jornada i que aquell model li anava be, amb acumulacions puntuals d'hores que despres podia compensar amb descansos o vacances.
 
@@ -43,7 +45,7 @@ Fets acreditats:
 - De gener a maig de 2023 consten 355 h 39 m treballades davant 371 h 15 m teoriques, i 57 h 27 m justificades.
 - De juny a agost de 2023 consten 210 h 23 m treballades davant 221 h 15 m teoriques, i 55 h 58 m justificades.
 - De gener a agost de 2023 consten 566 h 02 m treballades davant 592 h 30 m teoriques, i 113 h 25 m justificades.
-- Els exports de Woffu de 2023 no acrediten jornada completa sostinguda entre juny i agost. El volum clarament superior es concentra al setembre, amb 170 h 21 m treballades davant 75 h teoriques.
+- Els exports de Woffu de 2023 no acrediten un excés sostingut sobre la mitja jornada entre juny i agost. El volum clarament superior es concentra al setembre, amb 170 h 21 m treballades davant 75 h teoriques.
 - Octubre, novembre i desembre de 2023 no s'han de llegir com una continuacio ordinaria d'una jornada completa sostinguda: el bloc inclou canvis d'horari, moltes hores justificades/absencies i, des del 16/11/2023, permis de `Naixement i adopcio`.
 - Les diferencies horaries administratives que apareixen a Woffu han de llegir-se juntament amb descansos, hores compensades, justificades, permisos, vacances, absencies i canvis puntuals de jornada.
 - L'existencia d'hores a compensar en algun periode no prova, per si sola, que la mitja jornada fos insuficient ni que hi hagues pressio empresarial illicita.
@@ -65,7 +67,7 @@ Testimonis possibles:
 - Adam: condicions contractuals, converses sobre jornada i compensacions.
 
 Cautela:
-No afirmar que Jordi no fes mai cap hora per sobre de l'horari teoric: `Extr. a compensar` ja queda inclosa en el treball efectiu. L'argument fort es que, aplicant `Hores ordinàries + Extr. a compensar`, no s'acredita jornada completa sostinguda entre gener i agost ni insuficiencia estructural de la mitja jornada. Les hores justificades s'han de mantenir separades i una diferencia negativa no s'ha de qualificar com a incompliment sense examinar-ne el motiu.
+No afirmar que Jordi no fes mai cap hora per sobre de l'horari teoric: `Extr. a compensar` ja queda inclosa en el treball efectiu. Tampoc atribuir-li que afirmi literalment haver treballat a jornada completa des del juny. L'argument fort es que, aplicant `Hores ordinàries + Extr. a compensar`, no s'acredita un excés sostingut sobre la mitja jornada entre gener i agost ni la seva insuficiencia estructural. Les hores justificades s'han de mantenir separades i una diferencia negativa no s'ha de qualificar com a incompliment sense examinar-ne el motiu.
 
 ## Punt 02. Elaboracio del seu curs i autoria fora de jornada
 
