@@ -102,7 +102,7 @@ La qualificació de "pressions i acarnissaments" és una acusació genèrica que
 | Acta 07/10/2025 | Localitzada: acord de completar calendari i no moure dates. |
 | WhatsApp grupal 10/10/2025 14:09 i 14:11 | Localitzat a export WhatsApp. |
 | Acta 14/10/2025 | Localitzada: Jordi no comenta el canvi en reunió segons context aportat. |
-| Historial seguiment ALBUM 14/10/2025 12:55 | Captures aportades per Meriem. |
+| Historial seguiment ALBUM 14/10/2025 12:55 | Captures aportades per Meriem: mòdul 1 i `evidencies_rastrejals_album/P06_album_2025-10-14_1255_jordi_canvi_27_10_modul2.png`. La nova captura mostra també el mòdul 2 amb dates `27/10/2025` ressaltades i la versió atribuïda per Google a `Tutoria Jordi NOU`. El ressaltat acredita canvis dins la versió seleccionada, però no s'ha d'interpretar sense més com a prova del motiu, de mala fe o de l'absència d'avís per qualsevol altre canal. |
 | Correu Pablo 15/10/2025 13:40 | Captures aportades per Meriem. |
 | Respostes Isa/Adam/Jordi 15-16/10/2025 | Captures aportades per Meriem. |
 | Acta 25/11/2025 | Localitzada: ALBUM ja consta reconegut i es descriuen tasques posteriors d'elaboració. |

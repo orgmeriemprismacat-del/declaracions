@@ -210,7 +210,7 @@ Proves que s'han de preparar:
 Captures recomanades:
 
 - `[CAP-ALBUM-01]`: acta o seguiment amb dates inicials.
-- `[CAP-ALBUM-02]`: historial de versions on apareix Jordi modificant dates.
+- `[CAP-ALBUM-02]`: historial de versions del 14/10/2025, 12:55, atribuït per Google a `Tutoria Jordi NOU`, amb canvis visibles als mòduls 1 i 2 cap al `27/10/2025`. Fitxer complementari del mòdul 2: `evidencies_rastrejals_album/P06_album_2025-10-14_1255_jordi_canvi_27_10_modul2.png`. Acredita l'estat i l'atribució visibles de la versió; no el motiu, mala fe ni l'absència de qualsevol avís per altres canals.
 - `[CAP-ALBUM-03]`: versió posterior on es veu el canvi del 13/10 al 27/10.
 - `[CAP-CANVA-01]`: prova de correcció externa i terminis complerts.
 - `[CAP-GUST-GS-01]`: seguiment GUST amb dates d'imatges de Meriem el 17-18/05 o 18/05.

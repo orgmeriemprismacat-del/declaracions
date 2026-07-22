@@ -97,7 +97,7 @@ Aquest es un dels punts forts per contestar la versio de Jordi.
 
 L'acta del 07/10/2025 recull que, despres de parlar de les necessitats de cadascu per elaborar el curs, s'acorda completar el calendari i que, com que els terminis eren llargs, no es mourien dates.
 
-L'acta del 14/10/2025 no recull cap avís de Jordi sobre canvi de dates d'ALBUM. Segons l'historial del seguiment, el 14/10/2025 a les 12:55 Jordi va modificar dates de correccio que havien vençut el 13/10/2025 i les va moure al 27/10/2025. Aquell canvi no afectava nomes Jordi: el calendari tenia fases successives de maquetacio, correccio, imatges i revisions d'Isa i Meriem.
+L'acta del 14/10/2025 no recull cap avís de Jordi sobre canvi de dates d'ALBUM. Segons l'historial del seguiment, el 14/10/2025 a les 12:55 una versió atribuïda per Google a Jordi mostra dates de correccio que havien vençut el 13/10/2025 mogudes al 27/10/2025, tant al mòdul 1 com al mòdul 2. Aquell canvi no afectava nomes Jordi: el calendari tenia fases successives de maquetacio, correccio, imatges i revisions d'Isa i Meriem. La captura no prova per si sola el motiu del canvi ni exclou que Jordi hagués avisat de dificultats per un altre canal.
 
 El correu de Pablo del 15/10/2025 no es presenta com una sancio ni com un atac, sino com una comunicacio operativa: recorda l'acord, concreta el nou compromís i demana no canviar dates sense parlar-ho en reunio.
 

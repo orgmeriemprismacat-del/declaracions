@@ -588,6 +588,7 @@ Fets acreditats:
 Proves documentals:
 - `[GM-ALBUM-01]`
 - `[CAP-ALBUM-GM-01]`
+- `evidencies_rastrejals_album/P06_album_2025-10-14_1255_jordi_canvi_27_10_modul2.png` — versió de les 12:55, atribuïda per Google a Jordi, amb canvis visibles al mòdul 2; no acredita per si sola el motiu ni mala fe.
 - `evidencies_rastrejals_album/P06_album_2025-10-15_1519_isa_necessita_pdf_24.png`
 - `evidencies_rastrejals_album/P06_album_2025-10-15_1705_adam_planning_i_teletreball.png`
 - `evidencies_rastrejals_album/P06_album_2025-10-15_2307_jordi_reconeix_canvi_excel.png`

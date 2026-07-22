@@ -603,7 +603,7 @@ La data no afectava nomes Jordi: condicionava reconeixement, maquetacio, imatges
 
 - Acta 07/10/2025.
 - Acta 14/10/2025.
-- Historial de canvis del seguiment ALBUM.
+- Historial de canvis del seguiment ALBUM, inclosa la captura del mòdul 2 `evidencies_rastrejals_album/P06_album_2025-10-14_1255_jordi_canvi_27_10_modul2.png`. La captura mostra la versió de les 12:55 atribuïda a Jordi i canvis visibles cap al 27/10; no acredita per si sola el motiu ni exclou avisos per altres canals.
 - Correu Pablo 15/10/2025.
 - Captures del fil de correus posterior.
 
