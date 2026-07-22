@@ -16,7 +16,7 @@ Segons la informacio de direccio recollida, el setembre de 2023 va fer mes hores
 
 Tampoc consta cap registre on l'empresa imposes a Jordi la realitzacio d'hores extres. Segons la informacio recollida, quan Jordi deia que no podia arribar o no podia assumir un termini, l'empresa i l'equip sovint movien dates, replanificaven o absorbien l'impacte dels seus retards. Aquest context es rellevant per contestar la idea que les hores puntuals fossin fruit d'una imposicio empresarial.
 
-Per tant, no es pot presentar com a fet acreditat que Jordi treballés de manera sostinguda per sobre de la mitja jornada entre juny i agost de 2023 ni que aquesta jornada fos estructuralment insuficient per si mateixa. La seva carta no diu literalment que ja treballés a jornada completa i la resposta no li ha d'atribuir aquesta afirmació.
+Per tant, no es pot presentar com a fet acreditat que Jordi treballés de manera sostinguda per sobre de la mitja jornada entre juny i agost de 2023 ni que aquesta jornada fos estructuralment insuficient per si mateixa. La seva carta no diu literalment que ja treballés a jornada completa, però Meriem declara que Jordi ho va afirmar verbalment més d'una vegada. La resposta ha de diferenciar l'afirmació escrita de les manifestacions orals, que poden ser objecte de prova testifical si se'n concreten les circumstàncies i les persones presents.
 
 També cal diferenciar la seva referència inicial a hores extres significatives «en determinades temporades» de l'afirmació posterior que «sempre acabava fent hores extres» perquè la mitja jornada no bastava. La primera pot descriure puntes estacionals; la segona suggereix una insuficiència recurrent. Atès que la relació laboral es remunta al 2011, aquesta última afirmació requereix concretar des de quan passava, quines hores generava cada període, com es compensaven i si abans de 2023 s'havia demanat ampliar la jornada. Que no s'ampliés abans no prova per si sol que no hi hagués hores extraordinàries, però debilita la presentació d'una insuficiència estructural antiga si no s'acompanya d'aquesta concreció.
 
@@ -34,7 +34,7 @@ També cal diferenciar la seva referència inicial a hores extres significatives
 
 **Cautela**
 
-No afirmar "no feia hores" en termes absoluts. Es mes defensable dir que les hores no acrediten un excés sostingut sobre la mitja jornada ni la seva insuficiencia estructural.
+No afirmar "no feia hores" en termes absoluts. Es mes defensable dir que les hores no acrediten un excés sostingut sobre la mitja jornada ni la seva insuficiencia estructural. No negar tampoc que Jordi afirmés oralment que ja feia una jornada completa: distingir aquesta prova testifical del contingut literal de la carta.
 
 ## Punt 02. Elaboracio Del Seu Curs I Treball Fora De Jornada
 

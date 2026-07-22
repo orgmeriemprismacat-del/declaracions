@@ -86,6 +86,8 @@ Tambe vaig intentar evitar exposar-lo davant l'equip quan hi havia incidencies. 
 
 Aquestes actuacions no eliminen que posteriorment hi haguessin conflictes, cansament o comunicacions mes estrictament laborals. Pero si son importants per valorar el context i la intencionalitat. La meva actuacio no va ser la d'una persona que volia fer-li mal, sino la d'algú que durant molt temps va intentar sostenir, adaptar i reconduir una relacio laboral que cada vegada era mes dificil.
 
+També vull deixar clar que no he deduït només de la carta que Jordi digués que ja treballava una jornada completa. El vaig sentir afirmar-ho verbalment més d'una vegada. La carta ho formula d'una altra manera, parlant d'una mitja jornada insuficient, d'hores extres freqüents en determinades temporades i que «sempre acabava fent hores extres». Distingeixo el contingut literal del document del que jo vaig escoltar directament. Els registres de jornada permeten contrastar aquestes manifestacions i mostren que entre juny i agost de 2023 no hi va haver un excés sostingut sobre la mitja jornada, mentre que el setembre sí que va existir un increment extraordinari.
+
 ## El Que Jo Veia En El Dia A Dia
 
 El que vaig viure durant anys va ser una dificultat recurrent per part de Jordi per mantenir una organitzacio autonoma i estable de les tasques. Vaig veure tasques que quedaven pendents malgrat haver estat comentades, correccions que arribaven tard, correus, Trellos o xats sense resposta, dates que s'ajornaven, criteris que calia tornar a explicar i situacions en que, si no hi havia un seguiment molt directe, la feina no avancava o avancava amb massa incertesa.

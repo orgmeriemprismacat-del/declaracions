@@ -26,7 +26,7 @@ Cita de Jordi:
 Resposta de l'empresa:
 Aquesta afirmacio no queda acreditada en aquests termes amb els informes exportats de Woffu. El treball efectiu es calcula com `Hores ordinàries + Extr. a compensar`. Les `Hores totals justificades` es mostren separadament i no equivalen a presencia efectiva; el `Total d'hores` es un comput administratiu que, en general, agrega totes dues magnituds.
 
-Feta la lectura de les captures mensuals de 2023 amb aquest criteri, no queda acreditat que la mitja jornada fos estructuralment insuficient ni que Jordi treballés de manera sostinguda per sobre d'aquesta jornada entre juny i agost de 2023. La carta no afirma literalment que ja fes una jornada sencera. El periode que mostra un salt clar de volum és setembre de 2023, no gener-maig ni juny-agost.
+Feta la lectura de les captures mensuals de 2023 amb aquest criteri, no queda acreditat que la mitja jornada fos estructuralment insuficient ni que Jordi treballés de manera sostinguda per sobre d'aquesta jornada entre juny i agost de 2023. La carta no afirma literalment que ja fes una jornada sencera; tanmateix, Meriem declara que Jordi ho va afirmar verbalment més d'una vegada. Aquesta manifestació oral no s'ha d'esborrar ni confondre amb una inferència de Meriem: s'ha de tractar com a prova testifical i concretar, si és possible, en quines converses es va produir i qui hi era present. El periode que mostra un salt clar de volum és setembre de 2023, no gener-maig ni juny-agost.
 
 Context:
 Abans del pas a jornada completa, Jordi treballava a mitja jornada. Woffu mostra que entre gener i agost de 2023 continua apareixent majoritariament amb `Horari Jordi 1/2`. Si es calcula el temps real visible per entrada, sortida i descansos, el resultat queda molt lluny d'una jornada completa sostinguda.
@@ -67,7 +67,7 @@ Testimonis possibles:
 - Adam: condicions contractuals, converses sobre jornada i compensacions.
 
 Cautela:
-No afirmar que Jordi no fes mai cap hora per sobre de l'horari teoric: `Extr. a compensar` ja queda inclosa en el treball efectiu. Tampoc atribuir-li que afirmi literalment haver treballat a jornada completa des del juny. L'argument fort es que, aplicant `Hores ordinàries + Extr. a compensar`, no s'acredita un excés sostingut sobre la mitja jornada entre gener i agost ni la seva insuficiencia estructural. Les hores justificades s'han de mantenir separades i una diferencia negativa no s'ha de qualificar com a incompliment sense examinar-ne el motiu.
+No afirmar que Jordi no fes mai cap hora per sobre de l'horari teoric: `Extr. a compensar` ja queda inclosa en el treball efectiu. No atribuir aquesta frase al text literal de la carta, però tampoc negar que, segons el testimoni de Meriem, Jordi va afirmar oralment més d'una vegada que ja treballava una jornada completa. L'argument documental fort es que, aplicant `Hores ordinàries + Extr. a compensar`, no s'acredita un excés sostingut sobre la mitja jornada entre gener i agost ni la seva insuficiencia estructural. Les hores justificades s'han de mantenir separades i una diferencia negativa no s'ha de qualificar com a incompliment sense examinar-ne el motiu.
 
 ## Punt 02. Elaboracio del seu curs i autoria fora de jornada
 

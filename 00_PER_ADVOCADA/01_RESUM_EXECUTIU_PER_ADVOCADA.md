@@ -24,7 +24,7 @@ La resposta hauria de separar:
 
 ### 1. Jornada, Woffu I Suposada Jornada Completa El 2023
 
-La carta presenta la mitja jornada com insuficient i afirma que, mentre esperava el canvi contractual des del juny, Jordi «feia més hores», a més d'assegurar que «sempre acabava fent hores extres» per arribar als terminis. No afirma literalment que treballés una jornada completa sostinguda. Els registres de Woffu permeten contrastar l'abast real d'aquest relat d'excés recurrent.
+La carta presenta la mitja jornada com insuficient i afirma que, mentre esperava el canvi contractual des del juny, Jordi «feia més hores», a més d'assegurar que «sempre acabava fent hores extres» per arribar als terminis. La carta no diu literalment que treballés ja a jornada completa; tanmateix, Meriem declara que Jordi ho va afirmar verbalment més d'una vegada. Cal separar la formulació escrita de les manifestacions orals i identificar, sempre que sigui possible, les converses, dates i persones presents. Els registres de Woffu permeten contrastar l'abast real de totes dues versions.
 
 Segons el criteri de calcul acordat per revisar Woffu, les hores reals visibles s'han de calcular com:
 
