@@ -18,7 +18,7 @@ Aquest document recull punts que Meriem no pot tancar sola i que caldria pregunt
 
 **Estat actual:** Meriem ha aportat respostes preliminars sobre criteri Woffu, gener-agost 2023, setembre 2023, compensacio flexible d'hores i absencia de registres d'hores extres imposades. Vegeu `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md`.
 
-1. Com interpreta PrisMa/gestoria les hores de Woffu: el calcul correcte es `sortida - entrada - descansos`?
+1. Com interpreta PrisMa/gestoria, a efectes laborals, les hores justificades, permisos, vacances, IT i compensacions que l'export separa del treball efectiu (`Hores ordinàries + Extr. a compensar`)?
 2. Les icones d'hores compensatories indiquen hores ja restades o només incidencies administratives?
 3. Entre gener i agost de 2023, consta formalment que Jordi treballes jornada completa?
 4. El setembre de 2023, consta que Jordi va fer jornada completa o mes hores per algun motiu concret?

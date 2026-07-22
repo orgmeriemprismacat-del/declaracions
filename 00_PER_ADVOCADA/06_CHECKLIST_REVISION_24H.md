@@ -70,7 +70,7 @@ Que `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md` quedi alineat amb tota la carta.
 **Que s'ha de revisar**
 
 - Validar els calculs de 2023: gener-maig, juny-agost i setembre.
-- Confirmar que el criteri correcte es `sortida - entrada - descansos`.
+- Verificar que tots els documents apliquen `Hores ordinàries + Extr. a compensar` com a treball efectiu i mantenen les hores justificades separades.
 - Confirmar com Woffu mostra compensacions i si les icones indiquen hores restades.
 - Revisar 2024 per semestres i 2025 gener-juny / juliol-desembre.
 - Confirmar amb Adam que no hi havia data concreta de jornada completa, sino possibilitat vinculada a subvencio ACOS/TICS.
@@ -266,7 +266,7 @@ No aportar converses personals sensibles si no son necessaries.
 - Validar si es pot dir: "segons la documentacio revisada, el 2025 la seva feina documentada es concentra principalment en tres cursos, xarxes/mailings i tasques puntuals".
 - Evitar dir "no va fer res mes" si no esta completament verificat.
 - Preparar una llista curta de tasques per any.
-- Creuar gener-juny 2025 amb Woffu: horari teoric `744 h 48 m`, fitxatge net visible `792 h 49 m`, diferencia visible `+48 h 01 m`, i revisar vacances, absencies i hores compensades dins aquest periode.
+- Creuar gener-juny 2025 amb Woffu: horari teoric `744 h 48 m`, treball efectiu `738 h 40 m`, diferencia `-6 h 08 m`, hores justificades `145 h 15 m` i total administratiu `883 h 55 m`; revisar el motiu de les absencies abans d'extreure conclusions.
 
 **Serveix per contestar**
 

@@ -72,7 +72,7 @@ Les captures de 2023 son rellevants per contestar l'afirmacio de Jordi segons la
 
 La columna `Extr. a compensar` no s'ha de llegir com si fossin hores reals treballades. Per valorar el temps real de fitxatge visible, el criteri principal ha de ser:
 
-`temps real visible de fitxatge = sortida - entrada - descansos`
+`treball efectiu = Hores ordinàries + Extr. a compensar`
 
 Aquest calcul s'ha de separar del resum administratiu de Woffu (`Total d'hores`, `Horari teoric`, `Diferencia` i `Extr. a compensar`), perquè el resum pot incorporar absencies, permisos, vacances, accident/malaltia, compensacions o regularitzacions segons la icona i el tipus de jornada.
 
@@ -88,18 +88,18 @@ Aquest criteri queda desenvolupat a:
 Lectura prudent:
 
 - entre gener i agost de 2023, les captures mensuals mostren majoritariament `Horari Jordi 1/2`, amb diferencies horaries puntuals o hores a compensar;
-- de gener a maig de 2023, l'horari teoric suma 371 h 15 m i el calcul `sortida - entrada - descansos` dona 382 h 07 m, és a dir, 10 h 52 m per sobre en cinc mesos;
-- de juny a agost de 2023, l'horari teoric suma 221 h 15 m i el calcul `sortida - entrada - descansos` dona 217 h 20 m, és a dir, 3 h 55 m per sota del teoric;
-- en conjunt, de gener a agost de 2023, el calcul net visible dona 599 h 27 m davant 592 h 30 m d'horari teoric, una diferencia de 6 h 57 m en vuit mesos;
+- de gener a maig de 2023 consten 355 h 39 m treballades davant 371 h 15 m teoriques, més 57 h 27 m justificades;
+- de juny a agost de 2023 consten 210 h 23 m treballades davant 221 h 15 m teoriques, més 55 h 58 m justificades;
+- en conjunt, de gener a agost de 2023 consten 566 h 02 m treballades davant 592 h 30 m teoriques, més 113 h 25 m justificades;
 - aquestes dades no acrediten jornada completa sostinguda ni una pressio empresarial illicita;
-- el canvi de volum mes clar es concentra especialment al setembre de 2023, amb 168 h 01 m netes visibles davant 75 h teoriques, i s'ha de tractar com un periode concret, no com a prova que tota la mitja jornada anterior fos estructuralment insuficient;
+- el canvi de volum mes clar es concentra especialment al setembre de 2023, amb 170 h 21 m treballades davant 75 h teoriques, i s'ha de tractar com un periode concret, no com a prova que tota la mitja jornada anterior fos estructuralment insuficient;
 - els mesos posteriors s'han de llegir separadament, perquè hi apareixen canvis de jornada, absencies, permisos i situacions vinculades al naixement/paternitat. En concret, octubre de 2023 mostra `Horari Cristina` amb moltes linies d'`Hores d'absencia`, i a partir del 16/11/2023 Woffu mostra el permis `Naixement i adopcio`;
 
 Observacions objectives:
 
-- El calcul d'hores reals visibles s'ha fet amb el criteri `sortida - entrada - descansos`.
-- De gener a agost de 2023, aquest calcul dona 599 h 27 m davant 592 h 30 m d'horari teoric.
-- Setembre de 2023 mostra 168 h 01 m netes visibles davant 75 h teoriques.
+- El treball efectiu s'ha calculat com `Hores ordinàries + Extr. a compensar`.
+- De gener a agost de 2023 consten 566 h 02 m treballades davant 592 h 30 m teoriques, i 113 h 25 m justificades separadament.
+- Setembre de 2023 mostra 170 h 21 m treballades davant 75 h teoriques.
 - Les columnes `Total d'hores`, `Diferencia` i `Extr. a compensar` es recullen com a dades administratives de Woffu i s'han de creuar amb la columna `Jornada`.
 
 Cautela:

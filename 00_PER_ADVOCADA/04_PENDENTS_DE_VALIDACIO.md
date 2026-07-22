@@ -4,7 +4,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 
 ## 1. Woffu I Jornada
 
-- Confirmar amb gestoria/advocada el criteri exacte de calcul de jornada: `sortida - entrada - descansos`.
+- El criteri factual queda validat pels exports: treball efectiu = `Hores ordinàries + Extr. a compensar`. Confirmar amb gestoria/advocada únicament la interpretacio laboral de permisos, IT, vacances, compensacions i altres hores justificades.
 - Confirmar com es reflecteixen les hores compensatories i si les icones o camps de Woffu indiquen hores ja restades.
 - Validar els totals de gener-maig 2023, juny-agost 2023 i setembre 2023.
 - Confirmar amb Adam que no existeix cap ordre, correu, acta o registre on PrisMa imposi a Jordi fer hores extres.

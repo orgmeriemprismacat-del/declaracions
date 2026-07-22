@@ -10,7 +10,7 @@ Jordi afirma que la mitja jornada era insuficient i que, per seguir el ritme de 
 
 **Resposta proposada**
 
-Aquesta afirmacio no queda acreditada en aquests termes amb les dades de Woffu revisades fins ara. Les hores reals visibles s'han de calcular com `sortida - entrada - descansos`. Segons aquest criteri, entre gener i maig de 2023 no consta una jornada completa sostinguda, sino una diferencia acumulada reduida i compensada o compensable. Entre juny i agost de 2023 tampoc consta que treballes jornada completa de manera sostinguda. El salt rellevant apareix al setembre de 2023.
+Aquesta afirmacio no queda acreditada en aquests termes amb els informes exportats de Woffu. El treball efectiu es calcula com `Hores ordinàries + Extr. a compensar`, mantenint les hores justificades separades. Entre gener i agost de 2023 consten 566 h 02 m treballades davant 592 h 30 m teoriques, a mes de 113 h 25 m justificades; no consta una jornada completa sostinguda. El salt rellevant apareix al setembre, amb 170 h 21 m treballades davant 75 h teoriques.
 
 Segons la informacio de direccio recollida, el setembre de 2023 va fer mes hores per una necessitat puntual vinculada a la subvencio d'ACOS i TICS i a la sortida dels cursos a l'octubre. Aquesta situacio no acredita que Jordi ja estes fent jornada completa des del juny ni que existis una promesa de jornada completa incondicionada.
 
@@ -315,8 +315,10 @@ Meriem indica que els subtitols/textos destacats d'ALBUM i CANVA els va fer ella
 Pel periode gener-juny de 2025, que Jordi vincula a una carrega especialment inassumible pels tres cursos, el resum Woffu preparat mostra:
 
 - horari teoric: `744 h 48 m`;
-- fitxatge net visible: `792 h 49 m`;
-- diferencia visible: `+48 h 01 m`;
+- treball efectiu (`ordinàries + extra`): `738 h 40 m`;
+- diferencia respecte de l'horari teoric: `-6 h 08 m`;
+- hores justificades separades: `145 h 15 m`;
+- total administratiu: `883 h 55 m`;
 - saldos administratius Woffu molt superiors al fitxatge net visible, pendents de validar amb gestoria/advocada.
 
 Aixo no nega que hi haguessin puntes de feina o moments de pressio. Pero si Jordi afirma que les tasques eren inassumibles, cal que concreti tasca, data, termini, hores reals i lliurable. Tambe cal contrastar-ho amb els dies en que constin vacances, hores compensades, absencies o reduccions de jornada efectiva dins el mateix periode. Si l'equip acredita que, malgrat els retards i replanificacions, Jordi es restava hores o gaudia de vacances/compensacions, aquest context contradiu una imatge de pressio continua sense descans.

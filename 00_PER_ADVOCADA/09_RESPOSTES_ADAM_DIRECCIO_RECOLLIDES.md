@@ -77,13 +77,13 @@ Aquest bloc s'ha de presentar com a testimoni o explicacio de direccio, no com a
 
 ## 5. Criteri De Calcul Woffu
 
-**Pregunta:** Com interpreta PrisMa/gestoria les hores de Woffu? El calcul correcte es `sortida - entrada - descansos`?
+**Pregunta:** Com interpreta PrisMa/gestoria, a efectes laborals, les hores justificades, permisos, vacances, IT i compensacions que l'export separa del treball efectiu?
 
 **Resposta recollida:** Si.
 
 **Formulacio defensable:**
 
-Per valorar la presencia real visible en Woffu, el criteri de calcul utilitzat per PrisMa es `sortida - entrada - descansos`. Les columnes de diferencia o extra a compensar s'han de llegir com a dades administratives i cal creuar-les amb tipus de jornada, absencies, vacances, permisos i compensacions.
+Els informes exportats permeten calcular el treball efectiu com `Hores ordinàries + Extr. a compensar` i mostren separadament les `Hores totals justificades`. La qualificacio laboral dels permisos, vacances, IT, compensacions i altres justificacions s'ha de confirmar amb gestoria; una diferencia respecte de l'horari teoric no s'ha de presentar automaticament com a incompliment.
 
 **Validacio pendent:** gestoria/advocada si cal presentar-ho formalment.
 

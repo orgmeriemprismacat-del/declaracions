@@ -1,63 +1,67 @@
-# Calcul Woffu 2023 - hores netes de fitxatge i saldos administratius
+# Calcul Woffu 2023 - treball efectiu, hores justificades i comput administratiu
 
-> Document intern de treball. Aquest calcul s'ha fet a partir de les captures Woffu disponibles. Cal validar-lo amb export CSV/Excel de Woffu si es vol incorporar com a xifra definitiva en una contestacio formal.
+> Document intern de treball. Calcul actualitzat amb els informes exportats `Presència diari Jordi - 2023-2026.xlsx` i `Registre mensual de la jornada - Jordi - 2023-2026.xlsx`, contrastats amb les versions PDF corresponents.
 
 ## Criteri correcte de lectura
 
-Per parlar d'hores reals de fitxatge visibles a les captures mensuals, el criteri principal ha de ser:
+Per parlar d'hores efectivament treballades, el criteri principal que permet l'export mensual es:
 
-`hores netes visibles = sortida - entrada - descansos`
+`hores efectivament treballades = hores ordinàries + Extr. a compensar`
+
+Com a control general es pot comprovar:
+
+`hores efectivament treballades = Total d'hores - Hores totals justificades`
+
+La segona igualtat es compleix en general, pero no s'ha d'usar com a formula principal perquè els dies 01/09/2025 i 02/09/2025 consten simultaniament com a vacances i amb fitxatges/hores extra: el `Total d'hores` queda a zero, mentre `Extr. a compensar` conserva 5 h 43 m i 4 h 34 m treballades, respectivament.
 
 Aixo s'ha de separar del resum administratiu de Woffu:
 
 - `Horari teoric`: hores previstes segons el calendari/jornada assignada.
-- `Total d'hores Woffu`: total que Woffu computa en el detall mensual, que pot incorporar hores justificades, permisos, absencies o regularitzacions.
-- `Diferencia` / `Extr. a compensar`: saldo administratiu que Woffu mostra respecte de l'horari teoric.
+- `Hores ordinàries`: part de la presencia que Woffu imputa com a jornada ordinaria.
+- `Extr. a compensar`: temps treballat que excedeix les hores ordinàries imputades aquell dia.
+- `Hores totals justificades`: temps justificat administrativament, que no s'ha de confondre amb presencia efectiva.
+- `Total d'hores`: comput administratiu format, en general, per hores ordinàries, extres i justificades.
 
-Per tant, si l'objectiu es saber quantes hores consten com a treballades o fitxades en el detall, no s'ha d'agafar la columna `Diferencia` ni el resum d'`Extr. a compensar`. Cal calcular cada dia amb entrada, sortida i descansos.
+Per tant, les hores justificades s'han de mostrar separadament i no es poden presentar com a hores treballades. Alhora, `Extr. a compensar` si forma part del treball efectiu quan l'export mensual la vincula a fitxatges reals.
 
 ## Advertiments importants
 
-- Aquest calcul es basa en la lectura de captures; pot tenir petites diferencies de minuts per OCR o lectura visual.
-- Quan una fila esta marcada com a `Hores d'absencia`, `Vacances`, `Accident o enfermetat`, `Naixement i adopcio`, `Incapacitat Temporal` o similar, el calcul mecanic d'entrada/sortida pot no equivaler a feina efectiva. En aquests casos cal mirar sempre la columna `Jornada`.
-- El resum de Woffu pot donar positiu encara que el calcul net visible no mostri una jornada completa, perquè Woffu pot computar saldos, absencies justificades o compensacions.
-- Aquest annex no nega que Jordi pogues fer hores per sobre de l'horari teoric en moments concrets. El que corregeix es que aquestes hores no es poden acreditar nomes amb `Diferencia/Extra`, ni es poden convertir automaticament en prova de jornada completa sostinguda.
+- Els valors provenen dels Excel exportats; les diferencies d'un minut responen a l'arrodoniment de decimals d'hora.
+- Quan hi ha vacances, permisos, IT, paternitat o altres absencies, la diferencia entre horari teoric i treball efectiu no es pot qualificar automaticament d'incompliment.
+- Aquest annex no nega les hores de mes: les incorpora mitjançant `Extr. a compensar` i les separa de les hores justificades.
 
 ## Detall mensual gener-setembre 2023
 
-| Mes 2023 | Jornada que consta majoritariament | Horari teoric | Hores netes visibles (`sortida - entrada - descansos`) | Diferencia neta vs horari teoric | Total Woffu | Diferencia / extra Woffu | Lectura prudent |
+| Mes 2023 | Horari teoric | Treball efectiu (`ordinàries + extra`) | Diferencia vs teoric | Hores justificades | Total computat | Extra inclosa | Lectura prudent |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Gener | `Horari Jordi 1/2` | 78 h 45 m | 79 h 40 m | +0 h 55 m | 87 h 22 m | +8 h 37 m | El fitxatge visible queda practicament ajustat a mitja jornada; no acredita jornada completa. |
-| Febrer | `Horari Jordi 1/2` | 71 h 15 m | 71 h 16 m | +0 h 01 m | 78 h 09 m | +6 h 54 m | El fitxatge visible queda ajustat a l'horari teoric. |
-| Marc | `Horari Jordi 1/2` | 86 h 15 m | 86 h 24 m | +0 h 09 m | 90 h 52 m | +4 h 37 m | El fitxatge visible queda ajustat a l'horari teoric. |
-| Abril | `Horari Jordi 1/2` | 52 h 30 m | 56 h 43 m | +4 h 13 m | 62 h 14 m | +9 h 44 m | Hi ha excés puntual, pero no jornada completa. |
-| Maig | `Horari Jordi 1/2` | 82 h 30 m | 88 h 04 m | +5 h 34 m | 94 h 27 m | +11 h 57 m | Hi ha excés puntual, pero no jornada completa. |
-| Juny | `Horari Jordi 1/2` | 82 h 30 m | 79 h 19 m | -3 h 11 m | 97 h 43 m | +15 h 13 m | El saldo Woffu surt positiu, pero el fitxatge net visible no mostra excés real mensual; cal creuar amb jornades/absencies. |
-| Juliol | `Horari Jordi 1/2` | 56 h 15 m | 55 h 35 m | -0 h 40 m | 63 h 18 m | +7 h 03 m | El fitxatge net visible queda lleugerament per sota de l'horari teoric. |
-| Agost | `Horari Jordi 1/2` | 82 h 30 m | 82 h 26 m | -0 h 04 m | 105 h 19 m | +22 h 49 m | El saldo Woffu surt positiu, pero el fitxatge net visible queda practicament ajustat; el mes inclou incidencies. |
-| Setembre | `Horari Jordi 1/2` | 75 h 00 m | 168 h 01 m | +93 h 01 m | 170 h 20 m | +95 h 20 m | Aquest es el mes que mostra clarament un volum molt superior a la mitja jornada. |
+| Gener | 78 h 45 m | 72 h 09 m | -6 h 36 m | 15 h 13 m | 87 h 22 m | 8 h 37 m | No acredita jornada completa; part del comput correspon a hores justificades. |
+| Febrer | 71 h 15 m | 71 h 12 m | -0 h 03 m | 6 h 57 m | 78 h 09 m | 6 h 54 m | Treball efectiu practicament ajustat al teoric. |
+| Marc | 86 h 15 m | 82 h 37 m | -3 h 38 m | 8 h 15 m | 90 h 52 m | 4 h 38 m | No acredita jornada completa. |
+| Abril | 52 h 30 m | 49 h 11 m | -3 h 20 m | 13 h 04 m | 62 h 15 m | 9 h 45 m | El total administratiu inclou temps justificat. |
+| Maig | 82 h 30 m | 80 h 30 m | -2 h 00 m | 13 h 58 m | 94 h 28 m | 11 h 58 m | No acredita insuficiencia estructural de la mitja jornada. |
+| Juny | 82 h 30 m | 79 h 16 m | -3 h 14 m | 18 h 27 m | 97 h 43 m | 15 h 13 m | El total administratiu positiu no equival a treball efectiu superior al teoric. |
+| Juliol | 56 h 15 m | 48 h 01 m | -8 h 14 m | 15 h 17 m | 63 h 18 m | Cal considerar les absencies justificades. |
+| Agost | 82 h 30 m | 83 h 06 m | +0 h 36 m | 22 h 14 m | 105 h 20 m | Treball efectiu practicament ajustat al teoric. |
+| Setembre | 75 h 00 m | 170 h 21 m | +95 h 21 m | 0 h 00 m | 170 h 21 m | Mes clarament excepcional, amb un volum molt superior a la mitja jornada. |
 
 ## Resums utils 2023
 
-| Periode | Horari teoric | Hores netes visibles (`sortida - entrada - descansos`) | Diferencia neta vs horari teoric | Total Woffu | Diferencia / extra Woffu | Lectura prudent |
+| Periode | Horari teoric | Treball efectiu | Diferencia | Hores justificades | Total computat | Extra inclosa | Lectura prudent |
 | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Gener-maig 2023 | 371 h 15 m | 382 h 07 m | +10 h 52 m | 413 h 04 m* | +41 h 49 m | No acredita jornada completa ni insuficiencia estructural de la mitja jornada. |
-| Juny-agost 2023 | 221 h 15 m | 217 h 20 m | -3 h 55 m | 266 h 20 m | +45 h 05 m | No soste que Jordi fes jornada completa durant juny, juliol i agost. |
-| Gener-agost 2023 | 592 h 30 m | 599 h 27 m | +6 h 57 m | 679 h 24 m | +86 h 54 m | El fitxatge net visible queda molt lluny d'una jornada completa sostinguda. |
-| Setembre 2023 | 75 h 00 m | 168 h 01 m | +93 h 01 m | 170 h 20 m | +95 h 20 m | Setembre s'ha de tractar com a periode concret i diferenciat. |
-| Gener-setembre 2023 | 667 h 30 m | 767 h 28 m | +99 h 58 m | 849 h 44 m | +182 h 14 m | L'increment rellevant es concentra sobretot al setembre. |
-
-`*` El resum agregat de Woffu gener-maig que constava en una lectura previa marcava 413 h 06 m. La suma manual mensual dona 413 h 04 m. Diferencia pendent de validar amb export.
+| Gener-maig 2023 | 371 h 15 m | 355 h 39 m | -15 h 36 m | 57 h 27 m | 413 h 06 m | 41 h 51 m | No acredita jornada completa ni insuficiencia estructural de la mitja jornada. |
+| Juny-agost 2023 | 221 h 15 m | 210 h 23 m | -10 h 52 m | 55 h 58 m | 266 h 21 m | 45 h 06 m | No soste que Jordi fes jornada completa durant juny, juliol i agost. |
+| Gener-agost 2023 | 592 h 30 m | 566 h 02 m | -26 h 28 m | 113 h 25 m | 679 h 27 m | 86 h 57 m | El treball efectiu queda molt lluny d'una jornada completa sostinguda. |
+| Setembre 2023 | 75 h 00 m | 170 h 21 m | +95 h 21 m | 0 h 00 m | 170 h 21 m | Setembre s'ha de tractar com a periode excepcional i diferenciat. |
 
 ## Observacions objectives
 
-- El calcul s'ha fet amb el criteri `sortida - entrada - descansos`.
-- De gener a maig de 2023, l'horari teoric visible suma 371 h 15 m i les hores netes visibles sumen 382 h 07 m.
-- De juny a agost de 2023, l'horari teoric suma 221 h 15 m i les hores netes visibles sumen 217 h 20 m.
-- De gener a agost de 2023, l'horari teoric suma 592 h 30 m i les hores netes visibles sumen 599 h 27 m.
-- Setembre de 2023 mostra 168 h 01 m netes visibles davant 75 h teoriques.
-- Les columnes `Total Woffu`, `Diferencia` i `Extr. a compensar` es mantenen a la taula com a dades administratives del sistema, no com a substitut del calcul d'hores netes visibles.
+- El calcul principal es `Hores ordinàries + Extr. a compensar`.
+- De gener a maig de 2023 consten 355 h 39 m efectivament treballades davant 371 h 15 m teoriques.
+- De juny a agost de 2023 consten 210 h 23 m efectivament treballades davant 221 h 15 m teoriques.
+- De gener a agost de 2023 consten 566 h 02 m efectivament treballades davant 592 h 30 m teoriques.
+- Setembre de 2023 mostra 170 h 21 m treballades davant 75 h teoriques.
+- Les hores justificades s'han separat del treball efectiu i no s'han qualificat automaticament com a deficit injustificat.
 
 ## Cautela
 
-No afirmar que Jordi no fes mai hores de mes. Les dades mostren algun excés puntual i un increment clar al setembre. L'argument correcte és que les hores netes visibles no acrediten jornada completa sostinguda de gener a agost ni que la mitja jornada fos estructuralment insuficient. Tampoc s'ha d'usar la columna `Diferencia/Extr. a compensar` com si fos equivalent a hores reals treballades.
+No afirmar que Jordi no fes mai hores de mes. Les dades incorporen les extres i mostren un increment molt clar al setembre. L'argument correcte es que el treball efectiu no acredita jornada completa sostinguda de gener a agost ni que la mitja jornada fos estructuralment insuficient. Les absencies justificades s'han d'explicar separadament i no es poden presentar com a incompliment per si soles.

@@ -41,7 +41,7 @@ La idea de treball es:
 
 Per als calculs de jornada, el criteri validat per Meriem es:
 
-`hores netes visibles = hora de sortida - hora d'entrada - descansos`
+`treball efectiu = Hores ordinàries + Extr. a compensar`
 
 No s'ha d'utilitzar directament el camp de diferencia/extra de Woffu com a hores reals treballades, perque aquest camp incorpora saldos administratius, compensacions o ajustos.
 
