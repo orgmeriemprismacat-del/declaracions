@@ -8,8 +8,6 @@ La posicio que es proposa defensar no es negar que Jordi hagi pogut viure malest
 
 Segons la informacio aportada per Meriem, en la trajectoria laboral a PrisMa no consten insults ni expressions vexatories per part de l'equip cap a Jordi. Si Jordi soste aquesta acusacio, caldria que concretes episodis, dates, persones i expressions concretes per poder contrastar-ho amb correus, xats, actes o testimonis.
 
-Com a element contextual rellevant, segons la informacio recollida Meriem va defensar internament que es busques una formula viable per ampliar la jornada de Jordi fins a vuit hores. Si Adam/Pablo ho confirmen, aquest antecedent contradiu la presentacio d'una voluntat sostinguda de perjudicar-lo o tractar-lo adversament. No elimina possibles discrepancies professionals posteriors, pero si ajuda a diferenciar conflicte laboral i comunicacions fermes d'una conducta persecutoria.
-
 ## Linia General De Contestacio
 
 La carta de Jordi barreja fets, records, percepcions personals, judicis sobre altres companyes, discrepancies organitzatives, questions economiques, salut, baixes mediques i decisions empresarials. Moltes afirmacions son valoracions subjectives o conclusions greus sense concrecio suficient de dates, missatges, persones intervinents o documents.
@@ -41,6 +39,8 @@ Conclusio defensable: no queda acreditat que Jordi fes jornada completa de maner
 Segons les respostes de direccio recollides el 21/07/2026, tampoc es va donar a Jordi una data concreta i tancada per fer-li el contracte a jornada completa. Es va parlar d'una possibilitat vinculada a la recepcio d'una subvencio per als cursos d'ACOS i TICS i a la situacio economica de PrisMa, que tenia perdues. L'ampliacio comportava assumir tasques noves o internalitzades: tutoritzacio del seu curs de CAT, cursos de PrisMa sense autoria, reduccio de despesa externa i creacio de cursos per a Mirada Pedagogica.
 
 Aquest punt s'ha de presentar com a informacio de direccio/testimoni, ja que no consten correus, WhatsApps o actes especifics sobre aquestes converses.
+
+Com a antecedent vinculat especificament a la jornada, segons la informacio recollida Meriem va defensar internament que es busques una formula viable per ampliar la jornada de Jordi fins a vuit hores. Si es confirma, aquest antecedent contradiu la presentacio d'una voluntat sostinguda de perjudicar-lo o tractar-lo adversament. No elimina possibles discrepancies professionals posteriors, pero ajuda a diferenciar un conflicte laboral i comunicacions fermes d'una conducta persecutoria. 🟨 **EVIDÈNCIA PENDENT:** confirmacio d'Adam i Pablo sobre aquesta intervencio de Meriem.
 
 Segons Meriem, en una conversa tensa sobre la jornada completa, Adam va oferir a Jordi parlar en privat o en un espai separat, pero Jordi va preferir mantenir la conversa davant Meriem i Isa perque volia testimonis. Aquesta dada, pendent de validacio amb Adam i Isa, es rellevant per contestar la idea que l'equip se li va posar en contra: la presencia de Meriem i Isa no va ser buscada per elles ni imposada per l'empresa. Segons Meriem, Jordi va plantejar que Adam podia haver buscat alguna formula irregular per pagar-li o reconeixer-li jornada completa malgrat la situacio de perdues. Quan Meriem i Isa van intervenir, segons el relat recollit, ho van fer per explicar que no era viable ni correcte ampliar jornada o buscar formules irregulars en aquest context.
 
