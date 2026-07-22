@@ -148,11 +148,24 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 
 **Fitxers**
 
-- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-01_publicacio-i-pregunta-hores.png`
-- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-02_temps-per-contestar-i-familia.png`
-- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-03_resposta-quan-puguis.png`
-- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-04_conciliacio-familia.png`
-- `annexos_captures/GC_google_chat_jordi/CAP-GC-SUPORT-2025-04-10-05_no-ens-faras-anar-malament.png`
+- `annexos_captures/CAP-GC-SUPORT-2025-04-10-01_publicacio-i-pregunta-hores.png`
+- `annexos_captures/CAP-GC-SUPORT-2025-04-10-02_nit-treballada-i-pregunta-familiar.png`
+- `annexos_captures/CAP-GC-SUPORT-2025-04-10-03_temps-per-contestar.png`
+- `annexos_captures/CAP-GC-SUPORT-2025-04-10-04_resposta-quan-puguis-familia.png`
+- `annexos_captures/CAP-GC-SUPORT-2025-04-10-05_conciliacio-familia.png`
+- `annexos_captures/CAP-GC-SUPORT-2025-04-10-06_no-ens-faras-anar-malament.png`
+- `annexos_captures/CAP-GC-SUPORT-2025-04-10-07_anims-mutuals.png`
+
+**WhatsApp personal: export disponible i captures encara no incorporades**
+
+- `whatsapp_exports_raw/whatsapp_jordi_personal.txt` conté la conversa personal completa i permet localitzar els passatges per data.
+- 🟨 **CAPTURA PENDENT — 29/11/2021:** Meriem li diu que és millor que descansi, que no es forci i que es millori; Jordi ho agraeix.
+- 🟨 **CAPTURA PENDENT — 12/01/2022 i 19/01/2022:** Meriem insisteix que Jordi no treballi i descansi; la conversa mostra també suport mutu quan tots dos estaven malalts.
+- 🟨 **CAPTURA PENDENT — 25/04/2023 a 23/05/2023:** Meriem pregunta per la salut de Jordi i Ainhoa, dona ànims, recomana descans i adapta o ajorna qüestions de feina.
+- 🟨 **CAPTURA PENDENT — 15/01/2024:** Meriem pregunta per la situació del pare de Jordi i li dona ànims.
+- 🟨 **CAPTURA PENDENT — 20/05/2024:** conversa sobre Irati i el pare de Jordi en què Meriem li dona suport reiteradament.
+- 🟨 **CAPTURA PENDENT — 16/03/2025 a 17/03/2025:** Jordi envia el missatge llarg sobre els «malentesos»; Meriem respon, agraeix que li hagi escrit directament i li dona temps per contestar; Jordi anuncia que respondrà quan pugui.
+- 🟨 **CAPTURA PENDENT — 19/09/2025:** Meriem s'ofereix a trucar Jordi quan ell pugui, i Jordi ho agraeix.
 
 **Que acrediten**
 
@@ -166,6 +179,7 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - Acrediten que la relacio no era nomes de retrets o hostilitat.
 - Algunes captures acrediten que Meriem indicava o facilitava que Jordi no treballes caps de setmana.
 - Altres captures poden servir per demostrar converses de conciliacio o cura d'Irati, si l'advocada considera proporcional aportar-les.
+- L'export de WhatsApp acredita que el suport i el tracte cordial no es limiten al Google Chat del 10/04/2025, sinó que apareixen de manera reiterada entre 2021 i 2025. Per presentar visualment aquests passatges encara cal generar o aportar les captures assenyalades.
 
 **Punts de la carta que ajuda a contestar**
 
