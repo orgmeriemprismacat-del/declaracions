@@ -36,6 +36,8 @@ Del gener al maig de 2023, l'export registra 355 h 39 m de treball efectiu (`hor
 
 Conclusio defensable: entre juny i agost de 2023 no queda acreditat que Jordi treballés de manera sostinguda per sobre de la seva mitja jornada ni que aquesta fos estructuralment insuficient en els termes exposats. El setembre sí mostra un excés extraordinari i s'ha de reconèixer separadament.
 
+L'acord d'ampliació de jornada no prova per si mateix aquella insuficiència. La mateixa carta exposa altres motius concurrents: integrar en la nòmina la tutorització del curs per evitar el problema fiscal que Jordi atribuïa al cobrament separat; mantenir només els imports d'autoria; ocupar els mesos sense edicions del curs amb traduccions o adaptacions; i la possibilitat d'assumir en el futur algunes funcions addicionals. La lectura defensable és que es projectava una reorganització contractual i funcional, no necessàriament la regularització d'una jornada completa que ja es desenvolupés de manera estable.
+
 Segons les respostes de direccio recollides el 21/07/2026, tampoc es va donar a Jordi una data concreta i tancada per fer-li el contracte a jornada completa. Es va parlar d'una possibilitat vinculada a la recepcio d'una subvencio per als cursos d'ACOS i TICS i a la situacio economica de PrisMa, que tenia perdues. L'ampliacio comportava assumir tasques noves o internalitzades: tutoritzacio del seu curs de CAT, cursos de PrisMa sense autoria, reduccio de despesa externa i creacio de cursos per a Mirada Pedagogica.
 
 Aquest punt s'ha de presentar com a informacio de direccio/testimoni, ja que no consten correus, WhatsApps o actes especifics sobre aquestes converses.

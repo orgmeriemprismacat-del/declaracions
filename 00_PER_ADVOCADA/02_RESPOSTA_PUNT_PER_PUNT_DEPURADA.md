@@ -20,6 +20,8 @@ Per tant, no es pot presentar com a fet acreditat que Jordi treballés de manera
 
 També cal diferenciar la seva referència inicial a hores extres significatives «en determinades temporades» de l'afirmació posterior que «sempre acabava fent hores extres» perquè la mitja jornada no bastava. La primera pot descriure puntes estacionals; la segona suggereix una insuficiència recurrent. Atès que la relació laboral es remunta al 2011, aquesta última afirmació requereix concretar des de quan passava, quines hores generava cada període, com es compensaven i si abans de 2023 s'havia demanat ampliar la jornada. Que no s'ampliés abans no prova per si sol que no hi hagués hores extraordinàries, però debilita la presentació d'una insuficiència estructural antiga si no s'acompanya d'aquesta concreció.
 
+Tampoc es pot deduir la insuficiència de la mitja jornada del simple fet que s'acordés ampliar-la. La mateixa carta identifica altres finalitats de l'acord: incorporar la tutorització del seu curs a la nòmina per evitar el perjudici fiscal que Jordi atribuïa al cobrament separat; mantenir diferenciats només els imports d'autoria; destinar els mesos sense curs a traduccions i adaptacions; i valorar que assumís noves funcions. Per tant, l'ampliació projectada es pot explicar com una reorganització retributiva, contractual i funcional de futur. No acredita per si sola que la feina ordinària anterior ja exigís estructuralment una jornada completa.
+
 **Proves**
 
 - Resums Woffu 2023 preparats al dossier.
