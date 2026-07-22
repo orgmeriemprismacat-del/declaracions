@@ -6,7 +6,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 - `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-01_actes_resums_extractes_i_originals.zip`: actes, resums, extractes i originals.
 - `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-02_whatsapp_exports_i_analisi.zip`: exports i analisi de WhatsApp.
-- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`: captures de Google Chat probatories.
+- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`: còpia autosuficient de les 92 captures probatòries disponibles directament a `annexos_captures/`, incloses les incorporades durant la revisió del 22/07/2026 (Google Chat, WhatsApp, TASTET TUT, màrqueting i altres blocs).
 - `00_PER_ADVOCADA/ANNEXOS_SUPORT/README.md`: hash i descripcio de cada ZIP.
 
 ## A. Carta De Jordi I Documents De Resposta
@@ -61,7 +61,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 - Captures de Google Chat directes sobre cursos, xarxes i marketing.
 - Mapa especific: `00_PER_ADVOCADA/08_MAPA_CAPTURES_XATS_PROVATORIS.md`.
-- ZIP de suport: `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`.
+- ZIP de suport actualitzat: `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip` (92 captures; permet compartir la carpeta `00_PER_ADVOCADA/` sense perdre les imatges originals situades fora de la carpeta).
 - Captures copiades a `annexos_captures/GC_google_chat_jordi/`, especialment el bloc del 10/04/2025 sobre comunicacio directa, conciliacio i tracte cordial.
 - Export WhatsApp personal amb Jordi.
 - Export WhatsApp personal `whatsapp_exports_raw/whatsapp_jordi_personal.txt`, bloc 16/03/2025-17/03/2025: Jordi explica malestar, pero tambe formula retrets i interpretacions sobre Meriem; Meriem respon; Jordi diu el 17/03/2025 que contestara quan tingui un moment; Meriem li dona marge.

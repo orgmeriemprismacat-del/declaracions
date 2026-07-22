@@ -1,6 +1,8 @@
 # Mapa De Captures De Google Chat Probatories
 
-Aquest document explica on son les captures de chats que Meriem ha anat aportant i que acredita cada grup. Les captures originals estan a `annexos_captures/` i tambe agrupades al ZIP `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`.
+Aquest document explica on son les captures de chats que Meriem ha anat aportant i que acredita cada grup. Les captures originals estan a `annexos_captures/`, fora de `00_PER_ADVOCADA/`, per evitar duplicar els originals dins del repositori. Perquè el dossier sigui autosuficient si es descarrega només la carpeta de l'advocada, les 92 captures disponibles directament en aquella carpeta d'originals també estan agrupades al ZIP `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`, actualitzat el 22/07/2026.
+
+**Criteri de rutes:** dins dels documents de `00_PER_ADVOCADA/`, un enllaç Markdown a una captura original ha de començar per `../annexos_captures/`. Quan una ruta apareix entre accents greus com `annexos_captures/...`, indica una ruta des de l'arrel del repositori i no una URL relativa al document.
 
 ## 1. Adaptacions De Terminis I Evitar Caps De Setmana
 

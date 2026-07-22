@@ -36,9 +36,11 @@ Aquest directori conte annexos empaquetats per facilitar l'enviament o la revisi
 
 **Us recomanat:** annex de suport. Cal seleccionar nomes converses pertinents abans d'aportar-les formalment.
 
-## ANNEX-SUP-03. Captures Google Chat Probatories
+## ANNEX-SUP-03. Captures Probatòries De Xats I Altres Blocs
 
 **Fitxer:** `ANNEX-SUP-03_captures_google_chat_probatories.zip`
+
+**Estat:** actualitzat el 22/07/2026 amb 92 captures disponibles directament a la carpeta `annexos_captures/` de l'arrel del repositori. Inclou Google Chat, WhatsApp, TASTET TUT, màrqueting i altres captures incorporades durant la revisió. Aquesta còpia permet que les imatges viatgin amb el dossier encara que es comparteixi només `00_PER_ADVOCADA/`.
 
 **Mida:** 2.283.266 bytes
 
