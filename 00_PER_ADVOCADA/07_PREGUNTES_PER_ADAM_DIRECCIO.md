@@ -1,5 +1,7 @@
 # Preguntes Per A Adam / Direccio
 
+> **FITXA SIMPLIFICADA PER RESPONDRE:** `10_VALIDACIO_ADAM_DIRECCIO_SI_NO.md`. Conté les formulacions defensables, les proves necessàries i caselles perquè Adam només hagi de marcar Sí, No o No ho pot confirmar.
+
 Aquest document recull punts que Meriem no pot tancar sola i que caldria preguntar a Adam, direccio, gestoria o comptabilitat abans de presentar una resposta definitiva.
 
 ## 1. Jornada Completa I Promeses Contractuals

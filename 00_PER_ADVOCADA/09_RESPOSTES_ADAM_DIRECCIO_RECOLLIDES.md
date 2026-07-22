@@ -1,5 +1,7 @@
 # Respostes De Direccio Recollides
 
+> **PENDENT DE VALIDACIÓ:** per confirmar aquests punts amb Adam sense que hagi de redactar-los de nou, utilitzar `10_VALIDACIO_ADAM_DIRECCIO_SI_NO.md`.
+
 Aquest document recull respostes aportades per Meriem el 21/07/2026 sobre punts que depenen de direccio/Adam. S'han de validar amb Adam abans de donar-les per definitives en una contestacio formal.
 
 ## 1. Jornada Completa: No Hi Havia Data Tancada

@@ -32,3 +32,6 @@ Els documents d'aquest directori citen annexos i carpetes ja existents al reposi
 ## Nota Important Sobre Privacitat
 
 El repositori conte dades laborals, personals, captures de converses i referencies mediques o economiques. Ha de romandre privat. Abans de compartir documentacio fora de l'equip o amb tercers, cal valorar anonimitzacio, pertinencia i proporcionalitat amb l'advocada.
+## Validació Ràpida De Direcció
+
+Per validar amb Adam les formulacions defensables, les proves necessàries i una resposta de tipus Sí/No, utilitzar `10_VALIDACIO_ADAM_DIRECCIO_SI_NO.md`. El document `09_RESPOSTES_ADAM_DIRECCIO_RECOLLIDES.md` conserva el context ampli i encara no s'ha de tractar com una declaració confirmada d'Adam.
