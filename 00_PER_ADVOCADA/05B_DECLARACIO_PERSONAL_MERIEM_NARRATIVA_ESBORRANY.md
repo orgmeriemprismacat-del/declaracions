@@ -1,6 +1,6 @@
 # Declaracio Personal De Meriem - Versio Narrativa
 
-Aquest document es un esborrany narratiu preparat perque l'advocada pugui valorar si conve incorporar una declaracio personal de Meriem, totalment o parcialment, a la resposta. No substitueix la resposta de l'empresa ni la resposta punt per punt. La seva finalitat es explicar el context viscut en primera persona, sense entrar en valoracions mediques sobre Jordi. En aquesta versio no s'incorporen proves ni annexos; la documentacio, captures i testimonis es reservaran per a la resposta d'equip o per als annexos que l'advocada consideri oportuns.
+Aquest document es un esborrany narratiu preparat perque l'advocada pugui valorar si conve incorporar una declaracio personal de Meriem, totalment o parcialment, a la resposta. No substitueix la resposta de l'empresa ni la resposta punt per punt. La seva finalitat es explicar el context viscut en primera persona, sense entrar en valoracions mediques sobre Jordi. 
 
 ## Objecte I Cautela
 
@@ -30,7 +30,7 @@ També em va resultar significatiu el canvi que vaig percebre en la seva actitud
 
 Per això considero rellevant contrastar el seu relat actual amb aquestes valoracions prèvies. La carta reorganitza els fets de manera que la seva funció apareix com a necessària, ell queda fora de qualsevol consideració de prescindibilitat i les decisions de l'empresa es presenten principalment com a greuges contra ell. Des del meu punt de vista, aquest plantejament inverteix el debat que realment havíem mantingut sobre quines funcions eren imprescindibles, quines es podien redistribuir o externalitzar i quin cost assumia PrisMa per cadascuna.
 
-No qüestiono amb això la competència de la Cristina, tot el contrari, ni afirmo que hagués de ser acomiadada. El que he pretès en tot moment ha sigut recolzar a l'equip. El que rebutjo és que, per defensar-la o criticar la decisió de l'Adam, es presenti com a evident que altres companyes érem més prescindibles sense incloure's a ell, sense analitzar les nostres funcions, càrregues, dependències ni el cost real de substituir-les. Tampoc considero acreditada per la seva mera afirmació que l'acomiadament respongués «a un tema personal» o que fos una decisió negligent.
+No qüestiono amb això la competència de la Cristina, tot el contrari, ni afirmo que hagués de ser acomiadada. El que he pretès en tot moment ha estat donar suport a l'equip. El que rebutjo és que, per defensar-la o criticar la decisió de l'Adam, es presenti com a evident que altres companyes érem més prescindibles sense incloure-s'hi ell mateix, sense analitzar les nostres funcions, càrregues, dependències ni el cost real de substituir-les. Tampoc considero acreditada per la seva mera afirmació que l'acomiadament respongués «a un tema personal» o que fos una decisió negligent.
 
 Soc conscient que l'absència de prova suficient en la carta no permet afirmar automàticament que Jordi hagi comès jurídicament una calúmnia: aquesta qualificació exigeix valorar si s'està imputant un delicte i el coneixement de la falsedat o el menyspreu temerari envers la veritat. Però aquesta cautela jurídica no m'obliga a rebaixar el que estic vivint. Puc afirmar que considero falsa i no acreditada l'acusació de *mobbing*, que em sento greument desacreditada i que la seva formulació en un document formal m'està causant un perjudici real.
 
@@ -368,7 +368,7 @@ Durant el 2025, abans de la baixa, les tasques principals de Jordi van ser la co
 
 Aquesta percepcio s'ha de contrastar amb els registres de Woffu i amb els calendaris reals d'entrega. Segons la revisio que estem fent, hi ha periodes en que Jordi no completa la jornada prevista o compensa hores, mentre alhora soste que les tasques eren inassumibles. Tambe hi ha dies o franges en que altres persones havien de reorganitzar-se, esperar resposta o assumir urgencies derivades de retards seus. Per tant, el problema que jo vivia no era nomes "molta feina", sino una combinacio de compromisos assumits, dates ajornades, manca de confirmacio, baixa disponibilitat efectiva i repercussio sobre la feina de la resta.
 
-Per a mi es important que aixo es valori amb dades: Woffu calculat com a sortida menys entrada menys descansos, actes, seguiments de cursos, Trello, correus i captures. No vull que la resposta es basi nomes en sensacions, perque precisament una part del problema era que Jordi convertia sovint una necessitat organitzativa objectiva en una lectura personal del tracte rebut.
+Per a mi es important que aixo es valori amb dades: Woffu calculat com a sortida menys entrada menys descansos o com les hores fitxades + les hores extres a compensar, actes, seguiments de cursos, Trello, correus i captures. No vull que la resposta es basi nomes en sensacions, perque precisament una part del problema era que Jordi convertia sovint una necessitat organitzativa objectiva en una lectura personal del tracte rebut.
 
 ## Impacte Sobre L'Equip
 
