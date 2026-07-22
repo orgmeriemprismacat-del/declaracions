@@ -155,6 +155,7 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - `annexos_captures/CAP-GC-SUPORT-2025-04-10-05_conciliacio-familia.png`
 - `annexos_captures/CAP-GC-SUPORT-2025-04-10-06_no-ens-faras-anar-malament.png`
 - `annexos_captures/CAP-GC-SUPORT-2025-04-10-07_anims-mutuals.png`
+- `annexos_captures/CAP-GC-ADAPTACIO-2024-07-19-01_reprograma-dimecres-no-cap-setmana.png`: Jordi diu que havia previst fer la feina el cap de setmana; Meriem la reprograma per dimecres i afirma expressament: «no vull que treballis el cap de setmana per això».
 
 **WhatsApp personal: export disponible i captures encara no incorporades**
 
@@ -165,6 +166,9 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - 🟨 **CAPTURA PENDENT — 15/01/2024:** Meriem pregunta per la situació del pare de Jordi i li dona ànims.
 - 🟨 **CAPTURA PENDENT — 20/05/2024:** conversa sobre Irati i el pare de Jordi en què Meriem li dona suport reiteradament.
 - 🟨 **CAPTURA PENDENT — 16/03/2025 a 17/03/2025:** Jordi envia el missatge llarg sobre els «malentesos»; Meriem respon, agraeix que li hagi escrit directament i li dona temps per contestar; Jordi anuncia que respondrà quan pugui.
+- 🟨 **CAPTURA PENDENT — 23/01/2025, grup PrisMa:** Meriem diu a Jordi que, si està de vacances i no hi ha res urgent, no cal que treballi i que l'únic missatge pendent de la seva part tampoc no cal que el faci. El missatge consta a `whatsapp_exports_raw/whatsapp_prisma_grup.txt` i a `whatsapp_analysis/context_2025-01-23.csv`.
+- 🟨 **CAPTURA PENDENT — 11/07/2025 a 12/07/2025, WhatsApp personal:** després que Jordi digui dissabte que espera connectar-se aquella tarda o vespre, Meriem li proposa que, si pot, ho faci dilluns a primera hora. Consta a `whatsapp_exports_raw/whatsapp_jordi_personal.txt`.
+- 🟨 **CAPTURA PENDENT — 12/09/2025, WhatsApp personal:** Jordi diu que mirarà de fer Fundae diumenge; Meriem respon «no et preocupis», «no cal diumenge», li proposa mirar-ho dilluns i explica que ho ha passat a dimecres perquè no s'hagi de preocupar. Consta a `whatsapp_exports_raw/whatsapp_jordi_personal.txt`.
 - 🟨 **CAPTURA PENDENT — 19/09/2025:** Meriem s'ofereix a trucar Jordi quan ell pugui, i Jordi ho agraeix.
 
 **Que acrediten**
@@ -178,6 +182,8 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - Jordi arriba a dir que Meriem no els fara anar malament, malgrat tot el que s'esta carregant.
 - Acrediten que la relacio no era nomes de retrets o hostilitat.
 - Algunes captures acrediten que Meriem indicava o facilitava que Jordi no treballes caps de setmana.
+- La captura del 19/07/2024 és una prova visual directa que Meriem va impedir que una tasca obligués Jordi a treballar en cap de setmana i va assumir la reprogramació corresponent.
+- Els WhatsApps del 23/01/2025, 12/07/2025 i 12/09/2025 reforcen el mateix patró: eliminar feina no urgent durant vacances, oferir el dilluns com a alternativa i descartar expressament el diumenge mitjançant una replanificació.
 - Altres captures poden servir per demostrar converses de conciliacio o cura d'Irati, si l'advocada considera proporcional aportar-les.
 - L'export de WhatsApp acredita que el suport i el tracte cordial no es limiten al Google Chat del 10/04/2025, sinó que apareixen de manera reiterada entre 2021 i 2025. Per presentar visualment aquests passatges encara cal generar o aportar les captures assenyalades.
 
@@ -198,7 +204,8 @@ Aquest grup pot contenir informacio personal o familiar. Cal que l'advocada deci
 
 - 🟨 **EVIDÈNCIA PENDENT:** WhatsApp de Pablo en que indica a Jordi que no torni per PrisMa i que prioritzi la seva salut.
 - 🟨 **EVIDÈNCIA PENDENT:** WhatsApps previs on se li recomana prioritzar salut.
-- 🟨 **EVIDÈNCIA PENDENT:** missatges de Meriem sobre no treballar caps de setmana, si no queden ja inclosos en el grup 1.
+- `annexos_captures/CAP-GC-ADAPTACIO-2024-07-19-01_reprograma-dimecres-no-cap-setmana.png`: captura ja disponible en què Meriem afirma que no vol que Jordi treballi el cap de setmana i reprograma la tasca.
+- 🟨 **CAPTURES PENDENTS DE WHATSAPP:** 23/01/2025 (no treballar en vacances si no hi ha urgència), 12/07/2025 (alternativa de dilluns) i 12/09/2025 («no cal diumenge» i reprogramació a dimecres). El contingut ja consta als exports de WhatsApp.
 
 **Que acrediten**
 
