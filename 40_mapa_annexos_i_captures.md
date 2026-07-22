@@ -333,3 +333,14 @@ Si una prova encara no està preparada, millor deixar-la com a pendent que afirm
 - `[CAP-TUT-2025-04-15-06]`: Jordi reconeix possible afectació a programació i es disculpa. Fitxer: `annexos_captures/CAP-TUT-2025-04-15-06_jordi-admet-canvis-programacio-i-aqui.png`.
 
 El conjunt contextualitza el seguiment per dependències operatives i contrasta una lectura de rebuig indiscriminat de les correccions. No prova intencions, mala fe, el volum total de feina ni assetjament. Cal anonimitzar adreces i enllaços interns si no són imprescindibles. Desenvolupament: `56_cas_tastet_tut_marc_abril_2025.md`.
+
+## Annex WA 2025 - Correccions i alternatives de planificació
+
+- `[CAP-WA-2025-05-07]`: `annexos_captures/CAP-WA-JORDI-2025-05-07_publicacio-avui-correccio-imatges.png` — avís d'una publicació del dia i confirmació de correcció, incloses imatges.
+- `[CAP-WA-2025-05-14]`: `annexos_captures/CAP-WA-JORDI-2025-05-14_xarxes-terminis-tsa-canva.png` — tres correus de xarxes, coordinació TSA i incidència Canva; els missatges són a les 00:03, però no contenen exigència de resposta immediata.
+- `[CAP-WA-2025-07-11-12]`: `annexos_captures/CAP-WA-JORDI-2025-07-11_12_mailing-dilluns-alternativa.png` — mailing pendent, alternativa de dilluns i confirmació posterior de finalització.
+- `[CAP-WA-2025-07-21]`: `annexos_captures/CAP-WA-JORDI-2025-07-21_mailing-dema-accepta.png` — petició de correcció per al mailing de l'endemà i acceptació per aquella tarda-vespre.
+- `[CAP-WA-2025-09-12]`: `annexos_captures/CAP-WA-JORDI-2025-09-12_fundae-no-diumenge-reprograma.png` — Meriem descarta el diumenge i reprograma Fundae a dimecres.
+- `[CAP-WA-2025-09-19]`: `annexos_captures/CAP-WA-JORDI-2025-09-19_festa-parlar-dilluns.png` — pregunta sobre festa i acord cordial de parlar dilluns; no s'interpreta la nota de veu.
+
+El bloc contrasta, amb episodis concrets, una descripció general de WhatsApp com a canal de persecució o d'exigència sistemàtica fora d'horari. No prova per si sol l'absència de pressió en altres moments ni la intenció subjectiva de les parts. Per proporcionalitat, convé aportar només les captures necessàries; la del 12/09 inclou una referència genèrica a salut.

@@ -65,6 +65,8 @@ Hi ha casos en que Jordi corregia tard, no responia o feia observacions quan la 
 
 > Les discrepàncies en xarxes i mailings responen a criteris de treball: correccio, terminis, format de marketing i impacte en publicacions. No acrediten assetjament. Al contrari, la documentacio mostra que es van crear sistemes especifics per facilitar a Jordi la recepcio de tasques i dates.
 
+Les captures de WhatsApp de 07/05, 14/05, 11-12/07 i 21/07/2025 documenten encàrrecs concrets, confirmacions i alternatives de termini en to cordial. La de 12/09 documenta que Meriem descarta expressament que Jordi faci Fundae diumenge i ho reprograma. Aquestes peces contextualitzen el seguiment, però no permeten generalitzar a totes les comunicacions ni atribuir intencions. `[CAP-WA-2025-05-07; CAP-WA-2025-05-14; CAP-WA-2025-07-11-12; CAP-WA-2025-07-21; CAP-WA-2025-09-12]`
+
 **Proves:**
 
 - Correu 06/02/2025 sobre automatitzacio Trello

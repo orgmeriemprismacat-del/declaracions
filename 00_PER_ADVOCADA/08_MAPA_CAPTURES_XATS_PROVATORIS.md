@@ -171,9 +171,9 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - 🟨 **CAPTURA PENDENT — 20/05/2024:** conversa sobre Irati i el pare de Jordi en què Meriem li dona suport reiteradament.
 - 🟨 **CAPTURA PENDENT — 16/03/2025 a 17/03/2025:** Jordi envia el missatge llarg sobre els «malentesos»; Meriem respon, agraeix que li hagi escrit directament i li dona temps per contestar; Jordi anuncia que respondrà quan pugui.
 - 🟨 **CAPTURA PENDENT — 23/01/2025, grup PrisMa:** Meriem diu a Jordi que, si està de vacances i no hi ha res urgent, no cal que treballi i que l'únic missatge pendent de la seva part tampoc no cal que el faci. El missatge consta a `whatsapp_exports_raw/whatsapp_prisma_grup.txt` i a `whatsapp_analysis/context_2025-01-23.csv`.
-- 🟨 **CAPTURA PENDENT — 11/07/2025 a 12/07/2025, WhatsApp personal:** després que Jordi digui dissabte que espera connectar-se aquella tarda o vespre, Meriem li proposa que, si pot, ho faci dilluns a primera hora. Consta a `whatsapp_exports_raw/whatsapp_jordi_personal.txt`.
-- 🟨 **CAPTURA PENDENT — 12/09/2025, WhatsApp personal:** Jordi diu que mirarà de fer Fundae diumenge; Meriem respon «no et preocupis», «no cal diumenge», li proposa mirar-ho dilluns i explica que ho ha passat a dimecres perquè no s'hagi de preocupar. Consta a `whatsapp_exports_raw/whatsapp_jordi_personal.txt`.
-- 🟨 **CAPTURA PENDENT — 19/09/2025:** Meriem s'ofereix a trucar Jordi quan ell pugui, i Jordi ho agraeix.
+- `annexos_captures/CAP-WA-JORDI-2025-07-11_12_mailing-dilluns-alternativa.png`: Jordi diu que no s'ha pogut tornar a connectar i que espera fer el mailing aquella tarda o vespre; Meriem ofereix com a alternativa dilluns a primera hora i, més tard, Jordi confirma que ja ho ha fet.
+- `annexos_captures/CAP-WA-JORDI-2025-09-12_fundae-no-diumenge-reprograma.png`: Jordi diu que mirarà de fer Fundae diumenge; Meriem respon «no et preocupis», «no cal diumenge» i explica que ho ha passat a dimecres.
+- `annexos_captures/CAP-WA-JORDI-2025-09-19_festa-parlar-dilluns.png`: Meriem pregunta si Jordi té festa; ell proposa parlar dilluns i tots dos acorden una trucada. La nota de veu no s'ha transcrit ni interpretat.
 
 **Que acrediten**
 
@@ -209,7 +209,7 @@ Aquest grup pot contenir informacio personal o familiar. Cal que l'advocada deci
 - 🟨 **EVIDÈNCIA PENDENT:** WhatsApp de Pablo en que indica a Jordi que no torni per PrisMa i que prioritzi la seva salut.
 - 🟨 **EVIDÈNCIA PENDENT:** WhatsApps previs on se li recomana prioritzar salut.
 - `annexos_captures/CAP-GC-ADAPTACIO-2024-07-19-01_reprograma-dimecres-no-cap-setmana.png`: captura ja disponible en què Meriem afirma que no vol que Jordi treballi el cap de setmana i reprograma la tasca.
-- 🟨 **CAPTURES PENDENTS DE WHATSAPP:** 23/01/2025 (no treballar en vacances si no hi ha urgència), 12/07/2025 (alternativa de dilluns) i 12/09/2025 («no cal diumenge» i reprogramació a dimecres). El contingut ja consta als exports de WhatsApp.
+- 🟨 **CAPTURA ORIGINAL PENDENT — 23/01/2025:** no treballar en vacances si no hi ha urgència. Les captures del 12/07/2025 i 12/09/2025 ja s'han incorporat a les rutes indicades a l'apartat anterior.
 
 **Que acrediten**
 
@@ -234,3 +234,20 @@ No cal aportar totes les captures en la resposta principal. La proposta mes neta
 **Fitxers:** `annexos_captures/CAP-TUT-2025-03-17-01_proposta-jordi-gonzalez-forum.png` i `annexos_captures/CAP-TUT-2025-04-15-01_isa-imatge-portada-patata-calenta.png` fins a `CAP-TUT-2025-04-15-06_jordi-admet-canvis-programacio-i-aqui.png`.
 
 La captura del 17/03 mostra la proposta visible de l'autor i el missatge inicial de Meriem, però no prova quan Jordi Català la va revisar. La cadena del 15/04 mostra el traspàs parcial entre Isa i Meriem; que Jordi combina correccions textuals i propostes funcionals; que Meriem aplica les ràpides i explica l'impacte de les altres; que Isa corrobora la complexitat; i que Jordi reconeix que alguns punts podien afectar programació. Contrasta les afirmacions generals de pressió, menyspreu de la funció correctora o seguiment arbitrari aportant una causa operativa concreta. No acredita mala fe, intenció d'endarrerir, assetjament ni el volum total de feina. La resposta cordial de les 14:54 només contextualitza el to. Conté noms, adreces professionals i enllaços interns: fora del procediment convé ocultar allò no imprescindible; no hi consta salut ni menors.
+
+## 10. WhatsApp: correccions, terminis i reprogramació (maig-setembre 2025)
+
+**Fitxers nous:**
+
+- `annexos_captures/CAP-WA-JORDI-2025-05-07_publicacio-avui-correccio-imatges.png`
+- `annexos_captures/CAP-WA-JORDI-2025-05-14_xarxes-terminis-tsa-canva.png`
+- `annexos_captures/CAP-WA-JORDI-2025-07-11_12_mailing-dilluns-alternativa.png`
+- `annexos_captures/CAP-WA-JORDI-2025-07-21_mailing-dema-accepta.png`
+- `annexos_captures/CAP-WA-JORDI-2025-09-12_fundae-no-diumenge-reprograma.png`
+- `annexos_captures/CAP-WA-JORDI-2025-09-19_festa-parlar-dilluns.png`
+
+**Abast probatori:** acrediten directament encàrrecs concrets de correcció, respostes cordials, acceptació de terminis i alternatives explícites a treballar en cap de setmana. El 14/05 mostra missatges de Meriem a les 00:03 sobre correus de correcció de xarxes, TSA i una incidència de Canva, però no mostra que exigís resposta immediata. El 19/09 mostra l'acord de parlar dilluns, però no permet interpretar el contingut de la nota de veu.
+
+**Contrast amb la carta:** contextualitzen les afirmacions de persecució per WhatsApp, pressió indiscriminada, manca de comunicació directa o imposició de feina fora d'horari. No permeten negar el malestar subjectiu de Jordi, provar una pràctica general amb només aquests episodis, ni atribuir intencions a cap participant.
+
+**Privacitat:** són converses privades. La del 12/09 conté una referència genèrica a salut i s'ha d'aportar només si és necessari per acreditar la reprogramació; cal valorar ocultar dades personals no imprescindibles. No consten dades de menors a les sis captures incorporades.

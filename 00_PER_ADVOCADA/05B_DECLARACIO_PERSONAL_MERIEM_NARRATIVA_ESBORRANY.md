@@ -290,6 +290,8 @@ Les comunicacions conservades mostren com es concretava aquesta disponibilitat. 
 
 Per mi, aquests casos mostren que la meva insistencia en calendaris, terminis i coordinacio no era un atac personal. Era una resposta a una necessitat real: si una entrega es movia, altres persones havien de correr, reprogramar, treballar caps de setmana o comprimir fases posteriors.
 
+També conservo exemples en què vaig evitar que aquesta coordinació es convertís en feina de cap de setmana. L'11 i 12 de juliol, quan Jordi va dir que no s'havia pogut tornar a connectar, li vaig oferir que mirés el mailing dilluns a primera hora. El 12 de setembre, quan va dir que miraria Fundae diumenge, li vaig respondre «no cal diumenge» i li vaig explicar que ho havia passat a dimecres. El 19 de setembre, davant la seva festa i la poca connexió dels dies anteriors, vam acordar parlar dilluns. Aquestes converses no proven que jo actués sempre de manera perfecta, però sí que aporten context documental contrari a una pressió indiscriminada per treballar fora d'horari. `[CAP-WA-2025-07-11-12; CAP-WA-2025-09-12; CAP-WA-2025-09-19]`
+
 ## Sobre La Carrega De Feina I La Jornada Efectiva
 
 Jordi presenta en diversos punts la seva carrega de feina com a inassumible. La meva vivencia no es que no hi hagues feina ni pressio a PrisMa; n'hi havia, i molta, especialment per la situacio economica i per la reduccio d'equip. Pero no comparteixo que la seva carrega concreta acrediti, per si sola, una situacio inassumible imposada per l'empresa o per mi.

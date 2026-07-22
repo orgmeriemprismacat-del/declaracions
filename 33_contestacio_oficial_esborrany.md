@@ -51,6 +51,8 @@ La càrrega elevada i transversal de Meriem, encara que sigui un fet organitzati
 
 No es cert, segons la documentacio disponible, que les comunicacions fossin nomes grupals, en reunio o automatitzades. Hi ha comunicacions directes Meriem-Jordi per WhatsApp personal, Gmail i Google Chat.
 
+Les captures directes de WhatsApp incorporades documenten avisos vinculats a publicacions i mailings concrets, respostes cordials i reprogramacions: el 11-12/07 Meriem ofereix dilluns com a alternativa; el 12/09 descarta expressament el diumenge i mou la tasca a dimecres; i el 19/09 tots dos acorden parlar dilluns. Aquestes mostres contextualitzen el canal, sense permetre concloure com van ser totes les comunicacions ni negar el malestar que Jordi manifesta. `[CAP-WA-2025-05-07; CAP-WA-2025-07-11-12; CAP-WA-2025-07-21; CAP-WA-2025-09-12; CAP-WA-2025-09-19]`
+
 Els correus `no-reply` de Trello no substituïen tota comunicacio. Es van implantar com a sistema de suport per enviar automaticament data i enllaç de correccio, reduir duplicacio de feina i deixar traçabilitat.
 
 ### 3. Sobre horaris i disponibilitat

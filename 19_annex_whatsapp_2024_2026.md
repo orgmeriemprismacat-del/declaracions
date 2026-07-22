@@ -233,6 +233,8 @@ Usar:
 - 07/05/2025, 09/05/2025, 11/07/2025, 21/07/2025: recordatoris concrets de publicacions/mailings amb to cordial;
 - 19/09/2025: pregunta sobre festa resolta cordialment.
 
+Captures originals incorporades per a aquests episodis: `[CAP-WA-2025-05-07]`, `[CAP-WA-2025-05-14]`, `[CAP-WA-2025-07-11-12]`, `[CAP-WA-2025-07-21]`, `[CAP-WA-2025-09-12]` i `[CAP-WA-2025-09-19]`; rutes i límits d'ús a `40_mapa_annexos_i_captures.md`. La captura del 14/05 conserva l'hora 00:03 però no mostra una demanda de resposta immediata; la del 19/09 conté una nota de veu que no s'ha d'interpretar sense l'àudio.
+
 ### Si diu que se'l excloia
 
 Usar:
