@@ -717,6 +717,10 @@ La qualificació de les interaccions ha d'aplicar un criteri coherent a totes du
 
 La carta formula literalment una acusació de `mobbing` i qualifica Meriem de `bully`; no es limita a comunicar una vivència subjectiva de pressió o malestar. Aquesta imputació formal exigeix una anàlisi probatòria especialment rigorosa. Segons la documentació revisada fins ara, no s'ha acreditat un patró sistemàtic d'actes hostils o humiliants, de persecució o d'exclusió, sinó conflictes professionals que s'han de reconstruir individualment amb el context complet. La falta de prova suficient no permet, per si sola, concloure jurídicament que hi hagi calúmnia, però sí permet que Meriem negui expressament l'acusació, la qualifiqui de no acreditada i exposi el perjudici personal i professional que li causa.
 
+S'ha de valorar també la frase segons la qual «n'Eva havia reunit un grup de professionals competents i que funcionaven bé». Meriem manifesta que és l'única persona incorporada quan Eva ja estava greument malalta i no exercia efectivament amb normalitat. Si aquesta cronologia es confirma, la contraposició pot identificar implícitament Meriem com la persona exclosa de l'equip anterior qualificat de competent i vincular-la al deteriorament posterior. La frase no acredita per si sola una intenció d'atacar-la, però dins del conjunt de la carta pot reforçar una desqualificació indirecta de la seva persona i competència professional.
+
+🟨 **Prova pendent:** cronologia d'incorporacions, documentació de la incorporació de Meriem i confirmació de qui exercia les funcions de direcció o selecció en aquell moment, limitant qualsevol dada de salut d'Eva al mínim imprescindible.
+
 🟨 **Prova pendent:** identificar els correus, xats, actes i versions de mailings o continguts on constin els qüestionaments sobre Google, SEO, màrqueting, recuperació d'elements anteriors i l'ajornament d'un mes que deixava menys d'una setmana per a les fases d'Isa i Meriem.
 
 **Fets acreditats o a acreditar**

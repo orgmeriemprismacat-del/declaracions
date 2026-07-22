@@ -1036,6 +1036,8 @@ En particular, Jordi afirma haver patit de manera «constant» negligència, mob
 
 La frase «a mi mentint no m'hi han trobat mai; de n'Adam no es pot dir el mateix» tampoc és prova de credibilitat ni d'una falsedat concreta d'Adam. És alhora una autodeclaració d'honestedat i una desqualificació personal indeterminada. La credibilitat no s'ha de resoldre acceptant aquesta afirmació ni contestant-la amb una acusació inversa, sinó comprovant cada dada. En diversos punts de la carta ja s'han identificat afirmacions de Jordi incompatibles amb comunicacions contemporànies, omissions de context i escenaris hipotètics presentats amb aparença de certesa; aquests casos s'han de denominar contradiccions o afirmacions no acreditades i remetre a la prova corresponent, reservant la qualificació de mentida deliberada per als supòsits en què també es pugui provar que coneixia la falsedat.
 
+També afirma que «n'Eva havia reunit un grup de professionals competents i que funcionaven bé, com demostren tots els anys de bon rotllo i bona feina de l'equip». Segons Meriem, ella és l'única incorporació produïda quan Eva ja estava greument malalta i no exercia efectivament amb normalitat. Si la cronologia ho confirma, la frase exclou implícitament Meriem del grup anterior qualificat de competent i la situa com l'element personal diferencial de l'etapa posterior. No és una desqualificació nominal aïllada, però dins del relat complet pot operar com una desqualificació indirecta de la seva competència professional. No s'ha d'atribuir intenció només a partir de la frase: cal comprovar les dates d'incorporació i qui exercia realment les funcions de selecció o direcció en aquell moment.
+
 Context:
 La resposta no ha de discutir el bloc de manera global, sino desglossar cada afirmacio amb documents objectius: contractes, Woffu, nomines, banc, correus, WhatsApps, actes, Trello, Google Docs/Sheets i testimonis.
 
@@ -1048,6 +1050,7 @@ Proves documentals:
 - Aquest document.
 - `32_taula_revisio_comentaris_acta.md`
 - `40_mapa_annexos_i_captures.md`
+- 🟨 Cronologia d'incorporacions i documentació sobre qui exercia les funcions de selecció o direcció quan es va incorporar Meriem, sense incorporar dades de salut d'Eva més enllà del que sigui imprescindible.
 
 Testimonis possibles:
 - Segons cada subpunt.
