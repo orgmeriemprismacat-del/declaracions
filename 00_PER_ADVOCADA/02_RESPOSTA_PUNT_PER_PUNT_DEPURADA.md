@@ -697,6 +697,8 @@ Segons la informacio recollida, quan Jordi es va reincorporar el 2026 se li va i
 
 La franja no era una exigència creada arran de la reincorporació: l'acta del 04/02/2025 ja fixava per a Jordi una disponibilitat de 10 a 14 h i establia que qualsevol impossibilitat de connexió o sortida dins d'aquest horari s'havia de comunicar al grup de WhatsApp. El recompte brut de l'export diari de Woffu iniciat l'01/02/2025 identifica 54 dies amb almenys una sortida dins la franja, 55 sortides en total i 17 dies sense entrada posterior. Ara bé, el 03/02 és anterior a l'acord i diverses dates tenen horari teòric zero. Si es limita l'anàlisi als dies posteriors a l'acta amb jornada teòrica superior a zero, consten 36 dies amb una sortida dins la franja i 7 en què no hi ha cap entrada posterior. Cada cas s'ha de contrastar amb els avisos, permisos i justificacions corresponents.
 
+Segons Meriem, alguns dies en què Jordi havia acabat abans de les 14 h es van registrar o regularitzar posteriorment com a festa. Aquest fet s'ha de recollir perquè impedeix considerar automàticament el temps com una absència injustificada. Tanmateix, la regularització posterior no elimina el problema de coordinació si en el moment de la sortida l'equip no havia estat informat que Jordi marxava, que no tornaria o que aquell temps es tractaria com a festa. La qüestió rellevant és si la resta podia conèixer la seva disponibilitat real i organitzar les tasques que en depenien.
+
 La revisio del correu en entrar i abans de marxar era un criteri ordinari i preexistent de funcionament intern de PrisMa. Segons Meriem, aquesta pauta existia des d'abans de la seva entrada a l'empresa i no era una exigencia nova ni singular creada per controlar Jordi.
 
 Tambe consta, segons la informacio recollida, que Jordi va fitxar en alguns moments sense avisar correctament o sense incorporar-se a reunions previstes. Aquest extrem s'ha d'acreditar per dates concretes amb Woffu, convocatories o actes de reunio i comunicacions.
@@ -731,7 +733,7 @@ En un context de teletreball, la disponibilitat en una franja concreta, la revis
 
 **Cautela**
 
-No presentar aquest punt com una critica personal a Jordi, sino com una resposta organitzativa i documentable. Evitar expressions comparatives o desqualificadores. Una sortida registrada no equival automàticament a una absència injustificada: cal contrastar avisos, permisos, justificacions i compensacions. La idea defensable es que se li demanaven pautes normals de coordinacio laboral, no mesures hostils o excepcionals.
+No presentar aquest punt com una critica personal a Jordi, sino com una resposta organitzativa i documentable. Evitar expressions comparatives o desqualificadores. Una sortida registrada no equival automàticament a una absència injustificada: cal contrastar avisos, permisos, justificacions, compensacions i regularitzacions posteriors com a festa. La idea defensable es que se li demanaven pautes normals de comunicacio i coordinacio laboral, no mesures hostils o excepcionals.
 
 ## Punt 18. Pagaments, Autories I Tracte Discriminatori
 

@@ -638,6 +638,8 @@ Les preguntes sobre horari o disponibilitat no eren un control personal ni una a
 Context:
 Si una feina de Jordi condicionava una publicacio, correccio, maquetacio, web, reunió o seguiment de tutors, l'equip necessitava saber si Jordi treballava, a quina hora estaria disponible o si calia reprogramar. Woffu ajuda a contextualitzar la variabilitat de jornades, absencies, permisos i fitxatges.
 
+Alguns dies en què Jordi havia finalitzat abans de les 14 h es van registrar o regularitzar posteriorment com a festa. Per tant, la qüestió no és qualificar automàticament aquelles hores com a absència injustificada. El problema organitzatiu subsistia si l'equip no havia estat informat en aquell moment que marxava, que no tornaria o que el dia es tractaria com a festa, perquè la resta no podia saber si havia d'esperar-lo o reprogramar les tasques dependents.
+
 Fets acreditats:
 - Hi havia franges de disponibilitat acordades o recordades.
 - Les captures Woffu mostren presencies, vacances, permisos i distribucions horàries.
@@ -658,7 +660,7 @@ Testimonis possibles:
 - Meriem/Isa/Pablo: necessitat de coordinar tasques dependents.
 
 Cautela:
-Woffu no prova per si sol que una persona no treballes o treballes malament. Les sortides intermèdies poden correspondre a pauses, gestions o incidències, i els 17 dies sense entrada posterior s'han de contrastar amb avisos, permisos i justificacions. La dada serveix per explicar la necessitat de comunicació i coordinació, no per qualificar automàticament cada sortida com a incompliment.
+Woffu no prova per si sol que una persona no treballes o treballes malament. Les sortides intermèdies poden correspondre a pauses, gestions o incidències, i alguns dies es van registrar posteriorment com a festa. Els dies sense entrada posterior s'han de contrastar amb avisos, permisos, justificacions i la data en què es va fer qualsevol regularització. La dada serveix per explicar la necessitat de comunicació i coordinació, no per qualificar automàticament cada sortida com a incompliment.
 
 ## Punt 21. Tracte hostil, agressiu o vexatori atribuït a Meriem
 
