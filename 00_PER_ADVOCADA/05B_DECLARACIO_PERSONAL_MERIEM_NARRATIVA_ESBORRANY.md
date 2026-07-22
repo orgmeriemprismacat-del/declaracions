@@ -52,6 +52,8 @@ L'impacte d'aquesta situació no s'ha limitat al malestar laboral. M'ha generat 
 
 En determinats moments, aquesta vivència m'ha provocat una pèrdua profunda de les ganes de viure. Deixo clar que actualment no tinc una intenció immediata de fer-me mal. Ho exposo per descriure honestament la gravetat de l'impacte emocional que m'està causant, no com un diagnòstic mèdic ni com una conclusió automàtica sobre la responsabilitat clínica o jurídica de Jordi. Considero que aquest extrem s'ha de tractar amb especial reserva i només en la mesura que sigui necessari per explicar l'afectació real que he patit.
 
+Davant la intensitat d'aquesta afectació, he necessitat buscar suport emocional en persones del meu entorn. Ho exposo únicament per explicar que el malestar ha tingut una incidència real en la meva vida quotidiana, sense identificar aquestes persones ni pretendre involucrar-les en el procediment.
+
 ## La Meva Implicacio Personal Amb PrisMa
 
 Per entendre la meva vivencia, per a mi es important explicar que PrisMa no ha estat mai nomes una feina distant o ordinaria. Si hi he continuat, i si he assumit tantes arees, responsabilitats i carregues de feina, ha estat sobretot per implicacio personal amb el projecte i amb les persones que hi treballen. Si aquesta implicacio no existis, jo no hauria sostingut durant anys aquest volum de feina, pressio i responsabilitats.
