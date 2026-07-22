@@ -4,7 +4,7 @@ Aquest directori recull una versio depurada del dossier per facilitar la revisio
 
 > 🟨 **EVIDÈNCIA PENDENT:** aquesta marca identifica visualment qualsevol captura, document, testimoni o comprovacio que encara s'ha d'adjuntar, localitzar o validar.
 
-**Convencio per a captures:** quan una captura ja estigui disponible, s'ha d'inserir directament al document Markdown corresponent. El peu ha d'indicar el numero de figura, la data, una descripcio breu del que acredita i el nom exacte del fitxer dins la carpeta d'adjunts. Els documents extensos o externs es poden mantenir enllaçats, amb una referencia prou precisa per localitzar-los.
+**Convencio per a captures:** la declaracio personal remet les proves al document separat `11_ANNEX_CAPTURES_DECLARACIO_MERIEM.md/.docx`, en comptes d'interrompre el relat amb imatges. Cada referencia utilitza el nom exacte del fitxer. L'annex inclou la data i el canal, una descripcio neutral del contingut visible, l'abast de la prova i un peu amb el mateix nom de fitxer. En els altres documents del dossier es poden mantenir captures directament inserides quan facilitin la comprovacio puntual.
 
 ## Ordre Recomanat
 
@@ -12,7 +12,9 @@ Aquest directori recull una versio depurada del dossier per facilitar la revisio
 2. `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md`
 3. `03_INDEX_PROVES_PER_ADVOCADA.md`
 4. `04_PENDENTS_DE_VALIDACIO.md`
-5. `05B_DECLARACIO_PERSONAL_MERIEM_NARRATIVA_ESBORRANY.md`, declaracio personal narrativa actualitzada. El document `05_DECLARACIO_PERSONAL_MERIEM_ESBORRANY.md` es conserva com a versio esquematica anterior i no es la versio principal per revisar.
+5. `05B_DECLARACIO_PERSONAL_MERIEM_NARRATIVA_ESBORRANY.md`, declaracio personal narrativa actualitzada i sense captures intercalades. El document `05_DECLARACIO_PERSONAL_MERIEM_ESBORRANY.md` es conserva com a versio esquematica anterior i no es la versio principal per revisar.
+6. `05B_DECLARACIO_PERSONAL_MERIEM_SENSE_CAPTURES.docx`, copia Word neta de la declaracio anterior, preparada per llegir-la juntament amb l'annex.
+7. `11_ANNEX_CAPTURES_DECLARACIO_MERIEM.md` o `11_ANNEX_CAPTURES_DECLARACIO_MERIEM.docx`, annex autosuficient amb les captures citades, descripcio i limit de cada prova.
 
 Document base original:
 

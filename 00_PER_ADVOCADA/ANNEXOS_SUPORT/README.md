@@ -40,7 +40,7 @@ Aquest directori conte annexos empaquetats per facilitar l'enviament o la revisi
 
 **Fitxer:** `ANNEX-SUP-03_captures_google_chat_probatories.zip`
 
-**Estat:** actualitzat el 22/07/2026 amb 92 captures disponibles directament a la carpeta `annexos_captures/` de l'arrel del repositori. Inclou Google Chat, WhatsApp, TASTET TUT, màrqueting i altres captures incorporades durant la revisió. Aquesta còpia permet que les imatges viatgin amb el dossier encara que es comparteixi només `00_PER_ADVOCADA/`.
+**Estat:** lot de 92 captures generat el 22/07/2026. Despres de generar-lo es van incorporar vuit captures noves extretes del DOCX revisat de Meriem; aquestes vuit encara no formen part del ZIP. Ja es conserven a `annexos_captures/` i estan incrustades a `00_PER_ADVOCADA/11_ANNEX_CAPTURES_DECLARACIO_MERIEM.docx`, de manera que el nou annex Word es autosuficient. Cal regenerar aquest ZIP si es vol que el lot comprimit inclogui tambe les vuit captures noves.
 
 **Mida:** 2.283.266 bytes
 

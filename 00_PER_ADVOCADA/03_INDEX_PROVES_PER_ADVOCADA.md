@@ -6,7 +6,7 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 
 - `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-01_actes_resums_extractes_i_originals.zip`: actes, resums, extractes i originals.
 - `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-02_whatsapp_exports_i_analisi.zip`: exports i analisi de WhatsApp.
-- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`: còpia autosuficient de les 92 captures probatòries disponibles directament a `annexos_captures/`, incloses les incorporades durant la revisió del 22/07/2026 (Google Chat, WhatsApp, TASTET TUT, màrqueting i altres blocs).
+- `00_PER_ADVOCADA/ANNEXOS_SUPORT/ANNEX-SUP-03_captures_google_chat_probatories.zip`: lot anterior de 92 captures probatories. No inclou encara les vuit captures noves extretes del DOCX revisat al final del 22/07/2026; aquestes ja consten a `annexos_captures/` i estan incrustades al nou annex Word de la declaracio.
 - `00_PER_ADVOCADA/ANNEXOS_SUPORT/README.md`: hash i descripcio de cada ZIP.
 
 ## A. Carta De Jordi I Documents De Resposta
@@ -18,6 +18,16 @@ Aquest index identifica els blocs probatoris ja treballats i quins documents/cap
 - `33_contestacio_oficial_esborrany.md`: esborrany general de resposta.
 
 **Us proposat:** el PDF original es la font primaria per comprovar cites literals. Els altres documents son base de treball i no s'han de presentar directament sense depurar.
+
+## A2. Declaracio Personal De Meriem I Annex De Captures
+
+- `00_PER_ADVOCADA/05B_DECLARACIO_PERSONAL_MERIEM_NARRATIVA_ESBORRANY.md`: versio narrativa sincronitzada amb el Word actual i sense captures intercalades.
+- `00_PER_ADVOCADA/05B_DECLARACIO_PERSONAL_MERIEM_SENSE_CAPTURES.docx`: copia Word neta per a la revisio de l'advocada.
+- `00_PER_ADVOCADA/11_ANNEX_CAPTURES_DECLARACIO_MERIEM.md`: annex navegable des de GitHub.
+- `00_PER_ADVOCADA/11_ANNEX_CAPTURES_DECLARACIO_MERIEM.docx`: annex Word autosuficient, amb 35 captures uniques, peus, nom exacte del fitxer, descripcio neutral i abast probatori.
+- `annexos_captures/`: originals individuals de les captures. S'hi han incorporat vuit fitxers nous procedents del DOCX revisat del 22/07/2026.
+
+**Us proposat:** llegir la declaracio i l'annex en paral·lel. Els noms `CAP-...` de la declaracio coincideixen amb els encapçalaments de l'annex i amb els fitxers originals. Les captures repetides del DOCX d'origen s'han deixat una sola vegada a l'annex.
 
 ## B. Woffu I Jornada
 
