@@ -59,6 +59,12 @@ Evitar:
 | Provat per acta | 07/07/2026 | Acta | Tasques de FAQs i dades web Jornades/Trobades amb terminis inicials. | Es canvien dates d'entrega: FAQs al 17/07 12 h; dades web a finals primera setmana d'agost/principis segona. | Permís sense sou i permís per defunció familiar de Jordi. | Replanificació de tasques i dependències de Meriem/Isa/Pablo. | Acta 2026-07-07. | Mobbing: adaptació per situació personal/familiar. |
 | Pendent prova | Diverses dates | Registre horari/Woffu | Meriem acumula moltes hores extra i hores pendents de retornar. | Meriem absorbeix replanificacions, caps de setmana o urgències per garantir publicacions/cursos. | Retards, falta de resposta o necessitat de seguiment individualitzat, junt amb altres càrregues de l'empresa. | 1724 h extra i 1473 h pendents des de 2024, no atribuïbles només a Jordi. | Captura Woffu/hores + exemples concrets vinculats a Jordi. | Perjudici operatiu; usar amb cautela perquè no tot deriva de Jordi. |
 
+## Adaptació de tancament conjunt
+
+Amb l'experiència, l'equip va aprendre que en determinats cursos o aplicacions calia programar la feina amb més antelació, reservar una sessió perquè Jordi revisés el conjunt i procurar que Meriem o Isa fossin disponibles per aclarir dubtes i aplicar canvis en aquell mateix moment. La finalitat era evitar revisions parcials, dubtes finals o modificacions pendents que bloquegessin les fases posteriors.
+
+Aquest funcionament no s'ha de descriure com una incapacitat personal, sinó com una adaptació operativa sorgida de les incidències prèvies. Alhora, implicava una càrrega addicional de preparació, coordinació i disponibilitat simultània per a Meriem i Isa. Es pot contrastar amb els casos CLEE del 16/07/2024, GUST del 14-16/05/2025, MPIA del 19/06/2025 i ALBUM de l'octubre de 2025, juntament amb les actes i els xats corresponents.
+
 ## Tipus de perjudici operatiu a acreditar
 
 ### Temps duplicat
