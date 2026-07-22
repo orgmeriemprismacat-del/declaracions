@@ -294,13 +294,57 @@ Les comunicacions conservades mostren com es concretava aquesta disponibilitat. 
 
 En una altra qüestió d'imatges de l'MPIA, recordo que Jordi havia anotat que volia «imatges nostres (amb el mateix model tota l'estona)» i hi havia una llista àmplia d'estils. El vaig trucar per explicar-li que no podia fer-les totes de la mateixa persona i que no disposava de tots els models indicats, però que entenia que l'objectiu era mostrar filtres diferents. Vaig preparar diverses alternatives perquè pogués escollir quines conservar. La captura acredita l'anotació visible i les sis propostes preparades; no enregistra la trucada ni permet atribuir l'anotació a Jordi sense una prova addicional. Per això aquesta part de la conversa és el meu record directe i no la presento com si quedés literalment provada per la imatge. `[CAP-MPIA-IMATGES-2025-06-16]`
 
+![Pàgina de l'MPIA amb l'anotació sobre mantenir el mateix model i sis propostes visuals.](../annexos_captures/CAP-MPIA-2025-06-16_anotacio-mateix-model-propostes-filtres.png)
+
+*Figura MPIA-1. Anotació visible i sis alternatives visuals preparades. Fitxer: `CAP-MPIA-2025-06-16_anotacio-mateix-model-propostes-filtres.png`.*
+
 [^captures-suport-directe]: Vegeu les figures SD-1 a SD-4 incorporades a `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md`: Google Chat directe del 21/05/2025, del 30/05/2025 i del 02/06/2025.
 
 Per mi, aquests casos mostren que la meva insistencia en calendaris, terminis i coordinacio no era un atac personal. Era una resposta a una necessitat real: si una entrega es movia, altres persones havien de correr, reprogramar, treballar caps de setmana o comprimir fases posteriors.
 
 Una conversa que vaig capturar el 02/10/2025 mostra aquesta repercussió, però també la tensió compartida. Jo necessitava les correccions de xarxes per preparar les imatges sense duplicar feina i, després de no obtenir resposta durant unes dues hores, Jordi em va explicar que havia prioritzat Rastreja'ls. Ell va reconèixer que no havia entès que jo demanava totes les publicacions i finalment va assumir el malentès. La conversa va derivar cap al cansament: jo vaig expressar que hauria de treballar el cap de setmana i que també necessitava descansar; ell va dir que treballava totes les hores que podia i intentava no deixar ningú tirat. No vull ocultar aquesta part, perquè mostra que tots dos estàvem sota pressió. El que considero rellevant és que el conflicte concret tenia una causa operativa i una confusió de prioritats, no una voluntat meva de perseguir-lo. `[CAP-GC-PRIORITATS-2025-10-02-01..07]`
 
+![Google Chat del 2 d'octubre de 2025: inici de la conversa sobre xarxes i GUST.](../annexos_captures/CAP-GC-JORDI-2025-10-02-01_no-vist-xat-gust-xarxes.png)
+
+*Figura CP-1. Inici de la seqüència sobre el xat no vist, GUST i xarxes. Fitxer: `CAP-GC-JORDI-2025-10-02-01_no-vist-xat-gust-xarxes.png`.*
+
+![Google Chat del 2 d'octubre de 2025: Jordi explica que havia prioritzat Rastreja'ls.](../annexos_captures/CAP-GC-JORDI-2025-10-02-02_prioritza-rastrejals.png)
+
+*Figura CP-2. Jordi explica la priorització de Rastreja'ls. Fitxer: `CAP-GC-JORDI-2025-10-02-02_prioritza-rastrejals.png`.*
+
+![Google Chat del 2 d'octubre de 2025: malentès sobre les prioritats.](../annexos_captures/CAP-GC-JORDI-2025-10-02-03_malentès-prioritats.png)
+
+*Figura CP-3. Malentès sobre l'abast de les publicacions demanades. Fitxer: `CAP-GC-JORDI-2025-10-02-03_malentès-prioritats.png`.*
+
+![Google Chat del 2 d'octubre de 2025: càrrega i feina de cap de setmana.](../annexos_captures/CAP-GC-JORDI-2025-10-02-04_carrega-cap-setmana.png)
+
+*Figura CP-4. Conversa sobre càrrega i cap de setmana. Fitxer: `CAP-GC-JORDI-2025-10-02-04_carrega-cap-setmana.png`.*
+
+![Google Chat del 2 d'octubre de 2025: perjudici mutu expressat a la conversa.](../annexos_captures/CAP-GC-JORDI-2025-10-02-05_perjudici-mutuu.png)
+
+*Figura CP-5. Les dues parts expressen l'impacte que perceben. Fitxer: `CAP-GC-JORDI-2025-10-02-05_perjudici-mutuu.png`.*
+
+![Google Chat del 2 d'octubre de 2025: hores, vacances i càrrega.](../annexos_captures/CAP-GC-JORDI-2025-10-02-06_hores-vacances-carrega.png)
+
+*Figura CP-6. Conversa sobre hores, vacances i càrrega. Fitxer: `CAP-GC-JORDI-2025-10-02-06_hores-vacances-carrega.png`.*
+
+![Google Chat del 2 d'octubre de 2025: Jordi assumeix el malentès.](../annexos_captures/CAP-GC-JORDI-2025-10-02-07_assumeix-malentes.png)
+
+*Figura CP-7. Tancament visible en què Jordi assumeix el malentès. Fitxer: `CAP-GC-JORDI-2025-10-02-07_assumeix-malentes.png`.*
+
 També conservo exemples en què vaig evitar que aquesta coordinació es convertís en feina de cap de setmana. L'11 i 12 de juliol, quan Jordi va dir que no s'havia pogut tornar a connectar, li vaig oferir que mirés el mailing dilluns a primera hora. El 12 de setembre, quan va dir que miraria Fundae diumenge, li vaig respondre «no cal diumenge» i li vaig explicar que ho havia passat a dimecres. El 19 de setembre, davant la seva festa i la poca connexió dels dies anteriors, vam acordar parlar dilluns. Aquestes converses no proven que jo actués sempre de manera perfecta, però sí que aporten context documental contrari a una pressió indiscriminada per treballar fora d'horari. `[CAP-WA-2025-07-11-12; CAP-WA-2025-09-12; CAP-WA-2025-09-19]`
+
+![WhatsApp de l'11 i 12 de juliol de 2025 amb l'alternativa de dilluns.](../annexos_captures/CAP-WA-JORDI-2025-07-11_12_mailing-dilluns-alternativa.png)
+
+*Figura WA-1. Vaig oferir dilluns com a alternativa al cap de setmana. Fitxer: `CAP-WA-JORDI-2025-07-11_12_mailing-dilluns-alternativa.png`.*
+
+![WhatsApp del 12 de setembre de 2025: no cal treballar diumenge i Fundae es reprograma.](../annexos_captures/CAP-WA-JORDI-2025-09-12_fundae-no-diumenge-reprograma.png)
+
+*Figura WA-2. Vaig dir «no cal diumenge» i vaig reprogramar Fundae. Fitxer: `CAP-WA-JORDI-2025-09-12_fundae-no-diumenge-reprograma.png`.*
+
+![WhatsApp del 19 de setembre de 2025: festa i acord de parlar dilluns.](../annexos_captures/CAP-WA-JORDI-2025-09-19_festa-parlar-dilluns.png)
+
+*Figura WA-3. Coordinació cordial i acord de parlar dilluns. Fitxer: `CAP-WA-JORDI-2025-09-19_festa-parlar-dilluns.png`.*
 
 ## Sobre La Carrega De Feina I La Jornada Efectiva
 
@@ -369,3 +413,31 @@ Si aquestes acusacions continuen reiterant-se, s'estenen a terceres persones o p
 ### Referència visual incorporada — Tastet TUT
 
 La cadena descrita en aquesta declaració queda vinculada a `[CAP-TUT-2025-03-17-01; CAP-TUT-2025-04-15-01..06]`. Les captures documenten paraules, moment i impacte tècnic tractat al fil, però no permeten atribuir intencions a Jordi.
+
+![Proposta inicial de Jordi González per al Tastet TUT, 17 de març de 2025.](../annexos_captures/CAP-TUT-2025-03-17-01_proposta-jordi-gonzalez-forum.png)
+
+*Figura TUT-1. Proposta inicial visible al fòrum. Fitxer: `CAP-TUT-2025-03-17-01_proposta-jordi-gonzalez-forum.png`.*
+
+![Correu d'Isa del 15 d'abril de 2025 sobre imatge de portada i tasques pendents.](../annexos_captures/CAP-TUT-2025-04-15-01_isa-imatge-portada-patata-calenta.png)
+
+*Figura TUT-2. Isa enumera canvis i indica la imatge de portada pendent. Fitxer: `CAP-TUT-2025-04-15-01_isa-imatge-portada-patata-calenta.png`.*
+
+![Resposta de Meriem del 15 d'abril de 2025 indicant que ja s'hi posa.](../annexos_captures/CAP-TUT-2025-04-15-02_meriem-ja-mhi-poso.png)
+
+*Figura TUT-3. La meva resposta immediata. Fitxer: `CAP-TUT-2025-04-15-02_meriem-ja-mhi-poso.png`.*
+
+![Llista de canvis funcionals enviada per Jordi el 15 d'abril de 2025.](../annexos_captures/CAP-TUT-2025-04-15-03_jordi-llista-canvis-funcionals.png)
+
+*Figura TUT-4. Canvis funcionals i textuals comunicats el 15/04/2025. Fitxer: `CAP-TUT-2025-04-15-03_jordi-llista-canvis-funcionals.png`.*
+
+![Resposta de Meriem amb canvis fets i reprogramacions necessàries.](../annexos_captures/CAP-TUT-2025-04-15-04_meriem-resposta-fet-i-reprogramacio.png)
+
+*Figura TUT-5. Diferencio els canvis fets dels que exigeixen reprogramació. Fitxer: `CAP-TUT-2025-04-15-04_meriem-resposta-fet-i-reprogramacio.png`.*
+
+![Correu d'Isa sobre canvis fàcils ja fets i altres de més complexos.](../annexos_captures/CAP-TUT-2025-04-15-05_isa-canvis-facils-fets-i-resta-complicada.png)
+
+*Figura TUT-6. Isa diferencia les modificacions simples de les que requereixen més feina. Fitxer: `CAP-TUT-2025-04-15-05_isa-canvis-facils-fets-i-resta-complicada.png`.*
+
+![Resposta de Jordi sobre canvis de programació i la pauta d'evitar «aquí».](../annexos_captures/CAP-TUT-2025-04-15-06_jordi-admet-canvis-programacio-i-aqui.png)
+
+*Figura TUT-7. Jordi reconeix que alguns canvis afectaven la programació. Fitxer: `CAP-TUT-2025-04-15-06_jordi-admet-canvis-programacio-i-aqui.png`.*
