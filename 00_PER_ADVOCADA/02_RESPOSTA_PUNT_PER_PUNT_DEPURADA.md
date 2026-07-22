@@ -754,6 +754,8 @@ Jordi qualifica Meriem de "bully".
 
 Es tracta d'una acusacio greu que requereix fets concrets, dates, missatges i context. La documentacio disponible mostra comunicacions laborals sobre tasques, terminis, coordinacio, correccions i replanificacions, aixi com adaptacions i comunicacions cordials. Una relacio laboral tensionada, amb comunicacions fermes o reduccio de la proximitat informal, no equival per si sola a bullying o mobbing.
 
+La manifestacio que, si Jordi hagués pogut continuar fent més hores, hauria arribat a tot «com sempre» i no hauria esdevingut el «cap de turc» no descriu un fet verificable, sino un escenari hipotètic. A més, no concorda amb el WhatsApp en què ell mateix admet a Meriem que durant l'últim any no havia fet prou, ni amb la documentacio de retards, recordatoris i entregues pendents d'etapes anteriors. Això impedeix atribuir totes les dificultats a la reducció de plantilla, a la càrrega puntual de 2025 o a la impossibilitat de fer més hores. La valoracio s'ha de fer tasca per tasca, atenent la jornada disponible, els terminis, les replanificacions i les dependències que bloquejaven la feina posterior de Meriem i Isa.
+
 El WhatsApp del 16/03/2025 tambe s'ha de llegir de manera bilateral. Jordi hi exposa la situacio del seu pare, la criança d'Irati i el seu malestar, pero alhora formula nombroses acusacions sobre les intencions i la conducta de Meriem i reconeix que, en el cas de l'`OJU`, havia construït una interpretacio equivocada. La comprensio de les seves circumstancies personals no obliga a considerar justificades totes les incidencies laborals ni elimina el dret de Meriem a explicar el seu propi cansament, les adaptacions realitzades i l'impacte de sentir-se acusada. Cada retard, absencia o tasca pendent s'ha d'analitzar per la seva data, comunicacio i efecte, sense atribuir-lo automaticament a la paternitat o a la salut d'un familiar.
 
 Com a element contextual addicional, la imatge d'una hostilitat continuada per part de Meriem queda debilitada si es confirma que, en el periode previ, ella va defensar internament l'ampliacio de jornada de Jordi i va intentar buscar una formula viable perque aquesta ampliacio fos possible. Aixo no elimina possibles discrepancies professionals posteriors, pero no encaixa amb una voluntat sostinguda d'aillar-lo, perjudicar-lo o tractar-lo adversament.
@@ -768,6 +770,8 @@ Tambe es pot recollir que al febrer de 2025 Meriem ja es plantejava marxar de Pr
 - Adaptacions de terminis.
 - Missatges on Meriem pregunta per salut, conciliacio o disponibilitat.
 - Proves de replanificacions i impacte sobre Meriem/Isa.
+- 🟨 Captura completa i data exacta del WhatsApp en què Jordi reconeix que durant l'últim any no havia fet prou.
+- Actes i registres que acrediten retards i seguiment també abans de la reducció de plantilla.
 - Testimoni de Meriem, Adam i Pablo sobre el suport de Meriem a l'ampliacio de jornada, si es confirma.
 - Declaracio personal de Meriem sobre la seva sobrecarrega, assistencia psicologica entre novembre de 2024 i maig de 2025, recerca de solucions amb persones de confiança i voluntat de marxar al febrer de 2025, nomes si l'advocada ho considera pertinent i proporcional.
 - Documentacio psicologica o testimonis de persones a qui Meriem demanava ajuda, nomes si l'advocada ho considera necessari i amb criteri de proporcionalitat.

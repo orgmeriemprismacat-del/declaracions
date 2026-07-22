@@ -760,6 +760,8 @@ Aquesta es una imputacio greu contra una treballadora i requereix prova concreta
 Context:
 Les proves disponibles fins ara mostren comunicacions laborals, adaptacions, reprogramacions, canals traçables i missatges de suport. Tambe mostren conflictes i discrepàncies professionals. Aquest conjunt no acredita, per si mateix, una finalitat d'aillar, humiliar o desestabilitzar Jordi.
 
+La frase segons la qual, si hagués pogut continuar fent més hores, hauria arribat a tot «com sempre» i no hauria estat el «cap de turc» és una hipòtesi contrafactual, no un fet acreditat. A més, entra en contradicció amb el WhatsApp en què Jordi admet a Meriem que durant l'últim any no havia fet prou, i amb els registres que mostren retards, recordatoris i tasques pendents també en períodes anteriors. Per tant, les dificultats d'entrega no es poden atribuir exclusivament a la reducció de plantilla, al volum puntual de 2025 o a la impossibilitat de fer més hores. Cal comparar cada tasca amb la data d'assignació, el termini, la jornada disponible, les replanificacions i l'impacte sobre les fases posteriors.
+
 Fets acreditats:
 - Jordi formula una qualificacio greu.
 - No n'hi ha prou amb la qualificacio; cal prova dels fets.
@@ -771,6 +773,9 @@ Proves documentals:
 - `29_annex_google_chat_jordi.md`
 - `[CAP-GC-SUPORT-2025-04-10-01..07]`
 - `[CAP-GC-CANALS-XS-2025-04-03-01..09]`
+- 🟨 **EVIDENCIA PENDENT:** identificar la data exacta i adjuntar la captura completa del WhatsApp en què Jordi reconeix que durant l'últim any no havia fet prou, amb el context anterior i posterior.
+- `10_entregues_modificades_actes.md`
+- `21_informe_patron_retards_jordi.md`
 
 Testimonis possibles:
 - Meriem: declaracio personal separada.
