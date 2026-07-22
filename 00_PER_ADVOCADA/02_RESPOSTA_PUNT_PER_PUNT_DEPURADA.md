@@ -711,6 +711,8 @@ Tambe consta, segons la informacio recollida, que Jordi va fitxar en alguns mome
 
 En un context de teletreball, la disponibilitat en una franja concreta, la revisio del correu i l'assistencia a reunions son pautes organitzatives ordinàries. No acrediten per si soles hostilitat ni assetjament, sino necessitat de coordinacio, especialment quan hi havia tasques compartides, terminis i dependencies amb altres persones de l'equip.
 
+La preocupació de Meriem no es limitava al perjudici o a la càrrega que ella pogués assumir. La manca d'informació sobre disponibilitat podia afectar també Isa, Pablo, Adam i qualsevol altra persona que necessités una reunió, correcció, validació o entrega per continuar. El seguiment s'ha d'entendre també com un intent d'evitar bloquejos, redistribucions imprevistes i perjudicis per a la resta de l'equip.
+
 **Fets acreditats o a acreditar**
 
 - Segons Meriem, se li va indicar horari i canal de coordinacio despres del retorn.
