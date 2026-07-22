@@ -521,6 +521,7 @@ Fets acreditats:
 Proves documentals:
 - `41_cas_gust_retard_maig_2025.md`
 - `[ACT-2025-04-01]`, `[ACT-2025-04-08]`, `[ACT-2025-04-15]`, `[ACT-2025-04-22]`, `[ACT-2025-04-29]`, `[ACT-2025-05-06]`, `[ACT-2025-05-12]`, `[ACT-2025-05-20]`
+- `[CAP-GUST-ACT-01]` — captura de l'acord del 08/04/2025; acredita el contingut visible, no l'abast final ni la durada de tota la feina posterior.
 - `[CAP-GUST-MOODLE-01..07]`
 - `[DOC-GUST-PDF-01..07]`
 - `[CAP-GUST-PLANNING-01..06]`

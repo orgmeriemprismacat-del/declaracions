@@ -50,7 +50,7 @@ Captures recomanades:
 - `[CAP-ACT-2025-10-14-01]`: fragment de la reunió i ordre del dia, inclòs el punt en què Jordi ja no hi era.
 - `[CAP-ACT-FUNDAE-01]`: fragment on consti que Fundae s'havia parlat abans o es va recordar en reunió.
 - `[CAP-GUST-ACT-00]`: acta 01/04/2025, estil GUST, materials d'Albert i horitzó de setmana del 21/04 per primer mailing.
-- `[CAP-GUST-ACT-01]`: acta 08/04/2025, petites correccions i manteniment de l'estructura.
+- `[CAP-GUST-ACT-01]`: acta 08/04/2025, acords visibles sobre materials d'Albert, manteniment de l'estructura de PrisMa, petites correccions de puntuació/castellanismes, HTML/àudios, traduccions de Chambers i retirada temporal de referències a Rastreja'ls. Fitxer: `annexos_captures/CAP-GUST-ACT-01_2025-04-08_acords-petites-correccions-estructura.png`. No acredita que tota la feina posterior fos petita ni el temps efectiu invertit.
 - `[CAP-GUST-ACT-02]`: acta 15/04/2025, calendari pel 25/04 i HTML d'Isa la setmana del 28/04.
 - `[CAP-GUST-ACT-02B]`: acta 22/04/2025, pendent de revisió de Jordi sobre indicacions d'imatges.
 - `[CAP-GUST-ACT-03]`: acta 29/04/2025, calendari encara pendent.

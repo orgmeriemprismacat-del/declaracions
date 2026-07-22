@@ -74,6 +74,10 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 
 ## 4. Comunicacions Directes Sobre Cursos, GUST I MPIA
 
+**Acta visual complementària**
+
+- `annexos_captures/CAP-GUST-ACT-01_2025-04-08_acords-petites-correccions-estructura.png`: acords del 08/04/2025. Acredita materials ja penjats per Albert, voluntat inicial de mantenir l'estructura de PrisMa i correccions descrites en aquell moment com a petites. No acredita l'abast final de tota la feina posterior ni la seva durada.
+
 **Fitxers**
 
 - `CAP-GC-DIRECTE-CURSOS-2025-01_2025-04-04_moodle-gust-modul3.png`

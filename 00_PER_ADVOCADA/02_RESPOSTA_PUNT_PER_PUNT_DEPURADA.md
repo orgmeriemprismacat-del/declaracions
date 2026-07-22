@@ -571,7 +571,7 @@ Jordi presenta els terminis com a pressio o carrega excessiva.
 
 **Resposta proposada**
 
-El cas GUST mostra que els materials existien des del 28/03/2025 i 04/04/2025, que el 08/04/2025 s'acorda que Jordi faria correccions petites, que el 15/04/2025 havia de preparar calendari el 25/04, i que el 06/05/2025 encara es replanificava. El 16/05/2025, segons relat intern pendent de completar amb prova, Jordi va indicar que no tenia el material preparat, fet que va traslladar pressio a Meriem i Isa.
+El cas GUST mostra que els materials existien des del 28/03/2025 i 04/04/2025, que el 08/04/2025 s'acorda que Jordi faria correccions petites, que el 15/04/2025 havia de preparar calendari el 25/04, i que el 06/05/2025 encara es replanificava. La captura `[CAP-GUST-ACT-01]` acredita visualment l'acord del 08/04, però no permet afirmar que tota la feina posterior fos petita ni quantificar-ne la durada. El 16/05/2025, segons relat intern pendent de completar amb prova, Jordi va indicar que no tenia el material preparat, fet que va traslladar pressio a Meriem i Isa.
 
 El planning general del 20/05/2025 mostra que la resposta de Meriem davant aquesta situacio no va ser un atac personal, sino una reordenacio global de tasques i dependencies. Les captures mostren blocs de feina de Jordi, Isa i Meriem repartits en el calendari, incloent tasques de Meriem ubicades en caps de setmana o franges concentrades per poder donar marge a Jordi i mantenir la continuïtat del muntatge posterior.
 

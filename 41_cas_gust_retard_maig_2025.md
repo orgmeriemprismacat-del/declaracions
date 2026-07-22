@@ -163,7 +163,9 @@ Per tant, quan posteriorment Meriem o Isa insistien en terminis, calendaris o re
 ## Annexos i captures a preparar
 
 - `[CAP-GUST-ACT-00]`: acta 01/04/2025, fragment sobre estil GUST, materials d'Albert i horitzó de setmana del 21/04 per primer mailing.
-- `[CAP-GUST-ACT-01]`: acta 08/04/2025, fragment sobre petites correccions de puntuació/castellanismes i manteniment de l'estructura.
+- `[CAP-GUST-ACT-01]`: acta 08/04/2025, fragment sobre petites correccions de puntuació/castellanismes i manteniment de l'estructura. Fitxer: `annexos_captures/CAP-GUST-ACT-01_2025-04-08_acords-petites-correccions-estructura.png`. La captura prova el contingut visible de l'acord, però no que tota la intervenció posterior fos petita, el temps invertit, ni qui va redactar o aprovar l'acta.
+
+![CAP-GUST-ACT-01](C:/Users/Usuario/Documents/Jordi/annexos_captures/CAP-GUST-ACT-01_2025-04-08_acords-petites-correccions-estructura.png)
 - `[CAP-GUST-MOODLE-01..07]`: registre Moodle de 28/03/2025 i 04/04/2025 amb recursos del curs creats per Albert.
 - `[CAP-GUST-MOODLE-08]`: pendent, registre o captura del vídeo d'exemple de conversa entre nens.
 - `[DOC-GUST-PDF-01..07]`: PDFs del material base del curs conservats a `evidencies_gust_2025/pdfs_material_campus_marc_abril_2025/`.
