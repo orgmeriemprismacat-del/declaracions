@@ -8,6 +8,8 @@ No es qüestiona que Jordi pugui haver viscut malestar ni que hagi tingut situac
 
 Les comunicacions documentades responen principalment a coordinacio laboral: tasques pendents, terminis, correccions, horaris, teletreball, dependències entre companys, replanificacions i necessitat de garantir continuïtat en els cursos, xarxes, mailings i gestions.
 
+En l'MPIA, una captura mostra sis alternatives visuals preparades a partir d'una indicació de mantenir el mateix model. Serveix per documentar una resposta propositiva i un procés de decisió, no per provar el contingut d'una trucada ni l'autoria de l'anotació. `[CAP-MPIA-IMATGES-2025-06-16]`
+
 La resposta ha de separar tres plans:
 
 | Pla | Com s'ha de tractar |

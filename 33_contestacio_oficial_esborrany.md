@@ -11,6 +11,8 @@ No es qüestiona que Jordi pugui haver viscut malestar, ni es posa en dubte la s
 
 La documentacio disponible mostra que les comunicacions amb Jordi responien a necessitats ordinàries de treball: assignacio de tasques, correccions, seguiment de terminis, coordinacio de teletreball, disponibilitat horaria, publicacions, mailings, cursos, reunions i impacte de les seves entregues en la feina de la resta de l'equip.
 
+La documentació de l'MPIA inclou sis propostes visuals preparades sobre una anotació que demanava mantenir el mateix model. Aquesta peça evidencia treball d'adaptació i presentació d'alternatives, però no acredita l'autoria de l'anotació ni el contingut de la coordinació telefònica. `[CAP-MPIA-IMATGES-2025-06-16]`
+
 Tampoc queda acreditat que Jordi fos aïllat o que les comunicacions amb ell es reduissin a reunions, xats grupals o correus automatics. Consten comunicacions directes per WhatsApp personal, Gmail i Google Chat, amb consultes de disponibilitat, reprogramacions, comentaris de correccio, agraïments i coordinacio ordinària. Els correus automatics de Trello es van implantar per facilitar traçabilitat i evitar duplicar feina, i Jordi en va ser informat previament.
 
 Les preguntes sobre si treballava, si es connectaria o quin horari faria no tenien una finalitat personal ni persecutoria. Estaven vinculades a Woffu, als acords de teletreball, a tasques pendents i a dependències operatives. L'acta del 04/02/2025 recull la necessitat d'avisar quan no es podia estar disponible dins la franja acordada.

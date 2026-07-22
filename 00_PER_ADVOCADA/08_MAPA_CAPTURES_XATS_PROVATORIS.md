@@ -86,6 +86,7 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - `CAP-GC-DIRECTE-CURSOS-2025-04_2025-06-02_trucada-cobertura.png`
 - `CAP-GC-DIRECTE-CURSOS-2025-05_2025-06-02_whatsapp-per-cobertura.png`
 - `CAP-GC-DIRECTE-CURSOS-2025-06_2025-05-21_mpia-lectura-imatges-replantejar.png`
+- `annexos_captures/CAP-MPIA-2025-06-16_anotacio-mateix-model-propostes-filtres.png`: pàgina de l'MPIA amb l'anotació ressaltada «Imatges nostres (amb el mateix model tota l'estona)» i sis propostes visuals del mateix personatge en estils diferents.
 
 **Que acrediten**
 
@@ -93,12 +94,15 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - Meriem preguntava si calia mirar comentaris de Trello i si hi havia alguna urgencia.
 - Jordi podia indicar que encara no havia pogut mirar GUST o que prioritzava una altra cosa.
 - Es feien trucades o es proposaven canals alternatius si fallava cobertura.
+- La captura de l'MPIA acredita la preparació material de diverses alternatives coherents amb una indicació de mantenir el mateix model, però no acredita l'autoria de l'anotació, la trucada, les opcions absents ni la selecció final. L'acta del 03/06/2025 només corrobora que Meriem i Jordi ja havien parlat de les imatges i d'aspectes de format.
 
 **Punts de la carta que ajuda a contestar**
 
 - Suposat aillament.
 - Tasques inassumibles sense concrecio.
 - Coordinacio de GUST/MPIA i dependencies amb imatges.
+
+**Cautela específica MPIA:** la trucada i l'explicació sobre models inexistents només poden constar com a record testimonial de Meriem mentre no hi hagi registre o confirmació escrita. Les imatges representen una persona recognoscible; convé limitar-ne la difusió i valorar anonimitzar-la fora del procediment.
 
 ## 5. Comunicacions Directes Sobre Marketing I Criteris De Redaccio
 

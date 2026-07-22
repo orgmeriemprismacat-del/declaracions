@@ -344,3 +344,9 @@ El conjunt contextualitza el seguiment per dependències operatives i contrasta 
 - `[CAP-WA-2025-09-19]`: `annexos_captures/CAP-WA-JORDI-2025-09-19_festa-parlar-dilluns.png` — pregunta sobre festa i acord cordial de parlar dilluns; no s'interpreta la nota de veu.
 
 El bloc contrasta, amb episodis concrets, una descripció general de WhatsApp com a canal de persecució o d'exigència sistemàtica fora d'horari. No prova per si sol l'absència de pressió en altres moments ni la intenció subjectiva de les parts. Per proporcionalitat, convé aportar només les captures necessàries; la del 12/09 inclou una referència genèrica a salut.
+
+## Annex MPIA - Propostes d'imatges i filtres
+
+- `[CAP-MPIA-IMATGES-2025-06-16]`: `annexos_captures/CAP-MPIA-2025-06-16_anotacio-mateix-model-propostes-filtres.png` — mostra l'anotació «Imatges nostres (amb el mateix model tota l'estona)» i sis propostes del mateix personatge en estils diferents.
+
+Acredita directament el contingut visible i l'existència de diverses alternatives preparades. Contextualitza que Meriem no es va limitar a rebutjar una indicació, sinó que va materialitzar opcions per decidir. No acredita qui va escriure l'anotació, la data interna del document, el contingut de la trucada, que no existissin tots els models demanats ni quina opció va escollir Jordi. L'acta del 03/06/2025 confirma només que ja havien parlat de les imatges i del format. Conté la representació recognoscible d'una persona: limitar-ne l'aportació al necessari i valorar anonimització fora del procediment.
