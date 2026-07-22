@@ -37,7 +37,11 @@ Entre juny i agost de 2023 consten 210 h 23 m de treball efectiu davant 221 h 15
 
 La carta combina dues formulacions de diferent abast: primer parla d'una quantitat significativa d'hores extres «en determinades temporades», cosa compatible amb puntes puntuals; després afirma que «sempre acabava fent hores extres» perquè la mitja jornada no bastava. Si aquesta insuficiència era realment recurrent al llarg d'una relació iniciada el 2011, cal concretar des de quan passava, en quins mesos, quantes hores generava, com es compensaven i si abans de 2023 havia sol·licitat una ampliació de jornada. L'absència d'una ampliació anterior no demostra per si sola que no existissin hores extres, però sí impedeix convertir sense més unes puntes estacionals en prova d'una insuficiència estructural i continuada de la mitja jornada.
 
+Meriem recorda que, abans d'Adam, Jordi només va plantejar una vegada l'ampliació a jornada completa i que Júlia i Paula li van respondre que no hi havia prou feina per ocupar-lo a jornada completa. Meriem també recorda converses en què, quan ella li manifestava preocupació pel seu futur econòmic i li suggeria que es plantegés ampliar la jornada, Jordi responia que vivia molt bé amb aquell sistema i que no necessitava més. Aquest record contrasta amb la presentació actual d'una mitja jornada històricament insuficient. S'ha de tractar com a prova testifical: Meriem n'és testimoni directe i convé preguntar a Júlia, Paula i Cristina tant per la petició anterior com pel volum de feina i les preferències que Jordi expressava.
+
 L'existència d'un acord per ampliar la jornada tampoc acredita, per si mateixa, que la mitja jornada ja fos insuficient. La mateixa carta descriu altres motius concrets de l'acord: incloure la tutorització del curs dins la nòmina per resoldre el problema fiscal que Jordi atribuïa al cobrament separat; continuar abonant només l'autoria de manera diferenciada; dedicar els mesos sense curs o amb menys volum a traduccions i adaptacions; i la possibilitat que assumís algunes funcions noves. L'acord es pot entendre, per tant, com una reorganització contractual, retributiva i funcional de futur, i no com el reconeixement que Jordi ja executava de forma estable una jornada completa o que la seva feina ordinària no cabia en la mitja jornada.
+
+Segons Meriem, quan Adam no va poder aplicar l'ampliació en el moment previst, Jordi va rebre aproximadament un mes addicional de vacances o descans com a compensació. Si Woffu, nòmines, correus o Adam ho confirmen, aquest fet és incompatible amb presentar aquell episodi únicament com un perjudici conscient: mostraria que la direcció que havia intentat ampliar-li la jornada també va adoptar una mesura compensatòria favorable. Cal verificar la naturalesa exacta del mes abans d'anomenar-lo «regal» o afirmar-ne els efectes jurídics.
 
 Tambe consta, segons testimonis de Meriem/Isa, que en diverses converses Jordi havia manifestat que preferia mantenir-se a mitja jornada i que aquell model li anava be, amb acumulacions puntuals d'hores que despres podia compensar amb descansos o vacances.
 
@@ -62,11 +66,13 @@ Proves documentals:
 - `54_calcul_woffu_2023_hores_fitxades_i_compensades.md`
 - `55_resum_woffu_semestres_2024_2025.md`
 - `39_recull_tasques_jordi_2023_2026.md`
+- 🟨 Woffu, nòmines, correus o acord que permetin identificar el mes addicional de vacances o descans concedit i la seva causa exacta.
 
 Testimonis possibles:
 - Meriem: converses sobre la preferencia de Jordi per mitja jornada i hores compensades.
 - Isa: observacio del funcionament i compensacions.
 - Adam: condicions contractuals, converses sobre jornada i compensacions.
+- Júlia, Paula i Cristina: petició anterior d'ampliació, resposta sobre la manca de feina suficient i funcionament històric de la mitja jornada.
 
 Cautela:
 No afirmar que Jordi no fes mai cap hora per sobre de l'horari teoric: `Extr. a compensar` ja queda inclosa en el treball efectiu. No atribuir aquesta frase al text literal de la carta, però tampoc negar que, segons el testimoni de Meriem, Jordi va afirmar oralment més d'una vegada que ja treballava una jornada completa. L'argument documental fort es que, aplicant `Hores ordinàries + Extr. a compensar`, no s'acredita un excés sostingut sobre la mitja jornada entre gener i agost ni la seva insuficiencia estructural. Les hores justificades s'han de mantenir separades i una diferencia negativa no s'ha de qualificar com a incompliment sense examinar-ne el motiu.
