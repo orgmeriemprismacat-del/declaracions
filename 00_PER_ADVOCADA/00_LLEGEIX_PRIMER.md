@@ -12,7 +12,7 @@ Aquest directori recull una versio depurada del dossier per facilitar la revisio
 2. `02_RESPOSTA_PUNT_PER_PUNT_DEPURADA.md`
 3. `03_INDEX_PROVES_PER_ADVOCADA.md`
 4. `04_PENDENTS_DE_VALIDACIO.md`
-5. `05_DECLARACIO_PERSONAL_MERIEM_ESBORRANY.md`, nomes si es vol preparar una declaracio personal separada de la resposta de l'empresa.
+5. `05B_DECLARACIO_PERSONAL_MERIEM_NARRATIVA_ESBORRANY.md`, declaracio personal narrativa actualitzada. El document `05_DECLARACIO_PERSONAL_MERIEM_ESBORRANY.md` es conserva com a versio esquematica anterior i no es la versio principal per revisar.
 
 Document base original:
 
