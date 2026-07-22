@@ -713,6 +713,10 @@ En un context de teletreball, la disponibilitat en una franja concreta, la revis
 
 La preocupació de Meriem no es limitava al perjudici o a la càrrega que ella pogués assumir. La manca d'informació sobre disponibilitat podia afectar també Isa, Pablo, Adam i qualsevol altra persona que necessités una reunió, correcció, validació o entrega per continuar. El seguiment s'ha d'entendre també com un intent d'evitar bloquejos, redistribucions imprevistes i perjudicis per a la resta de l'equip.
 
+La qualificació de les interaccions ha d'aplicar un criteri coherent a totes dues parts. Meriem relata que Jordi qüestionava reiteradament la seva feina, la raó per la qual s'havia de seguir el seu criteri funcional i coneixements relatius al màrqueting, el SEO o el funcionament de Google. Ella no qualifica globalment aquestes contestacions d'assetjament, sinó de desacords professionals que generaven desgast i dificultaven l'execució. En sentit invers, tampoc és suficient per acreditar *mobbing* que Meriem defensés que un requisit tècnic o de màrqueting havia de prevaldre sobre una preferència lingüística, o que recordés l'impacte d'un nou ajornament sobre les fases posteriors d'Isa i Meriem. Cal analitzar cada episodi per les expressions concretes, el to, la reiteració, la responsabilitat funcional, el termini i l'impacte operatiu.
+
+🟨 **Prova pendent:** identificar els correus, xats, actes i versions de mailings o continguts on constin els qüestionaments sobre Google, SEO, màrqueting, recuperació d'elements anteriors i l'ajornament d'un mes que deixava menys d'una setmana per a les fases d'Isa i Meriem.
+
 **Fets acreditats o a acreditar**
 
 - Segons Meriem, se li va indicar horari i canal de coordinacio despres del retorn.

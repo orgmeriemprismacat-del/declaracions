@@ -676,6 +676,10 @@ Cita de Jordi:
 Resposta de l'empresa:
 Aquesta afirmacio es una qualificacio subjectiva i greu. Per poder valorar-la cal concretar missatges, dates, canals, frases exactes, persones presents i context. Les proves disponibles fins ara mostren comunicacions laborals sobre tasques, terminis, correccions i incidencies, aixi com comunicacions cordials i adaptacions.
 
+Cal aplicar el mateix criteri d'anàlisi a les comunicacions de totes dues parts. Meriem descriu contestacions i qüestionaments reiterats de Jordi sobre la seva feina, la seva autoritat funcional i els seus criteris de màrqueting, SEO o funcionament de Google, però no els qualifica globalment d'assetjament. Els presenta com a desacords professionals que podien resultar desgastants. De la mateixa manera, les respostes fermes de Meriem sobre la prevalença dels requisits tècnics o de màrqueting, la claredat d'un mailing i l'impacte dels ajornaments sobre Isa i Meriem no s'han de qualificar automàticament de *mobbing* sense examinar-ne les paraules, el to, el context, la reiteració i la finalitat laboral concreta.
+
+En particular, recordar que una entrega ja s'havia ajornat un mes i que les fases posteriors quedaven comprimides a menys d'una setmana constitueix, en principi, una dada de planificació i dependència. Pot valorar-se si la forma de comunicar-la va ser adequada, però el contingut no equival per si sol a humiliació, persecució o voluntat d'exclusió.
+
 Context:
 Despres de diversos conflictes i malentesos, Meriem va limitar progressivament la comunicacio amb Jordi a un pla mes estrictament laboral, centrat en tasques, terminis i canals escrits. Aquesta distancia professional no equival a hostilitat ni maltractament.
 
