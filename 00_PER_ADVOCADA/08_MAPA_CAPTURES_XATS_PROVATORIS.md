@@ -34,7 +34,7 @@ Aquest document explica on son les captures de chats que Meriem ha anat aportant
 - `CAP-GC-CANALS-XS-2025-04-03-05_avisos-correu-whatsapp-data.png`
 - `CAP-GC-CANALS-XS-2025-04-03-06_correccio-text-autisme.png`
 - `CAP-GC-CANALS-XS-2025-04-03-07_resta-ok-protocol.png`
-- `CAP-GC-CANALS-XS-2025-04-03-08_document-protocol-correccio.png`
+- `CAP-GC-CANALS-XS-2025-04-03-08_document-protocol-correccio.png`: captura original completa del Google Chat del 03/04/2025, 11:45. Meriem demana a Jordi si pot corregir una part del protocol perquè la necessita per avançar; Jordi respon «Vale, voy». Inclou dues previsualitzacions del document amb comentaris de Pablo. Acredita una petició directa, concreta i vinculada a una dependència de feina, i una resposta immediata; no acredita la durada de la correcció, una urgència imposada ni la intenció de cap participant. Conté adreces professionals i dades visibles d'una tercera persona que convé anonimitzar si no són imprescindibles.
 - `CAP-GC-CANALS-XS-2025-04-03-09_protocol-fet-i-10-abril.png`
 
 **Que acrediten**

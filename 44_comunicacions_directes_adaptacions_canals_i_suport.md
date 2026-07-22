@@ -35,7 +35,7 @@ Jordi concreta que el correu va be per a publicacions normals i que, per casos u
 
 En la mateixa sequencia, Meriem li demana una revisio concreta d'una publicacio sobre l'autisme i Jordi proposa una correccio linguistica. Despres Meriem li demana corregir una cosa del protocol que necessita per poder avancar, i Jordi respon que esta fet i que eren tres missatges nomes.
 
-**Lectura probatoria:** les captures mostren comunicacions directes sobre correccions petites, amb agraiments i respostes normals. Aixo ajuda a desmentir que la relacio comunicativa estigues limitada a retrets, reunions o canals grupals. `[GC-CANALS-XS-2025-04-03-02; CAP-GC-CANALS-XS-2025-04-03-08..09]`
+**Lectura probatoria:** les captures mostren comunicacions directes sobre correccions petites, amb agraiments i respostes normals. La captura 08 conserva el context complet: Meriem demana una correcció del protocol perquè la necessita per avançar i Jordi respon «Vale, voy». Això acredita una dependència operativa concreta i ajuda a desmentir que la relació comunicativa estigués limitada a retrets, reunions o canals grupals; no acredita urgència imposada, durada de la tasca ni intencions. `[GC-CANALS-XS-2025-04-03-02; CAP-GC-CANALS-XS-2025-04-03-08..09]`
 
 ## 10/04/2025 - To cordial, suport i reconeixement de carrega
 
@@ -58,4 +58,3 @@ En aquesta conversa, Meriem explica que havia preparat xarxes malgrat haver treb
 - No cal aportar detalls personals o familiars de Jordi si no son estrictament necessaris. Es pot pixelar o retallar part de les captures si l'advocada ho considera convenient.
 - Aquest annex no ha de convertir-se en una contraacusacio personal. La seva funcio es demostrar comunicacio directa, adaptacions i context.
 - Les captures han d'anar acompanyades, si es pot, de l'exportacio original de Google Chat o d'una captura mes amplia amb data i continuitat.
-
