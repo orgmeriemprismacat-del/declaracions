@@ -48,11 +48,17 @@ Jordi vincula l'elaboracio del seu curs amb dedicacio fora de jornada i vacances
 
 Cal diferenciar la feina ordinaria com a treballador de PrisMa de l'autoria/tutoritzacio d'un curs propi. Si l'elaboracio del curs es retribuia com a autoria o mitjancant un sistema diferenciat, no es pot presentar automaticament com a carrega ordinaria de la jornada laboral sense revisar contractes, acords i rebuts.
 
+La mateixa carta vincula l'ampliació amb el problema fiscal que Jordi deia patir en cobrar separadament la nòmina, la tutorització i l'autoria. Segons la informació aportada, PrisMa va procurar evitar-li aquest problema incorporant la tutorització dins la jornada ampliada i assignant-li altres funcions per completar-la, mentre l'autoria continuava diferenciada. Aquest antecedent presenta l'ampliació com una acomodació contractual i retributiva en benefici seu i una previsió de tasques futures; no com la prova que les funcions ordinàries de la mitja jornada ja exigissin vuit hores.
+
+El fet que PrisMa disposés de diversos tutors i no constin altres queixes equivalents sobre la declaració de la renda pot aportar context, però no resol per si sol la qüestió fiscal perquè cada situació personal pot ser diferent. Per atribuir a PrisMa una penalització tributària concreta caldria aportar el càlcul, la documentació fiscal i el nexe causal amb la forma de pagament. Fins aleshores, s'ha de descriure com un problema manifestat per Jordi al qual l'empresa va intentar donar resposta, no com un perjudici causat i quantificat de manera objectiva.
+
 **Proves**
 
 - Contractes o acords d'autoria.
 - Rebuts/factures d'autoria.
 - Comunicacions sobre autoria i tutoritzacio.
+- Documentació o càlcul fiscal en què Jordi fonamenti el perjudici que atribueix al cobrament separat.
+- Criteri contractual i retributiu aplicat als altres tutors, sense incorporar dades fiscals personals innecessàries.
 
 **Validacio pendent**
 

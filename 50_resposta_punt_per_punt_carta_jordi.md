@@ -82,10 +82,15 @@ Aquesta afirmacio omet que l'elaboracio d'un curs propi o d'autoria tenia una na
 Context:
 Segons la practica interna indicada per Isa, els cursos d'autoria no es compren com una feina ordinària dins jornada, sino que es facturen o liquiden segons el nombre d'alumnes matriculats. Per tant, cal separar les hores de contracte laboral de l'autoria o tutoritzacio del curs.
 
+La mateixa carta explica que Jordi atribuïa un perjudici fiscal al fet de cobrar separadament la mitja jornada, la tutorització i l'autoria. Segons la informació aportada per Meriem, la solució adoptada per evitar-li aquest problema va ser integrar la tutorització dins la jornada ampliada i completar-la amb altres funcions, mantenint diferenciada l'autoria. Això reforça que l'ampliació responia també a una acomodació retributiva i fiscal sol·licitada en benefici de Jordi, no a la constatació que les seves tasques laborals ordinàries ja ocupessin estructuralment una jornada completa.
+
+PrisMa treballava amb diversos tutors i, segons Meriem, no consten altres comunicacions equivalents sobre una penalització en la declaració de la renda. Aquesta comparació és contextual, però no permet concloure que el relat fiscal de Jordi fos fals perquè la situació tributària pot variar entre persones. Si Jordi atribueix a la forma de pagament de PrisMa un perjudici fiscal concret, correspon exigir documentació que identifiqui l'import, el tractament aplicat, la causa i el nexe amb aquella forma de cobrament. Sense aquest suport, és una explicació personal no verificada.
+
 Fets acreditats:
 - Jordi tenia tasques laborals ordinàries com a corrector/formacio.
 - Tambe tenia un curs propi amb eventual autoria/tutoritzacio.
 - Cal revisar l'acord d'autoria, rebuts, liquidacions i criteris aplicats a altres autors.
+- L'ampliació projectada incorporava la tutorització dins la jornada i preveia altres tasques per completar-la; aquest disseny no prova que la mitja jornada anterior fos insuficient per a les funcions ordinàries.
 
 Proves documentals:
 - `[GM-CAT-2024-01]`: correus sobre CAT/curs de catala/autoria, si existeixen.
