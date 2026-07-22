@@ -117,6 +117,8 @@ Les respostes d'Isa i Adam son fermes per l'impacte en el planning, pero no cont
 
 Jordi afirma que hauria estat mes logic acomiadar una informatica perquè el departament tenia dues persones, part de les tasques es podien subcontractar per menys cost i, segons ell, eren persones amb "plans B".
 
+Aquesta valoració s'ha de llegir també amb el paràgraf final de la carta en què Jordi afirma que Eva havia reunit «un grup de professionals competents» i que Cristina no estava «ni molt menys entre les dues persones de qui PrisMa pogués prescindir més». Meriem era l'única incorporació que no formava part de l'equip anterior atribuït a Eva. Per això, dins de la mateixa lògica de la carta, Meriem queda individualitzada com una de les dues persones que Jordi considerava més prescindibles, encara que no es pugui identificar amb la mateixa certesa la segona. La frase no és només una opinió abstracta de gestió: produeix una desqualificació professional indirecta de Meriem que s'ha de contestar amb les seves funcions i responsabilitats efectives.
+
 Aquesta afirmacio es una opinio personal sobre la prescindibilitat d'altres companyes, no una dada objectiva. No consta que Jordi aporti cap estudi de costos, carrega de treball, criticitat tecnica o impacte operatiu que permeti afirmar que el conjunt de tasques d'IT es podia subcontractar amb menys cost que una nomina.
 
 Les funcions d'IT no es limiten al manteniment informatic. Inclouen Moodle, web, bases de dades, intranets, ecommerce, inscripcions, TPV, facturacio, VeriFactu, suport tecnic, mailings, SEO, Google Ads, conversions, xarxes socials, produccio de continguts, imatges, video, coordinacio de projectes i proveïdors.
