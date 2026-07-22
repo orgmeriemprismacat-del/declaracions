@@ -760,7 +760,7 @@ Aquesta es una imputacio greu contra una treballadora i requereix prova concreta
 Context:
 Les proves disponibles fins ara mostren comunicacions laborals, adaptacions, reprogramacions, canals traçables i missatges de suport. Tambe mostren conflictes i discrepàncies professionals. Aquest conjunt no acredita, per si mateix, una finalitat d'aillar, humiliar o desestabilitzar Jordi.
 
-La frase segons la qual, si hagués pogut continuar fent més hores, hauria arribat a tot «com sempre» i no hauria estat el «cap de turc» és una hipòtesi contrafactual, no un fet acreditat. A més, entra en contradicció amb el WhatsApp en què Jordi admet a Meriem que durant l'últim any no havia fet prou, i amb els registres que mostren retards, recordatoris i tasques pendents també en períodes anteriors. Per tant, les dificultats d'entrega no es poden atribuir exclusivament a la reducció de plantilla, al volum puntual de 2025 o a la impossibilitat de fer més hores. Cal comparar cada tasca amb la data d'assignació, el termini, la jornada disponible, les replanificacions i l'impacte sobre les fases posteriors.
+La frase segons la qual, si hagués pogut continuar fent més hores, hauria arribat a tot «com sempre» i no hauria estat el «cap de turc» és una hipòtesi contrafactual, no un fet acreditat. A més, no concorda amb el seu WhatsApp del 16/03/2025: Jordi hi expressa «culpa per la sensació de no complir prou a la feina», es disculpa «per haver estat més absent el darrer any» i reconeix «que no he pogut seguir el ritme de tota la feina i tots els canvis organitzatius». Tampoc concorda amb els registres de dependències i retards: el 16/07/2024 Meriem li diu que ja ho té tot preparat i només espera la seva correcció de CLEE; el 14/05/2025 Isa li pregunta si ja ho tindrà tot de GUST, Jordi respon que no però que sí tindrà prou perquè Isa i Meriem puguin començar, i Isa torna a oferir l'endemà com a alternativa; el 19/06/2025, mentre Isa demana com ho porta i explica que continuarà amb el que ell li passi, Jordi informa al vespre que l'endemà començarà les lectures de MPIA; i el 10/10/2025 comunica al grup que ha prioritzat les activitats sense haver acabat les lectures i que no tenia temps d'acabar-les. Per tant, les dificultats d'entrega no es poden atribuir exclusivament a la reducció de plantilla, al volum puntual de 2025 o a la impossibilitat de fer més hores. Cal comparar cada tasca amb la data d'assignació, el termini, la jornada disponible, les replanificacions i l'impacte sobre les fases posteriors.
 
 Fets acreditats:
 - Jordi formula una qualificacio greu.
@@ -773,7 +773,10 @@ Proves documentals:
 - `29_annex_google_chat_jordi.md`
 - `[CAP-GC-SUPORT-2025-04-10-01..07]`
 - `[CAP-GC-CANALS-XS-2025-04-03-01..09]`
-- 🟨 **EVIDENCIA PENDENT:** identificar la data exacta i adjuntar la captura completa del WhatsApp en què Jordi reconeix que durant l'últim any no havia fet prou, amb el context anterior i posterior.
+- Export personal `whatsapp_exports_raw/whatsapp_jordi_personal.txt`, missatge llarg del 16/03/2025, especialment línies 765, 767, 775 i 783, amb el context complet.
+- `whatsapp_analysis/context_personal_2024-07-16.csv`, missatges 739-749: Meriem té CLEE preparat i espera la correcció de Jordi.
+- `whatsapp_analysis/context_personal_2025-05-14.csv`, missatges grupals 17833-17842: dependència de l'entrega de GUST i nova adaptació d'Isa.
+- Export grupal `whatsapp_exports_raw/whatsapp_prisma_grup.txt`, 19/06/2025 (MPIA, línies 18036-18061) i 10/10/2025 (ALBUM, línies 18473-18480).
 - `10_entregues_modificades_actes.md`
 - `21_informe_patron_retards_jordi.md`
 
