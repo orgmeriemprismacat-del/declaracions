@@ -799,6 +799,10 @@ Jordi recopila diverses "faltes greus" i les atribueix a Adam, Meriem o l'empres
 
 Aquest apartat es una recopilacio de conclusions i valoracions personals que barreja questions laborals, economiques, mediques, organitzatives i personals. La resposta ha de desglossar cada punt i exigir prova concreta. La qualificacio que Jordi fa dels fets no substitueix la prova dels fets.
 
+Jordi no es limita a descriure episodis: els qualifica globalment com una negligència, un mobbing, una pressió, unes mentides, una manipulació i un clima «constants», i afirma de manera genèrica que correus, WhatsApps i testimonis poden acreditar quasi tots els greuges, inclosos d'altres que no identifica. Una afirmació d'aquesta amplitud no es pot considerar provada per la seva mera reiteració. Cal individualitzar cada episodi, precisar data, conducta, persona, canal i conseqüència, i vincular-lo amb la prova completa corresponent. Els episodis no identificats no poden ser contrastats ni utilitzats per reforçar artificialment una idea de continuïtat.
+
+La seva afirmació que mai no l'han trobat mentint, seguida de «de n'Adam no es pot dir el mateix», no acredita ni la seva infal·libilitat ni cap falsedat concreta d'Adam. La credibilitat s'ha de valorar afirmació per afirmació. La resposta ja documenta contradiccions, omissions de context i afirmacions de Jordi incompatibles amb missatges contemporanis; això permet impugnar la fiabilitat de punts concrets sense afirmar automàticament que totes les discrepàncies siguin mentides deliberades. Només s'hauria d'emprar aquesta última qualificació quan es pugui acreditar no sols que l'afirmació era falsa, sinó que ell ho sabia quan la va formular.
+
 **Proves**
 
 - Conjunt del dossier.

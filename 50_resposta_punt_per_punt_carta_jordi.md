@@ -990,6 +990,10 @@ Cita de Jordi:
 Resposta de l'empresa:
 Aquest apartat es una recopilacio de conclusions i valoracions personals de Jordi. Barreja questions laborals, economiques, organitzatives, mediques i percepcions personals, atribuint-los una intencionalitat greu sense acreditar-la punt per punt.
 
+En particular, Jordi afirma haver patit de manera «constant» negligència, mobbing, pressió, mentides, manipulació i un determinat clima, i sosté genèricament que hi ha correus, WhatsApps i testimonis que acreditarien «quasi tots» els greuges, fins i tot d'altres que no concreta. Aquesta formulació no permet una contradicció material completa: no individualitza els episodis addicionals, no vincula cada qualificació amb una data i una prova determinada i converteix la seva interpretació global en conclusió. Si es volen valorar altres episodis, cal que s'identifiquin amb precisió i es contrastin amb la comunicació completa, les tasques afectades i la versió de totes les persones implicades.
+
+La frase «a mi mentint no m'hi han trobat mai; de n'Adam no es pot dir el mateix» tampoc és prova de credibilitat ni d'una falsedat concreta d'Adam. És alhora una autodeclaració d'honestedat i una desqualificació personal indeterminada. La credibilitat no s'ha de resoldre acceptant aquesta afirmació ni contestant-la amb una acusació inversa, sinó comprovant cada dada. En diversos punts de la carta ja s'han identificat afirmacions de Jordi incompatibles amb comunicacions contemporànies, omissions de context i escenaris hipotètics presentats amb aparença de certesa; aquests casos s'han de denominar contradiccions o afirmacions no acreditades i remetre a la prova corresponent, reservant la qualificació de mentida deliberada per als supòsits en què també es pugui provar que coneixia la falsedat.
+
 Context:
 La resposta no ha de discutir el bloc de manera global, sino desglossar cada afirmacio amb documents objectius: contractes, Woffu, nomines, banc, correus, WhatsApps, actes, Trello, Google Docs/Sheets i testimonis.
 
@@ -1008,6 +1012,7 @@ Testimonis possibles:
 
 Cautela:
 No respondre amb una negacio global buida. La força esta en contestar amb estructura i prova.
+No convertir el debat en una competició sobre qui «menteix». Distingir error, record incomplet, omissió, contradicció, afirmació no acreditada i falsedat conscient.
 
 ## Proxims annexos que caldria completar
 
