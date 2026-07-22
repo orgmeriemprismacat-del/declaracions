@@ -852,3 +852,7 @@ La seva afirmació que mai no l'han trobat mentint, seguida de «de n'Adam no es
 **Cautela**
 
 La contestacio final hauria de ser juridica i no emocional. Aquest document nomes ordena material probatori.
+
+**Reserva d'accions a valorar per l'advocada**
+
+Atès que la carta formula literalment una imputació de `mobbing` i qualifica Meriem de `bully`, convé valorar si la resposta final ha d'incloure una reserva expressa d'accions. La formulació prudent seria que, si la imputació es manté, es reitera, es difon o continua causant perjudici, Meriem no descarta exercir les accions legals que li corresponguin, incloses les que l'advocada consideri procedents en matèria de calúmnia, injúria o protecció del dret a l'honor. No s'ha de presentar com una conclusió penal anticipada ni com una amenaça, sinó com una preservació formal dels seus drets.
