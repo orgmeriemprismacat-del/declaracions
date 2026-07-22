@@ -640,6 +640,8 @@ Si una feina de Jordi condicionava una publicacio, correccio, maquetacio, web, r
 
 L'export actual marca 40 dates de 2025 com a `Vacances`. Onze coincideixen amb el recompte brut de dies amb alguna sortida entre les 10 i les 14 h i representen 12 sortides; sis d'aquests dies no tenen cap entrada posterior. Segons Meriem, la consideració com a vacances es va produir posteriorment, extrem que requereix historial de Woffu, comunicacions o testimonis perquè l'export només acredita l'estat final. Per tant, la qüestió no és qualificar automàticament aquelles hores com a absència injustificada. El problema organitzatiu subsistia si l'equip no havia estat informat en aquell moment que Jordi marxava, que no tornaria o que el dia es tractaria com a vacances, perquè la resta no podia saber si havia d'esperar-lo o reprogramar les tasques dependents.
 
+Meriem explica que aquesta qualificació posterior s'utilitzava quan Jordi no tenia prou hores disponibles per descomptar-les de la borsa: en registrar el temps com a vacances, no consumia aquelles hores acumulades. Si es confirma amb l'historial de Woffu i els saldos cronològics, això mostraria que la regularització administrativa posterior no equivalia a una comunicació prèvia de vacances i que preservava la borsa d'hores. Fins que no es disposi d'aquesta traçabilitat, s'ha de presentar com l'explicació de Meriem i no com una finalitat provada de Jordi.
+
 Fets acreditats:
 - Hi havia franges de disponibilitat acordades o recordades.
 - Les captures Woffu mostren presencies, vacances, permisos i distribucions horàries.
@@ -653,6 +655,7 @@ Proves documentals:
 - `[WF-REG-2024]`, `[WF-REG-2025]`, `[WF-REG-2026]`
 - `[WF-PRES-2025-02]`, `[WF-PRES-2025-09]`, `[WF-PRES-2026-07]`
 - Acta del 04/02/2025 i exports `Presència diari Jordi - 2023-2026` en PDF i XLSX.
+- 🟨 Historial de sol·licitud/aprovació de vacances i saldo cronològic de la borsa d'hores per acreditar la regularització posterior i el seu efecte.
 - `[WA-VACANCES-01]`, `[GC-TASQUES-01]`
 
 Testimonis possibles:

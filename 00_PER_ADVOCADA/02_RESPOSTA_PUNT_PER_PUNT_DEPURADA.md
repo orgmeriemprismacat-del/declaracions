@@ -699,6 +699,8 @@ La franja no era una exigència creada arran de la reincorporació: l'acta del 0
 
 L'export actual marca 40 dates de 2025 com a `Vacances`. Onze coincideixen amb el recompte brut de dies amb sortides entre les 10 i les 14 h, amb 12 sortides en total, i sis d'aquests dies no tenen cap entrada posterior. Segons Meriem, aquests dies es van agafar o registrar com a vacances posteriorment. L'export acredita l'estat final, però no la data de sol·licitud, aprovació o regularització; aquest extrem requereix historial de Woffu, comunicacions o testimonis. La consideració final com a vacances impedeix qualificar automàticament el temps com una absència injustificada, però no elimina el problema de coordinació si en el moment de la sortida l'equip no havia estat informat que Jordi marxava, que no tornaria o que aquell temps es tractaria com a vacances. La qüestió rellevant és si la resta podia conèixer la seva disponibilitat real i organitzar les tasques que en depenien.
 
+Meriem afegeix que aquesta regularització posterior es produïa perquè Jordi no disposava de prou hores per descomptar-les de la borsa i que l'ús de vacances permetia cobrir administrativament el temps sense consumir les hores acumulades. Aquesta explicació és compatible amb el problema de coordinació descrit, però el motiu i l'efecte sobre la borsa s'han d'acreditar amb l'historial de Woffu, el saldo cronològic d'hores i les comunicacions de cada data. Sense aquesta traçabilitat, s'ha de formular com a manifestació de Meriem, no com una intenció provada de Jordi.
+
 La revisio del correu en entrar i abans de marxar era un criteri ordinari i preexistent de funcionament intern de PrisMa. Segons Meriem, aquesta pauta existia des d'abans de la seva entrada a l'empresa i no era una exigencia nova ni singular creada per controlar Jordi.
 
 Tambe consta, segons la informacio recollida, que Jordi va fitxar en alguns moments sense avisar correctament o sense incorporar-se a reunions previstes. Aquest extrem s'ha d'acreditar per dates concretes amb Woffu, convocatories o actes de reunio i comunicacions.
@@ -719,6 +721,7 @@ En un context de teletreball, la disponibilitat en una franja concreta, la revis
 - Acta del teletreball amb disponibilitat de 10 a 14 h.
 - Acta del 04/02/2025, que fixa la franja i el deure d'avisar les sortides.
 - Exports `Presència diari Jordi - 2023-2026` en PDF i XLSX, amb el recompte detallat a `48_annex_woffu_jordi_horaris_jornada_i_disponibilitat.md`.
+- 🟨 Historial de sol·licitud, modificació i aprovació de vacances i saldo cronològic de la borsa d'hores.
 - Comunicacions posteriors al retorn recordant horari, canal o disponibilitat.
 - Woffu dels dies concrets rellevants.
 - Convocatories, actes o correus de reunions no ateses.

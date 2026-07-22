@@ -183,6 +183,10 @@ D'aquests 40 dies de vacances, **11 coincideixen** amb el recompte brut de dies 
 
 Segons Meriem, aquests dies es van agafar o registrar com a vacances posteriorment. L'export acredita que actualment consten com a `Vacances`, però no mostra per si sol quan es van sol·licitar, aprovar o regularitzar; per acreditar que la qualificació va ser posterior cal l'historial de Woffu, comunicacions o testimonis. En qualsevol cas, la seva consideració final com a vacances impedeix presentar-los com a temps injustificat, però no resol la qüestió organitzativa si no es va informar l'equip en el moment de marxar. El problema que s'ha de contrastar no és només la sortida, sinó si Jordi avisava que marxava, si indicava si tornaria o si tindria vacances, i si la resta podia saber si havia d'esperar-lo, continuar sense ell o reprogramar les tasques dependents.
 
+Meriem precisa que no es tractava, segons la seva vivència, de vacances planificades i comunicades abans de l'absència. Afirma que Jordi les comunicava o registrava després perquè no disposava d'hores suficients per descomptar de la borsa i que, en qualificar aquells trams o dies com a vacances, preservava les hores acumulades a la borsa de treball. Aquesta explicació és rellevant perquè una regularització posterior pot justificar administrativament el temps sense haver permès a l'equip conèixer anticipadament la disponibilitat real. Ara bé, la finalitat i el mecanisme concret no es poden donar per acreditats només amb l'estat actual de l'export: s'han de comprovar la data de cada sol·licitud o canvi, el saldo de la borsa abans i després, el criteri d'aprovació i els avisos al grup.
+
+🟨 **Prova pendent:** historial d'alta, modificació i aprovació de les vacances; saldo cronològic d'hores compensatòries o borsa de treball; i missatges previs o posteriors corresponents a les 11 dates coincidents.
+
 Fonts:
 
 - Acta de la reunió del 04/02/2025 (`_extraccio_actes_2025/2025-02-04.docx.txt`).
