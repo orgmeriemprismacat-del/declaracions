@@ -53,6 +53,8 @@ L'acta del 04/02/2025 recull una pauta general: disponibilitat de Jordi de 10 a 
 
 ## 4. Xarxes socials, correccions i marketing
 
+El fil del Tastet TUT del 15/04/2025 aporta un exemple concret del perquè d'alguns recordatoris i tancaments conjunts: Jordi va combinar correccions textuals amb propostes que afectaven el funcionament quan el mailing era imminent; Meriem va executar els canvis ràpids i va motivar tècnicament els que requerien reprogramació; Isa ho va corroborar i Jordi va reconèixer que alguns punts podien afectar programació. No prova mala fe de Jordi, però sí una dependència operativa real i una discrepància sobre moment i cost tècnic, no un rebuig global de la seva funció. `[CAP-TUT-2025-04-15-03..06; 56_cas_tastet_tut_marc_abril_2025.md]`
+
 El conflicte de xarxes i mailings no s'ha de presentar com un conflicte personal, sino com una diferencia entre correccio lingüistica i criteri de marketing.
 
 Meriem gestionava xarxes, mailings, imatges, campanyes, Ads, web i publicacions. Jordi inicialment no revisava totes les publicacions; se'l va incorporar a la correccio arran de queixes sobre possibles faltes. Despres, per facilitar-li la feina, es van crear canals, Trello, enllaços, recordatoris i correus automatitzats.

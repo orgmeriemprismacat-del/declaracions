@@ -321,3 +321,15 @@ Una captura només s'hauria d'utilitzar si mostra:
 - continuïtat del fil, si la frase necessita resposta anterior o posterior.
 
 Si una prova encara no està preparada, millor deixar-la com a pendent que afirmar el fet sense suport.
+
+## Annex TUT - Tastet TUT (març-abril 2025)
+
+- `[CAP-TUT-2025-03-17-01]`: proposta visible de Jordi González al fòrum. Fitxer: `annexos_captures/CAP-TUT-2025-03-17-01_proposta-jordi-gonzalez-forum.png`.
+- `[CAP-TUT-2025-04-15-01]`: Isa enumera canvis fets i trasllada el pendent. Fitxer: `annexos_captures/CAP-TUT-2025-04-15-01_isa-imatge-portada-patata-calenta.png`.
+- `[CAP-TUT-2025-04-15-02]`: Meriem assumeix cordialment el pendent. Fitxer: `annexos_captures/CAP-TUT-2025-04-15-02_meriem-ja-mhi-poso.png`.
+- `[CAP-TUT-2025-04-15-03]`: revisió de Jordi amb correccions textuals i propostes funcionals. Fitxer: `annexos_captures/CAP-TUT-2025-04-15-03_jordi-llista-canvis-funcionals.png`.
+- `[CAP-TUT-2025-04-15-04]`: resposta de Meriem amb correccions fetes i impacte de reprogramació. Fitxer: `annexos_captures/CAP-TUT-2025-04-15-04_meriem-resposta-fet-i-reprogramacio.png`.
+- `[CAP-TUT-2025-04-15-05]`: corroboració d'Isa sobre canvis ràpids i complexitat restant. Fitxer: `annexos_captures/CAP-TUT-2025-04-15-05_isa-canvis-facils-fets-i-resta-complicada.png`.
+- `[CAP-TUT-2025-04-15-06]`: Jordi reconeix possible afectació a programació i es disculpa. Fitxer: `annexos_captures/CAP-TUT-2025-04-15-06_jordi-admet-canvis-programacio-i-aqui.png`.
+
+El conjunt contextualitza el seguiment per dependències operatives i contrasta una lectura de rebuig indiscriminat de les correccions. No prova intencions, mala fe, el volum total de feina ni assetjament. Cal anonimitzar adreces i enllaços interns si no són imprescindibles. Desenvolupament: `56_cas_tastet_tut_marc_abril_2025.md`.

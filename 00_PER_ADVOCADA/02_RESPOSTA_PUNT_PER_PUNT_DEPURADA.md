@@ -872,3 +872,7 @@ La contestacio final hauria de ser juridica i no emocional. Aquest document nome
 **Reserva d'accions a valorar per l'advocada**
 
 Atès que la carta formula literalment una imputació de `mobbing` i qualifica Meriem de `bully`, convé valorar si la resposta final ha d'incloure una reserva expressa d'accions. La formulació prudent seria que, si la imputació es manté, es reitera, es difon o continua causant perjudici, Meriem no descarta exercir les accions legals que li corresponguin: les eventuals accions penals per calúmnia o injúria i, separadament, una **acció civil de protecció del dret a l'honor conforme a la Llei orgànica 1/1982, especialment el seu article 9**. Aquesta via civil pot comprendre el cessament de la intromissió, la rectificació, la prevenció de noves difusions i una reclamació directa a Jordi d'indemnització pels danys i perjudicis acreditables, inclosos els morals, psicològics, reputacionals, professionals i econòmics, sempre que es pugui establir la intromissió il·legítima i, quan correspongui, el dany i el nexe causal. No s'ha de presentar com una conclusió penal o civil anticipada ni com una amenaça, no s'ha de fixar cap quantia sense base probatòria i s'han de preservar els justificants de tractament psicològic, despeses, afectació laboral i eventual difusió de la carta.
+
+### Referència visual incorporada — Tastet TUT
+
+La cadena descrita en aquest document queda vinculada a `[CAP-TUT-2025-03-17-01; CAP-TUT-2025-04-15-01..06]`. Les captures acrediten el contingut i la seqüència visible, no intencions ni mala fe.

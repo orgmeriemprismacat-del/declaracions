@@ -224,3 +224,9 @@ No cal aportar totes les captures en la resposta principal. La proposta mes neta
 1. Citar el ZIP `ANNEX-SUP-03`.
 2. Seleccionar 8-12 captures concretes com annexos principals.
 3. Deixar la resta com a suport si l'advocada necessita mes context.
+
+## 9. Tastet TUT: revisió final i impacte tècnic (15/04/2025)
+
+**Fitxers:** `annexos_captures/CAP-TUT-2025-03-17-01_proposta-jordi-gonzalez-forum.png` i `annexos_captures/CAP-TUT-2025-04-15-01_isa-imatge-portada-patata-calenta.png` fins a `CAP-TUT-2025-04-15-06_jordi-admet-canvis-programacio-i-aqui.png`.
+
+La captura del 17/03 mostra la proposta visible de l'autor i el missatge inicial de Meriem, però no prova quan Jordi Català la va revisar. La cadena del 15/04 mostra el traspàs parcial entre Isa i Meriem; que Jordi combina correccions textuals i propostes funcionals; que Meriem aplica les ràpides i explica l'impacte de les altres; que Isa corrobora la complexitat; i que Jordi reconeix que alguns punts podien afectar programació. Contrasta les afirmacions generals de pressió, menyspreu de la funció correctora o seguiment arbitrari aportant una causa operativa concreta. No acredita mala fe, intenció d'endarrerir, assetjament ni el volum total de feina. La resposta cordial de les 14:54 només contextualitza el to. Conté noms, adreces professionals i enllaços interns: fora del procediment convé ocultar allò no imprescindible; no hi consta salut ni menors.

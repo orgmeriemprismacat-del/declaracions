@@ -1085,3 +1085,7 @@ La versio formal hauria d'evitar expressions emocionals o acusatories i utilitza
 - "La documentacio disponible mostra una incidencia de coordinacio laboral, no una actuacio d'assetjament."
 - "Sense data, canal, frase exacta i context, no es pot valorar aquesta acusacio."
 - "Aquest punt correspon a direccio/gestoria/advocada i s'ha de contestar amb documentacio comptable o administrativa."
+
+### Referència visual incorporada — Tastet TUT
+
+La cadena descrita en aquest document queda vinculada a `[CAP-TUT-2025-03-17-01; CAP-TUT-2025-04-15-01..06]`. El seu abast i les cauteles consten a `56_cas_tastet_tut_marc_abril_2025.md`.

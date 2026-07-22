@@ -353,3 +353,7 @@ El relat de Jordi presenta el seu malestar com si tota la responsabilitat recaig
 Finalment, deixo expressa constància que considero especialment greu la imputació formulada per Jordi, mitjançant la qual se m'atribueixen conductes d'assetjament laboral o *bullying* que nego rotundament i que considero falses i profundament perjudicials per al meu honor, la meva reputació professional i la meva situació laboral.
 
 Si aquestes acusacions continuen reiterant-se, s'estenen a terceres persones o produeixen conseqüències perjudicials addicionals, em reservo expressament el dret d'exercir les accions legals que em corresponguin, incloses, si escau, les dirigides a protegir el meu dret a l'honor i a exigir les responsabilitats derivades d'unes imputacions falses.
+
+### Referència visual incorporada — Tastet TUT
+
+La cadena descrita en aquesta declaració queda vinculada a `[CAP-TUT-2025-03-17-01; CAP-TUT-2025-04-15-01..06]`. Les captures documenten paraules, moment i impacte tècnic tractat al fil, però no permeten atribuir intencions a Jordi.

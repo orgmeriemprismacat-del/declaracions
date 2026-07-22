@@ -65,6 +65,8 @@ El fet que Meriem defensés criteris de marketing o demanés correccions dins te
 
 Les correccions tardanes podien deixar sense marge per modificar imatges o publicacions. Per aquest motiu es van establir recordatoris, Trello, terminis i canals escrits.
 
+El Tastet TUT ho documenta de manera específica: el 15/04/2025 Meriem va aplicar les correccions ràpides i va diferenciar els canvis funcionals que exigien reprogramació i noves proves; Isa va corroborar aquesta complexitat i Jordi va admetre que alguns punts podien afectar programació. Aquesta seqüència contextualitza el seguiment per dependències i terminis, sense permetre atribuir intencions ni mala fe. `[CAP-TUT-2025-04-15-03..06; 56_cas_tastet_tut_marc_abril_2025.md]`
+
 ### 5. Sobre ALBUM
 
 El canvi de dates d'ALBUM no afectava nomes Jordi. El calendari tenia fases encadenades: correccio, maquetacio, revisio, imatges, correccio d'imatges i tancament. Moure una data de correccio afectava directament el calendari d'Isa, Meriem i Pablo.
