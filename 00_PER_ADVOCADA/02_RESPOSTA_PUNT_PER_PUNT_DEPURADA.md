@@ -424,6 +424,14 @@ El 17/03/2025 Jordi respon: "Gracies, Meriem. Anit et volia respondre pero no va
 
 Segons la documentacio revisada fins ara, no consta que Jordi arribes a efectuar aquella resposta pendent. Aquesta sequencia acredita que Meriem no va impedir el dialeg ni li va exigir una resposta immediata; al contrari, va acceptar que Jordi contestes quan pogues. La continuacio de la conversa va quedar pendent d'una actuacio que Jordi havia assumit com a propia.
 
+### Subpunt. Afirmacio Generica D'Haver «Arreglat Malentesos Amb Na Meriem»
+
+La carta no identifica quins malentesos hauria intentat arreglar Jordi, ni les dates, el canal, el contingut de la conversa o el resultat. L'episodi documentat que encaixa més directament amb aquesta expressió és el WhatsApp del 16/03/2025, perquè Jordi hi parla expressament de «malentesos» i afirma que les coses s'han de dir i arreglar.
+
+Ara bé, la seqüència completa no acredita que aquell malentès quedés resolt: Meriem va respondre extensament, va agrair el contacte directe i li va donar temps per contestar; Jordi va anunciar el 17/03/2025 que respondria i el 10/04/2025 encara reconeixia que ho tenia pendent. Segons la documentació revisada fins ara, no consta la resposta substantiva posterior. Per això, l'episodi pot acreditar un intent inicial de parlar-ne, però no una reparació completada ni una negativa de Meriem al diàleg.
+
+Les comunicacions cordials o operatives posteriors tampoc substitueixen aquesta resposta pendent. Acrediten continuïtat professional i absència d'una hostilitat permanent, però no permeten donar per resoltes les qüestions de fons. Si Jordi es refereix a un altre episodi, cal que el concreti amb data, canal, contingut i resultat perquè es pugui contrastar.
+
 La prioritzacio de canals traçables responia a la necessitat de deixar constancia de tasques, terminis i dependencies, especialment en context de teletreball i quan hi havia manca de resposta o retards.
 
 Tambe cal tenir en compte que, durant bona part de la relacio laboral, moltes incidencies, retards i qüestions de coordinacio es van tractar verbalment i de manera directa amb Jordi. Aquesta forma de comunicacio responia, segons Meriem, a la voluntat de resoldre situacions amb agilitat, evitar exposar-lo davant l'equip i no generar-li un perjudici innecessari. Per tant, la menor constancia escrita en determinats periodes no permet concloure automaticament que no existissin converses, adaptacions o actuacions de suport; cal reconstruir el context amb els registres disponibles, les actuacions posteriors i els testimonis de les persones que ho van presenciar.

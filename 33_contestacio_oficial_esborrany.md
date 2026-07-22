@@ -101,6 +101,12 @@ Si Jordi reclama imports concrets, la resposta ha de consistir en un quadre obje
 
 ### 10. Sobre afirmacions genèriques contra altres companys
 
+Quan Jordi afirma que va intentar `arreglar malentesos amb na Meriem`, no concreta a quins malentesos es refereix, ni la data, el canal, el contingut o el resultat d'aquell suposat intent. L'episodi documentat que més directament encaixa amb aquesta formulació és el WhatsApp del 16/03/2025, en què ell mateix parla de `malentesos` i de la necessitat de dir i arreglar les coses.
+
+La conversa completa mostra, però, que Meriem li va respondre extensament, va agrair que hagués utilitzat un canal directe i li va donar temps per contestar. Jordi va anunciar el 17/03/2025 que respondria quan pogués i el 10/04/2025 encara reconeixia que tenia pendent aquella resposta. Segons la documentació revisada, no consta que arribés a donar-la. Per tant, es pot reconèixer que va iniciar una conversa, però no presentar l'episodi com un malentès efectivament resolt ni com una negativa de Meriem al diàleg.
+
+Que posteriorment existissin comunicacions cordials o operatives acredita que la relació laboral va continuar i que Meriem no va mantenir una actitud d'hostilitat permanent. No acredita, sense una conversa de tancament o una resposta substantiva, que s'haguessin resolt els problemes de fons. Si Jordi al·ludeix a un altre episodi, l'ha d'individualitzar perquè pugui ser contrastat.
+
 Quan Jordi afirma que va intentar passar per alt `determinats comentaris de na Isabel`, no concreta quins comentaris serien, ni la data, ni el canal, ni el context, ni la seva rellevància. Sense aquesta concreció, no es pot contestar una acusació indeterminada ni donar-la per acreditada.
 
 Si Jordi vol atribuir rellevància a algun comentari d'Isabel, caldria que identifiqués el comentari exacte, la data, el canal o reunió, les persones presents i la conversa completa abans i després del missatge.
