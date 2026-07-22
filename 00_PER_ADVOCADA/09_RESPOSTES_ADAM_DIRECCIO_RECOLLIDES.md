@@ -277,11 +277,11 @@ No atribuir una motivacio exclusiva a Jordi sense prova escrita. No qüestionar 
 
 **Resposta recollida:**
 
-Despres del periode de mes hores de setembre de 2023, Jordi va agafar el permis de paternitat a l'octubre. Segons la informacio aportada per Meriem, l'equip no tenia identificat aquell mes com una obligacio pendent de PrisMa cap a Jordi. Tot i aixo, davant les exigencies de Jordi, Adam va decidir concedir-li aquell mes de descans o absencia no descomptada, internament descrita com a "regalada", tenint en compte la seva situacio personal i amb la voluntat de no perjudicar-lo, ajudar-lo i facilitar que tornes millor.
+Adam, Isa, Meriem i Jordi coincideixen que Adam va concedir a Jordi l'octubre de 2024 com un mes addicional de descans no descomptat d'una borsa, tenint en compte la seva situació i amb voluntat d'ajudar-lo i no perjudicar-lo. Woffu imputa aquell mes com 167 h 12 m ordinàries amb horaris exactament coincidents amb els teòrics.
 
 **Formulacio prudent:**
 
-Aquest punt s'ha de presentar nomes quan Adam/gestoria confirmin com consta formalment a Woffu, nomina i documentacio laboral. La formulacio externa hauria d'evitar la paraula "regal" com a categoria formal i parlar, si escau, d'una concessio excepcional, descans concedit o periode no descomptat per decisio d'Adam. La idea rellevant per al relat es que aquesta decisio mostra una actuacio flexible i favorable a Jordi, no una voluntat de perjudicar-lo.
+La concessio queda sostinguda per testimonis coincidents; el pendent és que Adam o gestoria expliquin la forma d'imputació a Woffu i, si escau, a la documentació laboral. La formulacio externa hauria d'evitar la paraula "regal" com a categoria formal i parlar d'una concessio excepcional, descans concedit o periode no descomptat per decisio d'Adam. La idea rellevant és que aquesta decisio mostra una actuacio flexible i favorable a Jordi, no una voluntat de perjudicar-lo.
 
 **Validacio pendent:**
 

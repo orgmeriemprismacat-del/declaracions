@@ -26,7 +26,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - Revisar sol.licituds, dates, Woffu, gestoria i comunicacions amb Seguretat Social.
 - Confirmar amb Adam que PrisMa no li va demanar formalment canviar dates del permis per necessitats de l'empresa.
 - Confirmar si l'empresa li va concedir o "regalar" dies/vacances i com consta formalment.
-- Confirmar amb Adam si el mes internament descrit com a "regalat" o no descomptat va ser una concessio excepcional per ajudar Jordi i evitar perjudicar-lo, i no una obligacio pendent de PrisMa.
+- La concessio de l'octubre de 2024 com a mes addicional de descans no descomptat consta per testimonis coincidents d'Adam, Isa, Meriem i Jordi. Pendent nomes que gestoria o administracio de Woffu expliquin per què s'imputa com 167 h 12 m ordinàries amb horaris exactament teòrics.
 - Buscar si hi ha correu, WhatsApp o altre document on Jordi expliqui que volia jornada completa pel calcul economic del permis de paternitat.
 - Si no es localitza prova escrita, deixar aquest punt nomes com a testimoni de Meriem i no com a fet documental tancat.
 - No atribuir motivacions personals de Jordi si no hi ha missatge o testimoni clar.
@@ -143,7 +143,7 @@ Aquest document recull punts que no s'haurien de presentar com a definitius fins
 - "Jordi menteix", excepte si l'advocada ho formula expressament i hi ha prova directa.
 - "El seu malestar no era de la feina", si no es presenta com a percepcio/testimoni i amb molta cautela.
 - "No va fer res", si no s'ha tancat el recull complet de tasques.
-- "Se li va regalar un mes", sense validar com consta formalment.
+- Evitar «se li va regalar un mes» com a categoria formal: descriure'l com l'octubre de 2024 concedit com a descans addicional no descomptat, reconegut pels quatre testimonis, pendent d'aclarir-ne només la imputacio a Woffu.
 - "Va fer mobbing a l'equip", si no es planteja juridicament i amb proves suficients.
 - "Jordi era prepotent" o qualificatius similars; substituir per fets concrets, dates, missatges i exemples de desacord o manca d'aplicacio de criteris de marketing.
 
