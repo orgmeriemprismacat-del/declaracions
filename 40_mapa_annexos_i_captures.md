@@ -115,7 +115,7 @@ Proves que s'han de preparar:
 Captures recomanades:
 
 - `[CAP-GM-TRELLO-AUTO-01]`: correu d'automatització i resposta de Jordi.
-- `[CAP-XS-NOVIOLENCIA-01]`: correcció tardana amb data/hora visible.
+- `[CAP-XS-NOVIOLENCIA-01]`: missatge de Meriem del 31/01/2025 a les 09:03, amb data, canal i impacte sobre la imatge visibles. Fitxer: `evidencies_xarxes_no_violencia_2025/01_copia_forum_xarxes_no_violencia_31_01_2025.png`. No conté tota la cadena: segueixen pendents l'encàrrec inicial, la resposta completa de Jordi, el missatge d'Isa i el tancament del 03/02.
 - `[CAP-ALBUM-GM-01]`: correu de Pablo amb data/hora i destinatàries visibles.
 - `[CAP-JASOM-01..04]`: proposta i respostes sobre mailing.
 - `[CAP-EDUCAT-01..04]`: proposta, correcció i resposta d'Isa/Jordi.

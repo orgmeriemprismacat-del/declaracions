@@ -70,7 +70,7 @@ Les captures de WhatsApp de 07/05, 14/05, 11-12/07 i 21/07/2025 documenten encà
 **Proves:**
 
 - Correu 06/02/2025 sobre automatitzacio Trello
-- Cas no-violencia 30/01/2025
+- Cas no-violencia 30/01/2025: `36_cas_no_violencia_anecdota_correccio_tardana.md` i `evidencies_xarxes_no_violencia_2025/01_copia_forum_xarxes_no_violencia_31_01_2025.png` (la captura només mostra el missatge de Meriem del 31/01; la cadena completa continua pendent)
 - `16_annex_marketing_mailings_amb_i_sense_jordi.md`
 - `17_cas_concurs_blog_educat_bases_legals_2024.md`
 - `18_cas_mailing_jasom_novells_2024.md`

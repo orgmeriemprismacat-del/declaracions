@@ -48,9 +48,13 @@ Per tant, el punt no era el temps exacte de Jordi, sino l'impacte acumulat sobre
 | --- | --- |
 | Correu o Moodle del 22/01/2025 amb peticio de correccio pel 30/01/2025 | Pendent d'adjuntar/capturar |
 | Resposta de Jordi del 30/01/2025 23:46/23:48 | Pendent d'adjuntar/capturar |
-| Captura del forum/copia del 31/01/2025 09:03 | Ja localitzada per Meriem; arxivar en PDF/captura |
+| Captura del forum/copia del 31/01/2025 09:03 | Incorporada: `evidencies_xarxes_no_violencia_2025/01_copia_forum_xarxes_no_violencia_31_01_2025.png` |
 | Resposta de Jordi del 03/02/2025 09:18 | Pendent d'adjuntar/capturar |
 | Acta o record de reunio on s'hagi tractat aquest cas | Pendent; no afirmar detalls sense prova/testimoni |
+
+### Límit de la captura incorporada
+
+La captura acredita directament el missatge de Meriem del 31/01/2025 a les 09:03, el canal del Departament de Xarxes, la referència a la correcció de les 23:46, l'impacte sobre la imatge ja penjada i la petició de confirmar dilluns si hi havia més canvis. No mostra per si sola el correu inicial del 22/01, la resposta completa de Jordi del 30/01, el missatge previ d'Isa ni la resposta del 03/02. Per tant, no s'ha d'utilitzar tota sola per afirmar la seqüència completa, una intenció de Jordi o de Meriem, una humiliació, una pèrdua econòmica concreta o assetjament. Conté noms i una adreça professional; si es difon fora del procediment, convé ocultar les dades no imprescindibles.
 
 ## Frase curta per comentari
 
